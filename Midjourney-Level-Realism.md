@@ -1,3 +1,6 @@
+How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH6g . Hopefully a much more comprehensive Stable Diffusion installation tutorial will come soon.
+
+
 Some positive and negative prompts
 
 
