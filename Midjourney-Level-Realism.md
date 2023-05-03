@@ -2,7 +2,7 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 
 #### Positive prompt:
 
-closeshot handsome photo of (ohwx man) (in a warrior armor ) in a coliseum, hdr, canon, hd, 8k, 4k, sharp focus
+```closeshot handsome photo of (ohwx man) (in a warrior armor ) in a coliseum, hdr, canon, hd, 8k, 4k, sharp focus```
 
 #### Negative prompt:
 
