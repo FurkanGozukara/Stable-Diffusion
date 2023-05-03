@@ -1,5 +1,6 @@
 How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH6g . Hopefully a much more comprehensive Stable Diffusion installation tutorial will come soon.
 
+### DeepFace Tutorial Video
 #### Positive prompt:
 
 ```closeshot handsome photo of (ohwx man) (in a warrior armor ) in a coliseum, hdr, canon, hd, 8k, 4k, sharp focus```
@@ -10,7 +11,7 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 
 ```Steps: 20, Sampler: Euler a, CFG scale: 5, Seed: 2220769388, Size: 560x720, Model hash: 34e631ab1e, Model: test1_3510```
 
-
+###
 
 ```Steps: 20, Sampler: Euler a, CFG scale: 7, Size: 512x768, Model hash: 0b914c246e, Model: analogMadness_v40, Denoising strength: 0.7, Hires upscale: 2, Hires upscaler: Latent```
 
