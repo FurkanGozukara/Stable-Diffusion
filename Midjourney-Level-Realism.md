@@ -5,6 +5,8 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 
 ```closeshot handsome photo of (ohwx man) (in a warrior armor ) in a coliseum, hdr, canon, hd, 8k, 4k, sharp focus```
 
+```handsome portrait photo of (ohwx man) wearing a space armor on a space station, hdr, canon, hd, 8k, 4k, sharp focus```
+
 #### Negative prompt:
 
 ```(blue eyes, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.4), fat, text, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck```
