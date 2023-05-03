@@ -23,7 +23,7 @@ Negative prompt:
 
 
 
-```photo of a man wearing a medieval armor, shot on Fujifilm Superia 400, wearing yeezy apparel, natural lighting, next to crowded of people in ancient rome, close up shot, 32k, cinematic composition, professional color grading, film grain, atmosphere, wondrous```
+```photo of a man wearing a medieval armor, shot on Fujifilm Superia 400, natural lighting, next to crowded of people in ancient rome, close up shot, 32k, cinematic composition, professional color grading, film grain, atmosphere, wondrous```
 
 
 Negative prompt:
