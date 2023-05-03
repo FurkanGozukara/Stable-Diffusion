@@ -1,7 +1,7 @@
 Some positive and negative prompts
 
 
-```editorial photo of a man, shot on Fujifilm Superia 400, wearing yeezy apparel, natural lighting, next to crowed of people, close up shot, 32k, cinematic composition, professional color grading, film grain, atmosphere, wondrous```
+```editorial photo of a man, shot on Fujifilm Superia 400, wearing yeezy apparel, natural lighting, next to crowded of people, close up shot, 32k, cinematic composition, professional color grading, film grain, atmosphere, wondrous```
 
 
 Negative prompt:
