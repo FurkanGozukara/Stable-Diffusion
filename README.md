@@ -207,3 +207,9 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 [**DeepFloyd IF By Stability AI - Is It Stable Diffusion XL or Version 3? We Review and Show How To Use**](https://youtu.be/R2fEocf-MU8)
 
 [![image](https://user-images.githubusercontent.com/19240467/235505544-2ba77ef2-3928-4c44-aba8-2536aebbfb60.png)](https://youtu.be/R2fEocf-MU8)
+
+32.) Python Script - Automatic1111 Web UI - PC - Free
+
+[**How To Find Best Stable Diffusion Generated Images By Using DeepFace AI - DreamBooth / LoRA Training**](https://youtu.be/343I11mhnXs)
+
+[!![image](https://user-images.githubusercontent.com/19240467/236293388-6254ff84-0866-4bd4-a5d4-2db3c42be3f0.png)](https://youtu.be/343I11mhnXs)
