@@ -79,3 +79,9 @@ Playlist link on YouTube: [**Technology & Science: News, Tips, Tutorials, Tricks
 [**Transform Your Video Editing Skills with the Ultimate DaVinci Resolve (Free V.) Guide for Beginners**](https://youtu.be/_-yYRGKyz8E)
 
 [![image](https://user-images.githubusercontent.com/19240467/236650891-30c5b49b-9b33-4b1f-8482-36b7dab50a4d.png)](https://youtu.be/_-yYRGKyz8E)
+
+11.) PC - Free
+
+[**How to Debug Your Python Code Properly by Using Visual Studio Community 2023 - Python Debugging**](https://youtu.be/eWN4Ng08Y4U)
+
+[![image](https://user-images.githubusercontent.com/19240467/236650931-fb6a894d-0cf2-4e32-aab9-72b728b00e70.png)](https://youtu.be/eWN4Ng08Y4U)
