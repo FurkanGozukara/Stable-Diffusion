@@ -66,7 +66,7 @@ Playlist link on YouTube: [**Technology & Science: News, Tips, Tutorials, Tricks
 
 [**Kingston NV2 M.2 NVMe SSD Review, Multiple Benchmarks and Speed Tests & VS SanDisk Ultra M.2 NVMe 3D**](https://youtu.be/NwkC-wgcZ5M)
 
-[![image](https://user-images.githubusercontent.com/19240467/236650611-bb25d08e-01c8-44ef-9f0c-704f86ec7fdf.png)](https://youtu.be/NwkC-wgcZ5M)
+[![image](https://user-images.githubusercontent.com/19240467/236651063-59f0e8c2-327e-402a-a4e5-33742ad32017.png)](https://youtu.be/NwkC-wgcZ5M)
 
 9.) PC - Free
 
