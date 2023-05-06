@@ -73,3 +73,9 @@ Playlist link on YouTube: [**Technology & Science: News, Tips, Tutorials, Tricks
 [**How to clone Windows HDD / SSD to new or larger HDD / NVMe SSD For Free - Easy Step by Step Tutorial**](https://youtu.be/DdBRcnabV6s)
 
 [![image](https://user-images.githubusercontent.com/19240467/236650837-8f78bcee-a15d-46d4-bc25-3f716bf73737.png)](https://youtu.be/DdBRcnabV6s)
+
+10.) PC - Free
+
+[**Transform Your Video Editing Skills with the Ultimate DaVinci Resolve (Free V.) Guide for Beginners**](https://youtu.be/_-yYRGKyz8E)
+
+[![image](https://user-images.githubusercontent.com/19240467/236650891-30c5b49b-9b33-4b1f-8482-36b7dab50a4d.png)](https://youtu.be/_-yYRGKyz8E)
