@@ -62,3 +62,8 @@ Playlist link on YouTube: [**Technology & Science: News, Tips, Tutorials, Tricks
 
 [![image](https://user-images.githubusercontent.com/19240467/236650611-bb25d08e-01c8-44ef-9f0c-704f86ec7fdf.png)](https://youtu.be/kmI5amfgydA)
 
+8.) PC - Free
+
+[**Kingston NV2 M.2 NVMe SSD Review, Multiple Benchmarks and Speed Tests & VS SanDisk Ultra M.2 NVMe 3D**](https://youtu.be/NwkC-wgcZ5M)
+
+[![image](https://user-images.githubusercontent.com/19240467/236650771-10f01dcd-1cab-4866-9fc8-fcf77bfb2d3d.png)](https://youtu.be/NwkC-wgcZ5M)
