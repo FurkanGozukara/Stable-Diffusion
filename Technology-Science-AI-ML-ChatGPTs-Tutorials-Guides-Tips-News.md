@@ -85,3 +85,15 @@ Playlist link on YouTube: [**Technology & Science: News, Tips, Tutorials, Tricks
 [**How to Debug Your Python Code Properly by Using Visual Studio Community 2023 - Python Debugging**](https://youtu.be/eWN4Ng08Y4U)
 
 [![image](https://user-images.githubusercontent.com/19240467/236650931-fb6a894d-0cf2-4e32-aab9-72b728b00e70.png)](https://youtu.be/eWN4Ng08Y4U)
+
+12.) Automatic1111 Web UI - PC - Free
+
+[**Zero To Hero Stable Diffusion DreamBooth Tutorial By Using Automatic1111 Web UI - Ultra Detailed**](https://www.youtube.com/watch?v=Bdl-jWR3Ukc)
+
+[![image](https://user-images.githubusercontent.com/19240467/218344301-04f91cf4-fa35-4975-8c3d-9951c765839a.png)](https://www.youtube.com/watch?v=Bdl-jWR3Ukc)
+
+13.) PC - Free
+
+[**How to Automate Image Processing in Photoshop By Recording Actions and Batch Scripts**](https://youtu.be/j3BeppKuYu4)
+
+[![image](https://user-images.githubusercontent.com/19240467/236651038-a041c594-e57f-4b9d-a009-f066103906f7.png)](https://youtu.be/j3BeppKuYu4)
