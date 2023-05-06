@@ -44,3 +44,9 @@ Playlist link on YouTube: [**Technology & Science: News, Tips, Tutorials, Tricks
 
 [![image](https://user-images.githubusercontent.com/19240467/236621600-b0cc8440-1262-4810-a667-dbafcc50f12a.png)](https://youtu.be/q8Q8CCDdSKo)
 
+5.) PC - Server - Free
+
+[**How to Setup Private IKEv2 / IPSec MSCHAPv2 VPN on Windows Server to Connect From Android 12+ Phone**](https://youtu.be/5jzmXwZgx5U)
+
+[![image](https://user-images.githubusercontent.com/19240467/236650231-223fe89d-264f-4f75-a91a-4abef4f76330.png)](https://youtu.be/5jzmXwZgx5U)
+
