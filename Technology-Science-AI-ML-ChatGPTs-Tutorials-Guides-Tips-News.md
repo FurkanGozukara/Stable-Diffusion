@@ -50,3 +50,8 @@ Playlist link on YouTube: [**Technology & Science: News, Tips, Tutorials, Tricks
 
 [![image](https://user-images.githubusercontent.com/19240467/236650231-223fe89d-264f-4f75-a91a-4abef4f76330.png)](https://youtu.be/5jzmXwZgx5U)
 
+6.) PC - Free
+
+[**Optimizing Your HyperX QuadCast or Any Microphone for Improved Audio Quality: Best Settings**](https://youtu.be/kmI5amfgydA)
+
+[![image](https://user-images.githubusercontent.com/19240467/236650550-9aeafc9a-d5e1-4f9c-ae28-3ab2c3f7ef9c.png)](https://youtu.be/kmI5amfgydA)
