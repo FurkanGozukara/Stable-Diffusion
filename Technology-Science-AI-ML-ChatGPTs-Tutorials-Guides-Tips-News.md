@@ -52,6 +52,13 @@ Playlist link on YouTube: [**Technology & Science: News, Tips, Tutorials, Tricks
 
 6.) PC - Free
 
+[**HyperX QuadCast HX MICQC BK Gaming & Streaming Mic Review/Test & HyperX vs Boya BY M1 vs Poco X3 Pro**](https://youtu.be/W2-SeLW_Mko)
+
+[![image](https://user-images.githubusercontent.com/19240467/236650550-9aeafc9a-d5e1-4f9c-ae28-3ab2c3f7ef9c.png)](https://youtu.be/W2-SeLW_Mko)
+
+7.) PC - Free
+
 [**Optimizing Your HyperX QuadCast or Any Microphone for Improved Audio Quality: Best Settings**](https://youtu.be/kmI5amfgydA)
 
-[![image](https://user-images.githubusercontent.com/19240467/236650550-9aeafc9a-d5e1-4f9c-ae28-3ab2c3f7ef9c.png)](https://youtu.be/kmI5amfgydA)
+[![image](https://user-images.githubusercontent.com/19240467/236650611-bb25d08e-01c8-44ef-9f0c-704f86ec7fdf.png)](https://youtu.be/kmI5amfgydA)
+
