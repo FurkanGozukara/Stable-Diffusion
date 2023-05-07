@@ -13,5 +13,5 @@ Anaconda download and install link : https://www.anaconda.com/download
 
 If you fail to install Anaconda here my tutorial where I installed and shown : https://www.youtube.com/watch?v=YJebdQ30UZQ
 
-Then ```run Set Up Ozen.bat```
+Then double click and run "Set Up Ozen.bat" file inside directory 
 
