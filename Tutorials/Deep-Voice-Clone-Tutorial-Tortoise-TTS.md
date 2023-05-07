@@ -54,6 +54,8 @@ If you ever needed to install a missing package manually, to activate anaconda o
 
 ```conda activate ozen```
 
+```pip uninstall torch```
+
 https://pytorch.org/
 
 ```pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118```
