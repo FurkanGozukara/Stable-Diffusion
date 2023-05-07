@@ -84,9 +84,15 @@ Double click Setup DLAS.bat
 
 It will make a venv in anaconda or miniconda and install everything. 
 
+However you may encounter an error like i did related to torch. So we will reinstall torch manually
+
 If you ever needed to install a missing package manually, to activate anaconda or miniconda venvs you need to open a anaconda cmd and type the generated venv name like
 
 ```conda activate DLAS```
+
+```pip uninstall torch```
+
+```pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118```
 
 After installation double click "Start DLAS.cmd" file and it will open the GUI interface
 
