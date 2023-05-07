@@ -58,7 +58,7 @@ If you ever needed to install a missing package manually, to activate anaconda o
 
 https://pytorch.org/
 
-```pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118```
+```pip3 install torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117```
 
 ### Part 2 - Doing training and training settings
 
