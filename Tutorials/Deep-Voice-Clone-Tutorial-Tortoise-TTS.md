@@ -54,6 +54,10 @@ If you ever needed to install a missing package manually, to activate anaconda o
 
 ```conda activate ozen```
 
+https://pytorch.org/
+
+```pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118```
+
 ### Part 2 - Doing training and training settings
 
 We will use DL-Art-School for training. It has a very nice GUI and makes training piece of cake
