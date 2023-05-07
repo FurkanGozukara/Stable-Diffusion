@@ -31,6 +31,9 @@ Then after installation drag and drop the training speech file into Drag_Here.cm
 
 It will ask you hugging face token get it here : https://huggingface.co/settings/tokens
 
+Merge multiple audio files into a single file : ```ffmpeg -i "concat:input1.mp3|input2.mp3|input3.mp3" -acodec copy output.mp3```
+
+
 There are several key issues. It uses by default large model. If your GPU is not 12 GB you can either use CPU to transcribe or you can use medium or small model
 
 Whisper tutorial : https://www.youtube.com/watch?v=msj3wuYf3d8
