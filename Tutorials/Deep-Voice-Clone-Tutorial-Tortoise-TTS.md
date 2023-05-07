@@ -9,6 +9,8 @@ First accept the license terms on https://huggingface.co/pyannote/segmentation
 
 To do that we will git clone and install ozen toolkit : https://github.com/devilismyfriend/ozen-toolkit
 
+commit id : f5ea2ce4f95bfa54635ec9deac56cb546aa7d516
+
 ```git clone https://github.com/devilismyfriend/ozen-toolkit```
 
 To be able to use this, you need to have installed Anaconda or Miniconda with Python 3.10
