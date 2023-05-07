@@ -15,3 +15,8 @@ If you fail to install Anaconda here my tutorial where I installed and shown : h
 
 Then double click and run "Set Up Ozen.bat" file inside directory 
 
+Lets say something went wrong and you want to reinstall or, you had installed this repo before and you want to reinstall, then Anaconda will give you this message
+
+```CondaValueError: prefix already exists: C:\Users\King\miniconda3\envs\ozen```
+
+So open folder ```C:\Users\King\miniconda3\envs``` and delete the ```ozen``` directory 
