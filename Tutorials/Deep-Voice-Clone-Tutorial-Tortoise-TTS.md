@@ -7,6 +7,8 @@ We will begin with pre-processing the speech training file
 
 First accept the license terms on https://huggingface.co/pyannote/segmentation 
 
+So you must have a free hugging face account to accept terms. Register hugging face : https://huggingface.co/join
+
 To do that we will git clone and install ozen toolkit : https://github.com/devilismyfriend/ozen-toolkit
 
 commit id : f5ea2ce4f95bfa54635ec9deac56cb546aa7d516
