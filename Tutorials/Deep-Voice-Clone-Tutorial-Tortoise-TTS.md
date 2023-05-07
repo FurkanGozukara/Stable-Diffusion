@@ -31,6 +31,8 @@ Then after installation drag and drop the training speech file into Drag_Here.cm
 
 There are several key issues. It uses by default large model. If your GPU is not 12 GB you can either use CPU to transcribe or you can use medium or small model
 
+Whisper tutorial : https://www.youtube.com/watch?v=msj3wuYf3d8
+
 ```
 tiny	39 M	tiny.en	tiny	~1 GB	~32x
 base	74 M	base.en	base	~1 GB	~16x
