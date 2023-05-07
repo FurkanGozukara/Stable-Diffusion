@@ -29,6 +29,8 @@ So open folder ```C:\Users\King\miniconda3\envs``` and delete the ```ozen``` dir
 
 Then after installation drag and drop the training speech file into Drag_Here.cmd
 
+It will ask you hugging face token get it here : https://huggingface.co/settings/tokens
+
 There are several key issues. It uses by default large model. If your GPU is not 12 GB you can either use CPU to transcribe or you can use medium or small model
 
 Whisper tutorial : https://www.youtube.com/watch?v=msj3wuYf3d8
