@@ -60,6 +60,8 @@ https://pytorch.org/
 
 ```pip3 install torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117```
 
+Notepad++ to change transcription file encoding : https://notepad-plus-plus.org/downloads/ 
+
 ### Part 2 - Doing training and training settings
 
 We will use DL-Art-School for training. It has a very nice GUI and makes training piece of cake
