@@ -170,6 +170,10 @@ https://www.patreon.com/posts/voice-clone-82712205
 
 ### in process_given_speech_text.bat
 
+```call "F:\voice clone tutorial\tortoise-tts-fast\venv\Scripts\activate.bat"``` change with your venv installed path
+
+```cd "F:\voice clone tutorial\tortoise-tts-fast\scripts"``` change with your tortoise-tts-fast installed path
+
 ```set outputdir=``` : where you want your output speech files to be saved a folder path
 
 ```set voicesdir=``` : give your training voices directory path - optional i am not sure if makes difference atm
