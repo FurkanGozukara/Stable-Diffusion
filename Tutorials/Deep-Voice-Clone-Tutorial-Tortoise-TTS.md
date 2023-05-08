@@ -145,4 +145,5 @@ def split_text(text: str, text_split: str):
     return texts
 ```
 
+```python tortoise_tts.py --output_dir "F:\voice clone tutorial\multi_sentences" --preset fast --ar_checkpoint "F:\voice clone tutorial\DL-Art-School\experiments\voiceclone\models\40_gpt.pth" "Welcome to the software engineering courses channel."```
 
