@@ -110,6 +110,6 @@ activate venv
 
 ```git clone https://github.com/152334H/tortoise-tts-fast
 cd tortoise-tts-fast
-pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu117
+pip3 install torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
 python3 -m pip install -e .
 pip3 install git+https://github.com/152334H/BigVGAN.git```
