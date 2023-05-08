@@ -2,6 +2,8 @@
 
 None of the things in this tutorial won't affect your other installations such as Stable Diffusion
 
+Join our discord channel and ask any questions : https://discord.com/servers/software-engineering-courses-secourses-772774097734074388
+
 ## prerequisites
 
 To follow this video you need to have Python 3.10.x to be installed on your computer and have basic knowladge about how to use
