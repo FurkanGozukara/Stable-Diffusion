@@ -125,3 +125,6 @@ pip3 install git+https://github.com/152334H/BigVGAN.git
 This is the folder where you need to run base command
 (venv) your_install_path\tortoise-tts-fast\scripts>
 e.g. (venv) F:\voice clone tutorial\tortoise-tts-fast\scripts>
+
+
+```python tortoise_tts.py --preset fast --ar_checkpoint "F:\voice clone tutorial\DL-Art-School\experiments\voiceclone\models\40_gpt.pth" "Welcome to the software engineering courses channel."```
