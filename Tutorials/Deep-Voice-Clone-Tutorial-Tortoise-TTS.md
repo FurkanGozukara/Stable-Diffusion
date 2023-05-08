@@ -117,5 +117,5 @@ Then while venv is activated move into your main installation folder e.g.
 F:\voice clone tutorial\tortoise-tts-fast
 
 ```
-python3 -m pip install -e .
+python -m pip install -e .
 pip3 install git+https://github.com/152334H/BigVGAN.git```
