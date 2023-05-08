@@ -108,7 +108,8 @@ Follow the steps I have shown in the video to start training
 
 activate venv
 
-```git clone https://github.com/152334H/tortoise-tts-fast
+```
+git clone https://github.com/152334H/tortoise-tts-fast
 cd tortoise-tts-fast
 pip3 install torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
 ```
@@ -118,4 +119,5 @@ F:\voice clone tutorial\tortoise-tts-fast
 
 ```
 python -m pip install -e .
-pip3 install git+https://github.com/152334H/BigVGAN.git```
+pip3 install git+https://github.com/152334H/BigVGAN.git
+```
