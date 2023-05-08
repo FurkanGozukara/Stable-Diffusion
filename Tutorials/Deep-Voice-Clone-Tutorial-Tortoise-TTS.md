@@ -157,22 +157,36 @@ automatic processing script files shown in the video
 https://www.patreon.com/posts/voice-clone-82712205
 
 ## the parameters you need to modify are as below
+
 ### in process_given_speech_text.bat
+
 ```set outputdir=``` : where you want your output speech files to be saved a folder path
+
 ```set voicesdir=``` : give your training voices directory path - optional i am not sure if makes difference atm
+
 ```set training_checkpoint_file=``` : where your trained checkpoint file located
+
 ```--diffusion_iterations``` - best suggested value is 250 and above but you can use either 50 20 1000 up to you. test each one depending on your GPU and speed you are expecting
+
 ```--seed``` if you don't provide a seed i think everytime it will be random thus you may get different output as expected in generative AI models
+
 ```--preset``` this really makes huge difference. it is flow worst to best like this. as you use better one it will be much more slower and will use more vram ultra_fast - fast - standard - high_quality
+
 ```--low_vram``` - you can make it true like this if you have low vram ```--low_vram True```
+
 ```--no_cache``` - you can make it true like this if you have low vram ```--no_cache True``` - use only if low_vram fails
+
 ```--half``` - you can make it true like this if you have low vram ```--half True``` - use only when all others fails
 
 ### in epoch_comparison.bat
+
 ```set CHECKPOINTS_DIR=``` : directory of your checkpoints
+
 ```set OUTPUT_BASE_DIR=``` : directory of where checkpoint results will be saved parent directory
+
 other settings are as above
 
 ### in pre_process_given_text_file.py
+
 ```split_length``` : set your split length. by default maximum suggested is 200. if you go over it, it will start to hallucinate. too small sentences are also somewhat problematic. therefore, the script will automatically merge sentenecs when the merged sentence length is smaller than split_length
 
