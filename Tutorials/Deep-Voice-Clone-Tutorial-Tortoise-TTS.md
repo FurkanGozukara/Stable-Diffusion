@@ -121,3 +121,7 @@ F:\voice clone tutorial\tortoise-tts-fast
 python -m pip install -e .
 pip3 install git+https://github.com/152334H/BigVGAN.git
 ```
+
+This is the folder where you need to run base command
+(venv) your_install_path\tortoise-tts-fast\scripts>
+e.g. (venv) F:\voice clone tutorial\tortoise-tts-fast\scripts>
