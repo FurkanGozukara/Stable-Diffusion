@@ -144,6 +144,6 @@ def split_text(text: str, text_split: str):
         raise ValueError("no text provided")
     return texts
 ```
-
-```python tortoise_tts.py --output_dir "F:\voice clone tutorial\multi_sentences" --preset fast --ar_checkpoint "F:\voice clone tutorial\DL-Art-School\experiments\voiceclone\models\40_gpt.pth" "Welcome to the software engineering courses channel."```
+best quality command below with additional output directory and iterations
+```python tortoise_tts.py --diffusion_iterations 1000 --output_dir "F:\voice clone tutorial\multi_sentences" --preset high_quality --ar_checkpoint "F:\DL-Art-School\experiments\test2\models\1480_gpt.pth" "Welcome to the software engineering courses channel.;This channel is the best source for learning technology and artificial intelligence.;Please subscribe."```
 
