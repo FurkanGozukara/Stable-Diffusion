@@ -188,5 +188,5 @@ other settings are as above
 
 ### in pre_process_given_text_file.py
 
-```split_length``` : set your split length. by default maximum suggested is 200. if you go over it, it will start to hallucinate. too small sentences are also somewhat problematic. therefore, the script will automatically merge sentenecs when the merged sentence length is smaller than split_length
+```split_length``` : set your split length. by default maximum suggested is 200. if you go over it, it will start to hallucinate. too small sentences are also somewhat problematic. therefore, the script will automatically merge sentences when the merged sentence length is smaller than split_length
 
