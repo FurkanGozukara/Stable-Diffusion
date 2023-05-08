@@ -2,6 +2,12 @@
 
 None of the things in this tutorial won't affect your other installations such as Stable Diffusion
 
+## prerequisites
+
+To follow this video you need to have Python 3.10.x to be installed on your computer and have basic knowladge about how to use
+
+I have excellent tutorial for Python here : https://youtu.be/B5U7LJOvH6g 
+
 ### Part 1 - Preparing training speech files
 We will begin with pre-processing the speech training file
 
@@ -66,6 +72,8 @@ Notepad++ to change transcription file encoding : https://notepad-plus-plus.org/
 
 We will use DL-Art-School for training. It has a very nice GUI and makes training piece of cake
 
+commit id : 5ab4d9ed415e0a5c0b7ce9aae02aa2e76fe0eccd
+
 https://github.com/152334H/DL-Art-School
 
 This also requires Anaconda or Miniconda with Python 3.10
@@ -99,6 +107,8 @@ After installation double click "Start DLAS.cmd" file and it will open the GUI i
 Follow the steps I have shown in the video to start training
 
 ### Part 3, generating cloned voice via tortoise-tts-fast
+
+commit id : f4820a8eabdd559eb369a07d60cbe03960ddd54d
 
  https://github.com/152334H/tortoise-tts-fast
 
