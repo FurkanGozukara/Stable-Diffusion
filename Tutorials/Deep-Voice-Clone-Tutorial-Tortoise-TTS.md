@@ -98,3 +98,18 @@ After installation double click "Start DLAS.cmd" file and it will open the GUI i
 
 Follow the steps I have shown in the video to start training
 
+### Part 3, generating cloned voice via tortoise-tts-fast
+
+ https://github.com/152334H/tortoise-tts-fast
+
+```git clone  https://github.com/152334H/tortoise-tts-fast```
+
+```python -m venv venv```
+
+activate venv
+
+```git clone https://github.com/152334H/tortoise-tts-fast
+cd tortoise-tts-fast
+pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu117
+python3 -m pip install -e .
+pip3 install git+https://github.com/152334H/BigVGAN.git```
