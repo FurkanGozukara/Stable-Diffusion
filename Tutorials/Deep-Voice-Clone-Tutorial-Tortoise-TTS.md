@@ -133,7 +133,8 @@ For the script I shared and shown to work first open inference.py under \tortois
 
 copy paste this code and change function split_text
 
-```def split_text(text: str, text_split: str):
+```
+def split_text(text: str, text_split: str):
     if text_split:
         texts = text.split(";")
     else:
@@ -141,6 +142,7 @@ copy paste this code and change function split_text
     #
     if not texts:
         raise ValueError("no text provided")
-    return texts```
+    return texts
+```
 
 
