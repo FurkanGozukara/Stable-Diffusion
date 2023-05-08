@@ -111,5 +111,11 @@ activate venv
 ```git clone https://github.com/152334H/tortoise-tts-fast
 cd tortoise-tts-fast
 pip3 install torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+```
+
+Then while venv is activated move into your main installation folder e.g.
+F:\voice clone tutorial\tortoise-tts-fast
+
+```
 python3 -m pip install -e .
 pip3 install git+https://github.com/152334H/BigVGAN.git```
