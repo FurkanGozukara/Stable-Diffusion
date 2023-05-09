@@ -106,7 +106,16 @@ If you ever needed to install a missing package manually, to activate anaconda o
 
 After installation double click "Start DLAS.cmd" file and it will open the GUI interface
 
-Follow the steps I have shown in the video to start training
+Follow the steps I have shown in the video to start training.
+
+I have explaine
+
+* What does each step work
+* Batch size effect on 1 epoch
+* How total number of epochs calculated based on your batch size and number of training elements and total number of your set steps
+* How to analyze and see loss value over time with a custom script and many more
+
+I have even shown how you can continue training by using your last checkpoint.
 
 ### Part 3, generating cloned voice via tortoise-tts-fast
 
