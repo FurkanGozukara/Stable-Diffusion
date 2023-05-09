@@ -170,6 +170,23 @@ https://www.patreon.com/posts/voice-clone-82712205
 
 ## the parameters you need to modify are as below
 
+### in loss_graph.py 
+
+install this pip package in your main python installation. start a cmd window and type below code
+
+```pip install matplotlib```
+
+Then modify the path variable in script. Change path in below part of script to your training log file
+
+```
+with open(r"F:\voice clone tutorial\DL-Art-School\experiments\bigtom\train_bigtom_230509-021906.log", 'r') as file:
+    text = file.read()
+```
+
+Then start a cmd whereever this file is located and execute below code to display loss graphs. This script is safe to use during training to see values.
+
+```python loss_graph.py ```
+
 ### in process_given_speech_text.bat
 
 ```call "F:\voice clone tutorial\tortoise-tts-fast\venv\Scripts\activate.bat"``` change with your venv installed path
