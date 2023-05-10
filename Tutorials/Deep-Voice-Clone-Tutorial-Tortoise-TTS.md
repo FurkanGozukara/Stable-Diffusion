@@ -244,3 +244,7 @@ Just change the paths of the below lines
 root_folder = r'F:\voice clone tutorial\check_point_comparison_v3'
 target_folder = r'F:\voice clone tutorial\check_point_comparison_v3_all_files'
 ```
+
+To run the file open cmd in that folder and execute as below
+
+```python pre_process_given_text_file.py ```
