@@ -232,3 +232,15 @@ other settings are as above
 
 ```split_length``` : set your split length. by default maximum suggested is 200. if you go over it, it will start to hallucinate. too small sentences are also somewhat problematic. therefore, the script will automatically merge sentences when the merged sentence length is smaller than split_length
 
+### in move_check_point_sound_files.py
+
+This file will iterate your check point comparison generated sound files and put them into a new folder with the parent name so that it will be easier to test each checkpoint sound file easier
+
+It will copy the files don't move
+
+Just change the paths of the below lines
+
+```
+root_folder = r'F:\voice clone tutorial\check_point_comparison_v3'
+target_folder = r'F:\voice clone tutorial\check_point_comparison_v3_all_files'
+```
