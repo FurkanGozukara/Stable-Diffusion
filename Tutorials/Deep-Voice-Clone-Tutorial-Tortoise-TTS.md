@@ -202,6 +202,8 @@ Then start a cmd whereever this file is located and execute below code to displa
 
 ```cd "F:\voice clone tutorial\tortoise-tts-fast\scripts"``` change with your tortoise-tts-fast installed path
 
+```--voicefixer``` I suggest you to set this False and use adobe voice enhancer : https://podcast.adobe.com/enhance 
+
 ```set outputdir=``` : where you want your output speech files to be saved a folder path
 
 ```set voicesdir=``` : give your training voices directory path - optional i am not sure if makes difference atm
