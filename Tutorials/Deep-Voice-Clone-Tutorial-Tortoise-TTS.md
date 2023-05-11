@@ -168,8 +168,9 @@ def split_text(text: str, text_split: str):
 best quality command below with additional output directory and iterations
 
 
-```python tortoise_tts.py --candidates 1 --voicefixer True --no_cache False --low_vram False --text_split "gg" --diffusion_iterations 1000 --output_dir "F:\voice clone tutorial\multi_sentences" --preset high_quality --ar_checkpoint "F:\DL-Art-School\experiments\test2\models\1480_gpt.pth" "Welcome to the software engineering courses channel.;This channel is the best source for learning technology and artificial intelligence.;Please subscribe."```
+```python tortoise_tts.py --seed 1 --candidates 1 --voicefixer True --no_cache False --low_vram False --text_split "gg" --diffusion_iterations 1000 --output_dir "F:\voice clone tutorial\multi_sentences" --preset high_quality --ar_checkpoint "F:\DL-Art-School\experiments\test2\models\1480_gpt.pth" "Welcome to the software engineering courses channel.;This channel is the best source for learning technology and artificial intelligence.;Please subscribe."```
 
+* ```--seed``` May improve consistency. Remove to get more randomness or try different seeds to get a better generation. Ask chatGPT to learn more about seeds in generative AI  
 * ```--candidates``` Allows you to generate multiple variations of same speech in 1 run. Can be very useful to get better options
 * ```--voicefixer``` I prefer voicefixer False and using adobe podcast enchance : https://podcast.adobe.com/enhance 
 * ```--low_vram```Enable low_vram to reduce VRAM usage if you get out of memory exception
