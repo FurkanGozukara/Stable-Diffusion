@@ -167,9 +167,19 @@ def split_text(text: str, text_split: str):
 ```
 best quality command below with additional output directory and iterations
 
-```
-python tortoise_tts.py --text_split "gg" --diffusion_iterations 1000 --output_dir "F:\voice clone tutorial\multi_sentences" --preset high_quality --ar_checkpoint "F:\DL-Art-School\experiments\test2\models\1480_gpt.pth" "Welcome to the software engineering courses channel.;This channel is the best source for learning technology and artificial intelligence.;Please subscribe."
-```
+
+```python tortoise_tts.py --candidates 1 --voicefixer True --no_cache False --low_vram False --text_split "gg" --diffusion_iterations 1000 --output_dir "F:\voice clone tutorial\multi_sentences" --preset high_quality --ar_checkpoint "F:\DL-Art-School\experiments\test2\models\1480_gpt.pth" "Welcome to the software engineering courses channel.;This channel is the best source for learning technology and artificial intelligence.;Please subscribe."```
+
+* ```--candidates``` Allows you to generate multiple variations of same speech in 1 run. Can be very useful to get better options
+* ```--voicefixer``` I prefer voicefixer False and using adobe podcast enchance : https://podcast.adobe.com/enhance 
+* ```--low_vram```Enable low_vram to reduce VRAM usage if you get out of memory exception
+* ```--no_cache``` Enable no_cache to reduce VRAM usage if you get out of memory exception 
+* ```--half```  Enable half to reduce VRAM usage if you get out of memory exception - this reduces quality
+* ```--diffusion_iterations``` 250 and above said to generate good quality. This just increases processing time
+* ```--output_dir``` Set your desired output folder where you want images to be saved
+* ```--preset``` Significantly affects the quality. Choose according to your GPU among : ultra_fast - fast - standard - high_quality
+* ```--ar_checkpoint``` Give the path of your trained voice model checkpoint file path
+* The last input given inside "" is the text you want to be transcribed. If you apply the split_text function modification as show above, seperate each sentences with a semicolon ; 
 
 adobe enchance speech
 https://podcast.adobe.com/enhance
