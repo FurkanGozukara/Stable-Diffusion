@@ -6,9 +6,13 @@ Join our discord channel and ask any questions : https://discord.com/servers/sof
 
 ## prerequisites
 
-To follow this video you need to have Python 3.10.x to be installed on your computer and have basic knowladge about how to use
+To follow this video you need to have Python 3.10.x and Git to be installed on your computer and have basic knowladge about how to use
 
-I have excellent tutorial for Python here : https://youtu.be/B5U7LJOvH6g 
+Git link : https://git-scm.com/download/win
+
+Python 3.10.9 : https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe 
+
+I have excellent tutorial for Python and Git installation here : https://youtu.be/B5U7LJOvH6g 
 
 ### Part 1 - Preparing training speech files
 We will begin with pre-processing the speech training file
