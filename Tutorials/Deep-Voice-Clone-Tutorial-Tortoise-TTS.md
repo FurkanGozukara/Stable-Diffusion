@@ -156,7 +156,7 @@ e.g. (venv) F:\voice clone tutorial\tortoise-tts-fast\scripts>
 
 ```python tortoise_tts.py --preset fast --ar_checkpoint "F:\voice clone tutorial\DL-Art-School\experiments\voiceclone\models\40_gpt.pth" "Welcome to the software engineering courses channel."```
 
-For the script I shared and shown to work first open inference.py under \tortoise-tts-fast\tortoise folder
+For the script I shared and shown to work first open **inference.py** under **\tortoise-tts-fast\tortoise folder**
 
 copy paste this code and change function split_text
 
