@@ -171,10 +171,14 @@ def split_text(text: str, text_split: str):
         raise ValueError("no text provided")
     return texts
 ```
-best quality command below with additional output directory and iterations
 
+**decent quality (low VRAM) command below with additional output directory and iterations. Dont forget to change --ar_checkpoint path and output_dir path
 
-```python tortoise_tts.py --seed 1 --candidates 1 --voicefixer True --no_cache False --low_vram False --text_split "gg" --diffusion_iterations 1000 --output_dir "F:\voice clone tutorial\multi_sentences" --preset high_quality --ar_checkpoint "F:\DL-Art-School\experiments\test2\models\1480_gpt.pth" "Welcome to the software engineering courses channel.;This channel is the best source for learning technology and artificial intelligence.;Please subscribe."```
+```python tortoise_tts.py --seed 1 --candidates 3 --voicefixer True --no_cache False --low_vram True --text_split "gg" --diffusion_iterations 100 --output_dir "F:\voice clone tutorial\multi_sentences" --preset fast --ar_checkpoint "F:\DL-Art-School\experiments\test2\models\1480_gpt.pth" "Welcome to the software engineering courses channel.;This channel is the best source for learning technology and artificial intelligence.;Please subscribe."```
+
+**best quality (high VRAM) command below with additional output directory and iterations. Dont forget to change --ar_checkpoint path and output_dir path
+
+```python tortoise_tts.py --seed 1 --candidates 3 --voicefixer True --no_cache False --low_vram False --text_split "gg" --diffusion_iterations 1000 --output_dir "F:\voice clone tutorial\multi_sentences" --preset high_quality --ar_checkpoint "F:\DL-Art-School\experiments\test2\models\1480_gpt.pth" "Welcome to the software engineering courses channel.;This channel is the best source for learning technology and artificial intelligence.;Please subscribe."```
 
 * ```--seed``` May improve consistency. Remove to get more randomness or try different seeds to get a better generation. Ask chatGPT to learn more about seeds in generative AI  
 * ```--candidates``` Allows you to generate multiple variations of same speech in 1 run. Can be very useful to get better options
