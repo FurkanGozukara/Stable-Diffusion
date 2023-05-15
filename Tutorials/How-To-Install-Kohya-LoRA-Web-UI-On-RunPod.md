@@ -11,3 +11,10 @@ We will use Torch 1.13 and xFormers
 xformers 0.19 for Torch 1.13 and unix : 
 
 ```pip install https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/xformers-0.0.19-cp310-cp310-manylinux2014_x86_64.whl``` 
+
+
+```
+git clone https://github.com/bmaltais/kohya_ss.git
+cd kohya_ss
+./setup.sh
+```
