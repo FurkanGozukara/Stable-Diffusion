@@ -4,6 +4,11 @@
 
 
 ```
+python3 -m venv venv
+source venv/bin/activate
+```
+
+```
 apt update
 apt install python3-tk
 ```
