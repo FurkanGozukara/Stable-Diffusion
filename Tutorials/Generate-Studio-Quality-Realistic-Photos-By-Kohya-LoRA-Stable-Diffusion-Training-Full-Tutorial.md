@@ -44,15 +44,19 @@ I changed the Gray color with other colors like red blue yellow etc.
 ### Other Links and Files
 
 Kohya SS Gui Repo : https://github.com/bmaltais/kohya_ss 
+
 Kohya commit id : 63657088f4c35a376dd8a936f53e9b9a3b4b1168
 
 Realistic Vision V2 model file download link
+
 https://civitai.com/api/download/models/29460 
 
 Best VAE file to set as default to generate images
+
 https://huggingface.co/stabilityai/sd-vae-ft-mse-original/blob/main/vae-ft-mse-840000-ema-pruned.ckpt 
 
 cudnn 8.6 files for torch 1.12
+
 https://b1.thefileditch.ch/mwxKTEtelILoIbMbruuM.zip
 
 ### Commands
