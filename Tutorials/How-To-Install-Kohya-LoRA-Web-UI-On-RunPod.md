@@ -4,6 +4,8 @@
 
 
 ```
+git clone https://github.com/bmaltais/kohya_ss.git
+cd kohya_ss
 python3 -m venv venv
 source venv/bin/activate
 ./setup.sh -n
@@ -13,32 +15,8 @@ source venv/bin/activate
 source venv/bin/activate
 apt update
 apt-get install python3.10-tk
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
-
-```
-source venv/bin/activate
-pip uninstall xformers
-pip install xformers==dev
-pip install xformers==0.0.20.dev528
-```
-
-We will use Torch 1.13 and xFormers 
-
-1st install Torch 1.13 
-
-```pip3 install torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117``` 
-
-xformers 0.19 for Torch 1.13 and unix : 
-
-```pip install https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/xformers-0.0.19-cp310-cp310-manylinux2014_x86_64.whl``` 
-
-
-```
-git clone https://github.com/bmaltais/kohya_ss.git
-cd kohya_ss
-./setup.sh
-```
-
 
  ```
  bash gui.sh --share
