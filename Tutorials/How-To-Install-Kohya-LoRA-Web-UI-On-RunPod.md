@@ -6,13 +6,11 @@
 
 ## Original Kohya Tutorial
 
-https://youtu.be/TpuDOsuKIBo
+[**Generate Studio Quality Realistic Photos By Kohya LoRA Stable Diffusion Training - Full Tutorial**](https://youtu.be/TpuDOsuKIBo)
 
-[![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/f6186486-d4cf-4aa0-aa9f-4e9fa0374a1a)](https://youtu.be/TpuDOsuKIBo)
+[![image](https://user-images.githubusercontent.com/19240467/235155355-83ff14e5-a3c8-4ae8-83a5-6d2573189a22.png)](https://youtu.be/TpuDOsuKIBo)
 
 ## How To Use RunPod Tutorial
-
-18.) RunPod - Automatic1111 Web UI - Cloud - Paid - No PC Is Required
 
 [**Ultimate RunPod Tutorial For Stable Diffusion - Automatic1111 - Data Transfers, Extensions, CivitAI**](https://www.youtube.com/watch?v=QN1vdGhjcRc) 
 
