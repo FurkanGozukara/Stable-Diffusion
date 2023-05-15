@@ -11,7 +11,7 @@ source venv/bin/activate
 
 ```
 apt update
-apt install python3-tk
+apt-get install python3.10-tk
 ```
 
 We will use Torch 1.13 and xFormers 
