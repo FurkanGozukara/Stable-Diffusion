@@ -9,6 +9,10 @@ https://youtu.be/TpuDOsuKIBo
 [![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/f6186486-d4cf-4aa0-aa9f-4e9fa0374a1a)](https://youtu.be/TpuDOsuKIBo)
 
 
+## Kohya LoRA GUI On RunPod
+
+Kohya SS Gui Repo : https://github.com/bmaltais/kohya_ss
+
 ```
 git clone https://github.com/bmaltais/kohya_ss.git
 
