@@ -17,7 +17,6 @@ apt-get install python3.10-tk
 
 ```
 source venv/bin/activate
-pip3 install torch==2.0.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 pip uninstall xformers
 pip install xformers==dev
 pip install xformers==0.0.20.dev528
