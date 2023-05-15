@@ -37,7 +37,7 @@ I changed the Gray color with other colors like red blue yellow etc.
 **https://aka.ms/vs/17/release/vc_redist.x64.exe**
 
 ### Download and install Python 3.10.9 and git
-**1 - https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe **
+**1 - https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe**
 
 **2 - https://youtu.be/aAyvsX-EpG4**
 
