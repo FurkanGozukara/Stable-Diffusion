@@ -10,6 +10,12 @@ https://youtu.be/TpuDOsuKIBo
 
 [![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/f6186486-d4cf-4aa0-aa9f-4e9fa0374a1a)](https://youtu.be/TpuDOsuKIBo)
 
+### Hand-Picked Realistic Vision V2 - 2071 classification / regularization images
+
+https://www.patreon.com/posts/realistic-vision-82085317
+
+Realistic vision full model : https://huggingface.co/SG161222/Realistic_Vision_V2.0/resolve/main/Realistic_Vision_V2.0.safetensors
+
 
 ## Kohya LoRA GUI On RunPod
 
