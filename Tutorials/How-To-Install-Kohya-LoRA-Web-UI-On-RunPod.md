@@ -30,3 +30,8 @@ git clone https://github.com/bmaltais/kohya_ss.git
 cd kohya_ss
 ./setup.sh
 ```
+
+
+ ```
+ bash gui.sh --share
+ ```
