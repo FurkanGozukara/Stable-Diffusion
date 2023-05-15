@@ -10,6 +10,14 @@ https://youtu.be/TpuDOsuKIBo
 
 [![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/f6186486-d4cf-4aa0-aa9f-4e9fa0374a1a)](https://youtu.be/TpuDOsuKIBo)
 
+## How To Use RunPod Tutorial
+
+18.) RunPod - Automatic1111 Web UI - Cloud - Paid - No PC Is Required
+
+[**Ultimate RunPod Tutorial For Stable Diffusion - Automatic1111 - Data Transfers, Extensions, CivitAI**](https://www.youtube.com/watch?v=QN1vdGhjcRc) 
+
+[![image](https://user-images.githubusercontent.com/19240467/219958249-82ecb925-901b-4f87-b776-f592b0f5eaad.png)](https://www.youtube.com/watch?v=QN1vdGhjcRc)
+
 ### Hand-Picked Realistic Vision V2 - 2071 classification / regularization images
 
 https://www.patreon.com/posts/realistic-vision-82085317
