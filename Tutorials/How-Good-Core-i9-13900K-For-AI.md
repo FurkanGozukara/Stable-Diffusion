@@ -28,6 +28,13 @@ CPU test :
 
 ```whisper "C:\13900k cpu review\test.mp3" --model large-v1 --language en --initial_prompt "Welcome our Youtube channel." --device cpu --best_of 10 --beam_size 10```
  
+
+### Auto Editor Used Command
+
+https://github.com/WyattBlue/auto-editor
+
+```auto-editor "C:\13900k cpu review\test.mp4" --no-open --edit audio:threshold=0.04 -c:v libx264 --video-bitrate 30000000 --show-ffmpeg-commands```
+ 
 ## Core i7 10700F Setup
  
 ### CPU-z & GPU-z Validation
