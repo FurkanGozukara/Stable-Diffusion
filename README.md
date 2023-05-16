@@ -214,7 +214,7 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://user-images.githubusercontent.com/19240467/236293388-6254ff84-0866-4bd4-a5d4-2db3c42be3f0.png)](https://youtu.be/343I11mhnXs)
 
-33.) Kohya Web GU - RunPod - Paid
+33.) Kohya Web UI - RunPod - Paid
 
 [**How To Install And Use Kohya LoRA GUI / Web UI on RunPod IO With Stable Diffusion & Automatic1111**](https://youtu.be/3uzCNrQao3o)
 
