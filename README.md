@@ -196,7 +196,7 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://user-images.githubusercontent.com/19240467/231303430-63d801cf-3c5a-4c20-b445-bb682febfa4e.png)](https://youtu.be/lgP1LNnaUaQ)
 
-30.) Kohya Web GU - Automatic1111 Web UI - PC - Free
+30.) Kohya Web UI - Automatic1111 Web UI - PC - Free
 
 [**Generate Studio Quality Realistic Photos By Kohya LoRA Stable Diffusion Training - Full Tutorial**](https://youtu.be/TpuDOsuKIBo)
 
