@@ -9,7 +9,7 @@
 * Stable Diffusion via Automatic1111 Web UI : https://www.youtube.com/playlist?list=PL_pbwdIyffsmclLl0O144nQRnezKlNdx3
 * Open AI Whisper : https://www.youtube.com/watch?v=msj3wuYf3d8
 * Auto Editor to remove non-speech parts : https://github.com/WyattBlue/auto-editor
-* Davinci Resolve (free edition) 4K Video Rendering
+* Davinci Resolve (free edition) 4K Video Rendering : https://youtu.be/_-yYRGKyz8E
 * Davinci Resolve (free edition) Proxy Media generation 
  
  ## Core i7 10700F Setup
