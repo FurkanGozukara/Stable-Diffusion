@@ -1,6 +1,6 @@
 # video tutorial will be added once it is published
 
-# How Good Core i7 13900K For AI, Machine Learning, Stable Diffusion, Video Rendering Tasks
+# How Good Core i9 13900K For AI, Machine Learning, Stable Diffusion, Video Rendering Tasks
 
 ## Core i7 13900K VS Core i7 10700F Benchmarking Results
 
