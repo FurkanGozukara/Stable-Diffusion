@@ -23,6 +23,10 @@
 GPU test :
 
 ```whisper "C:\13900k cpu review\test.mp3" --model large-v1 --language en --initial_prompt "Welcome our Youtube channel." --best_of 10 --beam_size 10```
+
+CPU test :
+
+```whisper "C:\13900k cpu review\test.mp3" --model large-v1 --language en --initial_prompt "Welcome our Youtube channel." --device cpu --best_of 10 --beam_size 10```
  
 ## Core i7 10700F Setup
  
