@@ -213,3 +213,9 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 [**How To Find Best Stable Diffusion Generated Images By Using DeepFace AI - DreamBooth / LoRA Training**](https://youtu.be/343I11mhnXs)
 
 [![image](https://user-images.githubusercontent.com/19240467/236293388-6254ff84-0866-4bd4-a5d4-2db3c42be3f0.png)](https://youtu.be/343I11mhnXs)
+
+33.) Kohya Web GU - RunPod - Paid
+
+[**How To Install And Use Kohya LoRA GUI / Web UI on RunPod IO With Stable Diffusion & Automatic1111**](https://youtu.be/3uzCNrQao3o)
+
+[![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/0c9c3f7d-c308-4793-b790-999fdc271372)](https://youtu.be/3uzCNrQao3o)
