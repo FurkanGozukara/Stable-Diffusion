@@ -11,10 +11,20 @@
 * Auto Editor to remove non-speech parts : https://github.com/WyattBlue/auto-editor
 * Davinci Resolve (free edition) 4K Video Rendering : https://youtu.be/_-yYRGKyz8E
 * Davinci Resolve (free edition) Proxy Media generation 
+
+### Test video for auto-encode and Davinci Resolve
+
+* Duration 00:07:33
+* Video: HVC1 3840x2160 60fps 113096kbps [V: hevc main L5.1, yuv420p, 3840x2160, 113096 kb/s]
+* Audio: AAC 48000Hz stereo 181kbps [A: SoundHandler (aac lc, 48000 Hz, stereo, 181 kb/s)]
+
+### Whisper Used Command
+
+cmd /c whisper "C:\13900k cpu review\test.mp3" --model large-v1 --language en --initial_prompt "Welcome our Youtube channel." --best_of 10 --beam_size 10
  
- ## Core i7 10700F Setup
+## Core i7 10700F Setup
  
- ### CPU-z & GPU-z Validation
+### CPU-z & GPU-z Validation
  
  * CPU : 10700F
  * GPU : RTX 3090
@@ -23,4 +33,6 @@
 CPU-z Validation Link : **https://valid.x86.fr/asaijw**
  
 GPU-z Validation Link : **https://www.techpowerup.com/gpuz/details/m696w**
+
+
  
