@@ -3,15 +3,23 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 ### Some positive prompts
 
 ```
-Masterful, high-resolution full-body photograph of an (ohwx man:1.1), stylishly donning sunglasses. With (cinematic grading:1.3) and (dynamic lighting:1.4), this image should capture the subject's charm and charisma in a movie-like atmosphere."
-"8K, ultra-detailed full-body shot of an (ohwx man:1.1), confidently wearing sunglasses. Enhanced with (cinematic grading:1.3) and (artistic lighting:1.4), the image should portray the subject as a captivating character in a modern film."
-"Cinematic, full-body photograph of an (ohwx man:1.1), adorned in sunglasses. With a (filmic color grading:1.3) and (dramatic lighting:1.4), the image should encapsulate the subject's strong persona and create a narrative akin to a cinematic masterpiece."
-"High-definition, full-body photograph of an (ohwx man:1.1), featuring stylish sunglasses. Utilizing (cinematic color grading:1.3) and (moody lighting:1.4), the image should depict the subject as a compelling character in a story yet to unfold."
-"A trending Instagram-worthy, 8K full-body photograph of an (ohwx man:1.1). (Lifestyle:1.3), (modern chic:1.4), the image should showcase the subject in a candid and stylish pose that exudes confidence and charisma."
-"High-resolution, full-body photograph of an (ohwx man:1.1) suitable for a popular Instagram post. (Fashion-forward:1.3), (urban backdrop:1.4), capturing the contemporary and vibrant energy of Instagram's aesthetics."
-"Full-body, 8K photograph of an (ohwx man:1.1) in an Instagram-optimized setting. (Casual chic:1.3), (lifestyle blogger:1.4), the image should feature a striking pose that highlights the subject's personality and style."
-"8K Instagram-style full-body shot of an (ohwx man:1.1). (Street style:1.3), (contemporary urban setting:1.4), the image should convey a casual yet fashionable atmosphere, with a strong emphasis on modern trends."
-"Eye-catching, full-body Instagram post of an (ohwx man:1.1). (Lifestyle influencer:1.3), (high-fashion:1.4), the photograph should depict the subject in a dynamic urban environment, presenting a look that is on-trend and compelling."
+Masterful, high-resolution full-body photograph of an (ohwx man:1.1), stylishly donning sunglasses. With (cinematic grading:1.3) and (dynamic lighting:1.4), this image should capture the subject's charm and charisma in a movie-like atmosphere
+
+8K, ultra-detailed full-body shot of an (ohwx man:1.1), confidently wearing sunglasses. Enhanced with (cinematic grading:1.3) and (artistic lighting:1.4), the image should portray the subject as a captivating character in a modern film
+
+Cinematic, full-body photograph of an (ohwx man:1.1), adorned in sunglasses. With a (filmic color grading:1.3) and (dramatic lighting:1.4), the image should encapsulate the subject's strong persona and create a narrative akin to a cinematic masterpiece
+
+High-definition, full-body photograph of an (ohwx man:1.1), featuring stylish sunglasses. Utilizing (cinematic color grading:1.3) and (moody lighting:1.4), the image should depict the subject as a compelling character in a story yet to unfold
+
+A trending Instagram-worthy, 8K full-body photograph of an (ohwx man:1.1). (Lifestyle:1.3), (modern chic:1.4), the image should showcase the subject in a candid and stylish pose that exudes confidence and charisma
+
+High-resolution, full-body photograph of an (ohwx man:1.1) suitable for a popular Instagram post. (Fashion-forward:1.3), (urban backdrop:1.4), capturing the contemporary and vibrant energy of Instagram's aesthetics
+
+Full-body, 8K photograph of an (ohwx man:1.1) in an Instagram-optimized setting. (Casual chic:1.3), (lifestyle blogger:1.4), the image should feature a striking pose that highlights the subject's personality and style
+
+8K Instagram-style full-body shot of an (ohwx man:1.1). (Street style:1.3), (contemporary urban setting:1.4), the image should convey a casual yet fashionable atmosphere, with a strong emphasis on modern trends
+
+Eye-catching, full-body Instagram post of an (ohwx man:1.1). (Lifestyle influencer:1.3), (high-fashion:1.4), the photograph should depict the subject in a dynamic urban environment, presenting a look that is on-trend and compelling
 ```
 
 ### DeepFace Tutorial Video
