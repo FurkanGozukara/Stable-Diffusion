@@ -18,4 +18,4 @@ Run below commands with order
 
 **This below link is only compatiable with Python 3.10.x and Torch 1.13 and Unix/Linux/RunPod**
 
-```pip install https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/xformers-0.0.19-cp310-cp310-manylinux2014_x86_64.whl```
+```pip install https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/xformers-0.0.21.dev541-cp310-cp310-manylinux2014_x86_64.whl```
