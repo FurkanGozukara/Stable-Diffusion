@@ -12,6 +12,7 @@
 ```python run.py --gpu```
 
 
+```python run.py --keep-frames --keep-fps ```
 
 ```pip3 install torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117```
 
