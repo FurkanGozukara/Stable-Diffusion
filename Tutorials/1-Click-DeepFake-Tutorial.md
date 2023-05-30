@@ -8,6 +8,8 @@ Google Colab Link Works with GPU for free : https://github.com/FurkanGozukara/St
 ## Example Resources and More Help
 Resources shared on Patreon : https://www.patreon.com/posts/1-click-deepfake-83785289
 
+Stable Diffusion tutorials : https://github.com/FurkanGozukara/Stable-Diffusion
+
 ## Prerequisites
 
 **Full tutorial for python and git installation with venv**
