@@ -34,11 +34,9 @@ Inside there a folder with version of CUDNN download. In my case it was
 Extract bin, lib, include folders from downloaded CUDNN into there
 Everything is shown in the Tutorial video
 
-
 Type search bar env
 Open edit system enviroment variables
 Add new
-
 in my cases added values
 
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.4\libnvvp
@@ -68,6 +66,8 @@ cd..
 
 pip install -r requirements.txt
 
+pip uninstall onnxruntime onnxruntime-gpu
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu114
 pip install onnxruntime-gpu
 ```
 
