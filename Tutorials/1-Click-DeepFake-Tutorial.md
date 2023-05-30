@@ -1,4 +1,34 @@
+## Prerequisites
 
+### Full tutorial for python and git installation with venv
+**https://youtu.be/B5U7LJOvH6g**
+
+### Download and install Visual Studio 2015, 2017, 2019, and 2022 redistributable 
+**https://aka.ms/vs/17/release/vc_redist.x64.exe**
+
+### Download and install Microsoft C++ Build Tools
+**https://visualstudio.microsoft.com/visual-cpp-build-tools/**
+
+### Download and install Python 3.10.9 and git
+**1 - https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe**
+
+### Download and install install CUDA toolkit
+
+Recommended versions: ```ONNX Runtime 1.9.0 CUDA EP``` - ```CUDA 11.4.3+cuDNN 8.2.4.15```
+
+**Requires free account register and login**
+
+**https://developer.nvidia.com/rdp/cudnn-archive**
+
+**Download cuDNN v8.9.0 (April 11th, 2023), for CUDA 11.x**
+
+**Download Installer according to your OS**
+
+https://developer.nvidia.com/cuda-11-4-3-download-archive
+
+
+
+### Necessary Links and Files
 
 https://github.com/s0md3v/roop
 
@@ -17,6 +47,8 @@ cd..
 cd..
 
 pip install -r requirements.txt
+
+pip install onnxruntime-gpu
 ```
 
 
