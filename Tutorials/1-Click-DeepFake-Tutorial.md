@@ -28,20 +28,20 @@ Recommended versions: ```ONNX Runtime 1.9.0 CUDA EP``` - ```CUDA 11.4.3+cuDNN 8.
 
 https://developer.nvidia.com/cuda-11-4-3-download-archive
 
-Make a Folder named NVIDIA
-Inside there CUDNN
-Inside there a folder with version of CUDNN download. In my case it was 
-Extract bin, lib, include folders from downloaded CUDNN into there
-Everything is shown in the Tutorial video
+* Make a Folder named NVIDIA
+* Inside there CUDNN
+* Inside there a folder with version of CUDNN download. In my case it was 
+* Extract bin, lib, include folders from downloaded CUDNN into there
+* Everything is shown in the Tutorial video
 
-Type search bar env
-Open edit system enviroment variables
-Add new
-in my cases added values
+* Type search bar env
+* Open edit system enviroment variables
+* Add new
+* in my cases added values
 
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.4\libnvvp
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.4\bin
-C:\NVIDIA\CUDNN\8.9.0.131\bin
+* C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.4\libnvvp
+* C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.4\bin
+* C:\NVIDIA\CUDNN\8.9.0.131\bin
 
 All shown in video
 
