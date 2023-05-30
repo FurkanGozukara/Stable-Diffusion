@@ -27,7 +27,7 @@ Google Colab Link Works with GPU for free : https://github.com/FurkanGozukara/St
 * Here my path
 * C:\ffmpeg-6.0-full_build hww
 
-### Necessary Links and Files
+### Tne Installation
 
 https://github.com/s0md3v/roop
 
