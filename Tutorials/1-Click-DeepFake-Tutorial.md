@@ -59,3 +59,10 @@ download and move into root folder : https://huggingface.co/MonsterMMORPG/SECour
 ```python run.py --keep-frames --keep-fps --cores 4```
 
 ```WARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='pypi.org', port=443): Read timed out. (read timeout=15)")': /simple/tensorrt/```
+
+
+### Full tutorial for python and git installation with venv
+**https://youtu.be/B5U7LJOvH6g**
+
+### Full tutorial for how to install and use Stable Diffusion Automatic1111 Web UI: 
+**1 - https://youtu.be/AZg6vzWHOTA**
