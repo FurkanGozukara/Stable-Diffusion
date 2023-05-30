@@ -82,6 +82,7 @@ pip3 install torch==1.13.1 torchvision torchaudio --index-url https://download.p
 pip install onnxruntime-gpu
 ```
 
+My downloaded onnxruntime-gpu : Successfully installed onnxruntime-gpu-1.15.0
 
 
 ```pip uninstall onnxruntime```
