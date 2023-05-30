@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 download and move into root folder : https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/inswapper_128.onnx
 
-For starting applications make sure that you have activated the venv
+**For starting applications make sure that you have activated the venv**
 
 ```python run.py```
 
