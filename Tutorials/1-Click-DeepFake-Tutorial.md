@@ -81,16 +81,12 @@ Currently not very ram optimized. Therefore with a short clip start with core 1.
 ```WARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='pypi.org', port=443): Read timed out. (read timeout=15)")': /simple/tensorrt/```
 
 
-### Full tutorial for how to install and use Stable Diffusion Automatic1111 Web UI: 
-**1 - https://youtu.be/AZg6vzWHOTA**
+## Full tutorial for how to install and use Stable Diffusion Automatic1111 Web UI: 
 
-**2 - https://youtu.be/aAyvsX-EpG4**
+1 - https://youtu.be/AZg6vzWHOTA
 
-Utils high quality output
+2 - https://youtu.be/aAyvsX-EpG4
 
-```
-def create_video(video_name, fps, output_dir):
-    output_dir = path(output_dir)
-    os.system(f'ffmpeg -framerate {fps} -i "{output_dir}{sep}%04d.png" -c:v libx264 -crf 7 -pix_fmt yuv420p -y "{output_dir}{sep}output.mp4"')
-```
+## Davinci Resolve Tutorial
 
+https://youtu.be/_-yYRGKyz8E
