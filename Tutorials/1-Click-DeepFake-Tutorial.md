@@ -26,15 +26,6 @@ Recommended versions: ```ONNX Runtime 1.9.0 CUDA EP``` - ```CUDA 11.4.3+cuDNN 8.
 
 **Download Installer according to your OS**
 
-### Download and setup ffmpeg
-
-* https://github.com/GyanD/codexffmpeg/releases
-* Download ffmpeg
-* Extract into any folder you want
-* Set Enviroment Path
-* Here my path
-* C:\ffmpeg-6.0-full_build hww
-
 https://developer.nvidia.com/cuda-11-4-3-download-archive
 
 * Make a Folder named NVIDIA
@@ -54,6 +45,14 @@ https://developer.nvidia.com/cuda-11-4-3-download-archive
 
 All shown in video
 
+### Download and setup ffmpeg
+
+* https://github.com/GyanD/codexffmpeg/releases
+* Download ffmpeg
+* Extract into any folder you want
+* Set Enviroment Path
+* Here my path
+* C:\ffmpeg-6.0-full_build hww
 
 ### Necessary Links and Files
 
