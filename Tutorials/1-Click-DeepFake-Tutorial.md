@@ -1,3 +1,5 @@
+Google Colab Link Works with GPU for free : https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/1_click_deep_fake_for_free_by_SECourses.ipynb
+
 ## Prerequisites
 
 ### Full tutorial for python and git installation with venv
