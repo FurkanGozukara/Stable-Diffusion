@@ -11,12 +11,15 @@ Resources shared on Patreon : https://www.patreon.com/posts/1-click-deepfake-837
 ## Prerequisites
 
 **Full tutorial for python and git installation with venv**
+
 https://youtu.be/B5U7LJOvH6g
 
 **Download and install Visual Studio 2015, 2017, 2019, and 2022 redistributable**
+
 https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 **Download and install Microsoft C++ Build Tools**
+
 https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
 **Download and install Python 3.10.9 and git**
