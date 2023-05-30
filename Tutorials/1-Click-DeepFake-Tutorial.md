@@ -22,7 +22,7 @@ Recommended versions: ```ONNX Runtime 1.9.0 CUDA EP``` - ```CUDA 11.4.3+cuDNN 8.
 
 **https://developer.nvidia.com/rdp/cudnn-archive**
 
-**Download cuDNN v8.9.0 (April 11th, 2023), for CUDA 11.x**
+Download cuDNN v8.2.4 (September 2nd, 2021), for CUDA 11.4
 
 **Download Installer according to your OS**
 
@@ -41,7 +41,7 @@ https://developer.nvidia.com/cuda-11-4-3-download-archive
 
 * C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.4\libnvvp
 * C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.4\bin
-* C:\NVIDIA\CUDNN\8.9.0.131\bin
+* C:\NVIDIA\CUDNN\8.2.4.15\bin
 
 All shown in video
 
