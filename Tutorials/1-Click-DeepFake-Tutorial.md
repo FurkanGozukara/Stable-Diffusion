@@ -1,5 +1,26 @@
 
 
+https://github.com/s0md3v/roop
+
+```git clone https://github.com/s0md3v/roop```
+
+```
+python -m venv venv
+
+cd venv
+
+cd Scripts
+
+activate
+
+cd..
+cd..
+
+pip install -r requirements.txt
+```
+
+
+
 ```pip uninstall onnxruntime```
 
 ```pip uninstall onnxruntime-gpu```
