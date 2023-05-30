@@ -48,9 +48,9 @@ cd..
 
 pip install -r requirements.txt
 
-wget https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/inswapper_128.onnx
-
 ```
+
+download and move into root folder : https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/inswapper_128.onnx
 
 ```python run.py```
 
