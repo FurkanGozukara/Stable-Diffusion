@@ -10,7 +10,9 @@
 **https://visualstudio.microsoft.com/visual-cpp-build-tools/**
 
 ### Download and install Python 3.10.9 and git
-**1 - https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe**
+**https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe**
+
+**https://git-scm.com/downloads**
 
 ### Download and install install CUDA toolkit
 
