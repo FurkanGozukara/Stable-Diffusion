@@ -67,7 +67,10 @@ cd..
 pip install -r requirements.txt
 
 pip uninstall onnxruntime onnxruntime-gpu
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu114
+pip uninstall torch
+pip uninstall torchvision
+pip uninstall torchaudio
+pip3 install torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
 pip install onnxruntime-gpu
 ```
 
