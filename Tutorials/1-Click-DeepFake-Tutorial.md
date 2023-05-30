@@ -29,9 +29,12 @@
 
 https://github.com/s0md3v/roop
 
-```git clone https://github.com/s0md3v/roop```
-
 ```
+
+git clone https://github.com/s0md3v/roop
+
+cd roop
+
 python -m venv venv
 
 cd venv
