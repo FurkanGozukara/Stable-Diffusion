@@ -56,7 +56,7 @@ download and move into root folder : https://huggingface.co/MonsterMMORPG/SECour
 
 ```python run.py --keep-frames --keep-fps ```
 
-Currently not very ram optimized. Therefore with a short clicp start with core 1. If works try 2, then 3, then 4 etc. Also if clip is too long you may also be need to reduce number of core counts. 
+Currently not very ram optimized. Therefore with a short clip start with core 1. If works try 2, then 3, then 4 etc. Also if clip is too long you may also be need to reduce number of core counts. 
 
 ```python run.py --keep-frames --keep-fps --cores 1```
 
