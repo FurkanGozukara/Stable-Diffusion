@@ -67,3 +67,12 @@ Currently not very ram optimized. Therefore with a short clip start with core 1.
 **1 - https://youtu.be/AZg6vzWHOTA**
 
 **2 - https://youtu.be/aAyvsX-EpG4**
+
+Utils high quality output
+
+```
+def create_video(video_name, fps, output_dir):
+    output_dir = path(output_dir)
+    os.system(f'ffmpeg -framerate {fps} -i "{output_dir}{sep}%04d.png" -c:v libx264 -crf 7 -pix_fmt yuv420p -y "{output_dir}{sep}output.mp4"')
+```
+
