@@ -43,6 +43,12 @@ https://git-scm.com/downloads
 
 https://github.com/s0md3v/roop
 
+Used commit hash id : e4f1d9aaff43549667f7c81c6f48a86606fb9b95
+
+If latest commit won't work for you, you can do. This is not suggested unless you have to
+
+```git checkout e4f1d9aaff43549667f7c81c6f48a86606fb9b95```
+
 ```
 
 git clone https://github.com/s0md3v/roop
