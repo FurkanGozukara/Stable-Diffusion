@@ -14,37 +14,6 @@
 
 **https://git-scm.com/downloads**
 
-### Download and install install CUDA toolkit
-
-Recommended versions: ```ONNX Runtime 1.9.0 CUDA EP``` - ```CUDA 11.4.3+cuDNN 8.2.4.15```
-
-**Requires free account register and login**
-
-**https://developer.nvidia.com/rdp/cudnn-archive**
-
-Download cuDNN v8.2.4 (September 2nd, 2021), for CUDA 11.4
-
-**Download Installer according to your OS**
-
-https://developer.nvidia.com/cuda-11-4-3-download-archive
-
-* Make a Folder named NVIDIA
-* Inside there CUDNN
-* Inside there a folder with version of CUDNN download. In my case it was 
-* Extract bin, lib, include folders from downloaded CUDNN into there
-* Everything is shown in the Tutorial video
-
-* Type search bar env
-* Open edit system enviroment variables
-* Add new
-* in my cases added values
-
-* C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.4\libnvvp
-* C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.4\bin
-* C:\NVIDIA\CUDNN\8.2.4.15\bin
-
-All shown in video
-
 ### Download and setup ffmpeg
 
 * https://github.com/GyanD/codexffmpeg/releases
@@ -78,7 +47,40 @@ pip uninstall onnxruntime onnxruntime-gpu
 pip uninstall torch
 pip uninstall torchvision
 pip uninstall torchaudio
-pip3 install torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+pip install onnxruntime-gpu
+```
+
+## This Section is for GPU
+
+**Requires free account register and login**
+
+**https://developer.nvidia.com/rdp/cudnn-archive**
+
+Download cuDNN v8.7.0 (November 28th, 2022), for CUDA 11.x 
+
+* Make a Folder named NVIDIA
+* Inside there CUDNN
+* Inside there a folder with version of CUDNN download. In my case it was 
+* Extract bin, lib, include folders from downloaded CUDNN into there
+* Everything is shown in the Tutorial video
+
+* Type search bar env
+* Open edit system enviroment variables
+* Add new
+* in my cases added values
+
+* C:\NVIDIA\CUDNN\8.7.0.84\bin
+
+All shown in video
+
+**activate venv**
+```
+pip uninstall onnxruntime onnxruntime-gpu
+pip uninstall torch
+pip uninstall torchvision
+pip uninstall torchaudio
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 pip install onnxruntime-gpu
 ```
 
