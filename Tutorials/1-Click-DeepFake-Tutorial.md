@@ -100,6 +100,9 @@ download and move into root folder : https://huggingface.co/MonsterMMORPG/SECour
 
 ```python run.py --keep-frames --keep-fps --gpu```
 
+
+If you get connection error like below re run pip install requirements 
+
 ```WARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='pypi.org', port=443): Read timed out. (read timeout=15)")': /simple/tensorrt/```
 
 ## Full tutorial for how to install and use Stable Diffusion Automatic1111 Web UI: 
