@@ -119,6 +119,8 @@ https://youtu.be/_-yYRGKyz8E
 
 ## If you get error and can't fix it (repo keep getting new updates) do these then reinstall
 
+How to do git checkout shown in this video (second 39) : https://youtu.be/KwxNcGhHuLY?t=39
+
 First clone
 
 Then checkout to specific working commit as below
