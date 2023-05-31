@@ -21,7 +21,7 @@ https://youtu.be/B5U7LJOvH6g
 
 https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
-Here screenshot of isntall click to see full size : https://i.imgur.com/7hM2Vsz.png
+Here screenshot of install of C++ > click to see : https://i.imgur.com/7hM2Vsz.png
 
 **Download and install Python 3.10.9 and git**
 
