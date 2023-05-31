@@ -102,6 +102,16 @@ download and move into root folder : https://huggingface.co/MonsterMMORPG/SECour
 
 ```WARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='pypi.org', port=443): Read timed out. (read timeout=15)")': /simple/tensorrt/```
 
+## Full tutorial for how to install and use Stable Diffusion Automatic1111 Web UI: 
+
+1 - https://youtu.be/AZg6vzWHOTA
+
+2 - https://youtu.be/aAyvsX-EpG4
+
+## Davinci Resolve Tutorial
+
+https://youtu.be/_-yYRGKyz8E
+
 ## If you get error and can't fix it (repo keep getting new updates) do these then reinstall
 
 First clone
@@ -112,12 +122,4 @@ Then checkout to specific working commit as below
 
 Then do a fresh install and start as above
 
-## Full tutorial for how to install and use Stable Diffusion Automatic1111 Web UI: 
 
-1 - https://youtu.be/AZg6vzWHOTA
-
-2 - https://youtu.be/aAyvsX-EpG4
-
-## Davinci Resolve Tutorial
-
-https://youtu.be/_-yYRGKyz8E
