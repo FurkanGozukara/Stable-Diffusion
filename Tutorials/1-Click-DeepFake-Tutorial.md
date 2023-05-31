@@ -29,18 +29,37 @@ https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe
 
 https://git-scm.com/downloads
 
-### GPU NOT WORKING ATM FOR NVIDIA WILL BE UPDATED LATER
-
 ### Download and setup ffmpeg
 
 * https://github.com/GyanD/codexffmpeg/releases
 * Download ffmpeg
 * Extract into any folder you want
+* Don't forget to have exe files in the folder
 * Set Enviroment Path
 * Here my path
 * C:\ffmpeg-6.0-full_build hww
 
-### Tne Installation
+### GPU and CuDNN Installation - Working Flawlessly On Windows VENV
+
+Download cuDNN v8.7.0 (November 28th, 2022) (https://developer.nvidia.com/rdp/cudnn-archive) , for CUDA 11.x. Requires free account register and login. Or use directly the link I given below
+
+You also need zlibwapi dll : https://stackoverflow.com/questions/72356588/could-not-locate-zlibwapi-dll-please-make-sure-it-is-in-your-library-path
+
+**Here direct link for dll files including zlibwapi.dll : https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/cudnn%208.7.0.84.zip**
+
+* Make a Folder named NVIDIA in your C drive
+* Inside there CUDNN
+* Inside there a folder with version of CUDNN C:\NVIDIA\CUDNN\8.7.0.84
+* Extract bin, lib, include folders from downloaded CUDNN into there
+* Add them to your enviroment path 
+* Here screenshots
+
+![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/8194a8e0-c8b9-4c10-8830-565217d3c69f)
+
+![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/08f95f16-aeb5-4959-9c6c-1f9332217bee)
+
+
+### The Installation
 
 https://github.com/s0md3v/roop
 
