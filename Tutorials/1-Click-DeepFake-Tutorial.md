@@ -77,11 +77,7 @@ download and move into root folder : https://huggingface.co/MonsterMMORPG/SECour
 
 Currently setting cores count 1 uses all cores but much lesser ram. When you watching this video first try --cores 1. Then once it is successfull you can try more cores. This reduces RAM usage significantly. 
 
-this is older commit use below for latest commit
-```python run.py --keep-frames --keep-fps --cores 1```
-
 ```python run.py --keep-frames --keep-fps --max-cores 1```
-
 
 ```WARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='pypi.org', port=443): Read timed out. (read timeout=15)")': /simple/tensorrt/```
 
@@ -103,3 +99,4 @@ Used commit hash id : e4f1d9aaff43549667f7c81c6f48a86606fb9b95
 If latest commit won't work for you, you can do. This is not suggested unless you have to
 
 ```git checkout e4f1d9aaff43549667f7c81c6f48a86606fb9b95```
+```python run.py --keep-frames --keep-fps --cores 1```
