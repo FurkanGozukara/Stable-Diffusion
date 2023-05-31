@@ -81,6 +81,11 @@ Currently setting cores count 1 uses all cores but much lesser ram. When you wat
 
 ```WARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='pypi.org', port=443): Read timed out. (read timeout=15)")': /simple/tensorrt/```
 
+## If you get error do these then start venv
+
+```git checkout e4f1d9aaff43549667f7c81c6f48a86606fb9b95```
+```python run.py --keep-frames --keep-fps --cores 1```
+
 
 ## Full tutorial for how to install and use Stable Diffusion Automatic1111 Web UI: 
 
