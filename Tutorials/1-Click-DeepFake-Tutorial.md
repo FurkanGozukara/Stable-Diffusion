@@ -45,7 +45,7 @@ Download cuDNN v8.7.0 (November 28th, 2022) (https://developer.nvidia.com/rdp/cu
 
 You also need zlibwapi dll : https://stackoverflow.com/questions/72356588/could-not-locate-zlibwapi-dll-please-make-sure-it-is-in-your-library-path
 
-**Here direct link for dll files including zlibwapi.dll : https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/cudnn%208.7.0.84.zip**
+**Here direct link for CuDNN dll files including zlibwapi.dll : https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/cudnn%208.7.0.84.zip**
 
 * Make a Folder named NVIDIA in your C drive
 * Inside there CUDNN
