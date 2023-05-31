@@ -126,9 +126,11 @@ First clone
 Then checkout to specific working commit as below
 
 Only CPU working commit
+
 ```git checkout e4f1d9aaff43549667f7c81c6f48a86606fb9b95```
 
 GPU + CPU working commit (you need cudnn files in path)
+
 ```git checkout ab2fc1c221b78b2a57f2e971cf5064da089b576f```
 
 
