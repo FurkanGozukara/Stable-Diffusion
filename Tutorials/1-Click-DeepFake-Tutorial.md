@@ -115,13 +115,20 @@ If you get connection error like below re run pip install requirements
 
 https://youtu.be/_-yYRGKyz8E
 
+
+
 ## If you get error and can't fix it (repo keep getting new updates) do these then reinstall
 
 First clone
 
 Then checkout to specific working commit as below
 
+CPU working commit
 ```git checkout e4f1d9aaff43549667f7c81c6f48a86606fb9b95```
+
+GPU working commit
+```git checkout ab2fc1c221b78b2a57f2e971cf5064da089b576f```
+
 
 Then do a fresh install and start as above
 
