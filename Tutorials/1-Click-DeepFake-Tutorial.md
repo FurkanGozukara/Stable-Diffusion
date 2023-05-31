@@ -92,9 +92,13 @@ download and move into root folder : https://huggingface.co/MonsterMMORPG/SECour
 
 ```python run.py --keep-frames --keep-fps ```
 
-Currently setting cores count 1 uses all cores but much lesser ram. When you watching this video first try --cores 1. Then once it is successfull you can try more cores. This reduces RAM usage significantly. 
-
 ```python run.py --keep-frames --keep-fps --max-cores 1```
+
+**To Start With GPU add --gpu**
+
+```python run.py --gpu```
+
+```python run.py --keep-frames --keep-fps --gpu```
 
 ```WARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='pypi.org', port=443): Read timed out. (read timeout=15)")': /simple/tensorrt/```
 
