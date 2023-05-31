@@ -21,6 +21,8 @@ https://youtu.be/B5U7LJOvH6g
 
 https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
+[Here screenshot of isntall](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/9236dc1a-fa58-4deb-9ae8-03717c2c70e6)
+
 **Download and install Python 3.10.9 and git**
 
 https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe
