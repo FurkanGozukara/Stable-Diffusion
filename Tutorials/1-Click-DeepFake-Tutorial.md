@@ -13,6 +13,8 @@ Stable Diffusion tutorials : https://github.com/FurkanGozukara/Stable-Diffusion
 
 ## Prerequisites
 
+### Step 1 : Python
+
 **Full tutorial for python and git installation with venv**
 
 https://youtu.be/B5U7LJOvH6g
@@ -29,7 +31,7 @@ https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe
 
 https://git-scm.com/downloads
 
-### Download and setup ffmpeg
+### Step 2 : Download and setup ffmpeg
 
 * https://github.com/GyanD/codexffmpeg/releases
 * Download ffmpeg
@@ -39,7 +41,7 @@ https://git-scm.com/downloads
 * Here my path
 * C:\ffmpeg-6.0-full_build hww
 
-### GPU and CuDNN Installation - Working Flawlessly On Windows VENV
+### Step 3 : GPU and CuDNN Installation - Working Flawlessly On Windows VENV
 
 Download cuDNN v8.7.0 (November 28th, 2022) (https://developer.nvidia.com/rdp/cudnn-archive) , for CUDA 11.x. Requires free account register and login. Or use directly the link I given below
 
@@ -58,7 +60,7 @@ You also need zlibwapi dll : https://stackoverflow.com/questions/72356588/could-
 
 ![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/08f95f16-aeb5-4959-9c6c-1f9332217bee)
 
-### Download and install CUDA Toolkit 11.4 Update 3. If you have other cuda installations, make this one's path is the first one in enviroment variables
+### Step 4 : Download and install CUDA Toolkit 11.4 Update 3. If you have other cuda installations, make this one's path is the first one in enviroment variables
 
 This fixes ```Could not load dynamic library 'cudart64_110.dll'; dlerror: cudart64_110.dll not found```
 
@@ -70,7 +72,9 @@ Here how my path is set
 
 ![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/3a635a3b-f606-4ff6-8f5f-e38f8fc8954a)
 
-### The Installation
+### Step 5 : The Installation
+
+***Currently 4:12 AM UTC+3, 1 June, only this commit working : ab2fc1c221b78b2a57f2e971cf5064da089b576f***
 
 https://github.com/s0md3v/roop
 
