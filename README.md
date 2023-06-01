@@ -217,16 +217,16 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [**How To Install And Use Kohya LoRA GUI / Web UI on RunPod IO With Stable Diffusion & Automatic1111**](https://youtu.be/3uzCNrQao3o)
 
-[![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/0c9c3f7d-c308-4793-b790-999fdc271372)](https://youtu.be/3uzCNrQao3o)
+[![image](https://i.imgur.com/q7FPRIO.png)](https://youtu.be/3uzCNrQao3o)
 
 34.) PC - Google Colab - Free
 
 [**Mind-Blowing Deepfake Tutorial: Turn Anyone into Your Favorite Movie Star! PC & Google Colab - roop**](https://youtu.be/OI1LEN-SgLM)
 
-[![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/4ce2ccf1-e5fd-4afd-a7ff-a8b65b69adc6)](https://youtu.be/OI1LEN-SgLM)
+[![image](https://i.imgur.com/ICWeeV0.png)](https://youtu.be/OI1LEN-SgLM)
 
 35.) Automatic1111 Web UI - PC - Free
 
 [**Stable Diffusion Now Has The Photoshop Generative Fill Feature With ControlNet Extension - Tutorial**](https://youtu.be/ot5GkaxHPzk)
 
-[![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/4065213e-fcd6-433a-9f42-6465ccd6a8a5)](https://youtu.be/ot5GkaxHPzk)
+[![image](https://i.imgur.com/tczj7YC.png)](https://youtu.be/ot5GkaxHPzk)
