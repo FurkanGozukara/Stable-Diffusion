@@ -74,7 +74,7 @@ Here how my path is set
 
 ### Step 5 : The Installation
 
-***Currently 4:12 AM UTC+3, 1 June, only this commit working : ab2fc1c221b78b2a57f2e971cf5064da089b576f***
+***Currently 11:21 PM UTC+3, 1 June, latest version working - 61c8f06c98055b8e0c3ced91ec35a23273bad694***
 
 https://github.com/s0md3v/roop
 
@@ -99,9 +99,26 @@ pip install -r requirements.txt
 
 ```
 
-download and move into root folder : https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/inswapper_128.onnx
+### Step 6 : Activate venv once again
 
-**For starting applications make sure that you have activated the venv**
+**Execute below commands 1 by 1**
+
+```
+pip uninstall onnxruntime onnxruntime-gpu
+
+pip install torch torchvision torchaudio --force-reinstall --index-url https://download.pytorch.org/whl/cu118
+
+pip install onnxruntime-gpu
+
+```
+
+### Step 7 : inswapper_128 model file
+
+Download and move into root folder : https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/inswapper_128.onnx
+
+### How to use
+
+**For starting applications make sure that you have activated the venv and moved back into roop folder**
 
 ```python run.py```
 
@@ -131,7 +148,6 @@ If you get connection error like below re run pip install requirements
 https://youtu.be/_-yYRGKyz8E
 
 
-
 ## If you get error and can't fix it (repo keep getting new updates) do these then reinstall
 
 How to do git checkout shown in this video (second 39) : https://youtu.be/KwxNcGhHuLY?t=39
@@ -146,9 +162,7 @@ Only CPU working commit
 
 GPU + CPU working commit (you need cudnn files in path)
 
-```git checkout ab2fc1c221b78b2a57f2e971cf5064da089b576f```
+```git checkout 61c8f06c98055b8e0c3ced91ec35a23273bad694```
 
 
 Then do a fresh install and start as above
-
-
