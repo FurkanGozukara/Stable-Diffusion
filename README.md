@@ -224,3 +224,9 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 [**Mind-Blowing Deepfake Tutorial: Turn Anyone into Your Favorite Movie Star! PC & Google Colab - roop**](https://youtu.be/OI1LEN-SgLM)
 
 [![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/4ce2ccf1-e5fd-4afd-a7ff-a8b65b69adc6)](https://youtu.be/OI1LEN-SgLM)
+
+35.) Automatic1111 Web UI - PC - Free
+
+[**Stable Diffusion Now Has The Photoshop Generative Fill Feature With ControlNet Extension - Tutorial**](https://youtu.be/ot5GkaxHPzk)
+
+[![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/4065213e-fcd6-433a-9f42-6465ccd6a8a5)](https://youtu.be/ot5GkaxHPzk)
