@@ -229,4 +229,4 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [**Stable Diffusion Now Has The Photoshop Generative Fill Feature With ControlNet Extension - Tutorial**](https://youtu.be/ot5GkaxHPzk)
 
-[![image](https://i.imgur.com/tczj7YC.png)](https://youtu.be/ot5GkaxHPzk)
+[![image](https://i.imgur.com/Cf4z9J7.png)](https://youtu.be/ot5GkaxHPzk)
