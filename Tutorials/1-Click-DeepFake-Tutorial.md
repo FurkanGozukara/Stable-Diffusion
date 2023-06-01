@@ -105,11 +105,14 @@ pip install -r requirements.txt
 
 ```
 pip uninstall onnxruntime onnxruntime-gpu
+```
 
+```
 pip install torch torchvision torchaudio --force-reinstall --index-url https://download.pytorch.org/whl/cu118
+```
 
+```
 pip install onnxruntime-gpu
-
 ```
 
 ### Step 7 : inswapper_128 model file
