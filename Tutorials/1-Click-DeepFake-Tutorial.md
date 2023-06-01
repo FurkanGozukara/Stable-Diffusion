@@ -45,6 +45,16 @@ Download cuDNN v8.7.0 (November 28th, 2022) (https://developer.nvidia.com/rdp/cu
 
 You also need zlibwapi dll : https://stackoverflow.com/questions/72356588/could-not-locate-zlibwapi-dll-please-make-sure-it-is-in-your-library-path
 
+### Download and install CUDA Toolkit 11.4 Update 3. If you have other cuda installations, make this one's path is the first one in enviroment variables
+
+Download link for windows 10. Requires register (free) and login : https://developer.nvidia.com/cuda-11-4-3-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local
+
+The exe file name i used : cuda_11.4.3_472.50_win10.exe
+
+Here how my path is set 
+
+![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/3a635a3b-f606-4ff6-8f5f-e38f8fc8954a)
+
 **Here direct link for CuDNN dll files including zlibwapi.dll : https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/cudnn%208.7.0.84.zip**
 
 * Make a Folder named NVIDIA in your C drive
