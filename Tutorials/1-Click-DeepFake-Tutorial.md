@@ -123,18 +123,27 @@ Download and move into root folder : https://huggingface.co/MonsterMMORPG/SECour
 
 **For starting applications make sure that you have activated the venv and moved back into roop folder**
 
-```python run.py```
+```
+python run.py
+```
 
-```python run.py --keep-frames --keep-fps ```
+```
+python run.py --keep-frames --keep-fps 
+```
 
-```python run.py --keep-frames --keep-fps --max-cores 1```
+```
+python run.py --keep-frames --keep-fps --max-cores 1
+```
 
 **To Start With GPU add --gpu**
 
-```python run.py --gpu```
+```
+python run.py --gpu
+```
 
-```python run.py --keep-frames --keep-fps --gpu```
-
+```
+python run.py --keep-frames --keep-fps --gpu
+```
 
 If you get connection error like below re run pip install requirements 
 
@@ -149,6 +158,10 @@ If you get connection error like below re run pip install requirements
 ## Davinci Resolve Tutorial
 
 https://youtu.be/_-yYRGKyz8E
+
+## To Install On AMD or MAC or Linux PCs
+
+https://github.com/s0md3v/roop/wiki/2.-GPU-Acceleration
 
 
 ## If you get error and can't fix it (repo keep getting new updates) do these then reinstall
