@@ -47,6 +47,8 @@ You also need zlibwapi dll : https://stackoverflow.com/questions/72356588/could-
 
 ### Download and install CUDA Toolkit 11.4 Update 3. If you have other cuda installations, make this one's path is the first one in enviroment variables
 
+This fixes ```Could not load dynamic library 'cudart64_110.dll'; dlerror: cudart64_110.dll not found```
+
 Download link for windows 10. Requires register (free) and login : https://developer.nvidia.com/cuda-11-4-3-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local
 
 The exe file name i used : cuda_11.4.3_472.50_win10.exe
