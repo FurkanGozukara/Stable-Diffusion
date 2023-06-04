@@ -101,6 +101,13 @@ pip install -r requirements.txt
 
 ### Step 6 : Activate venv once again
 
+Ignore errors if you get such as below
+
+```
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+tensorflow-intel 2.12.0 requires numpy<1.24,>=1.22, but you have numpy 1.24.1 which is incompatible.
+```
+
 **Execute below commands 1 by 1**
 
 ```
