@@ -78,7 +78,7 @@ Select option 1 to install with torch v1.12
 Select option 2 to install with torch v2
 
 
-### Commands
+### Commands - I suggest you to install torch 1.13, xformers 21 and then execute cudnn py file
 
 ```
 python .\tools\cudann_1.8_install.py
@@ -112,6 +112,10 @@ pip install https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/xformers
 
 ```
 pip install https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/xformers-0.0.21.dev541-cp310-cp310-manylinux2014_x86_64.whl
+```
+
+```
+python .\tools\cudann_1.8_install.py
 ```
 
 ```--gpu_ids=1```
