@@ -65,6 +65,14 @@ cuDNN v8.7.0 For CUDA 11.x
 
 https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/cudnn%208.7.0.84.zip
 
+
+### Installation changed a little bit after my video
+
+Select option 1 to install with torch v1.12
+
+Select option 2 to install with torch v2
+
+
 ### Commands
 
 ```
