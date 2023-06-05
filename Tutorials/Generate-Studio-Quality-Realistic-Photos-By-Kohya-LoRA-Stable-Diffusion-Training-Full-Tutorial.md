@@ -63,7 +63,7 @@ https://huggingface.co/stabilityai/sd-vae-ft-mse-original/blob/main/vae-ft-mse-8
 
 cuDNN v8.7.0 For CUDA 11.x
 
-https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/cudnn%208.7.0.84.zip
+https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/cudnn_windows%20v8.7.0.zip
 
 
 ### Installation changed a little bit after my video
