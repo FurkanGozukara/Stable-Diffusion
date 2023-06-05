@@ -1,7 +1,9 @@
 
 # Generate Studio Quality Realistic Photos By Kohya LoRA Stable Diffusion Training - Full Tutorial
 
-## Tested and verified to be working with Torch 1 - 5 June 2023
+## Tested and verified to be working with Torch 1 - 5 June 2023 but only specific commit
+
+### After git clone do git checkout 63657088f4c35a376dd8a936f53e9b9a3b4b1168
 
 ### Tested settings
 * AdamW optimizer default LR
@@ -88,6 +90,14 @@ Select option 2 to install with torch v2
 
 
 ### Commands - I suggest you to install torch 1.13, xformers 21 and then execute cudnn py file
+
+As june 5 latest commit not working
+
+The working previous commit with below torch and cudnn. do git checkout after cloning 
+
+```
+git checkout 63657088f4c35a376dd8a936f53e9b9a3b4b1168
+```
 
 ```
 python .\tools\cudann_1.8_install.py
