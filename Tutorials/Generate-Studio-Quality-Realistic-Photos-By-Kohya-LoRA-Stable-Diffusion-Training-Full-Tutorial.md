@@ -2,8 +2,8 @@
 # Generate Studio Quality Realistic Photos By Kohya LoRA Stable Diffusion Training - Full Tutorial
 
 ## Tested and verified to be working with Torch 1 - 5 June 2023
-**Use AdamW if AdamW8bit fails**
-**Use fp16 if bf16 fails**
+```Use AdamW if AdamW8bit fails```
+```Use fp16 if bf16 fails```
 
 ## Tutorial Video : https://youtu.be/TpuDOsuKIBo
 
