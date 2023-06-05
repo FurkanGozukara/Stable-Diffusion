@@ -94,6 +94,10 @@ Set cuda visible devince only 1
 setx CUDA_VISIBLE_DEVICES 1
 ``` 
 
+``` 
+pip uninstall torch torchvision torchaudio
+``` 
+
 ```
 pip3 install torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
 ```
