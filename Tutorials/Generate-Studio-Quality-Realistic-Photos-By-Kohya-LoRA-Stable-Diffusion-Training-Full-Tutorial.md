@@ -16,7 +16,7 @@
 
 ```Use fp16 mixed precision if bf16 fails```
 
-### When you read this if works but it doesn't train do this
+### When you read this if works but if not learns
 
 Make a new install 
 
