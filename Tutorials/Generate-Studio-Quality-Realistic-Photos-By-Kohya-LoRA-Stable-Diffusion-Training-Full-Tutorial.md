@@ -57,22 +57,40 @@ Best VAE file to set as default to generate images
 
 https://huggingface.co/stabilityai/sd-vae-ft-mse-original/blob/main/vae-ft-mse-840000-ema-pruned.ckpt 
 
-cudnn 8.6 files for torch 1.12
+cuDNN v8.7.0 For CUDA 11.x
 
-https://b1.thefileditch.ch/mwxKTEtelILoIbMbruuM.zip
+https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/cudnn%208.7.0.84.zip
 
 ### Commands
 
-```python .\tools\cudann_1.8_install.py```
+```
+python .\tools\cudann_1.8_install.py
+```
 
-```gui.bat --listen 127.0.0.1 --server_port 7860 --inbrowser```
+```
+gui.bat --listen 127.0.0.1 --server_port 7860 --inbrowser
+```
 
-set cuda visible devince only 1
+Set cuda visible devince only 1
 
-```setx CUDA_VISIBLE_DEVICES 1``` 
+```
+setx CUDA_VISIBLE_DEVICES 1
+``` 
 
-```pip3 install torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117```
+```
+pip3 install torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+```
 
-```pip install https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/xformers-0.0.18.dev489-cp310-cp310-win_amd64.whl```
+**This below link is only compatiable with Python 3.10.x and Torch 1.13 and Windows**
+
+```
+pip install https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/xformers-0.0.21.dev541-cp310-cp310-win_amd64.whl
+```
+
+**This below link is only compatiable with Python 3.10.x and Torch 1.13 and Unix/Linux/RunPod**
+
+```
+pip install https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/xformers-0.0.21.dev541-cp310-cp310-manylinux2014_x86_64.whl
+```
 
 ```--gpu_ids=1```
