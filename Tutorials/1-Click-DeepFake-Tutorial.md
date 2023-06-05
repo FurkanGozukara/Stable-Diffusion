@@ -128,6 +128,19 @@ Download and move into root folder : https://huggingface.co/MonsterMMORPG/SECour
 
 ### How to use
 
+**Quick start .bat file**
+
+Save below file as .bat file also modify the path according to yours
+
+```
+@echo off
+cd /d C:\AI\ROOP\roop\venv\Scripts
+call activate
+cd /d C:\AI\ROOP\roop
+python run.py --gpu
+python run.py --keep-frames --keep-fps --gpu-vendor nvidia
+```
+
 **For starting applications make sure that you have activated the venv and moved back into roop folder**
 
 ```
