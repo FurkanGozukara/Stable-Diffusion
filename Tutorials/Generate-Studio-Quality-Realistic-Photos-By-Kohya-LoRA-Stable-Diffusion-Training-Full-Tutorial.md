@@ -9,7 +9,7 @@
 * cuDNN 8.7.0
 * bf16
 * xformers v21
-* 4.55 it/s on RTX 3090 for 512px 128 rank
+* 3.5-4.5 it/s on RTX 3090 for 512px 128 rank
 
 ```Use AdamW optimizer if AdamW8bit fails```
 
