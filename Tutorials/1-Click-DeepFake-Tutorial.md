@@ -74,7 +74,7 @@ Here how my path is set
 
 ### Step 5 : The Installation
 
-***Currently 11:21 PM UTC+3, 1 June, latest version working - 61c8f06c98055b8e0c3ced91ec35a23273bad694***
+***Currently 11:21 PM UTC+3, 6 June, latest version working - 30713c3c0e51ef93069977fc275f0cd0361e61c7***
 
 https://github.com/s0md3v/roop
 
