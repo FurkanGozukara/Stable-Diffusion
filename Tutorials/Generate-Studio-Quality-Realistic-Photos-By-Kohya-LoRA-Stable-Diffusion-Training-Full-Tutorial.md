@@ -95,7 +95,7 @@ setx CUDA_VISIBLE_DEVICES 1
 ``` 
 
 ```
-pip3 install torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+pip3 install torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
 ```
 
 **This below link is only compatiable with Python 3.10.x and Torch 1.13 and Windows**
