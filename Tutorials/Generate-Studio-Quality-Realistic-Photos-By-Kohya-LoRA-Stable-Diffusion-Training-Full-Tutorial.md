@@ -19,8 +19,12 @@ Steps: 30, Sampler: DPM++ SDE Karras, CFG scale: 5, Seed: 1117571876, Size: 640x
 I changed the Gray color with other colors like red blue yellow etc.
 ```
 
+### 2700 real classification images - performs better for reality with (512x512), (512x768), (768x512), (640x960), (960x640), (768x1024), (1024x768) aspect ratios
+**https://www.patreon.com/posts/4k-2700-real-84053021**
+
 ### 2071 classification / regularization images of Realistic Vision 2
 **https://www.patreon.com/posts/realistic-vision-82085317** 
+
 
 ### PDF file mentioned in the tutorial video:
 **https://www.patreon.com/posts/kohya-ss-lora-82085260**
