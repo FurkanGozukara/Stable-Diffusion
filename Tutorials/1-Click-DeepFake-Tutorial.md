@@ -191,9 +191,9 @@ Only CPU working commit
 
 ```git checkout e4f1d9aaff43549667f7c81c6f48a86606fb9b95```
 
-GPU + CPU working commit (you need cudnn files in path)
+GPU + CPU working commit (you need cudnn files in path) 6 June 2023
 
-```git checkout 61c8f06c98055b8e0c3ced91ec35a23273bad694```
+```git checkout 30713c3c0e51ef93069977fc275f0cd0361e61c7```
 
 
 Then do a fresh install and start as above
