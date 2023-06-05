@@ -102,7 +102,7 @@ Select option 2 to install with torch v2
 
 ### Commands - I suggest you to install torch 1.13, xformers 21 and then execute cudnn py file
 
-As june 5 latest commit not working
+As june 5 latest commit works but do not learn
 
 The working previous commit with below torch and cudnn. do git checkout after cloning 
 
