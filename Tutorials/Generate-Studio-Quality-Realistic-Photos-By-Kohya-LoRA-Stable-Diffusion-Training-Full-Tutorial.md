@@ -2,6 +2,15 @@
 # Generate Studio Quality Realistic Photos By Kohya LoRA Stable Diffusion Training - Full Tutorial
 
 ## Tested and verified to be working with Torch 1 - 5 June 2023
+
+### Tested settings
+* AdamW optimizer default LR
+* Torch 1.13
+* cuDNN 8.7.0
+* bf16
+* xformers v21
+* 4.55 it/s on RTX 3090 for 512px 128 rank
+
 ```Use AdamW optimizer if AdamW8bit fails```
 
 ```Use fp16 mixed precision if bf16 fails```
