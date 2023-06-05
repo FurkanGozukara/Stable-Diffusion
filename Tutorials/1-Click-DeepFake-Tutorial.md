@@ -137,7 +137,6 @@ Save below file as .bat file also modify the path according to yours
 cd /d C:\AI\ROOP\roop\venv\Scripts
 call activate
 cd /d C:\AI\ROOP\roop
-python run.py --gpu
 python run.py --keep-frames --keep-fps --gpu-vendor nvidia
 ```
 
