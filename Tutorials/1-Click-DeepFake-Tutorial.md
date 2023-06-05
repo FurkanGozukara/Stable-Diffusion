@@ -148,8 +148,16 @@ python run.py --keep-frames --keep-fps --max-cores 1
 python run.py --gpu
 ```
 
+older commit below
+
 ```
 python run.py --keep-frames --keep-fps --gpu
+```
+
+newest commit below - options are apple, amd, intel, nvidia
+
+```
+python run.py --keep-frames --keep-fps --gpu--vendor nvidia
 ```
 
 If you get connection error like below re run pip install requirements 
