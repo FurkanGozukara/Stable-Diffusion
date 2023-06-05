@@ -1,11 +1,10 @@
 
 # Generate Studio Quality Realistic Photos By Kohya LoRA Stable Diffusion Training - Full Tutorial
 
-## Tested and verified to be working with Torch 1 - 5 June 2023 but only specific commit
-
-### After git clone do git checkout 63657088f4c35a376dd8a936f53e9b9a3b4b1168
+## Tested and verified to be working with Torch 1 - 5 June 2023 but not learning. Use below given commit
 
 ### Tested settings
+
 * AdamW optimizer default LR
 * Torch 1.13
 * cuDNN 8.7.0
@@ -16,6 +15,18 @@
 ```Use AdamW optimizer if AdamW8bit fails```
 
 ```Use fp16 mixed precision if bf16 fails```
+
+### When you read this if works but it doesn't train do this
+
+Make a new install 
+
+Start git clone then
+
+```
+git checkout 63657088f4c35a376dd8a936f53e9b9a3b4b1168
+```
+
+Then follow below steps
 
 ## Tutorial Video : https://youtu.be/TpuDOsuKIBo
 
