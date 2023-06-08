@@ -11,8 +11,21 @@ ffmpeg -i "org.mp4" -vf "fps=30.00" -start_number 100000 -q:v 1 %06d.png
 ``` 
 
 ## cuda check script
+### dont forget to change cudnn file path
 ``` 
+import ctypes
 import torch
+
+def get_cudnn_version(file_path):
+    try:
+        cudnn = ctypes.WinDLL(file_path)
+        cudnn_version = cudnn.cudnnGetVersion()
+        major = cudnn_version // 1000
+        minor = (cudnn_version // 100) % 10
+        patch = cudnn_version % 100
+        return f"CUDNN version: {major}.{minor}.{patch}"
+    except OSError as e:
+        return f"Error: {str(e)}"
 
 def display_cuda_info():
     if torch.cuda.is_available():
@@ -37,9 +50,15 @@ def display_cuda_info():
             gpu_compute_capability = torch.cuda.get_device_capability(i)
             print("Compute Capability:", gpu_compute_capability)
             
+            # CUDNN version
+            cudnn_file_path = r"C:\automatic_web_ui\venv\Lib\site-packages\torch\lib\cudnn64_8.dll"
+            cudnn_version = get_cudnn_version(cudnn_file_path)
+            print(cudnn_version)
+            
     else:
         print("CUDA is not available on this system.")
 
-# Display CUDA information
+# Display CUDA and CUDNN information
 display_cuda_info()
+
 ``` 
