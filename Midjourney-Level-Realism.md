@@ -29,6 +29,8 @@ Eye-catching, full-body Instagram post of an (ohwx man:1.1). (Lifestyle influenc
 
 ```handsome portrait photo of (ohwx man) wearing a space armor on a space station, hdr, canon, hd, 8k, 4k, sharp focus```
 
+```portrait photo of (ohwx man:1.1) wearing an expensive White suit, white background, fit```
+
 #### Negative prompt:
 
 ```(blue eyes, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.4), fat, text, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck```
