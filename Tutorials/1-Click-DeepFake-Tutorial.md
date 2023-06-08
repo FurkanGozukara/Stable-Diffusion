@@ -20,19 +20,25 @@ Stable Diffusion tutorials : https://github.com/FurkanGozukara/Stable-Diffusion
 
 https://youtu.be/B5U7LJOvH6g
 
-**Download and install Microsoft C++ Build Tools**
-
-https://visualstudio.microsoft.com/visual-cpp-build-tools/
-
-Here screenshot of install of C++ > click to see : https://i.imgur.com/7hM2Vsz.png
-
 **Download and install Python 3.10.9 and git**
 
 https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe
 
 https://git-scm.com/downloads
 
-### Step 2 : Download and setup ffmpeg
+### Step 2 : Microsoft C++ Tools
+
+**Download and install Microsoft C++ Build Tools**
+
+https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
+Here screenshot of install of C++ > click to see : https://i.imgur.com/7hM2Vsz.png
+
+Here installed packages in my system below
+
+https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/7313faa8-facc-4fbc-a5f2-8fb96555df2b
+
+### Step 3 : Download and setup ffmpeg
 
 * https://github.com/GyanD/codexffmpeg/releases
 * Download ffmpeg
@@ -42,7 +48,7 @@ https://git-scm.com/downloads
 * Here my path
 * C:\ffmpeg-6.0-full_build hww
 
-### Step 3 : GPU and CuDNN Installation - Working Flawlessly On Windows VENV
+### Step 4 : GPU and CuDNN Installation - Working Flawlessly On Windows VENV
 
 Download cuDNN v8.7.0 (November 28th, 2022) (https://developer.nvidia.com/rdp/cudnn-archive) , for CUDA 11.x. Requires free account register and login. Or use directly the link I given below
 
@@ -61,7 +67,7 @@ You also need zlibwapi dll : https://stackoverflow.com/questions/72356588/could-
 
 ![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/08f95f16-aeb5-4959-9c6c-1f9332217bee)
 
-### Step 4 : Download and install CUDA Toolkit 11.4 Update 3. If you have other cuda installations, make this one's path is the first one in enviroment variables
+### Step 5 : Download and install CUDA Toolkit 11.4 Update 3. If you have other cuda installations, make this one's path is the first one in enviroment variables
 
 This fixes ```Could not load dynamic library 'cudart64_110.dll'; dlerror: cudart64_110.dll not found```
 
@@ -73,7 +79,7 @@ Here how my path is set
 
 ![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/3a635a3b-f606-4ff6-8f5f-e38f8fc8954a)
 
-### Step 5 : The Installation
+### Step 6 : The Installation
 
 ***Currently 11:21 PM UTC+3, 6 June, latest version working - 30713c3c0e51ef93069977fc275f0cd0361e61c7***
 
@@ -100,7 +106,7 @@ pip install -r requirements.txt
 
 ```
 
-### Step 6 : Activate venv once again
+### Step 7 : Activate venv once again
 
 Ignore errors if you get such as below
 
@@ -123,7 +129,7 @@ pip install torch torchvision torchaudio --force-reinstall --index-url https://d
 pip install onnxruntime-gpu
 ```
 
-### Step 7 : inswapper_128 model file
+### Step 8 : inswapper_128 model file
 
 Download and move into root folder : https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/inswapper_128.onnx
 
