@@ -24,6 +24,12 @@ cd scripts
 activate
 ```
 
+Then we reinstall xformers
+```
+pip uninstall -y xformers
+pip install xformers
+```
+
 Install Torch 2 with below command
 
 ```
