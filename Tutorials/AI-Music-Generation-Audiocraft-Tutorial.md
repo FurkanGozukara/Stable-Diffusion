@@ -37,3 +37,9 @@ cd..
 cd..
 pip install -e .
 ```
+
+Then we are ready to start the application. Whenever you start the application you need to activate venv. For activating venv open a new cmd window in cloned repo, execute below command and it will work
+```
+call .\venv\Scripts\activate.bat
+python app.py
+```
