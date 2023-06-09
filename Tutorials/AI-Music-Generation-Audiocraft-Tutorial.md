@@ -12,6 +12,7 @@ git clone https://github.com/facebookresearch/audiocraft
 Move into cloned folder audiocraft. Make a new venv with the below command
 
 ```
+cd audiocraft
 python -m venv venv
 ```
 
