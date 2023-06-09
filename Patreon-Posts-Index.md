@@ -12,6 +12,11 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### June 9 - 2023
+2 Pre-Processing Scripts And 3 Datasets Of Processed Class Images For Popular Models
+
+Link : https://www.patreon.com/posts/84292083
+
 ### June 6 - 2023
 Mind-Blowing Deepfake Tutorial: Turn Anyone into Your Favorite Movie Star! PC & Google Colab - roop
 
