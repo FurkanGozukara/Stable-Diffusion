@@ -93,7 +93,17 @@ Midjourney Level Style Trained Model
 
 Link : https://www.patreon.com/posts/midjourney-level-80356527
 
-### March 22 - 2023
+### March 19 - 2023
 Style Teaching & Aesthetic Dataset
 
 Link : https://www.patreon.com/posts/style-teaching-80233878
+
+### January 28 - 2023
+How To Achieve Synchronization In C# While Doing Async Await Multithreaded Programming - .NET Core
+
+Link : https://www.patreon.com/posts/how-to-achieve-c-77858916
+
+### December 27 - 2023
+File Verification Software Source Code
+
+Link : https://www.patreon.com/posts/file-software-76398813
