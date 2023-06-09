@@ -108,6 +108,10 @@ These parameters, such as top-k, top-p, temperature, and classifier-free guidanc
 
 My python is 3.10.9
 
+For installing specific version of a library use following format
+
+```pip install treetable==0.2.5```
+
 ```
 aiofiles==23.1.0
 aiohttp==3.8.4
