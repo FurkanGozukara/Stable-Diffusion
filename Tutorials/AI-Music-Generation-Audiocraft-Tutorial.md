@@ -24,7 +24,7 @@ cd scripts
 activate
 ```
 
-Install Torch 2 with below command
+Install Torch 2 and gradio with below command
 
 ```
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
@@ -38,10 +38,11 @@ cd..
 pip install -e .
 ```
 
-Then we reinstall xformers
+Then we reinstall xformers and we install gradio
 ```
 pip uninstall -y xformers
 pip install xformers
+pip install gradio
 ```
 
 Then we are ready to start the application. Whenever you start the application you need to activate venv. For activating venv open a new cmd window in cloned repo, execute below command and it will work
