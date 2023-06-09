@@ -8,6 +8,8 @@ Google Colab Link Works with GPU for free : https://colab.research.google.com/gi
 ## Example Resources and More Help
 **Auto install and run scripts : https://www.patreon.com/posts/ai-music-auto-84334460**
 
+**My all Patreon sharings list : https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Patreon-Posts-Index.md**
+
 Stable Diffusion tutorials : https://github.com/FurkanGozukara/Stable-Diffusion
 
 ## Prerequisites
