@@ -29,3 +29,11 @@ Install Torch 2 with below command
 ```
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
+
+Return back into main folder with below command and execute install requirements
+
+```
+cd..
+cd..
+pip install -e .
+```
