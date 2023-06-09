@@ -24,12 +24,6 @@ cd scripts
 activate
 ```
 
-Then we reinstall xformers
-```
-pip uninstall -y xformers
-pip install xformers
-```
-
 Install Torch 2 with below command
 
 ```
@@ -42,6 +36,12 @@ Return back into main folder with below command and execute install requirements
 cd..
 cd..
 pip install -e .
+```
+
+Then we reinstall xformers
+```
+pip uninstall -y xformers
+pip install xformers
 ```
 
 Then we are ready to start the application. Whenever you start the application you need to activate venv. For activating venv open a new cmd window in cloned repo, execute below command and it will work
