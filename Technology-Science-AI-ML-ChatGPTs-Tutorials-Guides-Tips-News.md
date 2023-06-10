@@ -97,3 +97,10 @@ Playlist link on YouTube: [**Technology & Science: News, Tips, Tutorials, Tricks
 [**How to Automate Image Processing in Photoshop By Recording Actions and Batch Scripts**](https://youtu.be/j3BeppKuYu4)
 
 [![image](https://user-images.githubusercontent.com/19240467/236651038-a041c594-e57f-4b9d-a009-f066103906f7.png)](https://youtu.be/j3BeppKuYu4)
+
+
+PC - Colab - Free
+
+[**Audiocraft / MusicGen - AMAZING Text-To-Music AI Model By Facebook | Tutorial | Better Than MusicLM**](https://youtu.be/v-YpvPkhdO4)
+
+[![image](https://i.imgur.com/8sNXQPK.png)](https://youtu.be/v-YpvPkhdO4)
