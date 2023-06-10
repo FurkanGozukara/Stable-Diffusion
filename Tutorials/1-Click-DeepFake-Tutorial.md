@@ -165,16 +165,6 @@ python run.py --keep-frames --keep-fps --max-cores 1
 
 **To Start With GPU add --gpu**
 
-```
-python run.py --gpu
-```
-
-older commit below
-
-```
-python run.py --keep-frames --keep-fps --gpu
-```
-
 newest commit below - options are apple, amd, intel, nvidia
 
 ```
@@ -212,9 +202,8 @@ Only CPU working commit
 
 ```git checkout e4f1d9aaff43549667f7c81c6f48a86606fb9b95```
 
-GPU + CPU working commit (you need cudnn files in path) 6 June 2023
+GPU + CPU working commit (you need cudnn files in path) 10 June 2023
 
-```git checkout 30713c3c0e51ef93069977fc275f0cd0361e61c7```
-
+```git checkout 1f8409eebfb5c9009e48b32dcd8bd88a7fb4d2b8```
 
 Then do a fresh install and start as above
