@@ -1,5 +1,7 @@
 # Easiest Tutorial For Generating Deep Fake Videos - Educational & Research Purposes Only
 
+## Tested and verified to be working 10 June 2023. If you can't make it work become a Patreon supporter, message me on Patreon, and I will install on your computer.
+
 # Tutorial Video Link > https://youtu.be/OI1LEN-SgLM
 
 [![image](https://img.shields.io/discord/772774097734074388?label=Discord&logo=discord)](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFurkanGozukara%2FStable-Diffusion%2Fblob%2Fmain%2FTutorials%2F1-Click-DeepFake-Tutorial.md&count_bg=%2379C83D&title_bg=%239E0F0F&icon=apachespark.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com) [![Twitter Follow](https://img.shields.io/twitter/follow/GozukaraFurkan?label=Follow&style=social)](https://twitter.com/GozukaraFurkan) [![YouTube Channel](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/SECourses) [![Patreon](https://img.shields.io/badge/Patreon-Support%20Me-f96854?style=for-the-badge&logo=patreon)](https://www.patreon.com/your_patreon_page)
@@ -81,7 +83,7 @@ Here how my path is set
 
 ### Step 6 : The Installation
 
-***Currently 11:21 PM UTC+3, 6 June, latest version working - 30713c3c0e51ef93069977fc275f0cd0361e61c7***
+***Currently 7:21 PM UTC+3, 10 June, latest version working - 1f8409eebfb5c9009e48b32dcd8bd88a7fb4d2b8***
 
 https://github.com/s0md3v/roop
 
