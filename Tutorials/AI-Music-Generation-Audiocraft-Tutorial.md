@@ -90,6 +90,17 @@ call .\venv\Scripts\activate.bat
 python app.py
 ```
 
+### 11 June 2023
+The new commands added to the launch options. You can also modify my Patreon bat file and add these to bat file
+```
+--listen        Specify which IP address to listen on (0.0.0.0 for all interfaces
+--server_port   Specify the port to listen on (7860 is the default)
+--share         Create a Gradio public share link
+--username      Specify a username to log into the Gradio public link 
+--password      Specify a password to log into the Gradio public link
+--inbrowser     Automatically open the Gradio link in web browser
+```
+
 ### More info about Top-k, Top-p, Temperature and Classifier Free Guidance from ChatGPT
 
 
