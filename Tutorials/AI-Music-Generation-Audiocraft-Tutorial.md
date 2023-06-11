@@ -102,7 +102,9 @@ call .\venv\Scripts\activate.bat
 python app.py
 ```
 
-## Improved gradio app file that can generate longer than 30 seconds like 3600 seconds song
+## 11 June 2023
+
+### Improved gradio app file that can generate longer than 30 seconds like 3600 seconds song
 
 I tested 120 seconds and it was done in 280 seconds on my GPU. It is amazing.
 
@@ -112,15 +114,7 @@ This file is from this fork : https://github.com/rkfg/audiocraft
 
 https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/CustomPythonScripts/music_gen_infinite_lenght.py
 
-## 11 June 2023
-
-This below repo supports over 30 seconds generation up to 3600 seconds by using segmentation strategy
-
-Everything is same as installation. Just git clone this repo
-
-https://github.com/rkfg/audiocraft
-
-### 11 June 2023
+### New commands
 The new commands added to the launch options. You can also modify my Patreon bat file and add these to bat file
 ```
 --listen        Specify which IP address to listen on (0.0.0.0 for all interfaces
