@@ -1,4 +1,4 @@
-# Tutorial Video Link > coming soon
+# Tutorial Video Link > https://youtu.be/v-YpvPkhdO4
 
 [![image](https://img.shields.io/discord/772774097734074388?label=Discord&logo=discord)](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFurkanGozukara%2FStable-Diffusion%2Fedit%2Fmain%2FTutorials%2FAI-Music-Generation-Audiocraft-Tutorial.md&count_bg=%2379C83D&title_bg=%239E0F0F&icon=apachespark.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com) [![Twitter Follow](https://img.shields.io/twitter/follow/GozukaraFurkan?label=Follow&style=social)](https://twitter.com/GozukaraFurkan) [![YouTube Channel](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/SECourses) [![Patreon](https://img.shields.io/badge/Patreon-Support%20Me-f96854?style=for-the-badge&logo=patreon)](https://www.patreon.com/your_patreon_page)
 
@@ -25,6 +25,18 @@ https://youtu.be/B5U7LJOvH6g
 https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe
 
 https://git-scm.com/downloads
+
+### Step 2 : Download and setup ffmpeg
+
+A tutorial that shows how to install : https://youtu.be/OI1LEN-SgLM
+
+* https://github.com/GyanD/codexffmpeg/releases
+* Download ffmpeg
+* Extract into any folder you want
+* Don't forget to have exe files in the folder
+* Set Enviroment Path
+* Here my path
+* C:\ffmpeg-6.0-full_build hww
 
 ## Installation
 
