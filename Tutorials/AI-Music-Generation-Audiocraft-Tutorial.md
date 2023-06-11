@@ -106,7 +106,13 @@ python app.py
 
 I tested 120 seconds and it was done in 240 seconds on my GPU. It is amazing.
 
+## 11 June 2023
 
+This below repo supports over 30 seconds generation up to 3600 seconds by using segmentation strategy
+
+Everything is same as installation. Just git clone this repo
+
+https://github.com/rkfg/audiocraft
 
 ### 11 June 2023
 The new commands added to the launch options. You can also modify my Patreon bat file and add these to bat file
