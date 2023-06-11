@@ -127,6 +127,25 @@ The new commands added to the launch options. You can also modify my Patreon bat
 --inbrowser     Automatically open the Gradio link in web browser
 ```
 
+
+### Some prompting info from @Duemellon
+
+But, here's a generality:
+
+120bpm - beats per minute. Typical dance songs are 120. Most ballads are 90-100. A real slow song is 70-85. 140+ is the kinda stuff for raves, techno, & dub
+
+320kbps 48khz - these ensure quality of the recordings, reducing hiss & usually expanding the sound range. These numbers are just rather high for an MP3 recording but not near the values of a raw audio recording. Don't apply this to sound that is supposed to be LOFI (like Lofi hip hop) because it undoes their intent : ) 22kbps quality should start sounding like you're listening to a song through a telephone or through a megaphone
+
+4/4, 3/4, 5/4, 2/4, etc -- This would have to get into a bit more about music theory that would be applicable here. Just know the majority of American pop songs (the huge VAST majority) is 4/4. Slow jams & waltz are 3/4 (ballads & such). 5/4 & others are more for non-US audiences that have a Spanish influence. 13/8, 11/8, 10/7, etc. "weird" numbers would be for jazz
+
+Have fun with that stuff!
+
+All together it looks like:
+
+* 4/4 100bpm 320kbps 48khz motown groove
+* 3/4 105bpm 320kbps 48khz piano only baroque
+* 110bpm 64kbps 16khz lofi hiphop summer smooth
+
 ### More info about Top-k, Top-p, Temperature and Classifier Free Guidance from ChatGPT
 
 
