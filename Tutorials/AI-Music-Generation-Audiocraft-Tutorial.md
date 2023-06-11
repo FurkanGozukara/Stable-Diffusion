@@ -102,6 +102,12 @@ call .\venv\Scripts\activate.bat
 python app.py
 ```
 
+## Improved gradio app file that can generate longer than 30 seconds like 3600 seconds song
+
+I tested 120 seconds and it was done in 240 seconds on my GPU. It is amazing.
+
+
+
 ### 11 June 2023
 The new commands added to the launch options. You can also modify my Patreon bat file and add these to bat file
 ```
