@@ -114,6 +114,8 @@ This file is from this fork : https://github.com/rkfg/audiocraft
 
 https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/CustomPythonScripts/music_gen_infinite_lenght.py
 
+So after activating the venv, return back to main folder and ```python music_gen_infinite_lenght.py```
+
 ### New commands
 The new commands added to the launch options. You can also modify my Patreon bat file and add these to bat file
 ```
