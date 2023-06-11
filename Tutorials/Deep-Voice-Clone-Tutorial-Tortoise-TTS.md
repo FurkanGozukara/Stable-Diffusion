@@ -274,3 +274,134 @@ target_folder = r'F:\voice clone tutorial\check_point_comparison_v3_all_files'
 To run the file open cmd in that folder and execute as below
 
 ```python pre_process_given_text_file.py ```
+
+# If you encounter any problem here the full pip freeze library versions
+
+```
+(dlas) PS C:\Users\King> pip freeze
+absl-py==1.4.0
+antlr4-python3-runtime==4.9.3
+appdirs==1.4.4
+audio2numpy==0.1.2
+audioread==3.0.0
+audiotsm==0.1.2
+axial-positional-embedding==0.2.1
+bcrypt==4.0.1
+bitsandbytes==0.35.0
+brotlipy @ file:///D:/bld/brotlipy_1666764804378/work
+cachetools==5.3.0
+certifi==2023.5.7
+cffi @ file:///D:/bld/cffi_1671179506518/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1678108872112/work
+click==8.1.3
+cmake==3.26.3
+colorama==0.4.6
+contourpy==1.0.7
+cryptography @ file:///D:/bld/cryptography-split_1681508778756/work
+customtkinter==5.1.3
+cycler==0.11.0
+Cython==0.29.34
+darkdetect==0.8.0
+decorator==5.1.1
+einops==0.6.1
+ffmpeg==1.4
+filelock @ file:///home/conda/feedstock_root/build_artifacts/filelock_1681839547898/work
+fonttools==4.39.3
+fsspec==2023.5.0
+ftfy==6.1.1
+future==0.18.3
+g-mlp-pytorch==0.1.5
+google-auth==2.17.3
+google-auth-oauthlib==1.0.0
+grpcio==1.54.0
+gsa-pytorch==0.2.2
+huggingface-hub==0.14.1
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+inflect==6.0.4
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1654302431367/work
+jiwer==3.0.1
+joblib==1.2.0
+kiwisolver==1.4.4
+kornia==0.6.12
+lambda-networks==0.4.0
+lazy_loader==0.2
+librosa==0.10.0.post2
+linear-attention-transformer==0.19.1
+linformer==0.2.1
+lion-pytorch==0.0.7
+llvmlite==0.40.0
+local-attention==1.8.6
+Markdown==3.4.3
+MarkupSafe @ file:///D:/bld/markupsafe_1674136027121/work
+matplotlib==3.7.1
+mpmath @ file:///home/conda/feedstock_root/build_artifacts/mpmath_1678228039184/work
+msgpack==1.0.5
+munch==2.5.0
+mup==1.0.0
+networkx @ file:///home/conda/feedstock_root/build_artifacts/networkx_1680692919326/work
+numba==0.57.0
+numpy @ file:///D:/bld/numpy_1682210442656/work
+oauthlib==3.2.2
+omegaconf==2.3.0
+opencv-python==4.7.0.72
+orjson==3.8.12
+packaging==23.1
+pandas==2.0.1
+paramiko==3.1.0
+Pillow @ file:///D:/bld/pillow_1675487397478/work
+pooch==1.6.0
+product-key-memory==0.1.10
+protobuf==4.22.4
+pyasn1==0.5.0
+pyasn1-modules==0.3.0
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pydantic==1.10.7
+PyNaCl==1.5.0
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1680037383858/work
+pyparsing==3.0.9
+PySocks @ file:///D:/bld/pysocks_1661604991356/work
+python-dateutil==2.8.2
+pytorch-fid==0.3.0
+pytorch-ssim==0.1
+pytube==12.1.2
+pytz==2023.3
+pyworld==0.3.3
+PyYAML==6.0
+rapidfuzz==2.13.7
+regex==2023.5.5
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1682535435083/work
+requests-oauthlib==1.3.1
+rotary-embedding-torch==0.2.3
+rsa==4.9
+ruamel.yaml==0.17.24
+ruamel.yaml.clib==0.2.7
+scikit-learn==1.2.2
+scipy==1.10.1
+scp==0.14.5
+seaborn==0.12.2
+six==1.16.0
+soundfile==0.12.1
+soxr==0.3.5
+sympy @ file:///home/conda/feedstock_root/build_artifacts/sympy_1679342554516/work
+tensorboard==2.13.0
+tensorboard-data-server==0.7.0
+tgt==1.4.4
+threadpoolctl==3.1.0
+tokenizers==0.13.3
+torch==1.13.1+cu117
+torchaudio==0.13.1+cu117
+torchvision==0.14.1+cu117
+tqdm==4.65.0
+transformers==4.28.1
+triton @ https://huggingface.co/r4ziel/xformers_pre_built/resolve/main/triton-2.0.0-cp310-cp310-win_amd64.whl#sha256=91a6ec395022743269c942df7af01b210f642fb633d146a811be05a455adbae2
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1678559861143/work
+tzdata==2023.3
+Unidecode==1.3.6
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1678635778344/work
+vector-quantize-pytorch==1.4.1
+wcwidth==0.2.6
+Werkzeug==2.3.3
+win-inet-pton @ file:///D:/bld/win_inet_pton_1667051142467/work
+x-clip==0.12.1
+x-transformers==1.0.4
+```
