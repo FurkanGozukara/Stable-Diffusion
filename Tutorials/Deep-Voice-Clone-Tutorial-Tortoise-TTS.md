@@ -277,6 +277,24 @@ To run the file open cmd in that folder and execute as below
 
 # If you encounter any problem here the full pip freeze library versions
 
+To get your version list: Open miniconda
+
+```
+conda activate dlas
+```
+
+```
+pip freeze
+```
+
+Lets say your transformer version is higher and not working
+
+While conda venv activated type
+
+```
+pip install transformers==4.28.1
+```
+
 ```
 (dlas) PS C:\Users\King> pip freeze
 absl-py==1.4.0
