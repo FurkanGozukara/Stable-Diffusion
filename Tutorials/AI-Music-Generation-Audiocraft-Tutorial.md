@@ -104,7 +104,13 @@ python app.py
 
 ## Improved gradio app file that can generate longer than 30 seconds like 3600 seconds song
 
-I tested 120 seconds and it was done in 240 seconds on my GPU. It is amazing.
+I tested 120 seconds and it was done in 280 seconds on my GPU. It is amazing.
+
+Save as this file into your cloned folder and run this file. For .bat file, modify the name according to this file
+
+This file is from this fork : https://github.com/rkfg/audiocraft
+
+https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/CustomPythonScripts/music_gen_infinite_lenght.py
 
 ## 11 June 2023
 
