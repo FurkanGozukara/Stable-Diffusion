@@ -23,7 +23,7 @@ def load_model(version):
     return MusicGen.get_pretrained(version)
 
 
-def predict(model, text, melody, duration, topk, topp, temperature, cfg_coef, overlap=5):
+def predict(model, text, melody, duration, topk, topp, temperature, cfg_coef, overlap=5, progress=gr.Progress()):
     global MODEL
     topk = int(topk)
     if MODEL is None or MODEL.name != model:
@@ -33,7 +33,9 @@ def predict(model, text, melody, duration, topk, topp, temperature, cfg_coef, ov
         raise gr.Error("Generating music longer than 30 seconds with melody conditioning is not yet supported!")
     
     output = None
+    total_samples = duration * 50 + 3
     segment_duration = duration
+
     while duration > 0:
         if output is None: # first pass of long or short song
             if segment_duration > MODEL.lm.cfg.dataset.segment_duration: 
@@ -55,6 +57,8 @@ def predict(model, text, melody, duration, topk, topp, temperature, cfg_coef, ov
             cfg_coef=cfg_coef,
             duration=segment_duration,
         )
+        def updateProgress(step: int, total: int):
+            progress((total_samples - duration * 50 - 3 + step, total_samples))
 
         if melody:
             sr, melody = melody[0], torch.from_numpy(melody[1]).to(MODEL.device).float().t().unsqueeze(0)
@@ -66,17 +70,17 @@ def predict(model, text, melody, duration, topk, topp, temperature, cfg_coef, ov
                 descriptions=[text],
                 melody_wavs=melody,
                 melody_sample_rate=sr,
-                progress=False
+                progress=updateProgress
             )
             duration -= segment_duration
         else:
             if output is None:
                 next_segment = MODEL.generate(descriptions=[text], 
-                                              progress=False)
+                                              progress=updateProgress)
                 duration -= segment_duration
             else:
                 last_chunk = output[:, :, -overlap*MODEL.sample_rate:]
-                next_segment = MODEL.generate_continuation(last_chunk, MODEL.sample_rate, descriptions=[text], progress=False)
+                next_segment = MODEL.generate_continuation(last_chunk, MODEL.sample_rate, descriptions=[text], progress=updateProgress)
                 duration -= segment_duration - overlap
         
         if output is None:
@@ -121,7 +125,7 @@ def ui(**kwargs):
                 with gr.Row():
                     model = gr.Radio(["melody", "medium", "small", "large"], label="Model", value="melody", interactive=True)
                 with gr.Row():
-                    duration = gr.Slider(minimum=1, maximum=3600, value=10, step=1, label="Duration", interactive=True)
+                    duration = gr.Slider(minimum=1, maximum=300, value=10, step=1, label="Duration", interactive=True)
                 with gr.Row():
                     overlap = gr.Slider(minimum=1, maximum=29, value=5, step=1, label="Overlap", interactive=True)
                 with gr.Row():
