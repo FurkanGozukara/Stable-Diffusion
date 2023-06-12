@@ -6,7 +6,6 @@ This source code is licensed under the license found in the
 LICENSE file in the root directory of this source tree.
 """
 
-import random
 from tempfile import NamedTemporaryFile
 import argparse
 import torch
@@ -17,22 +16,15 @@ from audiocraft.data.audio import audio_write
 
 MODEL = None
 IS_SHARED_SPACE = "musicgen/MusicGen" in os.environ.get('SPACE_ID', '')
-INTERRUPTED = False
 
-def interrupt():
-    global INTERRUPTED
-    INTERRUPTED = True
-    print('Interrupted!')
 
 def load_model(version):
     print("Loading model", version)
     return MusicGen.get_pretrained(version)
 
 
-def predict(model, text, melody, duration, topk, topp, temperature, cfg_coef, seed, overlap=5, recondition=True, progress=gr.Progress()):
+def predict(model, text, melody, duration, topk, topp, temperature, cfg_coef, overlap=5, progress=gr.Progress()):
     global MODEL
-    global INTERRUPTED
-    INTERRUPTED = False
     topk = int(topk)
     if MODEL is None or MODEL.name != model:
         MODEL = load_model(model)
@@ -41,16 +33,10 @@ def predict(model, text, melody, duration, topk, topp, temperature, cfg_coef, se
         raise gr.Error("Generating music longer than 30 seconds with melody conditioning is not yet supported!")
     
     output = None
-    first_chunk = None
     total_samples = duration * 50 + 3
     segment_duration = duration
-    if seed < 0:
-        seed = random.randint(0, 0xffff_ffff_ffff)
-    torch.manual_seed(seed)
-    while duration > 0:
-        if INTERRUPTED:
-            break
 
+    while duration > 0:
         if output is None: # first pass of long or short song
             if segment_duration > MODEL.lm.cfg.dataset.segment_duration: 
                 segment_duration = MODEL.lm.cfg.dataset.segment_duration
@@ -93,13 +79,8 @@ def predict(model, text, melody, duration, topk, topp, temperature, cfg_coef, se
                                               progress=updateProgress)
                 duration -= segment_duration
             else:
-                if first_chunk is None and MODEL.name == "melody" and recondition:
-                    first_chunk = output[:, :, 
-                    :MODEL.lm.cfg.dataset.segment_duration*MODEL.sample_rate]
                 last_chunk = output[:, :, -overlap*MODEL.sample_rate:]
-                next_segment = MODEL.generate_continuation(last_chunk,
-                    MODEL.sample_rate, descriptions=[text],
-                progress=updateProgress, melody_wavs=(first_chunk), resample=False)
+                next_segment = MODEL.generate_continuation(last_chunk, MODEL.sample_rate, descriptions=[text], progress=updateProgress)
                 duration -= segment_duration - overlap
         
         if output is None:
@@ -114,7 +95,7 @@ def predict(model, text, melody, duration, topk, topp, temperature, cfg_coef, se
             file.name, output, MODEL.sample_rate, strategy="loudness",
             loudness_headroom_db=16, loudness_compressor=True, add_suffix=False)
         waveform_video = gr.make_waveform(file.name)
-    return waveform_video, seed
+    return waveform_video
 
 
 def ui(**kwargs):
@@ -140,34 +121,21 @@ def ui(**kwargs):
                     text = gr.Text(label="Input Text", interactive=True)
                     melody = gr.Audio(source="upload", type="numpy", label="Melody Condition (optional)", interactive=True)
                 with gr.Row():
-                    submit = gr.Button("Generate", variant="primary")
-                    gr.Button("Interrupt").click(fn=interrupt, queue=False)
+                    submit = gr.Button("Submit")
                 with gr.Row():
                     model = gr.Radio(["melody", "medium", "small", "large"], label="Model", value="melody", interactive=True)
                 with gr.Row():
                     duration = gr.Slider(minimum=1, maximum=300, value=10, step=1, label="Duration", interactive=True)
                 with gr.Row():
                     overlap = gr.Slider(minimum=1, maximum=29, value=5, step=1, label="Overlap", interactive=True)
-                    recondition = gr.Checkbox(False, label='Condition next chunks with the first chunk')
                 with gr.Row():
                     topk = gr.Number(label="Top-k", value=250, interactive=True)
                     topp = gr.Number(label="Top-p", value=0, interactive=True)
                     temperature = gr.Number(label="Temperature", value=1.0, interactive=True)
                     cfg_coef = gr.Number(label="Classifier Free Guidance", value=3.0, interactive=True)
-                with gr.Row():
-                    seed = gr.Number(label="Seed", value=-1, precision=0, interactive=True)
-                    gr.Button('\U0001f3b2\ufe0f').style(full_width=False).click(fn=lambda: -1, outputs=[seed], queue=False)
-                    reuse_seed = gr.Button('\u267b\ufe0f').style(full_width=False)
-            with gr.Column() as c:
+            with gr.Column():
                 output = gr.Video(label="Generated Music")
-                seed_used = gr.Number(label='Seed used', value=-1, interactive=False)
-
-        reuse_seed.click(fn=lambda x: x, inputs=[seed_used], outputs=[seed], queue=False)
-        submit.click(predict, inputs=[model, text, melody, duration, topk, topp, temperature, cfg_coef, seed, overlap, recondition], outputs=[output, seed_used])
-        def update_recondition(name: str):
-            enabled = name == 'melody'
-            return recondition.update(interactive=enabled, value=None if enabled else False)
-        model.change(fn=update_recondition, inputs=[model], outputs=[recondition])
+        submit.click(predict, inputs=[model, text, melody, duration, topk, topp, temperature, cfg_coef, overlap], outputs=[output])
         gr.Examples(
             fn=predict,
             examples=[
@@ -242,7 +210,7 @@ def ui(**kwargs):
         if share:
             launch_kwargs['share'] = share
 
-        interface.queue().launch(**launch_kwargs)
+        interface.queue().launch(**launch_kwargs, max_threads=1)
 
 
 if __name__ == "__main__":
