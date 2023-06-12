@@ -42,6 +42,8 @@ A tutorial that shows how to install : https://youtu.be/OI1LEN-SgLM
 
 Repo url : https://github.com/facebookresearch/audiocraft
 
+Alternative fork that has more features and supports longer generation (installation same) : https://github.com/rkfg/audiocraft 
+
 Enter inside the drive or folder where you want to install
 
 Open cmd type 
