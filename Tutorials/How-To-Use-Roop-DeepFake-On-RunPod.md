@@ -6,7 +6,7 @@ Main tutorial youtube : https://youtu.be/OI1LEN-SgLM
 
 Start your pod with template : RunPod Stable Diffusion v1.5+v2 - :web-automatic-8.0.3 (or newer ones)
 
-Follow tutorial video of this ReadMe and execute below commands as shown in tutorial 1 by 1
+Follow tutorial video of this (will be added top once published) and execute below commands as shown in tutorial 1 by 1
 
 ```
 git clone https://github.com/s0md3v/roop
