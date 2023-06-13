@@ -37,6 +37,22 @@ pip install onnxruntime-gpu && pip install -r requirements.txt
 wget https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/inswapper_128.onnx
 ```
 
+```
+apt update
+```
+
+```
+apt-get install python3.10-tk
+```
+
+```
+pip uninstall torch torchvision torchaudio
+```
+
+```
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+```
+
 ## Info
 * Roop does not support all video formats and types
 * Especially NSFW not supported
