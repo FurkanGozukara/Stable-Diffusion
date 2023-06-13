@@ -42,3 +42,21 @@ wget https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/inswapper_128.o
 * Especially NSFW not supported
 * Upload your video and image file into the main Roop folder as shown in video
 * Demo video and image files are shared on Patreon post : https://www.patreon.com/posts/1-click-deepfake-83785289
+* For fast upload and download use runpodctl as shown in this tutorial (you can look chapters) : https://youtu.be/QN1vdGhjcRc
+* Example upload video : runpodctl send video3.mp4
+
+## How to use after installation
+
+Open a new cmd window on jupyter notebook inside main roop folder
+
+Execute below command
+
+```
+source ./venv/bin/activate
+```
+
+Once you have uploaded files modify below file paths and execute command
+
+```
+python run.py -f "face2.png" -t "video3.mp4" -o "face_changed_video.mp4" --keep-frames --keep-fps --gpu-vendor nvidia
+```
