@@ -18,7 +18,7 @@ git clone https://github.com/s0md3v/roop
 cd roop
 ```
 
-latest commit working right now 7:57 PM (UTC+3) 10 June. The below commit hash set for 10 june testing
+latest commit working right now 6:57 PM (UTC+3) 13 June. The below commit hash set for 13 june testing
 ```
 git checkout 1f8409eebfb5c9009e48b32dcd8bd88a7fb4d2b8
 ```
