@@ -59,6 +59,10 @@ source venv/bin/activate
 **You will get this error during above file installation. Ignore it :**  ``` ERROR: Failed building wheel for tensorrt
 ERROR: Could not build wheels for tensorrt, which is required to install pyproject.toml-based projects```
 
+## Step 2
+
+Enter inside Kohya folder and start a new terminal
+
 ```
 source venv/bin/activate
 
@@ -71,6 +75,10 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 yes | apt install -y libcudnn8=8.7.0.84-1+cuda11.8 libcudnn8-dev=8.7.0.84-1+cuda11.8 --allow-change-held-packages
 ```
 
- ```
- bash gui.sh --share
- ```
+## Restart your RunPod after installation
+
+Enter inside Kohya folder and start a new terminal
+
+```
+bash gui.sh --share
+```
