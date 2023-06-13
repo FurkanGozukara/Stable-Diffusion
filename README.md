@@ -237,3 +237,14 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://i.imgur.com/oyZxQTu.png)](https://youtu.be/QTYX0tgA5ho)
 
+37.) Automatic1111 Web UI - PC - Free
+
+[**Stable Diffusion 2 NEW Image Post Processing Scripts And Best Class / Regularization Images Datasets**](https://youtu.be/olX1mySE8HA)
+
+[![image](https://i.imgur.com/cGY0AWk.png)](https://youtu.be/olX1mySE8HA)
+
+38.) Automatic1111 Web UI - PC - Free
+
+[**How To Use Roop DeepFake On RunPod Step By Step Tutorial With Custom Made Auto Installer Script**](https://youtu.be/jD1ZSd9aFHg)
+
+[![image](https://i.imgur.com/Qgyv3Kq.png)](https://youtu.be/jD1ZSd9aFHg)
