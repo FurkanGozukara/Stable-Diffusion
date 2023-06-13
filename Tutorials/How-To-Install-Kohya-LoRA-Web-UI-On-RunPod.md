@@ -56,6 +56,9 @@ source venv/bin/activate
 ./setup.sh -n
 ```
 
+**You will get this error during above file installation. Ignore it :**  ``` ERROR: Failed building wheel for tensorrt
+ERROR: Could not build wheels for tensorrt, which is required to install pyproject.toml-based projects```
+
 ```
 source venv/bin/activate
 
