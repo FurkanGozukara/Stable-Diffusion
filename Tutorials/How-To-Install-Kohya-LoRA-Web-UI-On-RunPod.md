@@ -74,6 +74,8 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 yes | apt install -y libcudnn8=8.7.0.84-1+cuda11.8 libcudnn8-dev=8.7.0.84-1+cuda11.8 --allow-change-held-packages
 ```
 
+## Use after install
+
 **Restart your RunPod after installation**
 
 Enter inside Kohya folder and start a new terminal
