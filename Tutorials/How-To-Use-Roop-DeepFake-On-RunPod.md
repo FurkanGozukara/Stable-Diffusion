@@ -91,3 +91,6 @@ Once you have uploaded files modify below file paths and execute command
 ```
 python run.py -f "face2.png" -t "video3.mp4" -o "face_changed_video.mp4" --keep-frames --keep-fps --gpu-vendor nvidia
 ```
+
+# Upscaler Wiki
+https://upscale.wiki/wiki/Model_Database
