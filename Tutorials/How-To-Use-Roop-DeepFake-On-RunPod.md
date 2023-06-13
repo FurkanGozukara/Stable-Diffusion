@@ -11,6 +11,10 @@ Main tutorial readme :
 Main tutorial youtube : 
 * https://youtu.be/OI1LEN-SgLM
 
+RunPod Register :
+* Register your RunPod account: https://bit.ly/RunPodIO
+* RunPod main tutorial : https://youtu.be/QN1vdGhjcRc
+
 Start your pod with template : RunPod Stable Diffusion v1.5+v2 - :web-automatic-8.0.3 (or newer ones)
 
 Follow tutorial video of this (will be added top once published) and execute below commands as shown in tutorial 1 by 1
