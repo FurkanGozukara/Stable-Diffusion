@@ -9,10 +9,6 @@ Start your pod with template : RunPod Stable Diffusion v1.5+v2 - :web-automatic-
 Follow tutorial video of this (will be added top once published) and execute below commands as shown in tutorial 1 by 1
 
 ```
-apt install libcudnn8=8.7.0.84-1+cuda11.8 libcudnn8-dev=8.7.0.84-1+cuda11.8
-```
-
-```
 git clone https://github.com/s0md3v/roop
 ```
 
@@ -54,7 +50,7 @@ pip uninstall torch torchvision torchaudio
 ```
 
 ```
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+apt install libcudnn8=8.7.0.84-1+cuda11.8 libcudnn8-dev=8.7.0.84-1+cuda11.8
 ```
 
 ## Info
