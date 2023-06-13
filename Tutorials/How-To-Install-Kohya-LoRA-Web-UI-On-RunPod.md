@@ -84,4 +84,4 @@ Enter inside Kohya folder and start a new terminal
 bash gui.sh --share
 ```
 
-**Don't use xformers during training**
+**Now supports xformers and AdamW8bit as well**
