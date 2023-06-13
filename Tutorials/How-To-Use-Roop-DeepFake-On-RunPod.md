@@ -3,13 +3,13 @@
 # How to install and use Roop DeepFake on RunPod step by step Tutorial
 
 **1 Click RunPod installer script and example video and images :** 
-https://www.patreon.com/posts/auto-installer-84511510
+* https://www.patreon.com/posts/auto-installer-84511510
 
 Main tutorial readme : 
-https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Tutorials/1-Click-DeepFake-Tutorial.md
+* https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Tutorials/1-Click-DeepFake-Tutorial.md
 
 Main tutorial youtube : 
-https://youtu.be/OI1LEN-SgLM
+* https://youtu.be/OI1LEN-SgLM
 
 Start your pod with template : RunPod Stable Diffusion v1.5+v2 - :web-automatic-8.0.3 (or newer ones)
 
