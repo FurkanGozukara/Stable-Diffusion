@@ -2,6 +2,8 @@
 
 # How to install and use Roop DeepFake on RunPod step by step Tutorial
 
+## Tutorial video : https://youtu.be/jD1ZSd9aFHg
+
 **1 Click RunPod installer script and example video and images :** 
 * https://www.patreon.com/posts/auto-installer-84511510
 
