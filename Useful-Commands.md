@@ -6,6 +6,8 @@ wget https://huggingface.co/SG161222/Realistic_Vision_V2.0/resolve/main/Realisti
 
 yes | apt install libcudnn8=8.9.2.26-1+cuda11.8 libcudnn8-dev=8.9.2.26-1+cuda11.8
 
+pip uninstall torch torchvision torchaudio
+
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
 git clone https://github.com/d8ahazard/sd_dreambooth_extension /workspace/stable-diffusion-webui/extensions/sd_dreambooth_extension
