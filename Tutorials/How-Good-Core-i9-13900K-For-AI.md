@@ -35,17 +35,27 @@ https://github.com/WyattBlue/auto-editor
 
 ```auto-editor "C:\13900k cpu review\test.mp4" --no-open --edit audio:threshold=0.04 -c:v libx264 --video-bitrate 30000000 --show-ffmpeg-commands```
  
-## Core i7 10700F Setup
- 
-### CPU-z & GPU-z Validation
- 
- * CPU : 10700F
+### GPU-z Validation
+
  * GPU : RTX 3090
- * RAM : 64 GB DDR4-2660
+
+GPU-z Validation Link : **https://www.techpowerup.com/gpuz/details/m696w**
+ 
+### CPU-z 10700F
+ 
+ * CPU : 10700F (@4588.78 MHz)
+ * RAM : Kingston 16384 MB (DDR4-2400) (@2660 MHZ)
  
 CPU-z Validation Link : **https://valid.x86.fr/asaijw**
+
+### CPU-z 13900K
  
-GPU-z Validation Link : **https://www.techpowerup.com/gpuz/details/m696w**
+ * CPU : 13900K (@5600 MHz)
+ * RAM : Kingston 16384 MB (DDR4-2400) (@3000 MHz)
+ 
+CPU-z Validation Link : **https://valid.x86.fr/7i8azi**
+ 
+
 
 
  
