@@ -6,7 +6,8 @@
 
 ### Tested Applications
 
-* Stable Diffusion via Automatic1111 Web UI : https://www.youtube.com/playlist?list=PL_pbwdIyffsmclLl0O144nQRnezKlNdx3
+* Stable Diffusion via Automatic1111 Web UI : https://www.youtube.com/playlist?list=PL_pbwdIyffsmclLl0O144nQRnezKlNdx3 
+* * (commit id ce38ee8f26d0b84888c72b58cdd9682ac3fd6151 ) (xformers 0.0.20)
 * Open AI Whisper : https://www.youtube.com/watch?v=msj3wuYf3d8
 * Auto Editor to remove non-speech parts : https://github.com/WyattBlue/auto-editor
 * Davinci Resolve (free edition) 4K Video Rendering : https://youtu.be/_-yYRGKyz8E
