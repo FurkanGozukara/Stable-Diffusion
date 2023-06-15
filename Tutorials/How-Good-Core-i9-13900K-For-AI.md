@@ -34,7 +34,7 @@ CPU test :
 
 https://github.com/WyattBlue/auto-editor
 
-```auto-editor "C:\13900k cpu review\test.mp4" --no-open --edit audio:threshold=0.04 -c:v libx264 --video-bitrate 30000000 --show-ffmpeg-commands```
+```auto-editor "C:\13900k cpu review\test.mp4" --no-open --edit audio:threshold=0.04 --video-bitrate 30000000 --show-ffmpeg-commands```
  
 ### GPU-z Validation
 
