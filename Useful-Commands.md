@@ -11,6 +11,8 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 git clone https://github.com/d8ahazard/sd_dreambooth_extension /workspace/stable-diffusion-webui/extensions/sd_dreambooth_extension
 
 pip install -r /workspace/stable-diffusion-webui/extensions/sd_dreambooth_extension/requirements.txt
+
+pip install xformers==dev 
 ```
 
 ## Install Tensorflow With GPU On Windows
