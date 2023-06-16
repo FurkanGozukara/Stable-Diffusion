@@ -2,6 +2,8 @@
 
 # How Good Core i9 13900K For AI, Machine Learning, Stable Diffusion, Video Rendering Tasks
 
+# Results shared on Patreon : https://www.patreon.com/posts/84640971
+
 ## Core i9 13900K VS Core i7 10700F Benchmarking Results
 
 ### Tested Applications
