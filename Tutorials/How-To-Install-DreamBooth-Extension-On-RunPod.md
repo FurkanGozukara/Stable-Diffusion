@@ -107,6 +107,12 @@ pip install -r /workspace/stable-diffusion-webui/extensions/sd_dreambooth_extens
 wget https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors -O /workspace/stable-diffusion-webui/models/VAE/vae-ft-mse-840000-ema-pruned.safetensors
 ```
 
+
+**Edit webui-user.sh**
+```
+export COMMANDLINE_ARGS="--xformers --port 3000 --listen --enable-insecure-extension-access --skip-install"
+```
+
 ```
 fuser -k 3000/tcp
 cd /workspace/stable-diffusion-webui
