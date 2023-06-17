@@ -16,8 +16,6 @@ First modify relauncher.py as shown in video and restart the pod (only 1 time ne
 while (n<1):
 ```
 
-Or alternatively add this to key ```RUNPOD_STOP_AUTO``` - value 1 - shown in new tutorial video above
-
 ## Automatic Script Installation
 
 ### Video For Script Installation : https://youtu.be/MOVEcvn5h-0
