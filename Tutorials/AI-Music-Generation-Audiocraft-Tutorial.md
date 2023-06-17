@@ -28,7 +28,7 @@ https://git-scm.com/downloads
 
 ### Step 2 : Download and setup ffmpeg
 
-A tutorial that shows how to install : https://youtu.be/OI1LEN-SgLM
+A tutorial that shows how to install (2:56) : https://youtu.be/OI1LEN-SgLM?t=176
 
 * https://github.com/GyanD/codexffmpeg/releases
 * Download ffmpeg
