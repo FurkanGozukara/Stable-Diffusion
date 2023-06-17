@@ -6,6 +6,8 @@
 
 ## Tutorial video link will be added
 
+### Login or Register RunPod : https://bit.ly/RunPodIO
+
 ## Initial Instruction for Both Automatic and Manual Installation
 
 First modify relauncher.py as shown in video and restart the pod (only 1 time necessary)
