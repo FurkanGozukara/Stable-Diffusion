@@ -14,6 +14,21 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### June 18 - 2023
+RunPod Auto DreamBooth & Latest Libraries Installer Script
+
+Link : https://www.patreon.com/posts/runpod-auto-84716845
+
+### June 16 - 2023
+Core i7 10700F vs Core i9 13900K
+
+Link : https://www.patreon.com/posts/core-i7-10700f-84640971
+
+### June 14 - 2023
+Auto Installer Script For Roop (DeepFake) On RunPod & Example Image And Videos
+
+Link : https://www.patreon.com/posts/auto-installer-84511510
+
 ### June 9 - 2023
 AI Music Generation Audiocraft Tutorial - Auto Installer and Runner
 
