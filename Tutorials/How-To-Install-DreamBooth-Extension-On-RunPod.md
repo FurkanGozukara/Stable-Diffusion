@@ -1,4 +1,21 @@
-Video Tutorial : https://youtu.be/zA4LksIVas8
+The older video is now outdated. Here new video
+
+New instructions
+
+First modify relauncher.py as shown in video and restart the pod (only 1 time necessary)
+
+Then download auto installer posted on Patreon or follow below steps
+
+Auto installer script on Patreon :
+
+```
+chmod +x install.sh
+./install.sh
+```
+
+Below manual installation
+
+
 
 dreambooth extension commit id : 926ae204ef5de17efca2059c334b6098492a0641
 
