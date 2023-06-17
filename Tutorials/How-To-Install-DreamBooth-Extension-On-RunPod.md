@@ -22,6 +22,12 @@ chmod +x install2.sh
 ./install2.sh
 ```
 
+After install lets say you want to manually start web ui instance, or you turned off pod and started again later here below command
+```
+fuser -k 3000/tcp
+python /workspace/stable-diffusion-webui/relauncher.py
+```
+
 Below manual installation
 
 
