@@ -60,10 +60,6 @@ chmod +x install2.sh
 
 Full tutorial video : 
 
-Add ```RUNPOD_STOP_AUTO``` to key value as 1 so to prevent auto launching web UI
-
-If you remove this it will auto launch 
-
 ```
 cd /workspace/stable-diffusion-webui
 git checkout master
