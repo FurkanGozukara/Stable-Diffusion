@@ -4,7 +4,7 @@
 
 ### My very comprehensive main runpod tutorial (includes fast data transfer with runpodctl) : https://youtu.be/QN1vdGhjcRc
 
-### Tutorial video link will be added
+## Tutorial video link will be added
 
 ## Initial Instruction for Both Automatic and Manual Installation
 
@@ -13,6 +13,8 @@ First modify relauncher.py as shown in video and restart the pod (only 1 time ne
 ```
 while (n<1):
 ```
+
+Or alternatively add this to key ```RUNPOD_STOP_AUTO``` - value 1 - shown in new tutorial video above
 
 ## Automatic Script Installation
 
