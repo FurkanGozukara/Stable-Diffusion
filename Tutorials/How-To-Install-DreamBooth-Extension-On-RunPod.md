@@ -8,6 +8,8 @@
 
 ### Login or Register RunPod : https://bit.ly/RunPodIO
 
+### Our Discord channel : https://discord.com/servers/software-engineering-courses-secourses-772774097734074388
+
 ## Initial Instruction for Both Automatic and Manual Installation
 
 First modify relauncher.py as shown in video and restart the pod (only 1 time necessary)
