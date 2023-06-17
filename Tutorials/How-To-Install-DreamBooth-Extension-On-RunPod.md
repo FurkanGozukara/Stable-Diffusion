@@ -115,6 +115,8 @@ cd /workspace/stable-diffusion-webui
 python relauncher.py
 ```
 
+### After you restart your Pod execute below command to get most speed
+
 ```
 fuser -k 3000/tcp
 yes | apt install -y libcudnn8=8.9.2.26-1+cuda11.8 libcudnn8-dev=8.9.2.26-1+cuda11.8 --allow-change-held-packages
