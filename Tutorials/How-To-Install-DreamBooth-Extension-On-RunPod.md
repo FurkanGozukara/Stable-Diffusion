@@ -8,7 +8,7 @@ First modify relauncher.py as shown in video and restart the pod (only 1 time ne
 while (n<1):
 ```
 
-Then download auto installer posted on Patreon or follow below steps
+Then download auto installer posted on Patreon (install.sh - upload to workspace) or follow below steps
 
 Auto installer script on Patreon :
 
