@@ -133,7 +133,7 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [**How To Install DreamBooth & Automatic1111 On RunPod & Latest Libraries - 2x Speed Up - cudDNN - CUDA**](https://youtu.be/c_S2kFAefTQ)
 
-[![image](https://i.imgur.com/5JbyWKE.png)](https://www.youtube.com/watch?v=QN1vdGhjcRc)
+[![image](https://i.imgur.com/5JbyWKE.png)](https://youtu.be/c_S2kFAefTQ)
 
 20.) Automatic1111 Web UI - PC - Free
 
