@@ -69,6 +69,8 @@ apt update
 
 apt-get install python3.10-tk
 
+yes | pip uninstall torch torchvision torchaudio
+
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
 yes | apt install -y libcudnn8=8.7.0.84-1+cuda11.8 libcudnn8-dev=8.7.0.84-1+cuda11.8 --allow-change-held-packages
