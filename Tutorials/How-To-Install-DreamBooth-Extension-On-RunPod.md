@@ -4,7 +4,7 @@
 
 ### My very comprehensive main runpod tutorial (includes fast data transfer with runpodctl) : https://youtu.be/QN1vdGhjcRc
 
-## Tutorial video link will be added
+## Full Tutorial : https://youtu.be/c_S2kFAefTQ
 
 ### Login or Register RunPod : https://bit.ly/RunPodIO
 
@@ -24,7 +24,7 @@ while (n<1):
 
 Then download auto installer posted on Patreon (install1.sh and install2.sh - upload to workspace) or follow below steps
 
-### Auto installer script on Patreon :https://www.patreon.com/posts/runpod-auto-84716845
+### Auto installer script on Patreon : https://www.patreon.com/posts/runpod-auto-84716845
 
 ```
 chmod +x install1.sh
@@ -58,7 +58,7 @@ chmod +x install2.sh
 ./install2.sh
 ```
 
-## Manual Step by Step Installation
+## Manual Step by Step Installation : https://youtu.be/c_S2kFAefTQ
 
 Full tutorial video : 
 
