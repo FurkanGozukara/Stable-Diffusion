@@ -127,13 +127,13 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [**Ultimate RunPod Tutorial For Stable Diffusion - Automatic1111 - Data Transfers, Extensions, CivitAI**](https://www.youtube.com/watch?v=QN1vdGhjcRc) 
 
-[![image](https://i.imgur.com/5JbyWKE.png)](https://www.youtube.com/watch?v=QN1vdGhjcRc)
+[![image](https://user-images.githubusercontent.com/19240467/219958249-82ecb925-901b-4f87-b776-f592b0f5eaad.png)](https://www.youtube.com/watch?v=QN1vdGhjcRc)
 
 19.) RunPod - Automatic1111 Web UI - Cloud - Paid - No PC Is Required
 
 [**How To Install DreamBooth & Automatic1111 On RunPod & Latest Libraries - 2x Speed Up - cudDNN - CUDA**](https://youtu.be/c_S2kFAefTQ)
 
-[![image](https://user-images.githubusercontent.com/19240467/228829128-e32d2900-0162-4de7-ba78-887b9083b090.png)](https://youtu.be/c_S2kFAefTQ)
+[![image](https://i.imgur.com/5JbyWKE.png)](https://www.youtube.com/watch?v=QN1vdGhjcRc)
 
 20.) Automatic1111 Web UI - PC - Free
 
