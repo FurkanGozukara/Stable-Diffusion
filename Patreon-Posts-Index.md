@@ -14,6 +14,11 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### June 19 - 2023
+Auto Installer Bat Files For Automatic1111 & DreamBooth
+
+Link : https://www.patreon.com/posts/auto-installer-84773926
+
 ### June 18 - 2023
 RunPod Auto DreamBooth & Latest Libraries Installer Script
 
