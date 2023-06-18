@@ -60,8 +60,6 @@ chmod +x install2.sh
 
 ## Manual Step by Step Installation : https://youtu.be/c_S2kFAefTQ
 
-Full tutorial video : 
-
 ```
 cd /workspace/stable-diffusion-webui
 git checkout master
