@@ -1,7 +1,10 @@
 
 # Generate Studio Quality Realistic Photos By Kohya LoRA Stable Diffusion Training - Full Tutorial
 
-Newest installation screen - updated after this video
+Newest installation screen - updated after this video - select options shown below - use adamW
+
+![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/64fb13eb-7070-471f-88c1-a22dbd3b5ba4)
+
 ![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/98e4aaaa-1d76-4cc9-91c2-ae5dfb166a45)
 
 ## Tested and verified to be working with Torch 1 - 5 June 2023 but not learning. Use below given commit
