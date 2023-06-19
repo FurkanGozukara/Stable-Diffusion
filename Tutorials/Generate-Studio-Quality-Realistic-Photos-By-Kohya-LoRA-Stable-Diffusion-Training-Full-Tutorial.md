@@ -154,4 +154,10 @@ pip install https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/xformers
 python .\tools\cudann_1.8_install.py
 ```
 
+**Activate venv and execute below command to use AdamW8Bit and such optimizers**
+
+```
+pip install bitsandbytes-windows
+```
+
 ```--gpu_ids=1```
