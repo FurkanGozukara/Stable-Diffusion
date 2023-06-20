@@ -57,3 +57,31 @@ Updating xformers to latest. Start a new cmd inside web ui folder and type below
 call .\venv\Scripts\activate.bat
 pip install xformers==dev
 ```
+Look for latest xformers and install it e.g. All shown in the tutorial video so watch it
+```
+pip install xformers== 0.0.21.dev551
+```
+### Step 3
+Clone main ControlNet repo (https://github.com/Mikubill/sd-webui-controlnet) into this folder : ```\automatic_web_ui\extensions```
+```
+git clone https://github.com/Mikubill/sd-webui-controlnet
+```
+From below link download the models you wish to use and put them inside ```automatic_web_ui\extensions\sd-webui-controlnet\models folder```
+* https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main
+
+Restart Automatic1111 Web UI and you will be ready to use
+
+Follow the video for more information and detailed how to steps
+
+### Used Versions
+
+ControlNet Commit 
+```
+git checkout 5fc952793aa97bdd0078574b3be8bc98e1fcf2cd
+```
+Automatic1111 Web UI Commit
+```
+git checkout baf6946e06249c5af9851c60171692c44ef633e0
+```
+Pip Freeze Below
+
