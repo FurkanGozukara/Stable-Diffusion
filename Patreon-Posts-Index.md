@@ -14,6 +14,11 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### June 21 - 2023
+Automatic ControlNet Installer And Downloader BAT File
+
+Link : https://www.patreon.com/posts/84875387
+
 ### June 20 - 2023
 Auto Installer Bat File For Latest cuDNN dll files & How To Manually Install & Update
 
