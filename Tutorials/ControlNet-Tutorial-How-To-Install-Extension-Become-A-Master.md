@@ -24,6 +24,7 @@ Bat script that automatically installs Automatic1111 Web UI
 
 Bat script that automatically installs ControlNet and downloads all models
 * https://www.patreon.com/posts/automatic-and-84875387
+* [Screenshot](https://s3.amazonaws.com/moonup/production/uploads/6345bd89fe134dfd7a0dba40/KBJqoSet0mBipEqhkdVTY.png)
 
 All Patreon posts index
 * https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Patreon-Posts-Index.md
