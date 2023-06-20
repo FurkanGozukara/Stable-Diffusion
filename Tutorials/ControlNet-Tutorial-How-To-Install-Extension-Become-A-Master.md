@@ -1,4 +1,5 @@
 # [Tutorial] Complete Guide to ControlNet for Stable Diffusion Automatic1111 Web UI Extension
+* This readme file will get updated if be necessary so always checkout this file if something not working and open an issue thread on our GitHub repo
 * How to download and install Stable Diffusion Automatic1111 Web UI
 * How to download and install ControlNet extension for Automatic1111 Web UI
 * How to use ControlNet features such as Canny, Tiling, 
