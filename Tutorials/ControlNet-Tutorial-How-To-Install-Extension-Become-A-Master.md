@@ -8,14 +8,11 @@
 ## Prerequisites
 
 **Full tutorial for python and git installation with venv**
-
-https://youtu.be/B5U7LJOvH6g
+* [How To Install Python, Setup Virtual Environment VENV, Set Default Python System Path & Install Git](https://youtu.be/B5U7LJOvH6g)
 
 **Download and install Python 3.10.x (3.10.6, 3.10.9, 3.10.11) and git**
-
-3.10.9 > https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe
-
-git > https://git-scm.com/downloads
+* 3.10.9 > https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe
+* git > https://git-scm.com/downloads
 
 ## Installation
 
