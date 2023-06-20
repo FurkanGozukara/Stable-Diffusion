@@ -41,3 +41,19 @@ Clone the official repo into any folder you want to install. If you are not expe
 ```
 git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui
 ```
+
+Edit webui-user.bat file and add this argument :
+```
+set COMMANDLINE_ARGS=--xformers
+```
+You can find all arguments for below link
+* https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Command-Line-Arguments-and-Settings
+
+Double click and start webui-user.bat for fresh clean install
+
+### Step 2
+Updating xformers to latest. Start a new cmd inside web ui folder and type below code. All shown in the tutorial video so watch it
+```
+call .\venv\Scripts\activate.bat
+pip install xformers==dev
+```
