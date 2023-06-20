@@ -14,6 +14,12 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### June 20 - 2023
+Auto Installer Bat File For Latest cuDNN dll files & How To Manually Install & Update
+
+Link : https://www.patreon.com/posts/auto-installer-84830198
+
+
 ### June 19 - 2023
 Auto Installer Bat Files For Automatic1111 & DreamBooth
 
