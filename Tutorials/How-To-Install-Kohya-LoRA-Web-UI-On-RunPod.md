@@ -4,6 +4,26 @@
 
 [![image](https://img.shields.io/discord/772774097734074388?label=Discord&logo=discord)](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFurkanGozukara%2FStable-Diffusion%2Fedit%2Fmain%2FTutorials%2FHow-To-Install-Kohya-LoRA-Web-UI-On-RunPod.md&count_bg=%2379C83D&title_bg=%239E0F0F&icon=apachespark.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com) [![Twitter Follow](https://img.shields.io/twitter/follow/GozukaraFurkan?label=Follow&style=social)](https://twitter.com/GozukaraFurkan) [![YouTube Channel](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/SECourses) [![Patreon](https://img.shields.io/badge/Patreon-Support%20Me-f96854?style=for-the-badge&logo=patreon)](https://www.patreon.com/your_patreon_page)
 
+### Auto Installer For RunPod
+* Upload kohya_installer.sh and after restart files to RunPod workspace folder
+* First execute commands below for initial install
+```
+  chmod +x kohya_installer.sh
+./kohya_installer.sh
+```
+
+* Then start with below command
+```
+bash /workspace/kohya_ss/gui.sh --share
+```
+
+Everytime you restart your Pod or turned it off and turned it on, run below command 1 time
+```
+  chmod +x kohya_restart.sh
+./kohya_restart.sh
+```
+
+
 ## Original Kohya Tutorial
 
 [**Generate Studio Quality Realistic Photos By Kohya LoRA Stable Diffusion Training - Full Tutorial**](https://youtu.be/TpuDOsuKIBo)
