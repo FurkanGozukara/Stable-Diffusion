@@ -6,6 +6,7 @@
 
 ### Auto Installer For RunPod
 * Scripts : https://www.patreon.com/posts/84898806
+* Use pre-downloaded ckpt or safetensors for training as source model - mandatory - otherwise you will get error
 * Upload kohya_installer.sh and after restart files to RunPod workspace folder
 * Open a new terminal and execute commands below for initial install
 ```
