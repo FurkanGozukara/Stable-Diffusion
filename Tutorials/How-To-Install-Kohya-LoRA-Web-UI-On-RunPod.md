@@ -6,7 +6,7 @@
 
 ### Auto Installer For RunPod
 * Upload kohya_installer.sh and after restart files to RunPod workspace folder
-* First execute commands below for initial install
+* Open a new terminal and execute commands below for initial install
 ```
   chmod +x kohya_installer.sh
 ./kohya_installer.sh
