@@ -83,7 +83,7 @@ Here how my path is set
 
 ### Step 6 : The Installation
 
-***Currently 7:21 PM UTC+3, 10 June, latest version working - 1f8409eebfb5c9009e48b32dcd8bd88a7fb4d2b8***
+***Currently 7:21 PM UTC+3, 22 June, latest version working - 773ce17897cd6507d1ac17132ccc64ff6b6f26cb***
 
 https://github.com/s0md3v/roop
 
@@ -184,12 +184,6 @@ First clone
 
 Then checkout to specific working commit as below
 
-Only CPU working commit
+```git checkout 773ce17897cd6507d1ac17132ccc64ff6b6f26cb```
 
-```git checkout e4f1d9aaff43549667f7c81c6f48a86606fb9b95```
 
-GPU + CPU working commit (you need cudnn files in path) 10 June 2023
-
-```git checkout 1f8409eebfb5c9009e48b32dcd8bd88a7fb4d2b8```
-
-Then do a fresh install and start as above
