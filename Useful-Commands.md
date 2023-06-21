@@ -1,4 +1,8 @@
 ## Runpod quick commands
+
+* This will turn of Pod after 2 minutes : ```sleep 2m; runpodctl stop pod $RUNPOD_POD_ID```
+* This will turn of Pod after 2 hours : ```sleep 2h; runpodctl stop pod $RUNPOD_POD_ID```
+
 ```
 wget https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors -O /workspace/stable-diffusion-webui/models/VAE/vae-ft-mse-840000-ema-pruned.safetensors
 
