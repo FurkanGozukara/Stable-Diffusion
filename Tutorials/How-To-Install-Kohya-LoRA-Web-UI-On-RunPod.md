@@ -11,9 +11,10 @@
   chmod +x kohya_installer.sh
 ./kohya_installer.sh
 ```
-
+* Patiently wait until all operations get completed - [Screenshot](https://s3.amazonaws.com/moonup/production/uploads/6345bd89fe134dfd7a0dba40/2EShruWEjxwmXbThP9PIz.png)
 * Then start with below command
 ```
+fuser -k 7860/tcp
 bash /workspace/kohya_ss/gui.sh --share
 ```
 
