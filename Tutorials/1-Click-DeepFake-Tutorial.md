@@ -117,20 +117,6 @@ ERROR: pip's dependency resolver does not currently take into account all the pa
 tensorflow-intel 2.12.0 requires numpy<1.24,>=1.22, but you have numpy 1.24.1 which is incompatible.
 ```
 
-**Execute below commands 1 by 1**
-
-```
-pip uninstall onnxruntime onnxruntime-gpu
-```
-
-```
-pip install torch torchvision torchaudio --force-reinstall --index-url https://download.pytorch.org/whl/cu118
-```
-
-```
-pip install onnxruntime-gpu
-```
-
 ### Step 8 : inswapper_128 model file
 
 Download and move into root folder : https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/inswapper_128.onnx
