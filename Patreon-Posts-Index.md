@@ -15,6 +15,11 @@ Your Patreon support is tremendously important for me so thank you so much
 ## Patreon Exclusive Content 
 
 ### June 21 - 2023
+Automatic ControlNet Installer / Updater - Model Downloader For RunPod
+
+Link : https://www.patreon.com/posts/84896373
+
+### June 21 - 2023
 Automatic ControlNet Installer And Downloader BAT File
 
 Link : https://www.patreon.com/posts/84875387
