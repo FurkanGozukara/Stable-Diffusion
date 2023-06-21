@@ -86,3 +86,20 @@ git checkout baf6946e06249c5af9851c60171692c44ef633e0
 ```
 Pip Freeze Below
 
+## How To Install and Use On RunPod
+
+**Tutorials**
+* [Ultimate RunPod Tutorial For Stable Diffusion - Automatic1111 - Data Transfers, Extensions, CivitAI](https://youtu.be/QN1vdGhjcRc)
+* [How To Install DreamBooth & Automatic1111 On RunPod & Latest Libraries - 2x Speed Up - cudDNN - CUDA](https://youtu.be/c_S2kFAefTQ)
+
+* Select Stable Diffusion web-automatic-8.0.3 template
+* It comes with ControlNet extension
+
+### Auto Install & Download
+* Run runpod_controlnet.py script by downloading from below link
+* https://www.patreon.com/posts/84896373
+
+### Manual Install
+* Open extension folder and do git pull to update to latest as shown in video
+* Open models folder and use wget to download models as shown in video
+*
