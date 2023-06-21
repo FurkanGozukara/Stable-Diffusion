@@ -15,7 +15,8 @@
 * Then start with below command
 ```
 fuser -k 7860/tcp
-bash /workspace/kohya_ss/gui.sh --share
+cd /workspace/kohya_ss
+bash gui.sh --share
 ```
 
 Everytime you restart your Pod or turned it off and turned it on, run below command 1 time
