@@ -12,7 +12,7 @@
 ./kohya_installer.sh
 ```
 * Patiently wait until all operations get completed - [Screenshot](https://s3.amazonaws.com/moonup/production/uploads/6345bd89fe134dfd7a0dba40/2EShruWEjxwmXbThP9PIz.png)
-* Then start with below command
+* Then start with below command. It will give you gradio link wait it
 ```
 fuser -k 7860/tcp
 cd /workspace/kohya_ss
