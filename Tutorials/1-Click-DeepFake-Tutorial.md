@@ -146,7 +146,7 @@ python run.py --keep-frames --keep-fps
 ```
 
 ```
-python run.py --keep-frames --keep-fps --max-cores 1
+python run.py --keep-frames --keep-fps --video_quality 7
 ```
 
 **To Start With GPU**
@@ -154,7 +154,7 @@ python run.py --keep-frames --keep-fps --max-cores 1
 for others like amd, intel, mac ask in roop discord
 
 ```
-python run.py --keep-frames --keep-fps --execution-provider cuda
+python run.py --keep-frames --keep-fps --video_quality 7 --execution-provider cuda
 ```
 
 If you get connection error like below re run pip install requirements 
