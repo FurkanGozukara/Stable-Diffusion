@@ -154,11 +154,11 @@ python run.py --keep-frames --keep-fps --video_quality 7
 for others like amd, intel, mac ask in roop discord
 
 ```
-python run.py --keep-frames --keep-fps --video_quality 7 --execution-provider cuda
+python run.py --keep-frames --keep-fps --video-quality 7 --execution-provider cuda
 ```
 
 ```
-python run.py --keep-frames --keep-fps --video_quality 7 --frame-processor face_enhancer  --execution-provider cuda
+python run.py --keep-frames --keep-fps --video-quality 7 --frame-processor face_enhancer  --execution-provider cuda
 ```
 
 If you get connection error like below re run pip install requirements 
