@@ -151,7 +151,7 @@ python run.py --keep-frames --keep-fps --video_quality 7
 
 **To Start With GPU**
 
-for others like amd, intel, mac ask in roop discord
+--execution-provider tensorrt, cuda, cpu
 
 ```
 python run.py --keep-frames --keep-fps --video-quality 7 --execution-provider cuda
