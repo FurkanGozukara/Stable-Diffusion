@@ -64,11 +64,21 @@ Look for latest xformers and install it e.g. All shown in the tutorial video so 
 ```
 pip install xformers== 0.0.21.dev551
 ```
-### Step 3
+### Step 3 Manual - best way always works
 Clone main ControlNet repo (https://github.com/Mikubill/sd-webui-controlnet) into this folder : ```\automatic_web_ui\extensions```
 ```
 git clone https://github.com/Mikubill/sd-webui-controlnet
 ```
+From below link download the models you wish to use and put them inside ```automatic_web_ui\extensions\sd-webui-controlnet\models folder```
+* https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main
+
+Restart Automatic1111 Web UI and you will be ready to use
+
+Follow the video for more information and detailed how to steps
+
+### Step 3 Auto - sometimes may not work
+Go to the extensions tab of the Automatic1111 Web UI, find ControlNet, click install
+
 From below link download the models you wish to use and put them inside ```automatic_web_ui\extensions\sd-webui-controlnet\models folder```
 * https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main
 
