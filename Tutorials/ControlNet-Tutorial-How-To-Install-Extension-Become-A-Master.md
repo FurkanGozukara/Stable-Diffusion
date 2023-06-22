@@ -65,7 +65,14 @@ Look for latest xformers and install it e.g. All shown in the tutorial video so 
 ```
 pip install xformers== 0.0.21.dev551
 ```
-### Step 3 Manual - best way always works
+
+### Step 3 Download Best VAE and set it as default
+
+* Download below file into the VAE folder inside stable-diffusion-webui\models
+* https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
+* Set it as default from configuration as shown in video
+
+### Step 4 Manual - best way always works
 Clone main ControlNet repo (https://github.com/Mikubill/sd-webui-controlnet) into this folder : ```\automatic_web_ui\extensions```
 ```
 git clone https://github.com/Mikubill/sd-webui-controlnet
@@ -77,7 +84,7 @@ Restart Automatic1111 Web UI and you will be ready to use
 
 Follow the video for more information and detailed how to steps
 
-### Step 3 Auto - sometimes may not work
+### Step 4 Auto - sometimes may not work
 Go to the extensions tab of the Automatic1111 Web UI, find ControlNet, click install
 
 From below link download the models you wish to use and put them inside ```automatic_web_ui\extensions\sd-webui-controlnet\models folder```
