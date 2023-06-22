@@ -139,6 +139,7 @@ Pip Freeze Below
 
 * Select Stable Diffusion web-automatic-8.0.3 template or newer ones with that name
 * It comes with ControlNet extension
+* Register / login RunPod : https://bit.ly/RunPodIO
 
 ### Auto Install & Download
 * Run runpod_controlnet.py script by downloading from below link
