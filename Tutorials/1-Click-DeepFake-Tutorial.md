@@ -161,6 +161,24 @@ If you get connection error like below re run pip install requirements
 
 ```WARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='pypi.org', port=443): Read timed out. (read timeout=15)")': /simple/tensorrt/```
 
+## Available start parameters
+```
+    program = argparse.ArgumentParser()
+    program.add_argument('-s', '--source', help='select an source image', dest='source_path')
+    program.add_argument('-t', '--target', help='select an target image or video', dest='target_path')
+    program.add_argument('-o', '--output', help='select output file or directory', dest='output_path')
+    program.add_argument('--frame-processor', help='pipeline of frame processors', dest='frame_processor', default=['face_swapper'], choices=['face_swapper', 'face_enhancer'], nargs='+')
+    program.add_argument('--keep-fps', help='keep original fps', dest='keep_fps', action='store_true', default=False)
+    program.add_argument('--keep-audio', help='keep original audio', dest='keep_audio', action='store_true', default=True)
+    program.add_argument('--keep-frames', help='keep temporary frames', dest='keep_frames', action='store_true', default=False)
+    program.add_argument('--many-faces', help='process every face', dest='many_faces', action='store_true', default=False)
+    program.add_argument('--video-encoder', help='adjust output video encoder', dest='video_encoder', default='libx264', choices=['libx264', 'libx265', 'libvpx-vp9'])
+    program.add_argument('--video-quality', help='adjust output video quality', dest='video_quality', type=int, default=18, choices=range(52), metavar='[0-51]')
+    program.add_argument('--max-memory', help='maximum amount of RAM in GB', dest='max_memory', type=int, default=suggest_max_memory())
+    program.add_argument('--execution-provider', help='execution provider', dest='execution_provider', default=['cpu'], choices=suggest_execution_providers(), nargs='+')
+    program.add_argument('--execution-threads', help='number of execution threads', dest='execution_threads', type=int, default=suggest_execution_threads())
+    program.add_argument('-v', '--version', action='version', version=f'{roop.metadata.name} {roop.metadata.version}')
+```
 ## Full tutorial for how to install and use Stable Diffusion Automatic1111 Web UI: 
 
 1 - https://youtu.be/AZg6vzWHOTA
