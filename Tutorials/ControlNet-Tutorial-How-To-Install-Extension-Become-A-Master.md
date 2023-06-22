@@ -114,4 +114,3 @@ Pip Freeze Below
 ### Manual Install
 * Open extension folder and do git pull to update to latest as shown in video
 * Open models folder and use wget to download models as shown in video
-*
