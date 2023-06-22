@@ -82,6 +82,8 @@ git clone https://github.com/Mikubill/sd-webui-controlnet
 ```
 From below link download the models you wish to use and put them inside ```automatic_web_ui\extensions\sd-webui-controlnet\models folder```
 * https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main
+* Style Transfer models T2I
+* https://huggingface.co/TencentARC/T2I-Adapter/tree/main/models
 
 Restart Automatic1111 Web UI and you will be ready to use
 
