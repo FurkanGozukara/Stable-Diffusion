@@ -15,6 +15,11 @@ Your Patreon support is tremendously important for me so thank you so much
 ## Patreon Exclusive Content 
 
 ### June 21 - 2023
+How to fix Roop (insightface error) - cannot open include file: 'stdio.h': No such file or directory
+
+Link : https://www.patreon.com/posts/how-to-fix-roop-84932008
+
+### June 21 - 2023
 For RunPod - Automatic Kohya SS LoRA Installer
 
 Link : https://www.patreon.com/posts/for-runpod-kohya-84898806
