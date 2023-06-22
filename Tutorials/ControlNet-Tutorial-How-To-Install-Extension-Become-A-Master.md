@@ -104,7 +104,7 @@ Pip Freeze Below
 * [Ultimate RunPod Tutorial For Stable Diffusion - Automatic1111 - Data Transfers, Extensions, CivitAI](https://youtu.be/QN1vdGhjcRc)
 * [How To Install DreamBooth & Automatic1111 On RunPod & Latest Libraries - 2x Speed Up - cudDNN - CUDA](https://youtu.be/c_S2kFAefTQ)
 
-* Select Stable Diffusion web-automatic-8.0.3 template
+* Select Stable Diffusion web-automatic-8.0.3 template or newer ones with that name
 * It comes with ControlNet extension
 
 ### Auto Install & Download
