@@ -157,6 +157,10 @@ for others like amd, intel, mac ask in roop discord
 python run.py --keep-frames --keep-fps --video_quality 7 --execution-provider cuda
 ```
 
+```
+python run.py --keep-frames --keep-fps --video_quality 7 --frame-processor face_enhancer  --execution-provider cuda
+```
+
 If you get connection error like below re run pip install requirements 
 
 ```WARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='pypi.org', port=443): Read timed out. (read timeout=15)")': /simple/tensorrt/```
