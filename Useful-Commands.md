@@ -7,6 +7,8 @@
 
 * Download civitai model
 * Change url (https://civitai.com/api/download/models/89824) and model name (Consistent-Factor_v5.safetensors)
+* ![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/7cd583f0-635b-408b-a3ad-877a7eac2526)
+
 ```
 wget -O "/workspace/stable-diffusion-webui/models/Stable-diffusion/Consistent-Factor_v5.safetensors" https://civitai.com/api/download/models/89824
 ```
