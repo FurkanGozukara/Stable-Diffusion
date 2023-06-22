@@ -158,7 +158,7 @@ python run.py --keep-frames --keep-fps --video-quality 7 --execution-provider cu
 ```
 
 ```
-python run.py --keep-frames --keep-fps --video-quality 7 --frame-processor face_enhancer  --execution-provider cuda
+python run.py --keep-frames --keep-fps --video-quality 7 --execution-provider cuda --frame-processor face_swapper face_enhancer 
 ```
 
 If you get connection error like below re run pip install requirements 
