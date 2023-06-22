@@ -105,6 +105,10 @@ Follow the video for more information and detailed how to steps
 
 For updating the extension, open extensions tab, click check for updates, click apply and restart ui, then fully restart Automatic1111 web UI
 
+### Step 5 Don't Forget
+
+Go to settings and check Allow other script to control this extension checkbox as shown in video
+
 ### Example custom model download DreamShaper_6.31_BakedVae.safetensors
 * https://huggingface.co/Lykon/DreamShaper
 * https://huggingface.co/Lykon/DreamShaper/resolve/main/DreamShaper_6.31_BakedVae.safetensors
