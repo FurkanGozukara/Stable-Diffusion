@@ -67,6 +67,8 @@ Look for latest xformers and install it e.g. All shown in the tutorial video so 
 pip install xformers== 0.0.21.dev551
 ```
 
+What are optimizations: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Optimizations
+
 ### Step 3 Download Best VAE and set it as default
 
 * Download below file into the VAE folder inside stable-diffusion-webui\models
