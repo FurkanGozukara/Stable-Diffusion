@@ -109,6 +109,10 @@ For updating the extension, open extensions tab, click check for updates, click 
 
 Go to settings and check Allow other script to control this extension checkbox as shown in video
 
+### QR Code Generator
+
+https://keremerkan.net/qr-code-and-2d-code-generator/
+
 ### Example custom model download DreamShaper_6.31_BakedVae.safetensors
 * https://huggingface.co/Lykon/DreamShaper
 * https://huggingface.co/Lykon/DreamShaper/resolve/main/DreamShaper_6.31_BakedVae.safetensors
