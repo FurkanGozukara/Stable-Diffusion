@@ -2,7 +2,8 @@
 * This readme file will get updated if be necessary so always checkout this file if something not working and open an issue thread on our GitHub repo
 * How to download and install Stable Diffusion Automatic1111 Web UI
 * How to download and install ControlNet extension for Automatic1111 Web UI
-* How to use ControlNet features such as Canny, Tiling, 
+* How to use ControlNet features such as Canny, Depth, Normal, OpenPose, MLSD, Lineart, SoftEdge, Scribble, Seg, Shuffle, Tile, Inpaint, IP2P, Reference, T2IA
+* How to generate QR Code having images with ControlNet
 
 ## Full tutorial video link for this guide will be added once published
 
