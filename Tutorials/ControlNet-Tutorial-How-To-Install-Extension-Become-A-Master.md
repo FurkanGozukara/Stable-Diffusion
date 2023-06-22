@@ -95,6 +95,10 @@ Restart Automatic1111 Web UI and you will be ready to use
 
 Follow the video for more information and detailed how to steps
 
+### Example custom model download DreamShaper_6.31_BakedVae.safetensors
+* https://huggingface.co/Lykon/DreamShaper
+* https://huggingface.co/Lykon/DreamShaper/resolve/main/DreamShaper_6.31_BakedVae.safetensors
+
 ### Used Versions
 
 ControlNet Commit 
