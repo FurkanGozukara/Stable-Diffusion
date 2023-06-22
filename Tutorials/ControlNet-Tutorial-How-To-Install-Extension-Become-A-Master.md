@@ -75,7 +75,7 @@ What are optimizations: https://github.com/AUTOMATIC1111/stable-diffusion-webui/
 * https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
 * Set it as default from configuration as shown in video
 
-### Step 4 Manual - best way always works
+### Step 4 Manual Install - best way always works
 Clone main ControlNet repo (https://github.com/Mikubill/sd-webui-controlnet) into this folder : ```\automatic_web_ui\extensions```
 ```
 git clone https://github.com/Mikubill/sd-webui-controlnet
@@ -87,7 +87,13 @@ Restart Automatic1111 Web UI and you will be ready to use
 
 Follow the video for more information and detailed how to steps
 
-### Step 4 Auto - sometimes may not work
+For updating open cmd inside ```automatic_web_ui\extensions\sd-webui-controlnet\``` and type below code
+
+```
+git pull https://github.com/Mikubill/sd-webui-controlnet
+```
+
+### Step 4 Auto Install - sometimes may not work
 Go to the extensions tab of the Automatic1111 Web UI, find ControlNet, click install
 
 From below link download the models you wish to use and put them inside ```automatic_web_ui\extensions\sd-webui-controlnet\models folder```
@@ -96,6 +102,8 @@ From below link download the models you wish to use and put them inside ```autom
 Restart Automatic1111 Web UI and you will be ready to use
 
 Follow the video for more information and detailed how to steps
+
+For updating the extension, open extensions tab, click check for updates, click apply and restart ui, then fully restart Automatic1111 web UI
 
 ### Example custom model download DreamShaper_6.31_BakedVae.safetensors
 * https://huggingface.co/Lykon/DreamShaper
