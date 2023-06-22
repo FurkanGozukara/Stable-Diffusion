@@ -132,7 +132,7 @@ Save below file as .bat file also modify the path according to yours
 cd /d C:\AI\ROOP\roop\venv\Scripts
 call activate
 cd /d C:\AI\ROOP\roop
-python run.py --keep-frames --keep-fps --gpu-vendor nvidia
+python run.py --keep-frames --keep-fps --execution-provider cuda
 ```
 
 **For starting applications make sure that you have activated the venv and moved back into roop folder**
@@ -149,12 +149,12 @@ python run.py --keep-frames --keep-fps
 python run.py --keep-frames --keep-fps --max-cores 1
 ```
 
-**To Start With GPU add --gpu**
+**To Start With GPU**
 
-newest commit below - options are apple, amd, intel, nvidia
+for others like amd, intel, mac ask in roop discord
 
 ```
-python run.py --keep-frames --keep-fps --gpu-vendor nvidia
+python run.py --keep-frames --keep-fps --execution-provider cuda
 ```
 
 If you get connection error like below re run pip install requirements 
