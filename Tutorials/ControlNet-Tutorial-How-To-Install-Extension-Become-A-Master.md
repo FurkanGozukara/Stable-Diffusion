@@ -5,6 +5,7 @@
 * How to use ControlNet features such as Canny, Depth, Normal, OpenPose, MLSD, Lineart, SoftEdge, Scribble, Seg, Shuffle, Tile, Inpaint, IP2P, Reference, T2IA
 * How to generate QR Code having images with ControlNet
 * I will also show how to update ControlNet and download models on RunPod. Usage is same as in Windows
+* Official ControlNet repo (not extension) : https://github.com/lllyasviel/ControlNet-v1-1-nightly
 
 ## Full tutorial video link for this guide will be added once published
 
