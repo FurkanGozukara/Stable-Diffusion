@@ -105,7 +105,17 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 yes | apt install -y libcudnn8=8.7.0.84-1+cuda11.8 libcudnn8-dev=8.7.0.84-1+cuda11.8 --allow-change-held-packages
 ```
 
-## Use after install
+### After each restart of RunPod (or turned off and then turned on) run below command 1 time
+
+```
+apt update
+
+apt-get install python3.10-tk
+
+yes | apt install -y libcudnn8=8.7.0.84-1+cuda11.8 libcudnn8-dev=8.7.0.84-1+cuda11.8 --allow-change-held-packages
+```
+
+## Usage after install
 
 **Restart your RunPod after installation**
 
@@ -116,3 +126,5 @@ bash gui.sh --share
 ```
 
 **Now supports xformers and AdamW8bit as well**
+
+
