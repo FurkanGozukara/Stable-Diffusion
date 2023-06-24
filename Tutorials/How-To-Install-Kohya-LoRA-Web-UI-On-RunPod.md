@@ -68,6 +68,8 @@ Best vae : https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/mai
 Kohya SS Gui Repo : https://github.com/bmaltais/kohya_ss
 
 ```
+apt update
+
 git clone https://github.com/bmaltais/kohya_ss.git
 
 cd kohya_ss
