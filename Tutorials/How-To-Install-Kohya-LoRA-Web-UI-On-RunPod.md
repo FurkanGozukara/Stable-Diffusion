@@ -78,7 +78,7 @@ python3 -m venv venv
 
 source venv/bin/activate
 
-apt-get install python3.10-tk
+yes | apt-get install python3.10-tk
 
 ./setup.sh -n
 
