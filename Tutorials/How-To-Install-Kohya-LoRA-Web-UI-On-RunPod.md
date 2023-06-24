@@ -76,7 +76,10 @@ python3 -m venv venv
 
 source venv/bin/activate
 
+apt-get install python3.10-tk
+
 ./setup.sh -n
+
 ```
 
 **You will get this error during above file installation. Ignore it :**  ``` ERROR: Failed building wheel for tensorrt
