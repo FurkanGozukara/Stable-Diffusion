@@ -89,9 +89,12 @@ ERROR: Could not build wheels for tensorrt, which is required to install pyproje
 
 ## Step 2
 
-Enter inside Kohya folder and start a new terminal
+Start a new terminal
 
 ```
+
+cd /workspace/kohya_ss
+
 source venv/bin/activate
 
 apt update
