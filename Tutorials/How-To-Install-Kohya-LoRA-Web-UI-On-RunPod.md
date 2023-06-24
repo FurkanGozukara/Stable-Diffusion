@@ -101,9 +101,9 @@ apt-get install python3.10-tk
 yes | pip uninstall torch torchvision torchaudio
 
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-
-yes | apt install -y libcudnn8=8.7.0.84-1+cuda11.8 libcudnn8-dev=8.7.0.84-1+cuda11.8 --allow-change-held-packages
 ```
+
+**Restart your RunPod 1 time after first time installation - so here do a restart**
 
 ### After each restart of RunPod (or turned off and then turned on) run below command 1 time
 
@@ -117,12 +117,10 @@ yes | apt install -y libcudnn8=8.7.0.84-1+cuda11.8 libcudnn8-dev=8.7.0.84-1+cuda
 
 ## Usage after install
 
-**Restart your RunPod 1 time after first time installation**
-
-Enter inside Kohya folder and start a new terminal
+Start a new terminal
 
 ```
-bash gui.sh --share
+bash /workspace/kohya_ss/gui.sh --share
 ```
 
 **Now supports xformers and AdamW8bit as well**
