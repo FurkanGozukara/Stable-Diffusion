@@ -79,6 +79,11 @@ https://pytorch.org/
 
 Notepad++ to change transcription file encoding : https://notepad-plus-plus.org/downloads/ 
 
+### Transcribe into other language via ozen toolkit
+* Open utils.py file inside modules and change line 188 into below
+* ```prediction = pipe(audio_file, generate_kwargs = {"language":"<|de|>","task":"transcribe"})["text"]```
+* Don't forget to change de into your desired language 
+
 ### Part 2 - Doing training and training settings
 
 We will use DL-Art-School for training. It has a very nice GUI and makes training piece of cake
