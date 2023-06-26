@@ -2,6 +2,7 @@
 * This readme file will get updated if be necessary so always checkout this file if something not working and open an issue thread on our GitHub repo
 * How to download and install Stable Diffusion Automatic1111 Web UI
 * How to download and install ControlNet extension for Automatic1111 Web UI
+* How to use ControlNet Inpainting (generative fill of Photoshop), outpainting (generative fill of Photoshop and zoom out of Midjourney)
 * How to use ControlNet features such as Canny, Depth, Normal, OpenPose, MLSD, Lineart, SoftEdge, Scribble, Seg, Shuffle, Tile, Inpaint, IP2P, Reference, T2IA
 * How to generate QR Code having images with ControlNet
 * I will also show how to update ControlNet and download models on RunPod. Usage is same as in Windows
