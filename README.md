@@ -248,3 +248,15 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 [**How To Use Roop DeepFake On RunPod Step By Step Tutorial With Custom Made Auto Installer Script**](https://youtu.be/jD1ZSd9aFHg)
 
 [![image](https://i.imgur.com/Qgyv3Kq.png)](https://youtu.be/jD1ZSd9aFHg)
+
+39.) RunPod - Automatic1111 Web UI - Cloud - Paid - No PC Is Required
+
+[**How To Install DreamBooth & Automatic1111 On RunPod & Latest Libraries - 2x Speed Up - cudDNN - CUDA**](https://youtu.be/c_S2kFAefTQ)
+
+[![image](https://s3.amazonaws.com/moonup/production/uploads/6345bd89fe134dfd7a0dba40/uNesGHfT0G2maEonPl_mq.png)](https://youtu.be/c_S2kFAefTQ)
+
+40.) Automatic1111 Web UI - PC - Free + RunPod
+
+[**Zero to Hero ControlNet Tutorial: Stable Diffusion Web UI Extension | Complete Feature Guide**](https://youtu.be/3E5fhFQUVLo)
+
+[![image](https://s3.amazonaws.com/moonup/production/uploads/6345bd89fe134dfd7a0dba40/OU_mG6YvrSOAZLboBwauu.png)](https://youtu.be/3E5fhFQUVLo)
