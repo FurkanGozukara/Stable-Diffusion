@@ -1,4 +1,7 @@
 # [Tutorial] Complete Guide to ControlNet for Stable Diffusion Automatic1111 Web UI Extension
+
+[![image](https://img.shields.io/discord/772774097734074388?label=Discord&logo=discord)](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFurkanGozukara%2FStable-Diffusion%2Fedit%2Fmain%2FTutorials%2FControlNet-Tutorial-How-To-Install-Extension-Become-A-Master.md&count_bg=%2379C83D&title_bg=%239E0F0F&icon=apachespark.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com) [![Twitter Follow](https://img.shields.io/twitter/follow/GozukaraFurkan?label=Follow&style=social)](https://twitter.com/GozukaraFurkan) [![YouTube Channel](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/SECourses) [![Patreon](https://img.shields.io/badge/Patreon-Support%20Me-f96854?style=for-the-badge&logo=patreon)](https://www.patreon.com/SECourses)
+
 * This readme file will get updated if be necessary so always checkout this file if something not working and open an issue thread on our GitHub repo
 * How to download and install Stable Diffusion Automatic1111 Web UI
 * How to download and install ControlNet extension for Automatic1111 Web UI
@@ -8,9 +11,7 @@
 * I will also show how to update ControlNet and download models on RunPod. Usage is same as in Windows
 * Official ControlNet repo (not extension) : https://github.com/lllyasviel/ControlNet-v1-1-nightly
 
-## Full tutorial video link for this guide will be added once published
-
-[![image](https://img.shields.io/discord/772774097734074388?label=Discord&logo=discord)](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFurkanGozukara%2FStable-Diffusion%2Fedit%2Fmain%2FTutorials%2FControlNet-Tutorial-How-To-Install-Extension-Become-A-Master.md&count_bg=%2379C83D&title_bg=%239E0F0F&icon=apachespark.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com) [![Twitter Follow](https://img.shields.io/twitter/follow/GozukaraFurkan?label=Follow&style=social)](https://twitter.com/GozukaraFurkan) [![YouTube Channel](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/SECourses) [![Patreon](https://img.shields.io/badge/Patreon-Support%20Me-f96854?style=for-the-badge&logo=patreon)](https://www.patreon.com/SECourses)
+## Full tutorial video link > https://youtu.be/3E5fhFQUVLo
 
 ## Prerequisites
 
