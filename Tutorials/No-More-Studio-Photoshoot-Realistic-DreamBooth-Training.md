@@ -46,7 +46,7 @@ Our Discord channel for help (free - 3000+ members)
 * Extension repo : https://github.com/d8ahazard/sd_dreambooth_extension
 * If you already have the extension installed delete its folder
 
-* Enter inside your Automatic1111 Installation
+* Enter inside your Automatic1111 Installation inside extensions folder as shown in the tutorial video
 * * If something don't work please do a fresh install
 * Do a git clone
 * ```git clone https://github.com/d8ahazard/sd_dreambooth_extension```
