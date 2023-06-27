@@ -51,7 +51,8 @@ Our Discord channel for help (free - 3000+ members)
 * ```git checkout dc413a14379b165355502d9f65856c40a4bb5b6f```
 
 * pip freeze
-* ```
+
+```
   (venv) C:\temp\test\stable-diffusion-webui\venv\Scripts>pip freeze
 absl-py==1.4.0
 accelerate==0.19.0
