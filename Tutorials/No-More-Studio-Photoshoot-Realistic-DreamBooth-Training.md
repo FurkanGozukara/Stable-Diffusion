@@ -57,7 +57,7 @@ Our Discord channel for help (free - 3000+ members)
 * Then execute below commands 1 by 1  
 * ```cd..```
 * ```cd..```
-* ```cd "extensions\sd-webui-controlnet"```
+* ```cd "extensions\sd_dreambooth_extension"```
 * ```pip install -r requirements.txt```
 
 ## Used Versions
