@@ -60,6 +60,27 @@ Our Discord channel for help (free - 3000+ members)
 * ```cd "extensions\sd_dreambooth_extension"```
 * ```pip install -r requirements.txt```
 
+## Training
+
+* Used classification images pre-prepared real images dataset (2700 unsplash very high quality)
+* * https://www.patreon.com/posts/4k-2700-real-84053021
+    
+* Watch the tutorial video or look below page for best training settings
+* * https://www.patreon.com/posts/85192985
+
+## Image Generation After Training (Inference)
+* The custom made DeepFace script that sorts images according to the similarity to your original images
+* This script makes your job much easier to find good quality images
+* * https://www.patreon.com/posts/sort-ai-images-82478694
+* If you are not Patreon supporter here below the video of that script
+* * [How To Find Best Stable Diffusion Generated Images By Using DeepFace AI - DreamBooth / LoRA Training](https://youtu.be/343I11mhnXs)
+
+* Watch the tutorial video or look below page for best inference settings
+* * https://www.patreon.com/posts/85192985
+
+* We use ControlNet to improve quality so if you don't know how to use ControlNet watch below new video
+* * [Zero to Hero ControlNet Tutorial: Stable Diffusion Web UI Extension | Complete Feature Guide](https://youtu.be/3E5fhFQUVLo)
+
 ## Used Versions
 
 * Automatic1111 Web UI
