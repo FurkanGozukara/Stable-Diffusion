@@ -85,6 +85,12 @@ Our Discord channel for help (free - 3000+ members)
 
 * We use ControlNet to improve quality so if you don't know how to use ControlNet watch below new video
 * * [Zero to Hero ControlNet Tutorial: Stable Diffusion Web UI Extension | Complete Feature Guide](https://youtu.be/3E5fhFQUVLo)
+ 
+Used Prompts
+
+```portrait photo of (ohwx man:1.1) wearing an expensive  suit, white background, fit```
+
+```(blue eyes, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.4), fat, text, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck```
 
 ## Used Versions
 
