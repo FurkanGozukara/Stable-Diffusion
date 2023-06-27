@@ -99,6 +99,8 @@ cd /workspace/kohya_ss
 
 source venv/bin/activate
 
+pip install rich
+
 apt update
 
 apt-get install python3.10-tk
