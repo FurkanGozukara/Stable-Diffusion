@@ -101,14 +101,14 @@ Used Prompts
 * [How To Install DreamBooth & Automatic1111 On RunPod & Latest Libraries - 2x Speed Up - cudDNN - CUDA](https://youtu.be/c_S2kFAefTQ)
 
 ### Auto Install & Download
-* Run runpod_controlnet.py script by downloading from below link
-* https://www.patreon.com/posts/84896373
+* Run install2.sh install1.sh from below link. Follow the instructions written on below link
+* https://www.patreon.com/posts/runpod-auto-84716845
 
 ### Manual Install
-* Open extension folder and do git pull to update to latest as shown in video
-* Open models folder and use wget to download models as shown in video
-
-## Used Versions
+* Follow below video
+* * [How To Install DreamBooth & Automatic1111 On RunPod & Latest Libraries - 2x Speed Up - cudDNN - CUDA](https://youtu.be/c_S2kFAefTQ)
+   
+## Used Versions In This Tutorial Video
 
 * Automatic1111 Web UI
 * ```git checkout 394ffa7b0a7fff3ec484bcd084e673a8b301ccc8```
