@@ -41,6 +41,23 @@ All Patreon posts index
 Our Discord channel for help (free - 3000+ members) 
 * https://discord.com/servers/software-engineering-courses-secourses-772774097734074388
 
+### Manual Installation
+
+* Extension repo : https://github.com/d8ahazard/sd_dreambooth_extension
+
+* Enter inside your Automatic1111 Installation
+* * If something don't work please do a fresh install
+* Do a git clone
+* ```git clone https://github.com/d8ahazard/sd_dreambooth_extension```
+* If you want to use the same version as I used in this tutorial after git clone enter inside sd_dreambooth_extension folder and execute below command
+* ```git checkout dc413a14379b165355502d9f65856c40a4bb5b6f```
+* Open a new cmd inside automatic_web_ui\venv\Scripts
+* Type ```activate```
+* Then execute below commands 1 by 1  
+* ```cd..```
+* ```cd..```
+* ```cd "extensions\sd-webui-controlnet"```
+* ```pip install -r requirements.txt```
 
 ## Used Versions
 
