@@ -71,6 +71,14 @@ Kohya SS Gui Repo : https://github.com/bmaltais/kohya_ss
 ```
 apt update
 
+yes | apt-get install python3.10-tk
+
+yes | apt install -y libcudnn8=8.7.0.84-1+cuda11.8 libcudnn8-dev=8.7.0.84-1+cuda11.8 --allow-change-held-packages
+```
+
+```
+apt update
+
 git clone https://github.com/bmaltais/kohya_ss.git
 
 cd kohya_ss
