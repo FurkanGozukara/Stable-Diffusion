@@ -69,6 +69,8 @@ Our Discord channel for help (free - 3000+ members)
 
 * Used classification images pre-prepared real images dataset (2700 unsplash very high quality)
 * * https://www.patreon.com/posts/4k-2700-real-84053021
+* If you are not my Patreon supporter you can watch below video for auto cropping scripts
+* * [Human Cropping Script & 4K+ Resolution Class / Reg Images For Stable Diffusion DreamBooth / LoRA](https://youtu.be/QTYX0tgA5ho)
     
 * Watch the tutorial video or look below page for best training settings
 * * https://www.patreon.com/posts/85192985
