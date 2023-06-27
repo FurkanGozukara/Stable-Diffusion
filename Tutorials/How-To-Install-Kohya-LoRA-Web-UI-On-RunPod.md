@@ -18,6 +18,7 @@
 ```
 fuser -k 7860/tcp
 cd /workspace/kohya_ss
+source venv/bin/activate
 bash gui.sh --share
 ```
 
