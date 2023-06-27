@@ -33,7 +33,7 @@
 
 Bat scripts that automatically installs Automatic1111 Web UI & DreamBooth extension
 * https://www.patreon.com/posts/auto-installer-84773926
-* [Screenshot](https://s3.amazonaws.com/moonup/production/uploads/6345bd89fe134dfd7a0dba40/KBJqoSet0mBipEqhkdVTY.png)
+* [Screenshot](https://s3.amazonaws.com/moonup/production/uploads/6345bd89fe134dfd7a0dba40/RPD8bg6bFQ8oCT-eC2z2Y.png)
 
 All Patreon posts index
 * https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Patreon-Posts-Index.md
