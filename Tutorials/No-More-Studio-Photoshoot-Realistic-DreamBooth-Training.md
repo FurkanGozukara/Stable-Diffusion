@@ -8,6 +8,8 @@
 * What are class images and why do we use them
 * What kind of class images we should prefer to use
 
+[![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/98c16d37-818b-4809-9944-5fc442eba9ee)](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/H9mCArHNP_UOwqFGNg3Yn.png)
+
 ## Full tutorial video link > link will be added when published
 
 * 100k+ views master DreamBooth Tutorial that explains concepts such as class images, rare tokens, how DreamBooth works
