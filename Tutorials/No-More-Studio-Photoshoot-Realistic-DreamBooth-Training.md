@@ -10,6 +10,9 @@
 
 ## Full tutorial video link > link will be added when published
 
+* 100k+ views master DreamBooth Tutorial that explains concepts such as class images, rare tokens, how DreamBooth works
+* * [Zero To Hero Stable Diffusion DreamBooth Tutorial By Using Automatic1111 Web UI - Ultra Detailed](https://youtu.be/Bdl-jWR3Ukc)
+
 ## Prerequisites
 
 **Full tutorial for python and git installation**
