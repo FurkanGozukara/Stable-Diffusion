@@ -49,7 +49,7 @@ Our Discord channel for help (free - 3000+ members)
 * * If something don't work please do a fresh install
 * Do a git clone
 * ```git clone https://github.com/d8ahazard/sd_dreambooth_extension```
-* If you want to use the same version as I used in this tutorial after git clone enter inside sd_dreambooth_extension folder and execute below command
+* If you want to use the same version as I used in this tutorial after git clone enter inside sd_dreambooth_extension folder and execute below command. **Use only if you know what is this**
 * ```git checkout dc413a14379b165355502d9f65856c40a4bb5b6f```
 * Open a new cmd inside automatic_web_ui\venv\Scripts
 * Type ```activate```
