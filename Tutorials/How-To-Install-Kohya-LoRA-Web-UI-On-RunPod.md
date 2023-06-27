@@ -128,7 +128,10 @@ yes | apt install -y libcudnn8=8.7.0.84-1+cuda11.8 libcudnn8-dev=8.7.0.84-1+cuda
 Start a new terminal
 
 ```
-bash /workspace/kohya_ss/gui.sh --share
+fuser -k 7860/tcp
+cd /workspace/kohya_ss
+source venv/bin/activate
+bash gui.sh --share
 ```
 
 **Now supports xformers and AdamW8bit as well**
