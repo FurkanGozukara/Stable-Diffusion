@@ -94,6 +94,20 @@ Used Prompts
 
 ```(blue eyes, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.4), fat, text, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck```
 
+## What If You Don't Have A Good GPU? Use RunPod For Training
+
+**Tutorials**
+* [Ultimate RunPod Tutorial For Stable Diffusion - Automatic1111 - Data Transfers, Extensions, CivitAI](https://youtu.be/QN1vdGhjcRc)
+* [How To Install DreamBooth & Automatic1111 On RunPod & Latest Libraries - 2x Speed Up - cudDNN - CUDA](https://youtu.be/c_S2kFAefTQ)
+
+### Auto Install & Download
+* Run runpod_controlnet.py script by downloading from below link
+* https://www.patreon.com/posts/84896373
+
+### Manual Install
+* Open extension folder and do git pull to update to latest as shown in video
+* Open models folder and use wget to download models as shown in video
+
 ## Used Versions
 
 * Automatic1111 Web UI
