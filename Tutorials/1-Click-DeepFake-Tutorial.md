@@ -167,21 +167,22 @@ If you get connection error like below re run pip install requirements
 
 ## Available start parameters
 ```
-    program = argparse.ArgumentParser()
-    program.add_argument('-s', '--source', help='select an source image', dest='source_path')
-    program.add_argument('-t', '--target', help='select an target image or video', dest='target_path')
-    program.add_argument('-o', '--output', help='select output file or directory', dest='output_path')
-    program.add_argument('--frame-processor', help='pipeline of frame processors', dest='frame_processor', default=['face_swapper'], choices=['face_swapper', 'face_enhancer'], nargs='+')
-    program.add_argument('--keep-fps', help='keep original fps', dest='keep_fps', action='store_true', default=False)
-    program.add_argument('--keep-audio', help='keep original audio', dest='keep_audio', action='store_true', default=True)
-    program.add_argument('--keep-frames', help='keep temporary frames', dest='keep_frames', action='store_true', default=False)
-    program.add_argument('--many-faces', help='process every face', dest='many_faces', action='store_true', default=False)
-    program.add_argument('--video-encoder', help='adjust output video encoder', dest='video_encoder', default='libx264', choices=['libx264', 'libx265', 'libvpx-vp9'])
-    program.add_argument('--video-quality', help='adjust output video quality', dest='video_quality', type=int, default=18, choices=range(52), metavar='[0-51]')
-    program.add_argument('--max-memory', help='maximum amount of RAM in GB', dest='max_memory', type=int, default=suggest_max_memory())
-    program.add_argument('--execution-provider', help='execution provider', dest='execution_provider', default=['cpu'], choices=suggest_execution_providers(), nargs='+')
-    program.add_argument('--execution-threads', help='number of execution threads', dest='execution_threads', type=int, default=suggest_execution_threads())
-    program.add_argument('-v', '--version', action='version', version=f'{roop.metadata.name} {roop.metadata.version}')
+options:
+  -h, --help                                               show this help message and exit
+  -s SOURCE_PATH, --source SOURCE_PATH                     select an source image
+  -t TARGET_PATH, --target TARGET_PATH                     select an target image or video
+  -o OUTPUT_PATH, --output OUTPUT_PATH                     select output file or directory
+  --frame-processor FRAME_PROCESSOR [FRAME_PROCESSOR ...]  frame processors (choices: face_swapper, face_enhancer, ...)
+  --keep-fps                                               keep original fps
+  --keep-audio                                             keep original audio
+  --keep-frames                                            keep temporary frames
+  --many-faces                                             process every face
+  --video-encoder {libx264,libx265,libvpx-vp9}             adjust output video encoder
+  --video-quality [0-51]                                   adjust output video quality
+  --max-memory MAX_MEMORY                                  maximum amount of RAM in GB
+  --execution-provider {cpu} [{cpu} ...]                   available execution provider (choices: cpu, ...)
+  --execution-threads EXECUTION_THREADS                    number of execution threads
+  -v, --version                                            show program's version number and exit
 ```
 ## Full tutorial for how to install and use Stable Diffusion Automatic1111 Web UI: 
 
