@@ -106,8 +106,8 @@ First option will not enhance face
 
 Second option will enhance face automatically
 
-*```python run.py -s "face2.png" -t "video3.mp4" -o "face_changed_video.mp4" --keep-frames --keep-fps --video-quality 7 --execution-provider cuda```
-*```python run.py -s "face2.png" -t "video3.mp4" -o "face_changed_and_enhanced_video.mp4" --keep-frames --keep-fps --video-quality 7 --execution-provider cuda --frame-processor face_swapper face_enhancer```
+* ```python run.py -s "face2.png" -t "video3.mp4" -o "face_changed_video.mp4" --keep-frames --keep-fps --video-quality 7 --execution-provider cuda```
+* ```python run.py -s "face2.png" -t "video3.mp4" -o "face_changed_and_enhanced_video.mp4" --keep-frames --keep-fps --video-quality 7 --execution-provider cuda --frame-processor face_swapper face_enhancer```
 
 # Upscaler Wiki
 https://upscale.wiki/wiki/Model_Database
