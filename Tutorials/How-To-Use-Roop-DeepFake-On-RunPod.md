@@ -109,5 +109,13 @@ Second option will enhance face automatically
 * ```python run.py -s "face2.png" -t "video3.mp4" -o "face_changed_video.mp4" --keep-frames --keep-fps --video-quality 7 --execution-provider cuda```
 * ```python run.py -s "face2.png" -t "video3.mp4" -o "face_changed_and_enhanced_video.mp4" --keep-frames --keep-fps --video-quality 7 --execution-provider cuda --frame-processor face_swapper face_enhancer```
 
+## After you have turned off the pod or restarted the pod execute below commands 1 time. Do this after each restart or turned off pod and started again
+Execute below commands 1 by 1 
+
+* ```yes | apt-get install -y python3.10-tk```
+* ```yes | apt-get install ffmpeg```
+* ```yes | apt-get install p7zip-full```
+* ```yes | apt install -y libcudnn8=8.7.0.84-1+cuda11.8 libcudnn8-dev=8.7.0.84-1+cuda11.8 --allow-change-held-packages```
+
 # Upscaler Wiki
 https://upscale.wiki/wiki/Model_Database
