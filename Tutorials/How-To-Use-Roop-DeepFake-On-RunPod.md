@@ -4,7 +4,7 @@
 
 ## Tutorial video : https://youtu.be/jD1ZSd9aFHg
 
-**1 Click RunPod installer script and example video and images :** 
+**1 Click RunPod installer (updated 3 July 2023) script and example video and images :** 
 * https://www.patreon.com/posts/auto-installer-84511510
 
 Main tutorial readme : 
