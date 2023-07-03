@@ -17,9 +17,15 @@ RunPod Register :
 * Register your RunPod account: https://bit.ly/RunPodIO
 * RunPod main tutorial : https://youtu.be/QN1vdGhjcRc
 
-Start your pod with template : RunPod Stable Diffusion v1.5+v2 - :web-automatic-8.0.3 (or newer ones)
+Select template
 
-Follow tutorial video of this (will be added top once published) and execute below commands as shown in tutorial 1 by 1
+* RunPod Fast Stable Diffusion (runpod/stable-diffusion:fast-stable-diffusion)
+or
+* RunPod Stable Diffusion (runpod/stable-diffusion:web-automatic)
+
+Make runtime container disk size at least 15 GB
+
+Follow tutorial video of this (https://youtu.be/jD1ZSd9aFHg) and execute below commands as shown in tutorial 1 by 1
 
 ```
 git clone https://github.com/s0md3v/roop
@@ -31,7 +37,7 @@ cd roop
 
 latest commit working right now 6:57 PM (UTC+3) 13 June. The below commit hash set for 13 june testing
 ```
-git checkout 1f8409eebfb5c9009e48b32dcd8bd88a7fb4d2b8
+git checkout 3d02b267663e4badc5c7936d5295effcae3dfbc0
 ```
 
 ```
@@ -55,15 +61,15 @@ apt update
 ```
 
 ```
-apt-get install python3.10-tk
+yes | apt-get install -y python3.10-tk
 ```
 
 ```
-pip uninstall torch torchvision torchaudio
+yes | apt-get install ffmpeg
 ```
 
 ```
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+yes | apt-get install p7zip-full
 ```
 
 ```
@@ -82,7 +88,11 @@ apt install libcudnn8=8.7.0.84-1+cuda11.8 libcudnn8-dev=8.7.0.84-1+cuda11.8
 
 Open a new cmd window on jupyter notebook inside main roop folder
 
-Execute below command
+Execute below commands
+
+```
+cd /workspace/roop
+```
 
 ```
 source ./venv/bin/activate
@@ -90,9 +100,14 @@ source ./venv/bin/activate
 
 Once you have uploaded files modify below file paths and execute command
 
-```
-python run.py -f "face2.png" -t "video3.mp4" -o "face_changed_video.mp4" --keep-frames --keep-fps --gpu-vendor nvidia
-```
+Then modify your file names in the given below command and hit enter on the opened cmd window
+
+First option will not enhance face
+
+Second option will enhance face automatically
+
+```python run.py -s "face2.png" -t "video3.mp4" -o "face_changed_video.mp4" --keep-frames --keep-fps --video-quality 7 --execution-provider cuda```
+```python run.py -s "face2.png" -t "video3.mp4" -o "face_changed_and_enhanced_video.mp4" --keep-frames --keep-fps --video-quality 7 --execution-provider cuda --frame-processor face_swapper face_enhancer```
 
 # Upscaler Wiki
 https://upscale.wiki/wiki/Model_Database
