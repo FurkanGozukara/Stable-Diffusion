@@ -16,13 +16,11 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ### July 4 - 2023
 [Best Settings For The END of Photography - Use AI to Make Your Own Studio Photos, FREE Via DreamBooth Training](https://www.patreon.com/posts/best-settings-of-85192985)
-
-Screenshots of best settings for : The END of Photography - Use AI to Make Your Own Studio Photos, FREE Via DreamBooth Training
+* Screenshots of best settings for : The END of Photography - Use AI to Make Your Own Studio Photos, FREE Via DreamBooth Training
 
 ### June 21 - 2023
-How to fix Roop (insightface error) - cannot open include file: 'stdio.h': No such file or directory
-
-Link : https://www.patreon.com/posts/how-to-fix-roop-84932008
+[How to fix Roop (insightface error) - cannot open include file: 'stdio.h': No such file or directory](https://www.patreon.com/posts/how-to-fix-roop-84932008)
+* This post will show you how to fix insightface wheel compiling error when installing Roop on Windows. 'stdio.h': No such file or directory
 
 ### June 21 - 2023
 For RunPod - Automatic Kohya SS LoRA Installer
