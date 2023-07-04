@@ -23,148 +23,118 @@ Your Patreon support is tremendously important for me so thank you so much
 * This post will show you how to fix insightface wheel compiling error when installing Roop on Windows. 'stdio.h': No such file or directory
 
 ### June 21 - 2023
-For RunPod - Automatic Kohya SS LoRA Installer
-
-Link : https://www.patreon.com/posts/for-runpod-kohya-84898806
-
-### June 21 - 2023
-Automatic ControlNet Installer / Updater - Model Downloader For RunPod
-
-Link : https://www.patreon.com/posts/84896373
+[For RunPod - Automatic Kohya SS LoRA Installer](https://www.patreon.com/posts/for-runpod-kohya-84898806)
+* This script will automatically install Kohya SS on RunPod. Additionally, I have added after Pod restart script which will fix installation.
 
 ### June 21 - 2023
-Automatic ControlNet Installer And Downloader BAT File
+[Automatic ControlNet Installer / Updater - Model Downloader For RunPod](https://www.patreon.com/posts/84896373)
+* This script will update ControlNet extension to its latest version and also automatically download all model files of ControlNet
 
-Link : https://www.patreon.com/posts/84875387
+### June 21 - 2023
+[Automatic ControlNet Installer And Downloader BAT File](https://www.patreon.com/posts/84875387)
+* These scripts will clone ControlNet repo and download all of the ControlNet models into the correct folder automatically. Super convenient.
 
 ### June 20 - 2023
-Auto Installer Bat File For Latest cuDNN dll files & How To Manually Install & Update
-
-Link : https://www.patreon.com/posts/auto-installer-84830198
-
+[Auto Installer Bat File For Latest cuDNN dll files & How To Manually Install & Update](https://www.patreon.com/posts/auto-installer-84830198)
+* Attached bat file will automatically download 8.9.2.26 cuDNN dll files and replace the ones that comes with default Torch installation 
 
 ### June 19 - 2023
-Auto Installer Bat Files For Automatic1111 & DreamBooth
-
-Link : https://www.patreon.com/posts/auto-installer-84773926
+[Auto Installer Bat Files For Automatic1111 & DreamBooth](https://www.patreon.com/posts/auto-installer-84773926)
+* Automatic Installer For Stable Diffusion Automatic1111 Web UI along with latest DreamBooth extension, Cuda and xFormers. 1 Click installer.
 
 ### June 18 - 2023
-RunPod Auto DreamBooth & Latest Libraries Installer Script
-
-Link : https://www.patreon.com/posts/runpod-auto-84716845
+[RunPod Auto DreamBooth & Latest Libraries Installer Script](https://www.patreon.com/posts/runpod-auto-84716845)
+* Upgrade Auto1111 Latest, install latest libraries for best performance, install latest DreamBooth with 1 click installer, 19.5 it/s RTX 3090
 
 ### June 16 - 2023
-Core i7 10700F vs Core i9 13900K
-
-Link : https://www.patreon.com/posts/core-i7-10700f-84640971
+[Core i7 10700F vs Core i9 13900K](https://www.patreon.com/posts/core-i7-10700f-84640971)
+* Core i7 10700F vs Core i9 13900K results are shown in the image. Alternatively you can watch the youtube video to see them.
 
 ### June 14 - 2023
-Auto Installer Script For Roop (DeepFake) On RunPod & Example Image And Videos
-
-Link : https://www.patreon.com/posts/auto-installer-84511510
-
-### June 9 - 2023
-AI Music Generation Audiocraft Tutorial - Auto Installer and Runner
-
-Link : https://www.patreon.com/posts/ai-music-auto-84334460
+[Auto Installer Script For Roop (DeepFake) On RunPod & Example Image And Videos](https://www.patreon.com/posts/auto-installer-84511510)
+* How to automatically install DeepFake Roop with 1 click on RunPod and use it. Step by step instructions and 1click installer script file
 
 ### June 9 - 2023
-2 Pre-Processing Scripts And 3 Datasets Of Processed Class Images For Popular Models
+[AI Music Generation Audiocraft Tutorial - Auto Installer and Runner](https://www.patreon.com/posts/ai-music-auto-84334460)
+* These attached files will automatically install everything and let you run Facebook Meta Audiocraft / MusicGen music composer with a click
 
-Link : https://www.patreon.com/posts/84292083 
+
+### June 9 - 2023
+[2 Pre-Processing Scripts And 3 Datasets Of Processed Class Images For Popular Models](https://www.patreon.com/posts/84292083)
+* Video Tutorial for this post : https://youtu.be/olX1mySE8HA. Batch preprocess images. Removes multiple-face, black & white, NSWF. Free datasets 
 
 ### June 6 - 2023
-Mind-Blowing Deepfake Tutorial: Turn Anyone into Your Favorite Movie Star! PC & Google Colab - roop
-
-Link : https://www.patreon.com/posts/mind-blowing-pc-84169579
+[Mind-Blowing Deepfake Tutorial: Turn Anyone into Your Favorite Movie Star! PC & Google Colab - roop](https://www.patreon.com/posts/mind-blowing-pc-84169579)
+* Full video of: Mind-Blowing Deepfake Tutorial: Turn Anyone into Your Favorite Movie Star! PC & Google Colab - roop
 
 ### June 4 - 2023
-4K 2700 Real Class Images + Auto Cropping Script
-
-Link : https://www.patreon.com/posts/4k-2700-real-84053021
+[4K 2700 Real Class Images + Auto Cropping Script](https://www.patreon.com/posts/4k-2700-real-84053021)
+* 4K res 2700 Class / Reg raw images. Subject auto cropper script. Included 512, 640, 768, 960, 1024px prepared. Can be used for fine-tuning
 
 ### May 30 - 2023
-1 Click DeepFake Tutorial
-
-Link : https://www.patreon.com/posts/1-click-deepfake-83785289
+[1 Click DeepFake Tutorial](https://www.patreon.com/posts/1-click-deepfake-83785289)
+* DeepFake Roop example video and face images attached. The links are in the post.
 
 ### May 28 - 2023
-How To Generate Very Long Text To Speech For Free On Cloud, e.g. Audiobook
-
-Link : https://www.patreon.com/posts/how-to-generate-83649203
+[How To Generate Very Long Text To Speech For Free On Cloud, e.g. Audiobook](https://www.patreon.com/posts/how-to-generate-83649203)
+* Generate a very long text to speech with a single click on cloud for free. Example Audiobook  : https://www.youtube.com/watch?v=5dSiuBjVcdk
 
 ### May 8 - 2023
-Voice Clone Tutorial Scripts
-
-Link : https://www.patreon.com/posts/voice-clone-82712205
+[Voice Clone Tutorial Scripts](https://www.patreon.com/posts/voice-clone-82712205)
+* As shown in the tutorial video, the scripts I have developed make voice cloning and text-to-speech synthesis much easier and more efficient.
 
 ### May 4 - 2023
-Sort AI Generated Images By Their Similarity Script
-
-Link : https://www.patreon.com/posts/sort-ai-images-82478694
-
+[Sort AI Generated Images By Their Similarity Script](https://www.patreon.com/posts/sort-ai-images-82478694)
+* Follow the tutorial and download the attached activate.bat and findBestImages.py files. New findbestimagesV2 added (model + lora info)
 
 ### April 30 - 2023
-Enhanced DeepFloyd-IF Kaggle Notebook File
-
-Link : https://www.patreon.com/posts/enhanced-if-file-82253574
-
-### April 26 - 2023
-Realistic Vision V2 - 2071 classification / regularization images
-
-Link : https://www.patreon.com/posts/realistic-vision-82085317
+[Enhanced DeepFloyd-IF Kaggle Notebook File](https://www.patreon.com/posts/enhanced-if-file-82253574)
+* Enhanced DeepFloyd-IF Kaggle Notebook File as shown in the tutorial video.
 
 ### April 26 - 2023
-Kohya SS LoRA Amazing Studio Quality Photoshoot Tutorial PDF
+[Realistic Vision V2 - 2071 classification / regularization images](https://www.patreon.com/posts/realistic-vision-82085317)
+* Realistic Vision V2 - 2071 classification / regularization images
 
-Link : https://www.patreon.com/posts/kohya-ss-lora-82085260
+### April 26 - 2023
+[Kohya SS LoRA Amazing Studio Quality Photoshoot Tutorial PDF](https://www.patreon.com/posts/kohya-ss-lora-82085260)
+* The attached PDF file will be updated once the tutorial is finished and published.
 
 ### April 18 - 2023
-Kandinsky 2.1 For FREE Google Colab Account - Save in Drive, Batch Processing, Dynamic Prompting
-
-Link : https://www.patreon.com/posts/kandinsky-2-1-in-81687317
+[Kandinsky 2.1 For FREE Google Colab Account - Save in Drive, Batch Processing, Dynamic Prompting](https://www.patreon.com/posts/82085260)
+* Kohya SS Tutorial as PDF file
 
 ### April 11 - 2023
-Summary And Conclusions of RTX 3090 vs RTX 3060 Ultimate Showdown for Stable Diffusion, ML, AI & Video Rendering Performance
-
-Link : https://www.patreon.com/posts/summary-and-of-81374648
-
-### April 6 - 2023
-Kandinsky 2 Tutorial And Script
-
-Link : https://www.patreon.com/posts/kandinsky-2-and-81107231
+[Summary And Conclusions of RTX 3090 vs RTX 3060 Ultimate Showdown for Stable Diffusion, ML, AI & Video Rendering Performance](https://www.patreon.com/posts/summary-and-of-81374648)
+* You can download the summary, discoveries and the conclusions PDF file of the video : https://youtu.be/lgP1LNnaUaQ RTX 3090 vs RTX 3060 Ulti 
 
 ### April 6 - 2023
-Custom Style Teached New Model
+[Kandinsky 2 Tutorial And Script](https://www.patreon.com/posts/kandinsky-2-and-81107231)
+* The tutorial link is here : https://youtu.be/dYt9xJ7dnpU My modified improved notebook file is attached. I may update it time to time. This 
 
-Link : https://www.patreon.com/posts/custom-style-new-81107154
+### April 6 - 2023
+[Custom Style Teached New Model](https://www.patreon.com/posts/custom-style-new-81107154)
+* This is a custom model that I have trained a certain style as you see in the picture. You can use it as you wish.
 
 ### April 2 - 2023
-How To Quickly Upload Your RunPod Files To Google Drivel
-
-Link : https://www.patreon.com/posts/how-to-quickly-80924234
+[How To Quickly Upload Your RunPod Files To Google Drive](https://www.patreon.com/posts/how-to-quickly-80924234)
+* By using the following Google Colab Notebook link you can very quickly upload your files (e.g. models or folders) to your Google Drive.
 
 ### March 27 - 2023
-10598 Aesthetic and 6080 Photo Of Man classification images
-
-Link : https://www.patreon.com/posts/10598-aesthetic-80588052
+[10598 Aesthetic and 6080 Photo Of Man classification images](https://www.patreon.com/posts/10598-aesthetic-80588052)
+* You can download from below links 10598 aesthetic and 6080 photo of classification images. You can use these images as regularization / clas
 
 ### March 22 - 2023
-Midjourney Level Style Trained Model
-
-Link : https://www.patreon.com/posts/midjourney-level-80356527
+[Midjourney Level Style Trained Model](https://www.patreon.com/posts/midjourney-level-80356527)
+* This is the video tutorial : https://youtu.be/m-UVVY_syP0 . Safetensors model file below. This model do not include myself - only style 
 
 ### March 19 - 2023
-Style Teaching & Aesthetic Dataset
-
-Link : https://www.patreon.com/posts/style-teaching-80233878
+[Style Teaching & Aesthetic Dataset](https://www.patreon.com/posts/style-teaching-80233878)
+* 2858 Style training images dataset prepared by me with the following words and certain prompt usage : https://drive.google.com/file/d/1A
 
 ### January 28 - 2023
-How To Achieve Synchronization In C# While Doing Async Await Multithreaded Programming - .NET Core
-
-Link : https://www.patreon.com/posts/how-to-achieve-c-77858916
+[How To Achieve Synchronization In C# While Doing Async Await Multithreaded Programming - .NET Core](https://www.patreon.com/posts/how-to-achieve-c-77858916)
+* Thank you so much for supporting us. Source code available in attachments. 
 
 ### December 27 - 2023
-File Verification Software Source Code
-
-Link : https://www.patreon.com/posts/file-software-76398813
+[File Verification Software Source Code](https://www.patreon.com/posts/file-software-76398813)
+* This is the source code of the file verification software shown and used in the How to clone Windows HDD / SSD to new or larger HDD / NVMe SSD
