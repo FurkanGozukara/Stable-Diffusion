@@ -14,6 +14,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### July 5 - 2023
+[Image Validator Script For Training - Moves Corrupted Images](https://www.patreon.com/posts/image-validator-85618765)
+* This attached below script will test each one of your images and moves the ones that are corrupted (breaking training) into another folder.
+
 ### July 4 - 2023
 [Best Settings For The END of Photography - Use AI to Make Your Own Studio Photos, FREE Via DreamBooth Training](https://www.patreon.com/posts/best-settings-of-85192985)
 * Screenshots of best settings for : The END of Photography - Use AI to Make Your Own Studio Photos, FREE Via DreamBooth Training
