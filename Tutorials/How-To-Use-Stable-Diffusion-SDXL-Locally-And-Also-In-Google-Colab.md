@@ -5,3 +5,9 @@
 ## On Google Colab
 
 [Click to open Colab link](https://colab.research.google.com/github/FurkanGozukara/Stable-Diffusion/blob/main/ColabNotebooks/Stable_Diffusion_SDXL_on_Google_Colab.ipynb)
+
+## On Windows - WIP
+
+Auto Installer Script : WIP
+
+```git clone https://github.com/FurkanGozukara/stable-diffusion-xl-demo```
