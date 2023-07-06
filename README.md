@@ -266,3 +266,9 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 [**How To Use Stable Diffusion XL (SDXL 0.9) On Google Colab For Free**](https://youtu.be/s2MQqmv6yAg)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/A2RflDXjgXjg6Z2Neq9gv.png)](https://youtu.be/s2MQqmv6yAg)
+
+43.) Local - PC - Free - Gradio
+
+[**Stable Diffusion XL (SDXL) Locally On Your PC - 8GB VRAM - Easy Tutorial With Automatic Installer**](https://youtu.be/__7VNmnn5iU)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/3UAi7i7oLdtvlibSlx4z9.png)](https://youtu.be/__7VNmnn5iU)
