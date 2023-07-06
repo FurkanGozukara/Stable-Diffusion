@@ -93,6 +93,7 @@ cd..
 
 * The access token is only 1 time
 * After that you have to save below commands depending on your VRAM as .bat file and use them to start
+* Watch tutorial video again if you can't make it. All steps are shown
   
 
 Low VRAM
