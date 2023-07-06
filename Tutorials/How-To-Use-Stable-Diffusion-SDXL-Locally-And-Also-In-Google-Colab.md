@@ -57,7 +57,7 @@ cd scripts
 ```
 
 ```
-cd activate
+activate
 ```
 
 ```
