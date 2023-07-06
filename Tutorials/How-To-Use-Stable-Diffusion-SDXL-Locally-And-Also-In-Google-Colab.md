@@ -14,6 +14,14 @@ Auto Installer Script : WIP
 git clone https://github.com/FurkanGozukara/stable-diffusion-xl-demo
 ```
 
+```
+git lfs clone https://huggingface.co/nichijoufan777/stable-diffusion-xl-base-0.9
+```
+
+```
+git lfs clone https://huggingface.co/nichijoufan777/stable-diffusion-xl-refiner-0.9
+```
+
 Low VRAM
 ```
 !PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:128 ACCESS_TOKEN={access_token} ENABLE_REFINER=false python app.py
