@@ -79,16 +79,7 @@ pip install -r requirements2.txt
 
 ### After Installation Run As Below
 
-* First enter inside stable-diffusion-xl-demo\venv\Scripts folder and activate
-* ```activate```
-
-* Then move into main folder
-```
-cd..
-cd..
-```
-
-* Then run the app2.py as below. Before running, you have to edit access_token. E.g. like below
+* First edit app2.py and add your access_token. E.g. like below
 * access_token = "hf_ovfazhEBOXmTpUsfdfdshfdydZIfMNJVKrcZ"
 
 * The access token is only 1 time
