@@ -39,21 +39,90 @@ git clone https://github.com/FurkanGozukara/stable-diffusion-xl-demo
 * https://huggingface.co/nichijoufan777/stable-diffusion-xl-base-0.9
 * https://huggingface.co/nichijoufan777/stable-diffusion-xl-refiner-0.9
 
-* Generate your Hugging Face token
+* Generate your Hugging Face access token and save it somewhere
 * https://huggingface.co/settings/tokens
 
 * Enter inside cloned stable-diffusion-xl-demo folder
-* Make a new venv. 
-* ```
-python -m venv ven
+* Follow the below commands 1 by 1. Watch video to see how I am making
 ```
+python -m venv venv
+```
+
+```
+cd venv
+```
+
+```
+cd scripts
+```
+
+```
+cd activate
+```
+
+```
+cd..
+cd..
+```
+
+```
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+```
+
+```
+pip install xformers==0.0.21.dev557
+```
+
+```
+pip install -r requirements2.txt
+```
+
+### After Installation Run As Below
+
+* First enter inside stable-diffusion-xl-demo\venv\Scripts folder and activate
+* ```activate```
+
+* Then move into main folder
+```
+cd..
+cd..
+```
+
+* Then run the app2.py as below. Before running, you have to edit access_token. E.g. like below
+* access_token = "hf_ovfazhEBOXmTpUsfdfdshfdydZIfMNJVKrcZ"
+
+* The access token is only 1 time
+* After that you have to save below commands depending on your VRAM as .bat file and use them to start
+  
 
 Low VRAM
 ```
-!PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:128 ACCESS_TOKEN={access_token} ENABLE_REFINER=false python app.py
+@echo off
+
+set VENV_PATH=stable-diffusion-xl-demo\venv\Scripts\activate.bat
+
+call "%VENV_PATH%"
+
+set PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:128
+set ENABLE_REFINER=false
+
+python stable-diffusion-xl-demo\app2.py
+
+pause
 ```
 
 High VRAM
 ```
-!PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:256 ACCESS_TOKEN={access_token} ENABLE_REFINER=true python app.py
+@echo off
+
+set VENV_PATH=stable-diffusion-xl-demo\venv\Scripts\activate.bat
+
+call "%VENV_PATH%"
+
+set PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:256
+set ENABLE_REFINER=true
+
+python stable-diffusion-xl-demo\app2.py
+
+pause
 ```
