@@ -13,3 +13,13 @@ Auto Installer Script : WIP
 ```
 git clone https://github.com/FurkanGozukara/stable-diffusion-xl-demo
 ```
+
+Low VRAM
+```
+!PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:128 ACCESS_TOKEN={access_token} ENABLE_REFINER=false python app.py
+```
+
+High VRAM
+```
+!PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:256 ACCESS_TOKEN={access_token} ENABLE_REFINER=true python app.py
+```
