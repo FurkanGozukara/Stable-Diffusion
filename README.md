@@ -265,5 +265,4 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [**How To Use Stable Diffusion XL (SDXL 0.9) On Google Colab For Free**](https://youtu.be/s2MQqmv6yAg)
 
-[![image](![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/61d46fb5-9224-49ac-a2e5-707fcdff022e)
-)](https://youtu.be/s2MQqmv6yAg)
+[![image](![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/A2RflDXjgXjg6Z2Neq9gv.png)](https://youtu.be/s2MQqmv6yAg)
