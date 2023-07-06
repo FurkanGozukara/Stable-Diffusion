@@ -10,4 +10,6 @@
 
 Auto Installer Script : WIP
 
-```git clone https://github.com/FurkanGozukara/stable-diffusion-xl-demo```
+```
+git clone https://github.com/FurkanGozukara/stable-diffusion-xl-demo
+```
