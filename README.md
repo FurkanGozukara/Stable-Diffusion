@@ -260,3 +260,10 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 [**Zero to Hero ControlNet Tutorial: Stable Diffusion Web UI Extension | Complete Feature Guide**](https://youtu.be/3E5fhFQUVLo)
 
 [![image](https://s3.amazonaws.com/moonup/production/uploads/6345bd89fe134dfd7a0dba40/OU_mG6YvrSOAZLboBwauu.png)](https://youtu.be/3E5fhFQUVLo)
+
+42.) Google Colab - Gradio - Free
+
+[**How To Use Stable Diffusion XL (SDXL 0.9) On Google Colab For Free**](https://youtu.be/s2MQqmv6yAg)
+
+[![image](![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/61d46fb5-9224-49ac-a2e5-707fcdff022e)
+)](https://youtu.be/s2MQqmv6yAg)
