@@ -6,6 +6,10 @@
 
 [Click to open Colab link](https://colab.research.google.com/github/FurkanGozukara/Stable-Diffusion/blob/main/ColabNotebooks/Stable_Diffusion_SDXL_on_Google_Colab.ipynb)
 
+[Click to see](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/hw2qvicrNubXWyiMNzxBm.png) where Colab generated images will be saved
+
+Now you can set any count of images and Colab will generate as many as you set
+
 ## On Windows - WIP
 
 ### Prerequisites
