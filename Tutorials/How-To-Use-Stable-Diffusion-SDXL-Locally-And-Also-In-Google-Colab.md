@@ -8,18 +8,44 @@
 
 ## On Windows - WIP
 
-Auto Installer Script : WIP
+### Prerequisites
+
+**Full tutorial for python and git installation with venv**
+* [How To Install Python, Setup Virtual Environment VENV, Set Default Python System Path & Install Git](https://youtu.be/B5U7LJOvH6g)
+
+**Download and install Python 3.10.x (3.10.6, 3.10.9, 3.10.11) and git**
+* 3.10.9 > https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe
+* git > https://git-scm.com/downloads
+
+### Automatic Installation
+
+* This installation won't affect or your break your other installations such as Automatic1111 Web UI
+* Auto Installer Script : https://www.patreon.com/posts/85678961
+* Instructions of auto installer shared in the post
+
+### Manual Installation
+
+* This installation won't affect or your break your other installations such as Automatic1111 Web UI
 
 ```
 git clone https://github.com/FurkanGozukara/stable-diffusion-xl-demo
 ```
 
-```
-git lfs clone https://huggingface.co/nichijoufan777/stable-diffusion-xl-base-0.9
-```
+* Register Hugging Face and login if you don't have an account already
+* https://huggingface.co/join
+* https://huggingface.co/login
 
-```
-git lfs clone https://huggingface.co/nichijoufan777/stable-diffusion-xl-refiner-0.9
+* Open below links and accept terms and conditions
+* https://huggingface.co/nichijoufan777/stable-diffusion-xl-base-0.9
+* https://huggingface.co/nichijoufan777/stable-diffusion-xl-refiner-0.9
+
+* Generate your Hugging Face token
+* https://huggingface.co/settings/tokens
+
+* Enter inside cloned stable-diffusion-xl-demo folder
+* Make a new venv. 
+* ```
+python -m venv ven
 ```
 
 Low VRAM
