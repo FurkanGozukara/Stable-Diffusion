@@ -83,7 +83,7 @@ pip install -r requirements2.txt
 
 ### After Installation Run As Below
 
-* First edit app4.py and add your access_token. E.g. like below
+* First edit app2.py and add your access_token. E.g. like below
 * access_token = "hf_ovfazhEBOXmTpUsfdfdshfdydZIfMNJVKrcZ"
 
 * The access token is only 1 time
@@ -102,7 +102,7 @@ call "%VENV_PATH%"
 set PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:128
 set ENABLE_REFINER=false
 
-python stable-diffusion-xl-demo\app4.py
+python stable-diffusion-xl-demo\app2.py
 
 pause
 ```
@@ -118,7 +118,7 @@ call "%VENV_PATH%"
 set PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:256
 set ENABLE_REFINER=true
 
-python stable-diffusion-xl-demo\app4.py
+python stable-diffusion-xl-demo\app2.py
 
 pause
 ```
