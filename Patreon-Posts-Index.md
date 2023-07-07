@@ -14,6 +14,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### July 6 - 2023
+[Auto Installer Script (.bat) Files For Stable Diffusion XL (SDXL) On Your PC](https://www.patreon.com/posts/auto-installer-85678961)
+* Attached script files will automatically download and install SD-XL 0.9 into your computer and let you use SDXL locally for free as you wish
+
 ### July 5 - 2023
 [Image Validator Script For Training - Moves Corrupted Images](https://www.patreon.com/posts/image-validator-85618765)
 * This attached below script will test each one of your images and moves the ones that are corrupted (breaking training) into another folder.
