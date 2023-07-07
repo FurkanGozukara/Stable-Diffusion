@@ -40,8 +40,8 @@ git clone https://github.com/FurkanGozukara/stable-diffusion-xl-demo
 * https://huggingface.co/login
 
 * Open below links and accept terms and conditions
-* https://huggingface.co/datasets/OwlMaster/gg
-* https://huggingface.co/datasets/OwlMaster/gg2
+* https://huggingface.co/OwlMaster/gg
+* https://huggingface.co/OwlMaster/gg2
 
 * Generate your Hugging Face access token and save it somewhere
 * https://huggingface.co/settings/tokens
