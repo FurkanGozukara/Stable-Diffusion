@@ -39,9 +39,9 @@ git clone https://github.com/FurkanGozukara/stable-diffusion-xl-demo
 * https://huggingface.co/join
 * https://huggingface.co/login
 
-* Open below links and accept terms and conditions
-* https://huggingface.co/OwlMaster/gg
-* https://huggingface.co/OwlMaster/gg2
+* Open below links and accept terms and conditions - now auto approve official weights - just type anything to the form fill sections
+* https://huggingface.co/stabilityai/stable-diffusion-xl-base-0.9
+* https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-0.9
 
 * Generate your Hugging Face access token and save it somewhere
 * https://huggingface.co/settings/tokens
