@@ -7,7 +7,7 @@
 ### Auto Installer For RunPod
 * Scripts : https://www.patreon.com/posts/84898806
 * Use pre-downloaded ckpt or safetensors for training as source model - mandatory - otherwise you will get error
-* Upload kohya_installer.sh and after restart files to RunPod workspace folder
+* Upload kohya_installer.sh
 * Open a new terminal and execute commands below for initial install
 ```
   chmod +x kohya_installer.sh
@@ -15,18 +15,18 @@
 ```
 * Patiently wait until all operations get completed - [Screenshot](https://s3.amazonaws.com/moonup/production/uploads/6345bd89fe134dfd7a0dba40/2EShruWEjxwmXbThP9PIz.png)
 * Then start with below command. It will give you gradio link wait it
+
+For using everytime use below command
+
 ```
+apt update
+yes | apt-get install python3.10-tk
 fuser -k 7860/tcp
 cd /workspace/kohya_ss
 source venv/bin/activate
-bash gui.sh --share
+bash gui.sh --share --headless
 ```
 
-Everytime you restart your Pod or turned it off and turned it on, run below command 1 time
-```
-  chmod +x kohya_restart.sh
-./kohya_restart.sh
-```
 
 
 ## Original Kohya Tutorial
@@ -65,6 +65,10 @@ Best vae : https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/mai
 
 
 ## Kohya LoRA GUI On RunPod
+
+* Select Stable Diffusion stable-diffusion:web-ui or fast stable diffusion
+
+* Make container disk size 15 GB
 
 Kohya SS Gui Repo : https://github.com/bmaltais/kohya_ss
 
