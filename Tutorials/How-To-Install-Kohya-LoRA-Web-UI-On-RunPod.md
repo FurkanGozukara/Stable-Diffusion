@@ -7,6 +7,7 @@
 ### Auto Installer For RunPod
 * Scripts : https://www.patreon.com/posts/84898806
 * Use pre-downloaded ckpt or safetensors for training as source model - mandatory - otherwise you will get error
+* Example base training model settings ```/workspace/stable-diffusion-webui/models/Stable-diffusion/v1-5-pruned.ckpt```
 * Upload kohya_installer.sh
 * Open a new terminal and execute commands below for initial install
 ```
