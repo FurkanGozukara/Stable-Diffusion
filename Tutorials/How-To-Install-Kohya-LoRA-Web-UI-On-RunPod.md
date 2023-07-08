@@ -1,4 +1,4 @@
-# Tutorial For How To Install Kohya LoRA- Web UI On RunPod
+# Tutorial For How To Install Kohya LoRA- Web UI On RunPod - updated 8 July 2023
 
 ## Tutorial link for this readme file : https://youtu.be/3uzCNrQao3o
 
@@ -68,13 +68,7 @@ Best vae : https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/mai
 
 Kohya SS Gui Repo : https://github.com/bmaltais/kohya_ss
 
-```
-apt update
-
-yes | apt-get install python3.10-tk
-
-yes | apt install -y libcudnn8=8.7.0.84-1+cuda11.8 libcudnn8-dev=8.7.0.84-1+cuda11.8 --allow-change-held-packages
-```
+Patiently wait it can take up to 15 minutes total to install.
 
 ```
 apt update
@@ -93,55 +87,22 @@ yes | apt-get install python3.10-tk
 
 ```
 
-**You will get this error during above file installation. Ignore it :**  ``` ERROR: Failed building wheel for tensorrt
-ERROR: Could not build wheels for tensorrt, which is required to install pyproject.toml-based projects```
-
 ## Step 2
 
-Start a new terminal
-
-```
-
-fuser -k 7860/tcp
-
-cd /workspace/kohya_ss
-
-source venv/bin/activate
-
-pip install rich
-
-apt update
-
-apt-get install python3.10-tk
-
-yes | pip uninstall torch torchvision torchaudio
-
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-```
-
-**Restart your RunPod 1 time after first time installation - so here do a restart**
-
-### After each restart of RunPod (or turned off and then turned on) run below command 1 time
-
-```
-apt update
-
-yes | apt-get install python3.10-tk
-
-yes | apt install -y libcudnn8=8.7.0.84-1+cuda11.8 libcudnn8-dev=8.7.0.84-1+cuda11.8 --allow-change-held-packages
-```
+Edit requirements.txt inside and change gradio line to this : ```gradio==3.36.1```
 
 ## Usage after install
 
 Start a new terminal
 
 ```
+apt update
+yes | apt-get install python3.10-tk
 fuser -k 7860/tcp
 cd /workspace/kohya_ss
 source venv/bin/activate
-bash gui.sh --share
+bash gui.sh --share --headless
 ```
 
-**Now supports xformers and AdamW8bit as well**
 
 
