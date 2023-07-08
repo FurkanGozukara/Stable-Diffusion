@@ -73,19 +73,24 @@ Patiently wait it can take up to 15 minutes total to install.
 
 ```
 apt update
-
+```
+```
 git clone https://github.com/bmaltais/kohya_ss.git
-
+```
+```
 cd kohya_ss
-
+```
+```
 python3 -m venv venv
-
+```
+```
 source venv/bin/activate
-
+```
+```
 yes | apt-get install python3.10-tk
-
+```
+```
 ./setup.sh -n
-
 ```
 
 ## Step 2
