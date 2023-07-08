@@ -146,7 +146,7 @@ python run.py --keep-frames --keep-fps
 ```
 
 ```
-python run.py --keep-frames --keep-fps --video_quality 7
+python run.py --keep-frames --keep-fps --video-quality 7
 ```
 
 **To Start With GPU**
