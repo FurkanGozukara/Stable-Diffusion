@@ -261,6 +261,13 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://s3.amazonaws.com/moonup/production/uploads/6345bd89fe134dfd7a0dba40/OU_mG6YvrSOAZLboBwauu.png)](https://youtu.be/3E5fhFQUVLo)
 
+
+41.) Automatic1111 Web UI - PC - Free + RunPod
+
+[**The END of Photography - Use AI to Make Your Own Studio Photos, FREE Via DreamBooth Training**](https://youtu.be/g0wXIcRhkJk)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/vp0tLPFBzWzNj9G0ev5TV.png)](https://youtu.be/g0wXIcRhkJk)
+
 42.) Google Colab - Gradio - Free
 
 [**How To Use Stable Diffusion XL (SDXL 0.9) On Google Colab For Free**](https://youtu.be/s2MQqmv6yAg)
