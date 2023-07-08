@@ -52,13 +52,9 @@ bash gui.sh --share --headless
 
 https://www.patreon.com/posts/realistic-vision-82085317
 
-Realistic Vision V2 Half model : https://civitai.com/api/download/models/29460
+Realistic Vision V3 Full model : https://huggingface.co/SG161222/Realistic_Vision_V3.0_VAE/resolve/main/Realistic_Vision_V3.0.safetensors
 
-```wget https://civitai.com/api/download/models/29460```
-
-Realistic Vision V2 Full model : https://huggingface.co/SG161222/Realistic_Vision_V2.0/resolve/main/Realistic_Vision_V2.0.safetensors
-
-```wget https://huggingface.co/SG161222/Realistic_Vision_V2.0/resolve/main/Realistic_Vision_V2.0.safetensors```
+```wget https://huggingface.co/SG161222/Realistic_Vision_V3.0_VAE/resolve/main/Realistic_Vision_V3.0.safetensors```
 
 Best vae : https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
 
