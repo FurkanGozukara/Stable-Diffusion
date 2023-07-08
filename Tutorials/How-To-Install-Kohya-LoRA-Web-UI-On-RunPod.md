@@ -26,7 +26,7 @@ source venv/bin/activate
 bash gui.sh --share --headless
 ```
 
-* Use pre-downloaded ckpt or safetensors for training as source model - mandatory - otherwise you will get error
+### Use pre-downloaded ckpt or safetensors for training as source model - mandatory - otherwise you will get error
 * Example base training model settings ```/workspace/stable-diffusion-webui/models/Stable-diffusion/v1-5-pruned.ckpt```
 
 
