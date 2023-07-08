@@ -12,7 +12,7 @@
   chmod +x kohya_installer.sh
 ./kohya_installer.sh
 ```
-* Patiently wait until all operations get completed - [Screenshot](https://s3.amazonaws.com/moonup/production/uploads/6345bd89fe134dfd7a0dba40/2EShruWEjxwmXbThP9PIz.png)
+* Patiently wait until all operations get completed - [Screenshot](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/rT5O74VPhrFlNdjdkX2dv.png)
 * Edit requirements.txt inside kohya_ss folder and change gradio line to this : ```gradio==3.36.1```
 * Then start with below command. It will give you gradio link wait it
 * Use below command everytime you want to use Kohya LoRA
