@@ -91,7 +91,7 @@ pip install -r requirements2.txt
 * Watch tutorial video again if you can't make it. All steps are shown
   
 
-Low VRAM
+Low VRAM (12 GB and Below)
 ```
 @echo off
 
@@ -107,7 +107,7 @@ python stable-diffusion-xl-demo\app2.py
 pause
 ```
 
-High VRAM
+High VRAM (24 GB and above)
 ```
 @echo off
 
