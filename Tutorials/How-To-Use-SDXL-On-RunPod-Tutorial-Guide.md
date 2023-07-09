@@ -12,7 +12,8 @@ chmod +x sdxl.sh
 ```
 
 * After installation all you need is running below command everyone
-* If you don't want to use refiner, make ```ENABLE_REFINER=false``` 
+* If you don't want to use refiner, make ```ENABLE_REFINER=false```
+* The installation is permanent. 1 time install and use until you delete your Pod 
 
 ```
 cd /workspace/stable-diffusion-xl-demo
@@ -22,3 +23,5 @@ PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:256 SHARE=true ENABLE_REFINER=true pyt
 
 The generated images will be saved inside below folder
 * /workspace/stable-diffusion-xl-demo/stable-diffusion-xl-demo/outputs
+
+
