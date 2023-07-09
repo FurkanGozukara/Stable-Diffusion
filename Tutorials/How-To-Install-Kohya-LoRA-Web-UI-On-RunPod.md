@@ -13,7 +13,6 @@
 ./kohya_installer.sh
 ```
 * Patiently wait until all operations get completed - [Screenshot](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/rT5O74VPhrFlNdjdkX2dv.png)
-* Edit requirements.txt inside kohya_ss folder and change gradio line to this : ```gradio==3.36.1```
 * Then start with below command. It will give you gradio link wait it
 * Use below command everytime you want to use Kohya LoRA
 
@@ -81,6 +80,9 @@ git clone https://github.com/bmaltais/kohya_ss.git
 cd kohya_ss
 ```
 ```
+git checkout 429d2f282fb32e7c63b5e5fe6dbc1ddef92bba58
+```
+```
 python3 -m venv venv
 ```
 ```
@@ -92,10 +94,6 @@ yes | apt-get install python3.10-tk
 ```
 ./setup.sh -n
 ```
-
-## Step 2
-
-Edit requirements.txt inside kohya_ss folder and change gradio line to this : ```gradio==3.36.1```
 
 ## Usage after install
 
