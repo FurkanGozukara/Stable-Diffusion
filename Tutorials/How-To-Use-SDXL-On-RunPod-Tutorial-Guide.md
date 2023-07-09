@@ -19,3 +19,6 @@ cd /workspace/stable-diffusion-xl-demo
 source venv/bin/activate
 PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:256 SHARE=true ENABLE_REFINER=true python app7.py
 ```
+
+The generated images will be saved inside below folder
+* /workspace/stable-diffusion-xl-demo/stable-diffusion-xl-demo/outputs
