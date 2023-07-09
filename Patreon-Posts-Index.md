@@ -14,6 +14,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### July 10 - 2023
+[Auto SDXL RunPod Installer Script - 1 Click ](https://www.patreon.com/posts/auto-sdxl-runpod-85845581)
+* 1 Click SDXL Installer Script for RunPod. Working amazing. Use high VRAM GPUs for amazing speed. You don't need token I did set it for you.
+
 ### July 6 - 2023
 [Auto Installer Script (.bat) Files For Stable Diffusion XL (SDXL) On Your PC](https://www.patreon.com/posts/auto-installer-85678961)
 * Attached script files will automatically download and install SD-XL 0.9 into your computer and let you use SDXL locally for free as you wish
