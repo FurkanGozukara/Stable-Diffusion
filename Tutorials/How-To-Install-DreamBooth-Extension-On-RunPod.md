@@ -96,6 +96,10 @@ yes | apt install -y libcudnn8=8.9.2.26-1+cuda11.8 libcudnn8-dev=8.9.2.26-1+cuda
 ```
 
 ```
+source /workspace/venv/bin/activate
+```
+
+```
 pip install -r /workspace/stable-diffusion-webui/extensions/sd_dreambooth_extension/requirements.txt
 ```
 
