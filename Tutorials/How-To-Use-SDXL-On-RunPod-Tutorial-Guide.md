@@ -8,6 +8,8 @@
 
 ## Register or Login Runpod : https://bit.ly/RunPodIO
 
+* How to use runpodctl tutorial : [Ultimate RunPod Tutorial For Stable Diffusion - Automatic1111 - Data Transfers, Extensions, CivitAI](https://youtu.be/QN1vdGhjcRc)
+
 ## Auto Installer For RunPod
 
 * Select RunPod Fast Stable Diffusion template
