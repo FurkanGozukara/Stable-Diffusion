@@ -33,6 +33,7 @@ bash gui.sh --share --headless
 ### Use pre-downloaded ckpt or safetensors for training as source model - mandatory - otherwise you will get error
 * Example base training model settings ```/workspace/stable-diffusion-webui/models/Stable-diffusion/v1-5-pruned.ckpt```
 * Quick destination folder ```/workspace/stable-diffusion-webui/models/Lora```
+* [Screenshot of custom model selection](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/YPU7_TfhK9xOIbynF9Jft.png)
 
 ## Original Kohya Tutorial
 
