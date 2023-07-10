@@ -99,20 +99,41 @@ cd /workspace
 git lfs clone https://YOUR_HUGGING_FACE_USERNAME:HUGGIN_FACE_TOKEN@huggingface.co/stabilityai/stable-diffusion-xl-base-0.9
 ```
 
+```
 find /workspace/stable-diffusion-xl-base-0.9 -type f -name "*.safetensors" -exec rm {} \;
+```
 
+```
 mv /root/.cache /workspace/.cache
 ln -s /workspace/.cache /root/.cache
+```
 
+```
 cd /workspace
+```
 
-git lfs clone https://OwlMaster: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@huggingface.co/stabilityai/stable-diffusion-xl-refiner-0.9
+```
+git lfs clone https://YOUR_HUGGING_FACE_USERNAME:HUGGIN_FACE_TOKEN@huggingface.co/stabilityai/stable-diffusion-xl-refiner-0.9
+```
 
+```
 find /workspace/stable-diffusion-xl-refiner-0.9 -type f -name "*.safetensors" -exec rm {} \;
+```
 
+```
 mv /root/.cache /workspace/.cache
 ln -s /workspace/.cache /root/.cache
+```
 
-cd /workspace
+* After installation all you need is running below command everyone
+* If you don't want to use refiner, make ```ENABLE_REFINER=false```
+* The installation is permanent. 1 time install and use until you delete your Pod 
 
-echo "auto install of SDXL completed"
+```
+cd /workspace/stable-diffusion-xl-demo
+source venv/bin/activate
+PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:256 SHARE=true ENABLE_REFINER=true python app7.py
+```
+
+The generated images will be saved inside below folder
+* /workspace/stable-diffusion-xl-demo/stable-diffusion-xl-demo/outputs
