@@ -153,9 +153,9 @@ Your Patreon support is tremendously important for me so thank you so much
 [File Verification Software Source Code](https://www.patreon.com/posts/file-software-76398813)
 * This is the source code of the file verification software shown and used in the How to clone Windows HDD / SSD to new or larger HDD / NVMe SSD
 
-xformers need to be updated posts time to time
-https://www.patreon.com/posts/84773926
-https://github.com/FurkanGozukara/stable-diffusion-xl-demo
-https://www.patreon.com/posts/auto-installer-85678961
-https://github.com/FurkanGozukara/Stable-Diffusion/edit/main/Tutorials/How-To-Use-Stable-Diffusion-SDXL-Locally-And-Also-In-Google-Colab.md
-https://www.patreon.com/posts/runpod-auto-84716845
+### xformers need to be updated posts time to time
+* https://www.patreon.com/posts/84773926
+* https://github.com/FurkanGozukara/stable-diffusion-xl-demo
+* https://www.patreon.com/posts/auto-installer-85678961
+* https://github.com/FurkanGozukara/Stable-Diffusion/edit/main/Tutorials/How-To-Use-Stable-Diffusion-SDXL-Locally-And-Also-In-Google-Colab.md
+* https://www.patreon.com/posts/runpod-auto-84716845
