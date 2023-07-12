@@ -16,6 +16,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### July 12 - 2023
+[1k Resolution Class Images & Direct SDXL Download Links](https://www.patreon.com/posts/1k-resolution-85976249)
+* 1024x1024 Pixels Class Images (From Real Pictures) For Amazing Realism For SDXL and Direct SDXL 0.9 Download Links (From Official Repo)
+
 ### July 10 - 2023
 [Auto SDXL RunPod Installer Script - 1 Click ](https://www.patreon.com/posts/auto-sdxl-runpod-85845581)
 * 1 Click SDXL Installer Script for RunPod. Working amazing. Use high VRAM GPUs for amazing speed. You don't need token I did set it for you.
