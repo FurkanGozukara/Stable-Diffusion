@@ -79,10 +79,8 @@ python relauncher.py
 
 ```
 fuser -k 3000/tcp
-pip install xformers==dev
+pip install -U --pre xformers
 ```
-
-look latest version and install it
 
 ```
 yes | pip uninstall torch torchvision torchaudio
