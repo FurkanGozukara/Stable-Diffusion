@@ -76,6 +76,15 @@ cd /workspace/stable-diffusion-webui
 python relauncher.py
 ```
 
+## Now Part 2 Begins
+
+```
+fuser -k 3000/tcp
+```
+
+```
+source /workspace/venv/bin/activate
+```
 
 ```
 fuser -k 3000/tcp
@@ -88,13 +97,7 @@ yes | pip3 install torch torchvision torchaudio --index-url https://download.pyt
 ```
 
 ```
-apt update
 git clone https://github.com/d8ahazard/sd_dreambooth_extension /workspace/stable-diffusion-webui/extensions/sd_dreambooth_extension
-yes | apt install -y libcudnn8=8.9.2.26-1+cuda11.8 libcudnn8-dev=8.9.2.26-1+cuda11.8 --allow-change-held-packages
-```
-
-```
-source /workspace/venv/bin/activate
 ```
 
 ```
