@@ -19,7 +19,7 @@ git clone https://github.com/comfyanonymous/ComfyUI
 ```
 
 ```
-cd /ComfyUI
+cd /workspace/ComfyUI
 ```
 
 ```
