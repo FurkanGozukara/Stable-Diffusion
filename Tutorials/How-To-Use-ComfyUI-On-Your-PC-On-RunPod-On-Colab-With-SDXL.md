@@ -58,7 +58,7 @@ Run below command and then use port 3001 connect button on MyPods section of the
 apt update
 apt install psmisc
 fuser -k 3001/tcp
-cd /workspace/ComfyUI/ven
+cd /workspace/ComfyUI/venv
 source bin/activate
 cd /workspace/ComfyUI
 python main.py --listen 0.0.0.0 --port 3001
