@@ -19,7 +19,7 @@ chmod +x a.sh
 ./comfy_ui.sh
 ```
 
-**For running it after install run below command**
+**For running it after install run below command and use 3001 connect button on MyPods interface**
 
 ```
 apt update
@@ -34,8 +34,7 @@ python main.py --listen 0.0.0.0 --port 3000
 ### Manual Step by Step Install
 
 * Execute below commands 1 by 1
-
-Move into workspace and start a new terminal
+* Move into workspace and start a new terminal
 
 ```
 git clone https://github.com/comfyanonymous/ComfyUI
@@ -47,7 +46,7 @@ Move into ComfyUI and start a new terminal
 python -m venv venv
 ```
 
-Move into venv and start a new terminal
+* Move into venv and start a new terminal
 
 ```
 source bin/activate
@@ -69,13 +68,13 @@ cd ..
 pip install -r requirements.txt
 ```
 
-Move into models/vae/ and start a new terminal
+* Move into models/vae/ and start a new terminal
 
 ```
 wget https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors
 ```
 
-Move into models/checkpoints and start a new terminal
+* Move into models/checkpoints and start a new terminal
 
 ```
 wget https://huggingface.co/SG161222/Realistic_Vision_V4.0/resolve/main/Realistic_Vision_V4.0.safetensors
