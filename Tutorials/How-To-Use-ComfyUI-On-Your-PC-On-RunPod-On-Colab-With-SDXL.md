@@ -42,6 +42,14 @@ pip install -U --pre xformers
 pip install -r requirements.txt
 ```
 
+```
+wget -c https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors -P ./models/vae/
+```
+
+```
+wget -c https://huggingface.co/SG161222/Realistic_Vision_V4.0/resolve/main/Realistic_Vision_V4.0.safetensors -P ./models/checkpoints/
+```
+
 ### How To Run After Install
 
 Run below command and then use port 3001 connect button on MyPods section of the RunPod.io website
