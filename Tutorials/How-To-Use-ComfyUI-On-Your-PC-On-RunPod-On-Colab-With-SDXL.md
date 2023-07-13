@@ -15,7 +15,7 @@
 * Execute below command and wait until all is done
 
 ```
-chmod +x a.sh
+chmod +x comfy_ui.sh
 ./comfy_ui.sh
 ```
 
