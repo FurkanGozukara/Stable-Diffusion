@@ -5,8 +5,6 @@
 [![YouTube Channel](https://img.shields.io/badge/YouTube-SECourses-C50C0C?style=for-the-badge&logo=youtube)](https://www.youtube.com/SECourses) [![Patreon](https://img.shields.io/badge/Patreon-Support%20Me-F2EB0E?style=for-the-badge&logo=patreon)](https://www.patreon.com/SECourses) [![Furkan Gözükara LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkangozukara/) 
 
 * ComfyUI Github Repo : https://github.com/comfyanonymous/ComfyUI
-* Download and install link : https://github.com/comfyanonymous/ComfyUI#windows
-* Google Colab (free) : https://colab.research.google.com/github/comfyanonymous/ComfyUI/blob/master/notebooks/comfyui_colab.ipynb
 * RunPod template name : RunPod SD Comfy UI
 * Download attached images, drag and drop (or use Load button) them into ComfyUI for workflows to load. Images have embedding info
 * The URL it will start by default : http://127.0.0.1:8188/
