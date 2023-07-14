@@ -17,6 +17,8 @@
 * Examples : https://comfyanonymous.github.io/ComfyUI_examples/
 * Shortcuts : https://github.com/comfyanonymous/ComfyUI#shortcuts
 * Winrar to open 7-zip file : https://www.rarlab.com/download.htm
+* Best VAE File : https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
+* Realistic Vision V4 : https://huggingface.co/SG161222/Realistic_Vision_V4.0/resolve/main/Realistic_Vision_V4.0.safetensors
 
 ## General Resources About SDXL 0.9
 * Register Hugging Face and login if you don't have an account already
