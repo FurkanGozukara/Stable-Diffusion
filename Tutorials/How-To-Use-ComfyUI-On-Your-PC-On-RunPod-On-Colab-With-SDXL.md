@@ -14,7 +14,20 @@
 * [SDXL_LoRA_InPAINT](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/6c837b3d-fa62-44cb-8582-7b3cb8c5d513) | [SDXL_With_LoRA](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/b4cad1c3-a779-4d08-b414-fd51345ff320)
 
 
-## RunPod Installation
+## General Resources About ComfyUI
+
+* Examples : https://comfyanonymous.github.io/ComfyUI_examples/
+* Shortcuts : https://github.com/comfyanonymous/ComfyUI#shortcuts
+
+## PC ComfyUI Installation
+
+* Windows download link : https://github.com/comfyanonymous/ComfyUI#windows
+
+## Google Colab (Free) ComfyUI Installation
+
+* [Colab Link](https://colab.research.google.com/github/comfyanonymous/ComfyUI/blob/master/notebooks/comfyui_colab.ipynb)
+
+## RunPod ComfyUI Installation
 
 * Select RunPod Fast Stable Diffusion template and start your pod
 
