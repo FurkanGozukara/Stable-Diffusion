@@ -9,7 +9,7 @@
 * Download attached images, drag and drop (or use Load button) them into ComfyUI for workflows to load. Images have embedding info
 * The URL it will start by default : http://127.0.0.1:8188/
 * [SDXL_1](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/30bc9a89-fd0f-4f07-bdcf-c2e12485db15) (right click and save as) workflow has the SDXL setup with refiner with best settings. Working amazing. [Here Screenshot](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/SyUZbhotUgR2qOP0OQ678.png)
-* [SDXL_LoRA_InPAINT](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/6c837b3d-fa62-44cb-8582-7b3cb8c5d513) | [SDXL_With_LoRA](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/b4cad1c3-a779-4d08-b414-fd51345ff320)
+* [SDXL_LoRA_InPAINT](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/6c837b3d-fa62-44cb-8582-7b3cb8c5d513) | [SDXL_With_LoRA](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/b4cad1c3-a779-4d08-b414-fd51345ff320) | [SDXL_Inpaint](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/887ab302-98db-4df3-992e-fc7be991f905) | [SDXL_Refiner_Inpaint](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/c2ae4046-875e-43da-869a-f111bbb0c34d)
 
 
 ## General Resources About ComfyUI
