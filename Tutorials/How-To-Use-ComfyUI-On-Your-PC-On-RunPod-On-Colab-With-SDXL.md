@@ -35,6 +35,7 @@
 ## Google Colab (Free) ComfyUI Installation
 
 * [Colab Link](https://colab.research.google.com/github/comfyanonymous/ComfyUI/blob/master/notebooks/comfyui_colab.ipynb)
+* Download generated images code (shown in tutorial) : https://www.patreon.com/posts/runpod-comfyui-86062569
 
 ## RunPod ComfyUI Installation
 
