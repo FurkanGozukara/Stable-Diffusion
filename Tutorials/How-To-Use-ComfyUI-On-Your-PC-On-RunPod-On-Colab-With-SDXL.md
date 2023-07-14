@@ -38,6 +38,8 @@
 
 ## RunPod ComfyUI Installation
 
+### Register or Login Runpod : https://bit.ly/RunPodIO
+
 * Select RunPod Fast Stable Diffusion template and start your pod
 
 ### Auto Install
