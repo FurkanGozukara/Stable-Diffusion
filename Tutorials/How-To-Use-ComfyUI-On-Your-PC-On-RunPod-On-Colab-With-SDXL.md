@@ -24,6 +24,7 @@ chmod +x comfy_ui.sh
 ```
 
 **For running it after install run below command and use 3001 connect button on MyPods interface**
+* If it doesn't start at the first time execute again
 
 ```
 apt update
@@ -106,8 +107,8 @@ wget https://USERNAME:TOKEN@huggingface.co/stabilityai/stable-diffusion-xl-refin
 
 ### How To Run After Install
 
-Run below command and then use port 3001 connect button on MyPods section of the RunPod.io website
-
+* Run below command and then use port 3001 connect button on MyPods section of the RunPod.io website
+* If it doesn't start at the first time execute again
 ```
 apt update
 apt install psmisc
