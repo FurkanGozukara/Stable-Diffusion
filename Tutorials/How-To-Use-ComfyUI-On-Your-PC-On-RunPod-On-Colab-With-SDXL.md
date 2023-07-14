@@ -8,6 +8,8 @@
 * Download and install link : https://github.com/comfyanonymous/ComfyUI#windows
 * Google Colab (free) : https://colab.research.google.com/github/comfyanonymous/ComfyUI/blob/master/notebooks/comfyui_colab.ipynb
 * RunPod template name : RunPod SD Comfy UI
+* Download attached images, drag and drop them into ComfyUI for workflows to load. Images have embedding info
+* The URL it will start by default : http://127.0.0.1:8188/
 
 ## RunPod Installation
 
