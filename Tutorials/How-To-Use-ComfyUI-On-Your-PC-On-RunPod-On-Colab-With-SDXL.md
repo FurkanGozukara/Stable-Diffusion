@@ -17,6 +17,14 @@
 * Examples : https://comfyanonymous.github.io/ComfyUI_examples/
 * Shortcuts : https://github.com/comfyanonymous/ComfyUI#shortcuts
 
+## General Resources About SDXL 0.9
+* Register Hugging Face and login if you don't have an account already
+* https://huggingface.co/join
+* https://huggingface.co/login
+* Open below links and accept terms and conditions - now auto approve official weights - just type anything to the form fill sections
+* https://huggingface.co/stabilityai/stable-diffusion-xl-base-0.9 (you can download safetensors from this link - watch video to learn)
+* https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-0.9 (you can download safetensors from this link - watch video to learn)
+
 ## PC ComfyUI Installation
 
 * Windows download link : https://github.com/comfyanonymous/ComfyUI#windows
