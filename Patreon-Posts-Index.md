@@ -16,6 +16,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### July 14 - 2023
+[RunPod ComfyUI Auto Installer With SDXL Auto Install Including Refiner](https://www.patreon.com/posts/runpod-comfyui-86062569)
+* 1 Click Auto Installer Script For ComfyUI (latest) On RunPod. Supports SDXL and SDXL Refiner. Workflow included. Includes LoRA & Inpainting
+
 ### July 12 - 2023
 [1k Resolution Class Images & Direct SDXL Download Links](https://www.patreon.com/posts/1k-resolution-85976249)
 * 1024x1024 Pixels Class Images (From Real Pictures) For Amazing Realism For SDXL and Direct SDXL 0.9 Download Links (From Official Repo)
