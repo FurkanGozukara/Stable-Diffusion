@@ -12,7 +12,7 @@
 
 ## Initial Instruction for Both Automatic and Manual Installation
 
-First modify relauncher.py as shown in video and restart the pod (only 1 time necessary)
+**IMPORTANT - First modify relauncher.py as shown in video and restart the pod (only 1 time necessary)**
 
 ```
 while (n<1):
