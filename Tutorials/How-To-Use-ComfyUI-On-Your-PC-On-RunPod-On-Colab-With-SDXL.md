@@ -16,6 +16,7 @@
 
 * Examples : https://comfyanonymous.github.io/ComfyUI_examples/
 * Shortcuts : https://github.com/comfyanonymous/ComfyUI#shortcuts
+* Winrar to open 7-zip file : https://www.rarlab.com/download.htm
 
 ## General Resources About SDXL 0.9
 * Register Hugging Face and login if you don't have an account already
