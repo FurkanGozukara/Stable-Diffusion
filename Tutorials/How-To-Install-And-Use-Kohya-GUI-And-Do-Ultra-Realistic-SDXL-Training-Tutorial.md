@@ -11,9 +11,8 @@ Kohya GUI Repo : https://github.com/bmaltais/kohya_ss
 * YouTube Tutorial : https://youtu.be/343I11mhnXs
 * Script : https://www.patreon.com/posts/sort-ai-images-82478694
 
-
-
-
+* How To Use ComfyUI Tutorial Readme : [click here](https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Tutorials/How-To-Use-ComfyUI-On-Your-PC-On-RunPod-On-Colab-With-SDXL.md)
+* The video for this tutorial coming : 
 
 
 ## Use Versions And Pip Freeze
