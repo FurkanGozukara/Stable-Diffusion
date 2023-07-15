@@ -44,9 +44,11 @@ scale_parameter=False relative_step=False warmup_init=False
 ```
 
 ### Used Training Command
+
 ```
 accelerate launch --num_cpu_threads_per_process=2 "./sdxl_train_network.py" --enable_bucket --pretrained_model_name_or_path="F:/0 models/sd_xl_base_0.9.safetensors" --train_data_dir="F:/kohya sdxl tutorial files\img" --reg_data_dir="F:/kohya sdxl tutorial files\reg" --resolution="1024,1024" --output_dir="F:/kohya sdxl tutorial files\model" --logging_dir="F:/kohya sdxl tutorial files\log" --network_alpha="1" --save_model_as=safetensors --network_module=networks.lora --text_encoder_lr=0.0004 --unet_lr=0.0004 --network_dim=256 --output_name="tutorial_video" --lr_scheduler_num_cycles="10" --no_half_vae --learning_rate="0.0004" --lr_scheduler="constant" --train_batch_size="1" --max_train_steps="5200" --save_every_n_epochs="1" --mixed_precision="bf16" --save_precision="bf16" --cache_latents --cache_latents_to_disk --optimizer_type="Adafactor" --optimizer_args scale_parameter=False relative_step=False warmup_init=False --max_data_loader_n_workers="0" --bucket_reso_steps=64 --xformers --bucket_no_upscale
 ```
+
 ### Used Prompts
 
 ```
