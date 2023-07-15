@@ -4,8 +4,7 @@
 
 # [Tutorial] How To Install And Use Kohya GUI And Do Ultra Realistic SDXL Training
 
-
-Kohya GUI Repo : https://github.com/bmaltais/kohya_ss
+### Kohya GUI Repo : https://github.com/bmaltais/kohya_ss
 
 * How To Find Best Stable Diffusion Generated Images By Using DeepFace AI - DreamBooth / LoRA Training
 * YouTube Tutorial : https://youtu.be/343I11mhnXs
