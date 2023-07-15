@@ -50,13 +50,28 @@ accelerate launch --num_cpu_threads_per_process=2 "./sdxl_train_network.py" --en
 ```
 
 ### Used Prompts
-
+* Realism 
 ```
 portrait photo of (ohwx man:1.1) wearing an expensive White suit, white background, fit
 ```
 
 ```
 (blue eyes, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.4), fat, text, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck
+```
+
+* GTA 5
+```
+portrait photo of ohwx:0.8 man in gta 5 style, game character, digital drawing, digital artwork
+```
+No negatives
+
+* Pixar
+```
+photo of ohwx:0.9 man as a pixar character
+```
+
+```
+low, bad, blurry, worse, worst, ugly, tiling, deformed, mutated, low quality
 ```
 
 ## Use Versions And Pip Freeze
