@@ -32,6 +32,10 @@
 * Manual Install Tutorial Video: https://youtu.be/3uzCNrQao3o
 * 1 Click Automatic Installer Script For RunPod: https://www.patreon.com/posts/84898806
 
+### SDXL Base Model File
+
+* https://huggingface.co/stabilityai/stable-diffusion-xl-base-0.9/tree/main
+
 ### Used Prompts
 
 ```
