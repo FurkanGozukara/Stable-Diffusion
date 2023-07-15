@@ -19,6 +19,16 @@
 * Manual Install Tutorial Video: https://youtu.be/3uzCNrQao3o
 * 1 Click Automatic Installer Script For RunPod: https://www.patreon.com/posts/84898806
 
+### Used Prompts
+
+```
+portrait photo of (ohwx man:1.1) wearing an expensive White suit, white background, fit
+```
+
+```
+(blue eyes, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.4), fat, text, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck
+```
+
 ## Use Versions And Pip Freeze
 
 * Kohya SS GUI Commit Id : 5c44ba372c6d94f996f98bbcb1d2a60731ba3080
