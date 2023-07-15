@@ -14,6 +14,10 @@
 * How To Use ComfyUI Tutorial Readme : [click here](https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Tutorials/How-To-Use-ComfyUI-On-Your-PC-On-RunPod-On-Colab-With-SDXL.md)
 * The video for this tutorial coming : 
 
+### How To Install Kohya GUI On RunPod
+
+* Manual Install Tutorial Video: https://youtu.be/3uzCNrQao3o
+* 1 Click Automatic Installer Script For RunPod: https://www.patreon.com/posts/84898806
 
 ## Use Versions And Pip Freeze
 
