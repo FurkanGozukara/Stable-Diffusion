@@ -6,6 +6,7 @@
 
 ### Kohya GUI Repo : https://github.com/bmaltais/kohya_ss
 
+### Resources
 * How To Find Best Stable Diffusion Generated Images By Using DeepFace AI - DreamBooth / LoRA Training
 * YouTube Tutorial : https://youtu.be/343I11mhnXs
 * Script : https://www.patreon.com/posts/sort-ai-images-82478694
