@@ -4,15 +4,28 @@
 
 # [Tutorial] How To Install And Use Kohya GUI And Do Ultra Realistic SDXL Training
 
+## Prerequisites
+
+### Full tutorial for Python and Git installation and extra info regarding venv (virtual enviroment)
+* [How To Install Python, Setup Virtual Environment VENV, Set Default Python System Path & Install Git](https://youtu.be/B5U7LJOvH6g)
+* Python 3.10.9 https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe
+
+### Full tutorial for how to install and use ComfyUI for SDXL
+* How To Use ComfyUI Tutorial Readme : [click here](https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Tutorials/How-To-Use-ComfyUI-On-Your-PC-On-RunPod-On-Colab-With-SDXL.md)
+* The video for this tutorial coming : 
+
+### Full tutorial for how to install and use Stable Diffusion Automatic1111 Web UI: 
+* First 15 minutes : [Zero to Hero ControlNet Tutorial: Stable Diffusion Web UI Extension | Complete Feature Guide](https://youtu.be/3E5fhFQUVLo)
+
+### Download and install Visual Studio 2015, 2017, 2019, and 2022 redistributable 
+* https://aka.ms/vs/17/release/vc_redist.x64.exe
+
 ### Kohya GUI Repo : https://github.com/bmaltais/kohya_ss
 
 ### Resources
 * How To Find Best Stable Diffusion Generated Images By Using DeepFace AI - DreamBooth / LoRA Training
 * YouTube Tutorial : https://youtu.be/343I11mhnXs
 * Script : https://www.patreon.com/posts/sort-ai-images-82478694
-
-* How To Use ComfyUI Tutorial Readme : [click here](https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Tutorials/How-To-Use-ComfyUI-On-Your-PC-On-RunPod-On-Colab-With-SDXL.md)
-* The video for this tutorial coming : 
 
 ### How To Install Kohya GUI On RunPod
 
