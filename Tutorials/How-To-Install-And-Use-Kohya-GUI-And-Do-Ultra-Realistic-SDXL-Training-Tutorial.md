@@ -26,6 +26,8 @@
 * How To Find Best Stable Diffusion Generated Images By Using DeepFace AI - DreamBooth / LoRA Training
 * YouTube Tutorial : https://youtu.be/343I11mhnXs
 * Script : https://www.patreon.com/posts/sort-ai-images-82478694
+* What is DreamBooth training, rare tokens, class images master tutorial below
+* [Zero To Hero Stable Diffusion DreamBooth Tutorial By Using Automatic1111 Web UI - Ultra Detailed](https://youtu.be/Bdl-jWR3Ukc)
 
 ### How To Install Kohya GUI On RunPod
 
