@@ -38,6 +38,11 @@
 
 * https://huggingface.co/stabilityai/stable-diffusion-xl-base-0.9/tree/main
 
+### Optimizer Extra Arguments For SDXL
+```
+scale_parameter=False relative_step=False warmup_init=False
+```
+
 ### Used Prompts
 
 ```
