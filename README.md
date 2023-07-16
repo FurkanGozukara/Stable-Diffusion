@@ -281,3 +281,9 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 [**Stable Diffusion XL (SDXL) Locally On Your PC - 8GB VRAM - Easy Tutorial With Automatic Installer**](https://youtu.be/__7VNmnn5iU)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/3UAi7i7oLdtvlibSlx4z9.png)](https://youtu.be/__7VNmnn5iU)
+
+44.) Local - PC - Free - Google Colab - RunPod - Custom Web UI
+
+[**ComfyUI Master Tutorial - Stable Diffusion XL (SDXL) - Install On PC, Google Colab (Free) & RunPod**](https://youtu.be/FnMHbhvWUhE)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/WEPEFBLGWUYBdMEWaq2zS.png)](https://youtu.be/FnMHbhvWUhE)
