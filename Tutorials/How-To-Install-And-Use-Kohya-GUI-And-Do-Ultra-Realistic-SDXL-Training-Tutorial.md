@@ -12,7 +12,7 @@
 
 ### Full tutorial for how to install and use ComfyUI for SDXL
 * How To Use ComfyUI Tutorial Readme : [click here](https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Tutorials/How-To-Use-ComfyUI-On-Your-PC-On-RunPod-On-Colab-With-SDXL.md)
-* The video for this tutorial coming : 
+* Tutorial Video Of ComfyUI : [ComfyUI Master Tutorial - Stable Diffusion XL (SDXL) - Install On PC, Google Colab (Free) & RunPod](https://youtu.be/FnMHbhvWUhE)
 
 ### Full tutorial for how to install and use Stable Diffusion Automatic1111 Web UI: 
 * First 15 minutes : [Zero to Hero ControlNet Tutorial: Stable Diffusion Web UI Extension | Complete Feature Guide](https://youtu.be/3E5fhFQUVLo)
