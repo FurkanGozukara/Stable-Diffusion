@@ -16,6 +16,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### July 19 - 2023
+[Automatic Installer For SDXL & Automatic1111 Web UI](https://www.patreon.com/posts/automatic-for-ui-86307255)
+* Automatic installer script for SDXL and Automatic1111 Web UI. Automatically downloads latest SDXL base and refiner models (.safetensors)
+
 ### July 14 - 2023
 [RunPod ComfyUI Auto Installer With SDXL Auto Install Including Refiner](https://www.patreon.com/posts/runpod-comfyui-86062569)
 * 1 Click Auto Installer Script For ComfyUI (latest) On RunPod. Supports SDXL and SDXL Refiner. Workflow included. Includes LoRA & Inpainting
