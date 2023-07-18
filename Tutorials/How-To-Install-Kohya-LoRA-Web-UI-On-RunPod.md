@@ -28,6 +28,7 @@ chmod +x kohya_installer.sh
 * Patiently wait until all operations get completed - [Screenshot](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/rT5O74VPhrFlNdjdkX2dv.png)
 * Then start with below command. It will give you gradio link wait it
 * Use below command everytime you want to use Kohya LoRA
+* You may be need to hit enter twice after copy paste
 
 ```
 apt update
@@ -108,7 +109,9 @@ yes | apt-get install python3.10-tk
 
 ## Usage after install
 
-Start a new terminal
+* Start a new terminal
+* Copy paste below code
+* You may be need to hit enter twice after copy paste
 
 ```
 apt update
