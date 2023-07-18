@@ -287,3 +287,9 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 [**ComfyUI Master Tutorial - Stable Diffusion XL (SDXL) - Install On PC, Google Colab (Free) & RunPod**](https://youtu.be/FnMHbhvWUhE)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/WEPEFBLGWUYBdMEWaq2zS.png)](https://youtu.be/FnMHbhvWUhE)
+
+45.) Local - PC - Free - RunPod
+
+[**First Ever SDXL Training With Kohya LoRA - Stable Diffusion XL Training Will Replace Older Models**](https://youtu.be/AY6DMBCIZ3A)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/mG0CvKAzb8o29nr5ye0Br.png)](https://youtu.be/AY6DMBCIZ3A)
