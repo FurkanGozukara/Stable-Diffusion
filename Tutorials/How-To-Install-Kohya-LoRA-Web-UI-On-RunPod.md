@@ -11,10 +11,18 @@ wget https://huggingface.co/SG161222/Realistic_Vision_V4.0/resolve/main/Realisti
 
 ### Auto Installer For RunPod
 * Scripts : https://www.patreon.com/posts/84898806
+* Upload downloadSDXL.sh
+* Open a new terminal and execute command below to auto download SDXL model files into /workspace/
+```
+chmod +x downloadSDXL.sh
+./downloadSDXL.sh
+```
+
+
 * Upload kohya_installer.sh
 * Open a new terminal and execute commands below for initial install
 ```
-  chmod +x kohya_installer.sh
+chmod +x kohya_installer.sh
 ./kohya_installer.sh
 ```
 * Patiently wait until all operations get completed - [Screenshot](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/rT5O74VPhrFlNdjdkX2dv.png)
