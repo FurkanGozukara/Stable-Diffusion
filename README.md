@@ -282,13 +282,19 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/3UAi7i7oLdtvlibSlx4z9.png)](https://youtu.be/__7VNmnn5iU)
 
-44.) Local - PC - Free - Google Colab - RunPod - Custom Web UI
+44.) Cloud - RunPod
+
+[**How To Use SDXL On RunPod Tutorial. Auto Installer & Refiner & Amazing Native Diffusers Based Gradio**](https://youtu.be/gTdPRm-R-14)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/mquAeJwsz4UBuop3VjUl5.png)](https://youtu.be/gTdPRm-R-14)
+
+45.) Local - PC - Free - Google Colab - RunPod - Custom Web UI
 
 [**ComfyUI Master Tutorial - Stable Diffusion XL (SDXL) - Install On PC, Google Colab (Free) & RunPod**](https://youtu.be/FnMHbhvWUhE)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/WEPEFBLGWUYBdMEWaq2zS.png)](https://youtu.be/FnMHbhvWUhE)
 
-45.) Local - PC - Free - RunPod
+46.) Local - PC - Free - RunPod
 
 [**First Ever SDXL Training With Kohya LoRA - Stable Diffusion XL Training Will Replace Older Models**](https://youtu.be/AY6DMBCIZ3A)
 
