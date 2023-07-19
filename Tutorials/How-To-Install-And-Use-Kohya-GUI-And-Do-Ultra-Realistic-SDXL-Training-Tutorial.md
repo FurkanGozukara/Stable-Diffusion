@@ -83,6 +83,11 @@ painting of ohwx man in van gogh style <lora:test9:1>
 realistic, realism, photo, picture, canon, hdr, studioshot , photoshoot, low quality, bad, blurry, ugly, tiling, poorly drawn, low, low quality, worse, worst
 ```
 
+* miniature in automatic 1111 web ui
+```
+ohwx man as a plastic figurine, miniature product photography  <lora:test9:1>
+```
+
 ## Use Versions And Pip Freeze
 
 * Kohya SS GUI Commit Id : 5c44ba372c6d94f996f98bbcb1d2a60731ba3080
