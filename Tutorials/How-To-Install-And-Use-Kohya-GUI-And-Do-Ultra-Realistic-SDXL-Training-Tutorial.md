@@ -74,6 +74,15 @@ photo of ohwx:0.9 man as a pixar character
 low, bad, blurry, worse, worst, ugly, tiling, deformed, mutated, low quality
 ```
 
+* van gogh in automatic 1111 web ui
+```
+painting of ohwx man in van gogh style <lora:test9:1>
+```
+
+```
+realistic, realism, photo, picture, canon, hdr, studioshot , photoshoot, low quality, bad, blurry, ugly, tiling, poorly drawn, low, low quality, worse, worst
+```
+
 ## Use Versions And Pip Freeze
 
 * Kohya SS GUI Commit Id : 5c44ba372c6d94f996f98bbcb1d2a60731ba3080
