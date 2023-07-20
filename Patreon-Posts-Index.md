@@ -167,6 +167,5 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ### xformers need to be updated posts time to time
 * https://github.com/FurkanGozukara/stable-diffusion-xl-demo
-* https://www.patreon.com/posts/auto-installer-85678961
 * https://github.com/FurkanGozukara/Stable-Diffusion/edit/main/Tutorials/How-To-Use-Stable-Diffusion-SDXL-Locally-And-Also-In-Google-Colab.md
 * https://www.patreon.com/posts/runpod-auto-84716845
