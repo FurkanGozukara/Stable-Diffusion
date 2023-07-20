@@ -10,7 +10,7 @@
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/hyjVV0eCkxXwUGiX_ULxb.png)](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/H9mCArHNP_UOwqFGNg3Yn.png)
 
-## Full tutorial video link > link will be added when published
+## Full tutorial video link > [The END of Photography - Use AI to Make Your Own Studio Photos, FREE Via DreamBooth Training](https://youtu.be/g0wXIcRhkJk)
 
 * 100k+ views master DreamBooth Tutorial that explains concepts such as class images, rare tokens, how DreamBooth works
 * * [Zero To Hero Stable Diffusion DreamBooth Tutorial By Using Automatic1111 Web UI - Ultra Detailed](https://youtu.be/Bdl-jWR3Ukc)
