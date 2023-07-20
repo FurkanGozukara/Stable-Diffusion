@@ -13,6 +13,10 @@
 * 3.10.9 > https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe
 * git > https://git-scm.com/downloads
 
+## SDXL LoRA Training Tutorial
+* Start training your LoRAs with Kohya GUI version with best known settings
+* [First Ever SDXL Training With Kohya LoRA - Stable Diffusion XL Training Will Replace Older Models](https://youtu.be/AY6DMBCIZ3A)
+
 ## ComfyUI Tutorial and Other SDXL Tutorials
 
 * If you are interested in using ComfyUI checkout below tutorial
