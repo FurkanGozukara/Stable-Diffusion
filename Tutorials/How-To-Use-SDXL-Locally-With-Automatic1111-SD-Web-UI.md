@@ -52,6 +52,7 @@ Our Discord channel for help (free - 3500+ members)
 **New Install**
 
 * Automatic1111 Repo Link : https://github.com/AUTOMATIC1111/stable-diffusion-webui
+* V1.5 SDXL changelog : https://github.com/AUTOMATIC1111/stable-diffusion-webui/blob/release_candidate/CHANGELOG.md
 
 * First clone Automatic1111 into any folder as shown in video
 
