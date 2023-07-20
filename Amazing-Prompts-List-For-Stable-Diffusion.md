@@ -7,7 +7,7 @@
 
 How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH6g . Hopefully a much more comprehensive Stable Diffusion installation tutorial will come soon.
 
-### Some positive prompts
+## Some positive prompts
 
 ```
 Masterful, high-resolution full-body photograph of an (ohwx man:1.1), stylishly donning sunglasses. With (cinematic grading:1.3) and (dynamic lighting:1.4), this image should capture the subject's charm and charisma in a movie-like atmosphere
@@ -29,7 +29,7 @@ Full-body, 8K photograph of an (ohwx man:1.1) in an Instagram-optimized setting.
 Eye-catching, full-body Instagram post of an (ohwx man:1.1). (Lifestyle influencer:1.3), (high-fashion:1.4), the photograph should depict the subject in a dynamic urban environment, presenting a look that is on-trend and compelling
 ```
 
-### DeepFace Tutorial Video
+## DeepFace Tutorial Video
 #### Positive prompt:
 
 ```closeshot handsome photo of (ohwx man) (in a warrior armor ) in a coliseum, hdr, canon, hd, 8k, 4k, sharp focus```
@@ -78,3 +78,26 @@ Some positive and negative prompts
 
 ```(blue eyes, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.4), fat, text, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck```
 
+## SDXL Prompts
+
+#### Positive prompt:
+
+```ohwx man as a plastic figurine, miniature product photography  <lora:test9:1>```
+
+#### Negative prompt:
+
+#### Positive prompt:
+
+```photo of a male warrior, modelshoot style, (extremely detailed CG unity 8k wallpaper), full shot body photo of the most beautiful artwork in the world, medieval armor, professional majestic oil painting by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, trending on ArtStation, trending on CGSociety, Intricate, High Detail, Sharp focus, dramatic, photorealistic painting art by midjourney and greg rutkowski```
+
+#### Negative prompt:
+
+```canvas frame, cartoon, 3d, ((disfigured)), ((bad art)), ((deformed)),((extra limbs)),((close up)),((b&w)), weird colors, blurry, (((duplicate))), ((morbid)), ((mutilated)), [out of frame], extra fingers, mutated hands, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), ((ugly)), blurry, ((bad anatomy)), (((bad proportions))), ((extra limbs)), cloned face, (((disfigured))), out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck))), Photoshop, video game, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, mutation, mutated, extra limbs, extra legs, extra arms, disfigured, deformed, cross-eye, body out of frame, blurry, bad art, bad anatomy, 3d render```
+
+#### Positive prompt:
+
+```8k intricate, highly detailed, digital photography, best quality, masterpiece, a (full body shot) photo of A warrior man that lived with dragons his whole life is now leading them to battle. torn clothes exposing parts of her body, scratch marks, epic, hyperrealistic, hyperrealism, 8k, cinematic lighting, greg rutkowski, wlop```
+
+#### Negative prompt:
+
+```(deformed iris, deformed pupils), text, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, (extra fingers), (mutated hands), poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, (fused fingers), (too many fingers), long neck, camera ```
