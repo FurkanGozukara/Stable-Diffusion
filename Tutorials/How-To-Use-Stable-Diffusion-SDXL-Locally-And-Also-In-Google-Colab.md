@@ -74,7 +74,7 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 ```
 
 ```
-pip install xformers==0.0.21.dev564
+pip install -U --pre xformers
 ```
 
 ```
