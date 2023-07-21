@@ -38,23 +38,20 @@ while (n<1):
 * Download 1_click_auto1111_SDXL.sh from here: https://www.patreon.com/posts/1-click-runpod-86438018
 * Upload 1_click_auto1111_SDXL.sh into workspace folder
 * Execute below command and wait until all is done
+* It will install latest Automatic1111 that supports SDXL and will download SDXL model files automatically
 
 ```
-chmod +x comfy_ui.sh
-./comfy_ui.sh
+chmod +x 1_click_auto1111_SDXL.sh
+./1_click_auto1111_SDXL.sh
 ```
 
 **For running it after install run below command and use 3001 connect button on MyPods interface**
 * If it doesn't start at the first time execute again
 
 ```
-apt update
-apt install psmisc
 fuser -k 3000/tcp
-cd /workspace/ComfyUI/venv
-source bin/activate
-cd /workspace/ComfyUI
-python main.py --listen 0.0.0.0 --port 3000
+cd /workspace/stable-diffusion-webui
+python relauncher.py
 ```
 
 ### Manual Step by Step Install
