@@ -21,18 +21,6 @@
 while (n<1):
 ```
 
-## General Resources About SDXL 0.9
-* Register Hugging Face and login if you don't have an account already
-* https://huggingface.co/join
-* https://huggingface.co/login
-* Open below links and accept terms and conditions - now auto approve official weights - just type anything to the form fill sections
-* https://huggingface.co/stabilityai/stable-diffusion-xl-base-0.9 (you can download safetensors from this link - watch video to learn)
-* https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-0.9 (you can download safetensors from this link - watch video to learn)
-
-## PC Automatic1111 SDXL Installation
-
-* [How To Use SDXL in Automatic1111 Web UI - SD Web UI vs ComfyUI - Easy Local Install Tutorial / Guide](https://youtu.be/eY_v5IR4dUQ)
-
 ## 1 Click Installer For RunPod
 
 * Download 1_click_auto1111_SDXL.sh from here: https://www.patreon.com/posts/1-click-runpod-86438018
@@ -53,6 +41,20 @@ fuser -k 3000/tcp
 cd /workspace/stable-diffusion-webui
 python relauncher.py
 ```
+
+## General Resources About SDXL 0.9
+* Register Hugging Face and login if you don't have an account already
+* https://huggingface.co/join
+* https://huggingface.co/login
+* Open below links and accept terms and conditions - now auto approve official weights - just type anything to the form fill sections
+* https://huggingface.co/stabilityai/stable-diffusion-xl-base-0.9 (you can download safetensors from this link - watch video to learn)
+* https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-0.9 (you can download safetensors from this link - watch video to learn)
+
+## PC Automatic1111 SDXL Installation
+
+* [How To Use SDXL in Automatic1111 Web UI - SD Web UI vs ComfyUI - Easy Local Install Tutorial / Guide](https://youtu.be/eY_v5IR4dUQ)
+
+
 
 ### Manual Step by Step Install
 
