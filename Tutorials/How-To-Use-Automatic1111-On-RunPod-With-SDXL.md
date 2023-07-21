@@ -55,55 +55,34 @@ python relauncher.py
 * [How To Use SDXL in Automatic1111 Web UI - SD Web UI vs ComfyUI - Easy Local Install Tutorial / Guide](https://youtu.be/eY_v5IR4dUQ)
 
 
-
 ### Manual Step by Step Install
 
 * Execute below commands 1 by 1
-* Move into workspace and start a new terminal
+* Move into /workspace/stable-diffusion-webui
+* Download or save somewhere webui-user.sh
+* Move into /workspace/stable-diffusion-webui and start a new terminal
+* 
 
 ```
-git clone https://github.com/comfyanonymous/ComfyUI
-```
-
-Move into ComfyUI and start a new terminal
-
-```
-python -m venv venv
-```
-
-* Move into venv and start a new terminal
-
-```
-source bin/activate
+git stash
 ```
 
 ```
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+git checkout master
 ```
 
 ```
-pip install -U --pre xformers
+git pull
 ```
 
 ```
-cd ..
+git checkout dev
 ```
 
-```
-pip install -r requirements.txt
-```
+* Upload back webui-user.sh
+* Remove --skip-install
 
-* Move into models/vae/ and start a new terminal
-
-```
-wget https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors
-```
-
-* Move into models/checkpoints and start a new terminal
-
-```
-wget https://huggingface.co/SG161222/Realistic_Vision_V4.0/resolve/main/Realistic_Vision_V4.0.safetensors
-```
+### How To Download SDXL Models
 
 * Register Hugging Face and login if you don't have an account already
 * https://huggingface.co/join
@@ -113,7 +92,7 @@ wget https://huggingface.co/SG161222/Realistic_Vision_V4.0/resolve/main/Realisti
 * https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-0.9
 * Generate your Hugging Face access token and save it somewhere
 * https://huggingface.co/settings/tokens
-* Move into models/checkpoints and start a new terminal
+* Move into stable-diffusion-webui/models/Stable-diffusion and start a new terminal
 * Copy below codes and replace USERNAME and TOKEN with your Hugging Face username and token
 * And the execute it
 
@@ -130,13 +109,9 @@ wget https://USERNAME:TOKEN@huggingface.co/stabilityai/stable-diffusion-xl-refin
 * Run below command and then use port 3001 connect button on MyPods section of the RunPod.io website
 * If it doesn't start at the first time execute again
 ```
-apt update
-apt install psmisc
 fuser -k 3000/tcp
-cd /workspace/ComfyUI/venv
-source bin/activate
-cd /workspace/ComfyUI
-python main.py --listen 0.0.0.0 --port 3000
+cd /workspace/stable-diffusion-webui
+python relauncher.py
 ```
 
 
