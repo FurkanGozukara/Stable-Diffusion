@@ -43,6 +43,7 @@ python relauncher.py
 ```
 
 ## General Resources About SDXL 0.9
+* Watch tutorial video to see all steps
 * Register Hugging Face and login if you don't have an account already
 * https://huggingface.co/join
 * https://huggingface.co/login
@@ -83,7 +84,7 @@ git checkout dev
 * Remove --skip-install
 
 ### How To Download SDXL Models
-
+* Watch tutorial video to see all steps
 * Register Hugging Face and login if you don't have an account already
 * https://huggingface.co/join
 * https://huggingface.co/login
