@@ -62,11 +62,10 @@ Double click and start webui-user.bat for fresh clean install
 Updating xformers to latest. Start a new cmd inside web ui folder and type below code. All shown in the tutorial video so watch it
 ```
 call .\venv\Scripts\activate.bat
-pip install xformers==dev
 ```
-Look for latest xformers and install it e.g. All shown in the tutorial video so watch it
+Below command will install latest xformers
 ```
-pip install xformers== 0.0.21.dev551
+pip install -U --pre xformers
 ```
 
 What are optimizations: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Optimizations
