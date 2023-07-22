@@ -25,11 +25,9 @@ First accept the license terms on https://huggingface.co/pyannote/segmentation
 
 So you must have a free hugging face account to accept terms. Register hugging face : https://huggingface.co/join
 
-To do that we will git clone and install ozen toolkit : https://github.com/devilismyfriend/ozen-toolkit
+To do that we will git clone and install ozen toolkit (my fork for fixed requirements) : https://github.com/FurkanGozukara/ozen-toolkit
 
-commit id : f5ea2ce4f95bfa54635ec9deac56cb546aa7d516
-
-```git clone https://github.com/devilismyfriend/ozen-toolkit```
+```git clone https://github.com/FurkanGozukara/ozen-toolkit```
 
 To be able to use this, you need to have installed Anaconda or Miniconda with Python 3.10
 
