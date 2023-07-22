@@ -318,5 +318,3 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/3n3u3IGXY544moAtlg8-e.png)](https://youtu.be/mDW4zqh8R40)
 
-
-![Banner](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/qTGOf48E9IJmP_R-ulvSE.png)
