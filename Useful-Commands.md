@@ -10,7 +10,7 @@
 * To download a google drive file into RunPod : gdown id_of_the_file - you can see id in the url when you copy
 * * E.g. https://drive.google.com/file/d/1odxPpTJePQfMHxiO2jdeuYA7zxgvWg4c/view?usp=drive_link > ```gdown 1odxPpTJePQfMHxiO2jdeuYA7zxgvWg4c```
 
-* Download civitai model
+## Download civitai model
 * Change url (https://civitai.com/api/download/models/89824) and model name (Consistent-Factor_v5.safetensors)
 * ![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/7cd583f0-635b-408b-a3ad-877a7eac2526)
 
