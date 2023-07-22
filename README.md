@@ -6,7 +6,8 @@
 
 # Expert-Level Tutorials on Stable Diffusion & SDXL: Master Advanced Techniques and Strategies
 
-Greetings everyone. I am Dr. Furkan Gözükara. I am an Assistant Professor in Software Engineering department  of a private university (have PhD in Computer Engineering). My professional programming skill is unfortunately C# not Python :) 
+Greetings everyone. I am Dr. Furkan Gözükara. 
+I am an Assistant Professor in Software Engineering department  of a private university (have PhD in Computer Engineering).
 
 My linkedin : [**https://www.linkedin.com/in/furkangozukara**](https://www.linkedin.com/in/furkangozukara/)
 
