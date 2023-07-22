@@ -1,6 +1,6 @@
 # Easiest Tutorial For Generating Deep Fake Videos - Educational & Research Purposes Only
 
-## Tested and verified to be working 10 June 2023. If you can't make it work become a Patreon supporter, message me on Patreon, and I will install on your computer.
+## Tested and verified to be working 22 July 2023. If you can't make it work become a Patreon supporter, message me on Patreon, and I will install on your computer.
 
 ## Tutorial Video Link > https://youtu.be/OI1LEN-SgLM
 
@@ -85,7 +85,7 @@ Here how my path is set
 
 ### Step 6 : The Installation
 
-***Currently 7:21 PM UTC+3, 22 June, latest version working - 773ce17897cd6507d1ac17132ccc64ff6b6f26cb***
+***Currently 7:21 PM UTC+3, 22 July, latest version working - 312208a41102ba86d2454ae8efc9d3f0b786a6e7***
 
 https://github.com/s0md3v/roop
 
@@ -211,6 +211,122 @@ First clone
 
 Then checkout to specific working commit as below
 
-```git checkout 773ce17897cd6507d1ac17132ccc64ff6b6f26cb```
+```git checkout 312208a41102ba86d2454ae8efc9d3f0b786a6e7```
 
 
+## Pip Freeze Results
+```
+Microsoft Windows [Version 10.0.19045.3208]
+(c) Microsoft Corporation. All rights reserved.
+
+F:\temp roop verify\roop\venv\Scripts>activate
+
+(venv) F:\temp roop verify\roop\venv\Scripts>pip freeze
+absl-py==1.4.0
+addict==2.4.0
+albumentations==1.3.1
+astunparse==1.6.3
+basicsr==1.4.2
+beautifulsoup4==4.12.2
+cachetools==5.3.1
+certifi==2023.7.22
+charset-normalizer==3.2.0
+colorama==0.4.6
+coloredlogs==15.0.1
+contourpy==1.1.0
+customtkinter==5.2.0
+cycler==0.11.0
+Cython==3.0.0
+darkdetect==0.8.0
+easydict==1.10
+facexlib==0.3.0
+filelock==3.12.2
+filterpy==1.4.5
+flatbuffers==23.5.26
+fonttools==4.41.1
+future==0.18.3
+gast==0.4.0
+gdown==4.7.1
+gfpgan==1.3.8
+google-auth==2.22.0
+google-auth-oauthlib==1.0.0
+google-pasta==0.2.0
+grpcio==1.56.2
+h5py==3.9.0
+humanfriendly==10.0
+idna==3.4
+imageio==2.31.1
+importlib-metadata==6.8.0
+insightface==0.7.3
+Jinja2==3.1.2
+joblib==1.3.1
+keras==2.13.1
+kiwisolver==1.4.4
+lazy_loader==0.3
+libclang==16.0.6
+llvmlite==0.40.1
+lmdb==1.4.1
+Markdown==3.4.3
+MarkupSafe==2.1.3
+matplotlib==3.7.2
+mpmath==1.3.0
+networkx==3.1
+numba==0.57.1
+numpy==1.23.5
+oauthlib==3.2.2
+onnx==1.14.0
+onnxruntime-gpu==1.15.1
+opencv-python==4.8.0.74
+opencv-python-headless==4.8.0.74
+opennsfw2==0.10.2
+opt-einsum==3.3.0
+packaging==23.1
+Pillow==10.0.0
+platformdirs==3.9.1
+prettytable==3.8.0
+protobuf==4.23.4
+psutil==5.9.5
+pyasn1==0.5.0
+pyasn1-modules==0.3.0
+pyparsing==3.0.9
+pyreadline3==3.4.1
+PySocks==1.7.1
+python-dateutil==2.8.2
+PyWavelets==1.4.1
+PyYAML==6.0.1
+qudida==0.0.4
+requests==2.31.0
+requests-oauthlib==1.3.1
+rsa==4.9
+scikit-image==0.21.0
+scikit-learn==1.3.0
+scipy==1.11.1
+six==1.16.0
+soupsieve==2.4.1
+sympy==1.12
+tb-nightly==2.14.0a20230722
+tensorboard==2.13.0
+tensorboard-data-server==0.7.1
+tensorflow==2.13.0
+tensorflow-estimator==2.13.0
+tensorflow-intel==2.13.0
+tensorflow-io-gcs-filesystem==0.31.0
+termcolor==2.3.0
+threadpoolctl==3.2.0
+tifffile==2023.7.18
+tk==0.1.0
+tkinterdnd2==0.3.0
+tomli==2.0.1
+torch==2.0.1+cu118
+torchvision==0.15.2+cu118
+tqdm==4.65.0
+typing_extensions==4.5.0
+urllib3==1.26.16
+wcwidth==0.2.6
+Werkzeug==2.3.6
+wrapt==1.15.0
+yapf==0.40.1
+zipp==3.16.2
+
+(venv) F:\temp roop verify\roop\venv\Scripts>
+```
