@@ -1,5 +1,5 @@
 # [Tutorial] How To Use Automatic1111 SD Web UI With SDXL On RunPod Full Tutorial / Guide
-## Tutorial Video link > https://youtu.be/mDW4zqh8R40
+## Tutorial Video link > [How to use Stable Diffusion X-Large (SDXL) with Automatic1111 Web UI on RunPod - Easy Tutorial](https://youtu.be/mDW4zqh8R40)
 
 ## *The batch size image generation speed shown in the video is incorrect. I mistakenly chosen Batch count instead of Batch size.*
  
