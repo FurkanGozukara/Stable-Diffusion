@@ -91,6 +91,8 @@ https://github.com/s0md3v/roop
 
 ```
 
+python -m pip install --upgrade pip
+
 git clone https://github.com/s0md3v/roop
 
 cd roop
