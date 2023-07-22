@@ -4,7 +4,7 @@
 [![YouTube Channel](https://img.shields.io/badge/YouTube-SECourses-C50C0C?style=for-the-badge&logo=youtube)](https://www.youtube.com/SECourses) [![Patreon](https://img.shields.io/badge/Patreon-Support%20Me-F2EB0E?style=for-the-badge&logo=patreon)](https://www.patreon.com/SECourses) [![Furkan Gözükara LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkangozukara/) [![Codio](https://img.shields.io/static/v1?style=for-the-badge&message=Articles&color=4574E0&logo=Codio&logoColor=FFFFFF&label=CivitAI)](https://civitai.com/user/SECourses/articles)
 
 
-# Expert-Level Tutorials on Stable Diffusion: Master Advanced Techniques and Strategies
+# Expert-Level Tutorials on Stable Diffusion & SDXL: Master Advanced Techniques and Strategies
 
 Greetings everyone. I am Dr. Furkan Gözükara. I am an Assistant Professor in Software Engineering department  of a private university (have PhD in Computer Engineering). My professional programming skill is unfortunately C# not Python :) 
 
@@ -13,6 +13,8 @@ My linkedin : [**https://www.linkedin.com/in/furkangozukara**](https://www.linke
 ### Our channel address if you like to subscribe : [**https://www.youtube.com/@SECourses**](https://www.youtube.com/@SECourses)
 
 ### Our discord to get more help : [**https://discord.com/servers/software-engineering-courses-secourses-772774097734074388**](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388)
+
+### Our 600+ Stars GitHub Stable Diffusion and other tutorials repo : [**https://github.com/FurkanGozukara/Stable-Diffusion**](https://github.com/FurkanGozukara/Stable-Diffusion)
 
 I am keeping this list up-to-date. I got upcoming new awesome video ideas. Trying to find time to do that.
 
@@ -301,8 +303,16 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/mG0CvKAzb8o29nr5ye0Br.png)](https://youtu.be/AY6DMBCIZ3A)
 
-47.) Local - PC - Free - RunPod
+47.) Local - PC - Free
 
 [**How To Use SDXL in Automatic1111 Web UI - SD Web UI vs ComfyUI - Easy Local Install Tutorial / Guide**](https://youtu.be/eY_v5IR4dUQ)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/dtzefTNkEvQiM86qrLJRd.png)](https://youtu.be/eY_v5IR4dUQ)
+
+48.) Local - RunPod
+
+[**How to use Stable Diffusion X-Large (SDXL) with Automatic1111 Web UI on RunPod - Easy Tutorial**](https://youtu.be/mDW4zqh8R40)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/3n3u3IGXY544moAtlg8-e.png)](https://youtu.be/mDW4zqh8R40)
+
+
