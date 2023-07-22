@@ -10,10 +10,10 @@ Greetings everyone. I am Dr. Furkan Gözükara. I am an Assistant Professor in S
 
 My linkedin : [**https://www.linkedin.com/in/furkangozukara**](https://www.linkedin.com/in/furkangozukara/)
 
-### Our channel address if you like to subscribe ⤵️
+### Our channel address (22k+ subscribers) if you like to subscribe ⤵️
 [**https://www.youtube.com/@SECourses**](https://www.youtube.com/@SECourses)
 
-### Our discord to get more help ⤵️
+### Our discord (4k+ members) to get more help ⤵️
 [**https://discord.com/servers/software-engineering-courses-secourses-772774097734074388**](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388)
 
 ### Our 600+ Stars GitHub Stable Diffusion and other tutorials repo ⤵️
