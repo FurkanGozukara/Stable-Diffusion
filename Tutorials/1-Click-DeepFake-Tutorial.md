@@ -153,7 +153,7 @@ python run.py --keep-frames --keep-fps
 python run.py --keep-frames --keep-fps --video-quality 7
 ```
 
-**To Start With GPU**
+### To Start With GPU
 
 --execution-provider tensorrt, cuda, cpu
 
@@ -177,10 +177,13 @@ options:
   -t TARGET_PATH, --target TARGET_PATH                     select an target image or video
   -o OUTPUT_PATH, --output OUTPUT_PATH                     select output file or directory
   --frame-processor FRAME_PROCESSOR [FRAME_PROCESSOR ...]  frame processors (choices: face_swapper, face_enhancer, ...)
-  --keep-fps                                               keep original fps
-  --keep-audio                                             keep original audio
+  --keep-fps                                               keep target fps
   --keep-frames                                            keep temporary frames
+  --skip-audio                                             skip target audio
   --many-faces                                             process every face
+  --reference-face-position REFERENCE_FACE_POSITION        position of the reference face
+  --reference-frame-number REFERENCE_FRAME_NUMBER          number of the reference frame
+  --similar-face-distance SIMILAR_FACE_DISTANCE            face distance used for recognition
   --video-encoder {libx264,libx265,libvpx-vp9}             adjust output video encoder
   --video-quality [0-51]                                   adjust output video quality
   --max-memory MAX_MEMORY                                  maximum amount of RAM in GB
