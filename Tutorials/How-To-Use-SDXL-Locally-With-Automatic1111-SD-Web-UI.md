@@ -63,7 +63,7 @@ Our Discord channel for help (free - 3500+ members)
 * First clone Automatic1111 into any folder as shown in [video](https://youtu.be/eY_v5IR4dUQ)
 
 * Then open a CMD inside cloned folder and change branch to dev - only dev branch supporting SDXL at the moment
-**SDXL support has arrived today 25 July. You don't have to checkout dev anymore. You can skip this step**
+* **SDXL support has arrived today 25 July. You don't have to checkout dev anymore. You can skip this step**
 
 ```
 git checkout dev
