@@ -121,6 +121,7 @@ yes | apt-get install python3.10-tk
 fuser -k 7860/tcp
 cd /workspace/kohya_ss
 source venv/bin/activate
+pip install fastapi==0.100.0
 bash gui.sh --share --headless
 ```
 
