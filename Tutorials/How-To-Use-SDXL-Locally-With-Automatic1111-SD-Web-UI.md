@@ -1,5 +1,7 @@
 # [Tutorial] How To Install Automatic1111 Web UI Locally And Use Stable Diffusion XL (SDXL) For Free On Your Computer
 
+## Tutorial Video : https://youtu.be/eY_v5IR4dUQ
+
 [![image](https://img.shields.io/discord/772774097734074388?label=Discord&logo=discord)](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFurkanGozukara%2FStable-Diffusion%2Fblob%2Fmain%2FTutorials%2FHow-To-Use-SDXL-Locally-With-Automatic1111-SD-Web-UI.md&count_bg=%2379C83D&title_bg=%239E0F0F&icon=apachespark.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com) [![Twitter Follow Furkan Gözükara](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GozukaraFurkan)
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-SECourses-C50C0C?style=for-the-badge&logo=youtube)](https://www.youtube.com/SECourses) [![Patreon](https://img.shields.io/badge/Patreon-Support%20Me-F2EB0E?style=for-the-badge&logo=patreon)](https://www.patreon.com/SECourses) [![Furkan Gözükara LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkangozukara/) 
@@ -58,19 +60,20 @@ Our Discord channel for help (free - 3500+ members)
 * Automatic1111 Repo Link : https://github.com/AUTOMATIC1111/stable-diffusion-webui
 * V1.5 SDXL changelog : https://github.com/AUTOMATIC1111/stable-diffusion-webui/blob/release_candidate/CHANGELOG.md
 
-* First clone Automatic1111 into any folder as shown in video
+* First clone Automatic1111 into any folder as shown in [video](https://youtu.be/eY_v5IR4dUQ)
 
 * Then open a CMD inside cloned folder and change branch to dev - only dev branch supporting SDXL at the moment
+**SDXL support has arrived today 25 July. You don't have to checkout dev anymore. You can skip this step**
 
 ```
 git checkout dev
 ```
 
-* Then install as usual as shown in video
+* Then install as usual as shown in [video](https://youtu.be/eY_v5IR4dUQ)
 
 **Upgrade Existing**
 
-Open a cmd window when you are inside your existing Automatic1111 folder as shown in tutorial video
+Open a cmd window when you are inside your existing Automatic1111 folder as shown in tutorial [video](https://youtu.be/eY_v5IR4dUQ)
 
 Type below commands and update to the latest version 
 
