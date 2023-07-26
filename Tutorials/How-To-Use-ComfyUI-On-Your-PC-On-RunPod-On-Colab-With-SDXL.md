@@ -33,15 +33,15 @@
 * Best VAE File : https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
 * Realistic Vision V4 : https://huggingface.co/SG161222/Realistic_Vision_V4.0/resolve/main/Realistic_Vision_V4.0.safetensors
 
-## SDXL 1.0 Released. No need Hugging Face account anymore. Below direct download links
+## PC ComfyUI Installation
+
+* Windows download link : https://github.com/comfyanonymous/ComfyUI#windows
+
+### SDXL 1.0 Released. No need Hugging Face account anymore. Below direct download links
 * SDXL 1.0 base model direct link
 * * https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors
 * SDXL 1.0 refiner model direct link
 * * https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors  
-
-## PC ComfyUI Installation
-
-* Windows download link : https://github.com/comfyanonymous/ComfyUI#windows
 
 ### SDXL 1.0 Released. No need Hugging Face account anymore. Below direct download links
 * SDXL 1.0 base model direct link
