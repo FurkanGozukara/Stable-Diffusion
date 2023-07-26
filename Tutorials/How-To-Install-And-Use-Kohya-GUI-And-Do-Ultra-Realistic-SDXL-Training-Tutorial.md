@@ -34,9 +34,9 @@
 * Manual Install Tutorial Video: https://youtu.be/3uzCNrQao3o
 * 1 Click Automatic Installer Script For RunPod: https://www.patreon.com/posts/84898806
 
-### SDXL Base Model File
+### SDXL Base Model File 1.0 Direct Download Link
 
-* https://huggingface.co/stabilityai/stable-diffusion-xl-base-0.9/tree/main
+* https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors 
 
 ### Optimizer Extra Arguments For SDXL
 ```
