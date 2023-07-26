@@ -13,7 +13,9 @@
 ### SDXL 1.0 Workflows below
 
 * [SDXL_1_0](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/252a2683-5ca1-440a-9050-b8cc2cb03ceb) (right click and save as) workflow has the SDXL setup with refiner with best settings. Working amazing.
-* [SDXL_1_0_LoRA_InPAINT](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/aef39ad8-2594-46d1-b44c-de8667b090d6) | [SDXL_1_0_With_LoRA](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/b728a3b9-b9d5-44e0-9d7e-6b22e1c54e35)
+* [SDXL_1_0_LoRA_InPAINT](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/aef39ad8-2594-46d1-b44c-de8667b090d6) | [SDXL_1_0_With_LoRA](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/b728a3b9-b9d5-44e0-9d7e-6b22e1c54e35) | [SDXL_1_0_Refiner_Inpaint](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/b1cd8b1f-5128-4f04-90e8-f27b7fd5ef9d)
+
+ 
 
 
 ### SDXL 0.9 Workflows below. After you load workflows change to SDXL 1.0 if you have downloaded SDXL 1.0 models. They will work flawlessly 
