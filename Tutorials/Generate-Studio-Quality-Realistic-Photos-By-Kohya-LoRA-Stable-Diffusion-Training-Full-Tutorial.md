@@ -102,10 +102,7 @@ https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/cudnn_windows%20v8.7
 
 ### Installation changed a little bit after my video
 
-Select option 1 to install with torch v1.12
-
 Select option 2 to install with torch v2
-
 
 ### Commands - I suggest you to install torch 1.13, xformers 21 and then execute cudnn py file
 
