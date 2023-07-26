@@ -11,7 +11,7 @@
 
 * As of July 26 there is a bug in fast api
 
-* Activate venv and rund below command to work
+* Activate venv of kohya and run below command to work
 
 * Watch this tutorial if you don't know how to activate venv : https://youtu.be/B5U7LJOvH6g
 
