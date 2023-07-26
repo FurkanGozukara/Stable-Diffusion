@@ -312,7 +312,7 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/dtzefTNkEvQiM86qrLJRd.png)](https://youtu.be/eY_v5IR4dUQ)
 
-48.) Local - RunPod
+48.) Cloud - RunPod - Paid
 
 [**How to use Stable Diffusion X-Large (SDXL) with Automatic1111 Web UI on RunPod - Easy Tutorial**](https://youtu.be/mDW4zqh8R40)
 
