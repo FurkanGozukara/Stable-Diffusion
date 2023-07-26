@@ -51,9 +51,9 @@ Our Discord channel for help (free - 3500+ members)
 
 ### Manual Installation
 
-**Download SDXL safetensors file from official repo**
-* SDXL Base : https://huggingface.co/stabilityai/stable-diffusion-xl-base-0.9/tree/main
-* SDXL Refiner : https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-0.9/tree/main
+**Download SDXL 1.0 safetensors file from official repo**
+* SDXL Base 1.0 : https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors
+* SDXL Refiner 1.0 : https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors
 
 **New Install**
 
