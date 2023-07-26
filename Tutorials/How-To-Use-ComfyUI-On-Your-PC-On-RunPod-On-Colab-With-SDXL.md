@@ -22,13 +22,11 @@
 * Best VAE File : https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
 * Realistic Vision V4 : https://huggingface.co/SG161222/Realistic_Vision_V4.0/resolve/main/Realistic_Vision_V4.0.safetensors
 
-## General Resources About SDXL 0.9
-* Register Hugging Face and login if you don't have an account already
-* https://huggingface.co/join
-* https://huggingface.co/login
-* Open below links and accept terms and conditions - now auto approve official weights - just type anything to the form fill sections
-* https://huggingface.co/stabilityai/stable-diffusion-xl-base-0.9 (you can download safetensors from this link - watch video to learn)
-* https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-0.9 (you can download safetensors from this link - watch video to learn)
+## SDXL 1.0 Released. No need Hugging Face account anymore. Below direct download links
+* SDXL 1.0 base model direct link
+* * https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors
+* SDXL 1.0 refiner model direct link
+* * https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors  
 
 ## PC ComfyUI Installation
 
@@ -121,25 +119,11 @@ wget https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-
 wget https://huggingface.co/SG161222/Realistic_Vision_V4.0/resolve/main/Realistic_Vision_V4.0.safetensors
 ```
 
-* Register Hugging Face and login if you don't have an account already
-* https://huggingface.co/join
-* https://huggingface.co/login
-* Open below links and accept terms and conditions - now auto approve official weights - just type anything to the form fill sections
-* https://huggingface.co/stabilityai/stable-diffusion-xl-base-0.9
-* https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-0.9
-* Generate your Hugging Face access token and save it somewhere
-* https://huggingface.co/settings/tokens
-* Move into models/checkpoints and start a new terminal
-* Copy below codes and replace USERNAME and TOKEN with your Hugging Face username and token
-* And the execute it
-
-```
-wget https://USERNAME:TOKEN@huggingface.co/stabilityai/stable-diffusion-xl-base-0.9/resolve/main/sd_xl_base_0.9.safetensors
-```
-
-```
-wget https://USERNAME:TOKEN@huggingface.co/stabilityai/stable-diffusion-xl-refiner-0.9/resolve/main/sd_xl_refiner_0.9.safetensors
-```
+### SDXL 1.0 Released. No need Hugging Face account anymore. Below direct download links
+* SDXL 1.0 base model direct link
+* * https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors
+* SDXL 1.0 refiner model direct link
+* * https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors  
 
 ### How To Run After Install
 
