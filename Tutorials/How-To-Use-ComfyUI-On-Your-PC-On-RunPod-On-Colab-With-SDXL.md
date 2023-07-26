@@ -13,12 +13,12 @@
 ### SDXL 1.0 Workflows below
 
 * [SDXL_1_0](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/252a2683-5ca1-440a-9050-b8cc2cb03ceb) (right click and save as) workflow has the SDXL setup with refiner with best settings. Working amazing.
-* [SDXL_1_0_LoRA_InPAINT](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/aef39ad8-2594-46d1-b44c-de8667b090d6) | [SDXL_1_0_With_LoRA](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/b728a3b9-b9d5-44e0-9d7e-6b22e1c54e35) | [SDXL_1_0_Refiner_Inpaint](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/b1cd8b1f-5128-4f04-90e8-f27b7fd5ef9d)
+* [SDXL_1_0_LoRA_InPAINT](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/aef39ad8-2594-46d1-b44c-de8667b090d6) | [SDXL_1_0_With_LoRA](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/b728a3b9-b9d5-44e0-9d7e-6b22e1c54e35) | [SDXL_1_0_Inpaint](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/a66357dd-32f0-444e-ba89-274a3b04313b) | [SDXL_1_0_Refiner_Inpaint](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/b1cd8b1f-5128-4f04-90e8-f27b7fd5ef9d)
 
- 
+* Tutorial Video : [ComfyUI Master Tutorial - Stable Diffusion XL (SDXL) - Install On PC, Google Colab (Free) & RunPod](https://youtu.be/FnMHbhvWUhE)
 
 
-### SDXL 0.9 Workflows below. After you load workflows change to SDXL 1.0 if you have downloaded SDXL 1.0 models. They will work flawlessly 
+### SDXL 0.9 Workflows below. Use SDXL 1.0 much better
 * [SDXL_1](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/30bc9a89-fd0f-4f07-bdcf-c2e12485db15) (right click and save as) workflow has the SDXL setup with refiner with best settings. Working amazing. [Here Screenshot](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/SyUZbhotUgR2qOP0OQ678.png)
 * [SDXL_LoRA_InPAINT](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/6c837b3d-fa62-44cb-8582-7b3cb8c5d513) | [SDXL_With_LoRA](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/b4cad1c3-a779-4d08-b414-fd51345ff320) | [SDXL_Inpaint](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/887ab302-98db-4df3-992e-fc7be991f905) | [SDXL_Refiner_Inpaint](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/c2ae4046-875e-43da-869a-f111bbb0c34d)
 
