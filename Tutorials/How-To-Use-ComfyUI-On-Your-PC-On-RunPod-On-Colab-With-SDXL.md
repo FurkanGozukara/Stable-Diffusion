@@ -43,6 +43,12 @@
 
 * Windows download link : https://github.com/comfyanonymous/ComfyUI#windows
 
+### SDXL 1.0 Released. No need Hugging Face account anymore. Below direct download links
+* SDXL 1.0 base model direct link
+* * https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors
+* SDXL 1.0 refiner model direct link
+* * https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors  
+
 ## Google Colab (Free) ComfyUI Installation
 
 * [Colab Link](https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/ColabNotebooks/comfyui_SDXL_colab.ipynb)
