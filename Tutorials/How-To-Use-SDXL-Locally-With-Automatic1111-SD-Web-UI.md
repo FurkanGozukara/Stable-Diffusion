@@ -24,7 +24,7 @@
 * If you are interested in using ComfyUI checkout below tutorial
 * [ComfyUI Tutorial - How to Install ComfyUI on Windows, RunPod & Google Colab | Stable Diffusion SDXL](https://youtu.be/FnMHbhvWUhE)
 * Other native diffusers and very nice Gradio based tutorials
-* [How To Use Stable Diffusion XL (SDXL 0.9) On Google Colab For Free](https://youtu.be/s2MQqmv6yAg)
+* [How To Use Stable Diffusion X-Large (SDXL) On Google Colab For Free](https://youtu.be/s2MQqmv6yAg)
 * [Stable Diffusion XL (SDXL) Locally On Your PC - 8GB VRAM - Easy Tutorial With Automatic Installer](https://youtu.be/__7VNmnn5iU)
 * [How To Use SDXL On RunPod Tutorial. Auto Installer & Refiner & Amazing Native Diffusers Based Gradio](https://youtu.be/gTdPRm-R-14)
 
