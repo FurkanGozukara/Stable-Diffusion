@@ -79,25 +79,16 @@ git checkout dev
 * Remove --skip-install
 
 ### How To Download SDXL Models
-* Watch tutorial video to see all steps
-* Register Hugging Face and login if you don't have an account already
-* https://huggingface.co/join
-* https://huggingface.co/login
-* Open below links and accept terms and conditions - now auto approve official weights - just type anything to the form fill sections
-* https://huggingface.co/stabilityai/stable-diffusion-xl-base-0.9
-* https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-0.9
-* Generate your Hugging Face access token and save it somewhere
-* https://huggingface.co/settings/tokens
-* Move into stable-diffusion-webui/models/Stable-diffusion and start a new terminal
-* Copy below codes and replace USERNAME and TOKEN with your Hugging Face username and token
-* And the execute it
+* SDXL 1.0 is released. Links are updated. Just execute below command inside models > Stable Diffusion folder
+* No need Hugging Face account anymore
+* I have upated auto installer as well
 
 ```
-wget https://USERNAME:TOKEN@huggingface.co/stabilityai/stable-diffusion-xl-base-0.9/resolve/main/sd_xl_base_0.9.safetensors
+wget https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors
 ```
 
 ```
-wget https://USERNAME:TOKEN@huggingface.co/stabilityai/stable-diffusion-xl-refiner-0.9/resolve/main/sd_xl_refiner_0.9.safetensors
+wget https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors
 ```
 
 ### How To Run After Install
