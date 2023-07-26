@@ -70,10 +70,7 @@ git checkout master
 git pull
 ```
 
-** As of 25 July main branch now supports SDXL. You can skip this step. **
-```
-git checkout dev
-```
+* We skip checkout dev since not necessary anymore
 
 * Upload back webui-user.sh
 * Remove --skip-install
