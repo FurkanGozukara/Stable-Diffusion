@@ -13,6 +13,8 @@
 
 * Activate venv and rund below command to work
 
+* Watch this tutorial if you don't know how to activate venv : https://youtu.be/B5U7LJOvH6g
+
 ```
 pip install fastapi==0.99.1
 ```
