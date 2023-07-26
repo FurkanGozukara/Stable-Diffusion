@@ -30,7 +30,7 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ### July 12 - 2023
 [1k Resolution Class Images & Direct SDXL Download Links](https://www.patreon.com/posts/1k-resolution-85976249)
-* 1024x1024 Pixels Class Images (From Real Pictures) For Amazing Realism For SDXL and Direct SDXL 0.9 Download Links (From Official Repo)
+* 1024x1024 Pixels Class Images (From Real Pictures) For Amazing Realism For SDXL and Direct SDXL 0.9 and 1.0 Download Links (Official Source)
 
 ### July 10 - 2023
 [Auto SDXL RunPod Installer Script - 1 Click ](https://www.patreon.com/posts/auto-sdxl-runpod-85845581)
