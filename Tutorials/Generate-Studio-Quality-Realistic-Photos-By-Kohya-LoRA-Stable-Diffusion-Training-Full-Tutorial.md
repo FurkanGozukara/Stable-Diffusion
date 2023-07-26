@@ -6,38 +6,16 @@
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-SECourses-C50C0C?style=for-the-badge&logo=youtube)](https://www.youtube.com/SECourses) [![Patreon](https://img.shields.io/badge/Patreon-Support%20Me-F2EB0E?style=for-the-badge&logo=patreon)](https://www.patreon.com/SECourses) [![Furkan Gözükara LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkangozukara/) 
 
-Newest installation screen - updated after this video - select options shown below - use adamW
+## Installation updated. Now we use Torch 2
+* Install as shown in this video : https://youtu.be/AY6DMBCIZ3A
 
-![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/64fb13eb-7070-471f-88c1-a22dbd3b5ba4)
+* As of July 26 there is a bug in fast api
 
-![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/98e4aaaa-1d76-4cc9-91c2-ae5dfb166a45)
-
-## Tested and verified to be working with Torch 1 - 5 June 2023 but not learning. Use below given commit
-
-### Tested settings
-
-* AdamW optimizer default LR
-* Torch 1.13
-* cuDNN 8.7.0
-* bf16
-* xformers v21
-* 3.5-4.5 it/s on RTX 3090 for 512px 128 rank
-
-```Use AdamW optimizer if AdamW8bit fails```
-
-```Use fp16 mixed precision if bf16 fails```
-
-### When you read this if works but if not learns
-
-Make a new install 
-
-Start git clone then
+* Activate venv and rund below command to work
 
 ```
-git checkout 63657088f4c35a376dd8a936f53e9b9a3b4b1168
+pip install fastapi==0.99.1
 ```
-
-Then follow below steps
 
 ### Prompts
 
@@ -85,8 +63,6 @@ I changed the Gray color with other colors like red blue yellow etc.
 
 Kohya SS Gui Repo : https://github.com/bmaltais/kohya_ss 
 
-Kohya commit id : 63657088f4c35a376dd8a936f53e9b9a3b4b1168
-
 Realistic Vision V2 model file download link
 
 https://civitai.com/api/download/models/29460 
@@ -94,68 +70,3 @@ https://civitai.com/api/download/models/29460
 Best VAE file to set as default to generate images
 
 https://huggingface.co/stabilityai/sd-vae-ft-mse-original/blob/main/vae-ft-mse-840000-ema-pruned.ckpt 
-
-cuDNN v8.7.0 For CUDA 11.x
-
-https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/cudnn_windows%20v8.7.0.zip
-
-
-### Installation changed a little bit after my video
-
-Select option 2 to install with torch v2
-
-### Commands - I suggest you to install torch 1.13, xformers 21 and then execute cudnn py file
-
-As june 5 latest commit works but do not learn
-
-The working previous commit with below torch and cudnn. do git checkout after cloning 
-
-```
-git checkout 63657088f4c35a376dd8a936f53e9b9a3b4b1168
-```
-
-```
-python .\tools\cudann_1.8_install.py
-```
-
-```
-gui.bat --listen 127.0.0.1 --server_port 7860 --inbrowser
-```
-
-Set cuda visible devince only 1
-
-```
-setx CUDA_VISIBLE_DEVICES 1
-``` 
-
-``` 
-pip uninstall torch torchvision torchaudio
-``` 
-
-```
-pip3 install torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
-```
-
-**This below link is only compatiable with Python 3.10.x and Torch 1.13 and Windows**
-
-```
-pip install https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/xformers-0.0.21.dev541-cp310-cp310-win_amd64.whl
-```
-
-**This below link is only compatiable with Python 3.10.x and Torch 1.13 and Unix/Linux/RunPod**
-
-```
-pip install https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/xformers-0.0.21.dev541-cp310-cp310-manylinux2014_x86_64.whl
-```
-
-```
-python .\tools\cudann_1.8_install.py
-```
-
-**Activate venv and execute below command to use AdamW8Bit and such optimizers**
-
-```
-pip install bitsandbytes-windows
-```
-
-```--gpu_ids=1```
