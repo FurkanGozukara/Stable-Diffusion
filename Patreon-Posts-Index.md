@@ -16,6 +16,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### July 27 - 2023
+[How To Fix Artifacts In The SDXL 1.0 VAE - Hidden Watermark System](https://www.patreon.com/posts/86736816)
+* How to get rid off embedded watermarking system in SDXL 1.0 VAE. We will use new VAE. How to use proper VAE with SDXL for best quality.
+
 ### July 21 - 2023
 [1 Click RunPod Automatic1111 Web UI SDXL Installer](https://www.patreon.com/posts/1-click-runpod-86438018)
 * 1 Click Installer for Automatic1111 Web UI on RunPod with SDXL support. Automatically installs and downloads SDXL model files as well.
