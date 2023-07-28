@@ -16,6 +16,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### July 29 - 2023
+[SDXL Kohya LoRA Training With 12 GB VRAM Having GPUs](https://www.patreon.com/posts/sdxl-kohya-lora-86817035)
+* How to do SDXL Kohya LoRA training with 12 GB VRAM having GPUs. Rank 8, 16, 32, 64, 96 VRAM usages are tested and shown. Config provided
+
 ### July 27 - 2023
 [How To Fix Artifacts In The SDXL 1.0 VAE - Hidden Watermark System](https://www.patreon.com/posts/86736816)
 * How to get rid off embedded watermarking system in SDXL 1.0 VAE. We will use new VAE. How to use proper VAE with SDXL for best quality.
