@@ -13,7 +13,7 @@
 ### SDXL 1.0 Workflows below
 
 * [SDXL_1_0](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/252a2683-5ca1-440a-9050-b8cc2cb03ceb) (right click and save as) workflow has the SDXL setup with refiner with best settings. Working amazing.
-* [SDXL img2img](![refiner_output_00015_](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/8e8e36dd-db64-4f93-ae4e-1cba39b6409a) This is img2img with SDXL + Refiner
+* [SDXL img2img](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/8e8e36dd-db64-4f93-ae4e-1cba39b6409a) This is img2img with SDXL + Refiner
 * [SDXL_1_0_LoRA_InPAINT](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/aef39ad8-2594-46d1-b44c-de8667b090d6) | [SDXL_1_0_With_LoRA](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/b728a3b9-b9d5-44e0-9d7e-6b22e1c54e35) | [SDXL_1_0_Inpaint](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/a66357dd-32f0-444e-ba89-274a3b04313b) | [SDXL_1_0_Refiner_Inpaint](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/b1cd8b1f-5128-4f04-90e8-f27b7fd5ef9d)
 
 * Tutorial Video : [ComfyUI Master Tutorial - Stable Diffusion XL (SDXL) - Install On PC, Google Colab (Free) & RunPod](https://youtu.be/FnMHbhvWUhE)
