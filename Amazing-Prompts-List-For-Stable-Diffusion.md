@@ -101,3 +101,11 @@ Some positive and negative prompts
 #### Negative prompt:
 
 ```(deformed iris, deformed pupils), text, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, (extra fingers), (mutated hands), poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, (fused fingers), (too many fingers), long neck, camera ```
+
+#### Positive prompt:
+
+```(masterpiece, best quality), mysterious,16 bit pixel art, epic composition of a explorer in a boat reaching an island in the clouds, by studio ghibli, cinematic still, hd```
+
+#### Negative prompt:
+
+```(worst quality, low quality:1.3), (greyscale, monochrome:1.1), cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, extra hand, mask, (animal ear:1.4), blur```
