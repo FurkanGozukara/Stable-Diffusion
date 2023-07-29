@@ -114,11 +114,12 @@ pip install -r requirements.txt
 
 ### Step 7 : Activate venv once again
 
-Ignore errors if you get such as below
+If you get this error ```No module named 'torch'```
+
+Activate venv and execute below command
 
 ```
-ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
-tensorflow-intel 2.12.0 requires numpy<1.24,>=1.22, but you have numpy 1.24.1 which is incompatible.
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
 
 ### Step 8 : inswapper_128 model file
