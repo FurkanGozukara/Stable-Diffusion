@@ -33,7 +33,7 @@ git clone https://github.com/d8ahazard/sd_dreambooth_extension /workspace/stable
 
 pip install -r /workspace/stable-diffusion-webui/extensions/sd_dreambooth_extension/requirements.txt
 
-pip install xformers==dev 
+pip install -U --pre xformers
 ```
 
 ## Install Tensorflow With GPU On Windows
