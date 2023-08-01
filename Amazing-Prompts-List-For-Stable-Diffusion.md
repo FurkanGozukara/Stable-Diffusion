@@ -109,3 +109,13 @@ Some positive and negative prompts
 #### Negative prompt:
 
 ```(worst quality, low quality:1.3), (greyscale, monochrome:1.1), cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, extra hand, mask, (animal ear:1.4), blur```
+
+#### Positive prompt:
+
+<img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/a4b8f3f9-7cad-44e0-9e92-abfc64ddb54a" width="100" />
+
+```closeshot photo of ohwx man hiking on a snowy mountain <lora:12gb_settings:1>```
+
+#### Negative prompt:
+
+```cgi, render, drawing, cartoon,  naked```
