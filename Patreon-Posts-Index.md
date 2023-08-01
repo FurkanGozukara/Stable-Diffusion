@@ -16,6 +16,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### August 1 - 2023
+[How To Get Amazing Prompts With ChatGPT For Stable Diffusion](https://www.patreon.com/posts/how-to-get-with-87038686)
+* How to Utilize free ChatGPT to write unlimited number of different prompts for Stable Diffusion models
+
 ### July 29 - 2023
 [SDXL Kohya LoRA Training With 12 GB VRAM Having GPUs - Tested On RTX 3060](https://www.patreon.com/posts/sdxl-kohya-lora-86817035)
 * How to do SDXL Kohya LoRA training with 12 GB VRAM having GPUs. Rank 8, 16, 32, 64, 96 VRAM usages are tested and shown. Config provided
