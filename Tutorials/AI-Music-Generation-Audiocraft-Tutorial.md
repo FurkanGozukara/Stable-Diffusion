@@ -103,24 +103,14 @@ pip install gradio
 ```
 
 Then we are ready to start the application. Whenever you start the application you need to activate venv. For activating venv open a new cmd window in cloned repo, execute below command and it will work
+
 ```
 call .\venv\Scripts\activate.bat
-python app.py
+cd demos
+python musicgen_app.py
 ```
 
-## 11 June 2023
 
-### Improved gradio app file that can generate longer than 30 seconds like 3600 seconds song
-
-I tested 120 seconds and it was done in 280 seconds on my GPU. It is amazing.
-
-Save as this file into your cloned folder and run this file. For .bat file, modify the name according to this file
-
-This file is from this fork : https://github.com/rkfg/audiocraft
-
-https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/CustomPythonScripts/music_gen_infinite_lenght.py
-
-So after activating the venv, return back to main folder and ```python music_gen_infinite_lenght.py```
 
 ### New commands
 The new commands added to the launch options. You can also modify my Patreon bat file and add these to bat file
@@ -132,7 +122,6 @@ The new commands added to the launch options. You can also modify my Patreon bat
 --password      Specify a password to log into the Gradio public link
 --inbrowser     Automatically open the Gradio link in web browser
 ```
-
 
 ### Some prompting info from @Duemellon
 
