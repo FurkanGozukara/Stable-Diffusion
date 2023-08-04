@@ -73,25 +73,36 @@ cd scripts
 activate
 ```
 
-Install Torch 2 and gradio with below command
+Execute below commands all 1 by 1 or you can use our [auto installer](https://www.patreon.com/posts/ai-music-auto-84334460)
+
+```
+cd ..
+cd ..
+```
+
+```
+pip install -e .
+```
+
+```
+pip uninstall torch -y
+```
+
+```
+pip uninstall torchvision -y
+```
+
+```
+pip uninstall torchaudio -y
+```
 
 ```
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
 
-Return back into main folder with below command and execute install requirements
-
+This will install latest development version xformers. This may not work with older cards. 
 ```
-cd..
-cd..
-pip install -e .
-```
-
-Then we reinstall xformers and we install gradio
-```
-pip uninstall -y xformers
-pip install xformers
-pip install gradio
+pip install -U --pre xformers
 ```
 
 Then we are ready to start the application. Whenever you start the application you need to activate venv. For activating venv open a new cmd window in cloned repo, execute below command and it will work
@@ -101,7 +112,6 @@ call .\venv\Scripts\activate.bat
 cd demos
 python musicgen_app.py
 ```
-
 
 
 ### New commands
