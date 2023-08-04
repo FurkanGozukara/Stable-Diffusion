@@ -134,7 +134,7 @@ wget https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-
 
 **Edit webui-user.sh - last step after installing requirements of DreamBooth**
 ```
-export COMMANDLINE_ARGS="--xformers --port 3000 --listen --enable-insecure-extension-access --skip-install"
+export COMMANDLINE_ARGS="--port 3000 --xformers --skip-install --listen --enable-insecure-extension-access"
 ```
 
 ```
