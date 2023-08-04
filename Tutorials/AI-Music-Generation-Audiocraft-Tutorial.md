@@ -44,15 +44,13 @@ A tutorial that shows how to install (2:56) : https://youtu.be/OI1LEN-SgLM?t=176
 
 ## Installation
 
-Main Repo url (broken 4 August 2023 so use my fork) : https://github.com/facebookresearch/audiocraft
-
-My working fork : https://github.com/FurkanGozukara/audiocraft
+Main Repo url : https://github.com/facebookresearch/audiocraft
 
 Enter inside the drive or folder where you want to install
 
 Open cmd type 
 ```
-git clone https://github.com/FurkanGozukara/audiocraft
+git clone https://github.com/facebookresearch/audiocraft
 ```
 
 Move into cloned folder
