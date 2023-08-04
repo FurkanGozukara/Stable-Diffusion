@@ -16,15 +16,15 @@ Stable Diffusion tutorials : https://github.com/FurkanGozukara/Stable-Diffusion
 
 ## Prerequisites
 
-### Step 1 : Python
+### Step 1 : Python 3.10.11
 
 **Full tutorial for python and git installation with venv**
 
 https://youtu.be/B5U7LJOvH6g
 
-**Download and install Python 3.10.x and git**
+**Download and install Python 3.10.11 and git**
 
-https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe
+https://www.python.org/downloads/release/python-31011/
 
 https://git-scm.com/downloads
 
