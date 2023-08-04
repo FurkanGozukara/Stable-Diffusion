@@ -82,6 +82,14 @@ python relauncher.py
 
 ## Now Part 2 Begins
 
+First find ```webui-user.sh``` and change below line and remove ```--skip-install``` and save
+
+```export COMMANDLINE_ARGS="--port 3000 --xformers --skip-install --listen --enable-insecure-extension-access"```
+
+So it becomes
+
+```export COMMANDLINE_ARGS="--port 3000 --xformers --skip-install --listen --enable-insecure-extension-access"```
+
 ```
 fuser -k 3000/tcp
 ```
