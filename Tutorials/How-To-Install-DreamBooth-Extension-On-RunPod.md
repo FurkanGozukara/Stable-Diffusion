@@ -108,12 +108,15 @@ source /workspace/venv/bin/activate
 
 ```
 fuser -k 3000/tcp
-pip install -U --pre xformers
 ```
 
 ```
 yes | pip uninstall torch torchvision torchaudio
 yes | pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+```
+
+```
+pip install -U --pre xformers
 ```
 
 ```
