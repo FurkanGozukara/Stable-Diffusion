@@ -119,3 +119,15 @@ Some positive and negative prompts
 #### Negative prompt:
 
 ```cgi, render, drawing, cartoon,  naked```
+
+#### Positive prompt:
+
+<img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/6747e048-fdd3-47b5-9087-16d215583fdd" width="100" />
+
+```a minimalistic lineart illustration of ohwx man, continuous one line drawing, (lineart:1.2), black and white, (thin lines:1.1), (white flat background:1.1), high quality, vector file  <lora:24gb_settings-000007:1>```
+
+#### Negative prompt:
+
+none
+
+
