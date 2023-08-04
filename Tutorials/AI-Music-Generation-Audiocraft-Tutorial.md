@@ -42,29 +42,21 @@ A tutorial that shows how to install (2:56) : https://youtu.be/OI1LEN-SgLM?t=176
 
 ## Installation
 
-Repo url : https://github.com/facebookresearch/audiocraft
+Main Repo url (broken 4 August 2023 so use my fork) : https://github.com/facebookresearch/audiocraft
 
-Alternative forks that have more features and supports longer generation (installation same) : 
-* https://github.com/rkfg/audiocraft (long branch)
-* https://github.com/Oncorporation/audiocraft
+My working fork : https://github.com/FurkanGozukara/audiocraft
 
 Enter inside the drive or folder where you want to install
 
 Open cmd type 
 ```
-git clone https://github.com/facebookresearch/audiocraft
+git clone https://github.com/FurkanGozukara/audiocraft
 ```
 
 Move into cloned folder
 
 ```
 cd audiocraft
-```
-
-Lets say you wan't to use the same version that I have used in the tutorial video at this moment execute below commit checkout
-
-```
-git checkout 0c75a46321e6e4b15b1e6c751d9c69ff9cbdda69
 ```
 
 Make a new venv with the below command
