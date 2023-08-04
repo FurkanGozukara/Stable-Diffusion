@@ -111,8 +111,7 @@ Then we are ready to start the application. Whenever you start the application y
 
 ```
 call .\venv\Scripts\activate.bat
-cd demos
-python musicgen_app.py
+python .\demos\musicgen_app.py --inbrowser
 ```
 
 
