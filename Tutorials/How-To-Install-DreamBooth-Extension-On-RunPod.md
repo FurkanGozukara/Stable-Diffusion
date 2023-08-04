@@ -90,6 +90,8 @@ So it becomes
 
 ```export COMMANDLINE_ARGS="--port 3000 --xformers --skip-install --listen --enable-insecure-extension-access"```
 
+Execute below codes
+
 ```
 fuser -k 3000/tcp
 ```
