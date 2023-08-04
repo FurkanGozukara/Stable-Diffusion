@@ -96,7 +96,7 @@ python relauncher.py
 
 ## Now Part 2 Begins
 
-Execute below codes
+Open a new terminal and execute below codes
 
 ```
 fuser -k 3000/tcp
