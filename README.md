@@ -213,7 +213,7 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [**DeepFloyd IF By Stability AI - Is It Stable Diffusion XL or Version 3? We Review and Show How To Use**](https://youtu.be/R2fEocf-MU8)
 
-[![image](https://user-images.githubusercontent.com/19240467/235505544-2ba77ef2-3928-4c44-aba8-2536aebbfb60.png)](https://youtu.be/R2fEocf-MU8)
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/BsmKyOr6a6X5L3AAZ6UQo.png)](https://youtu.be/R2fEocf-MU8)
 
 32.) Python Script - Automatic1111 Web UI - PC - Free
 
