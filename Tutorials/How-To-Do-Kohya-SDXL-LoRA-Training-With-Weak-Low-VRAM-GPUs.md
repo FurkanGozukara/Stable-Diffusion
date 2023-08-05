@@ -11,7 +11,8 @@
 
 ### Full tutorial for Python and Git installation and extra info regarding venv (virtual enviroment)
 * [How To Install Python, Setup Virtual Environment VENV, Set Default Python System Path & Install Git](https://youtu.be/B5U7LJOvH6g)
-* Python 3.10.11 (I know prefer 3.10.11 since latest xFormers requires this) > https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe
+* Python 3.10.11 (I know prefer 3.10.11 since latest xFormers requires this)
+* * https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe
 * * https://www.python.org/downloads/release/python-31011/
  
 ### Auto Automatic1111 Web UI Installer
@@ -33,22 +34,24 @@ git clone https://github.com/bmaltais/kohya_ss
 
 ### Resources
 * How To Find Best Stable Diffusion Generated Images By Using DeepFace AI - DreamBooth / LoRA Training
-* YouTube Tutorial : https://youtu.be/343I11mhnXs
+* * YouTube Tutorial : https://youtu.be/343I11mhnXs
 * Script : https://www.patreon.com/posts/sort-ai-images-82478694
 * 
 * What is DreamBooth training, rare tokens, class images master tutorial below
-* [Zero To Hero Stable Diffusion DreamBooth Tutorial By Using Automatic1111 Web UI - Ultra Detailed](https://youtu.be/Bdl-jWR3Ukc)
+* * [Zero To Hero Stable Diffusion DreamBooth Tutorial By Using Automatic1111 Web UI - Ultra Detailed](https://youtu.be/Bdl-jWR3Ukc)
 *
 * Ground truth Classification / Regularization images dataset (512, 640, 768, 960, 1024px & raw)
-* https://www.patreon.com/posts/4k-2700-real-84053021
+* * https://www.patreon.com/posts/4k-2700-real-84053021
 *
 * Explaining LoRA Learning Settings
 * https://github.com/bmaltais/kohya_ss/blob/master/docs/LoRA/options.md
 * ![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/49889acf-5576-4ecf-9308-749bd0fd3bb2)
 *
 * My Civit AI : https://civitai.com/user/SECourses
- 
-
+* SDXL 1.0 VAE vs 0.9 VAE comparison
+* * https://twitter.com/GozukaraFurkan/status/1687759746512609280
+* SDXL 1.0 vs 1.0_0.9 VAE LoRA comparison
+* * https://twitter.com/GozukaraFurkan/status/1687819402597593088
 
 ### How To Install Kohya GUI On RunPod
 
@@ -66,6 +69,12 @@ git clone https://github.com/bmaltais/kohya_ss
 * * https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors
 * 1.0 (corrected VAE embedded)
 * * https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0_0.9vae.safetensors
+
+### How To Install Kohya GUI On Windows
+* Do a git clone of repository
+* Run setup.bat file
+* Follow the tutorial video
+* For linux you can watch RunPod tutorial
 
 ### Optimizer Extra Arguments For SDXL
 ```
