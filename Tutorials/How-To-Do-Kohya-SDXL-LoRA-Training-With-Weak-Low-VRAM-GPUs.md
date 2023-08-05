@@ -20,7 +20,11 @@
 ### Download and install Visual Studio 2015, 2017, 2019, and 2022 redistributable 
 * https://aka.ms/vs/17/release/vc_redist.x64.exe
 
+### Automatic1111 SD Web UI Repo : https://github.com/AUTOMATIC1111/stable-diffusion-webui
+* ```git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui``` 
+
 ### Kohya GUI Repo : https://github.com/bmaltais/kohya_ss
+* ```git clone https://github.com/bmaltais/kohya_ss```
 
 ### Resources
 * How To Find Best Stable Diffusion Generated Images By Using DeepFace AI - DreamBooth / LoRA Training
