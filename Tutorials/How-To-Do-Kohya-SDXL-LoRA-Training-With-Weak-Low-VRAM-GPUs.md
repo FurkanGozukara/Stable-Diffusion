@@ -55,6 +55,8 @@ git clone https://github.com/bmaltais/kohya_ss
 * * https://twitter.com/GozukaraFurkan/status/1687759746512609280
 * SDXL 1.0 vs 1.0_0.9 VAE LoRA comparison
 * * https://twitter.com/GozukaraFurkan/status/1687819402597593088
+* SDXL fp16 VAE
+* * https://huggingface.co/madebyollin/sdxl-vae-fp16-fix
 
 ### How To Install Kohya GUI On RunPod
 
