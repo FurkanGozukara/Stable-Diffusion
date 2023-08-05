@@ -62,6 +62,9 @@ git clone https://github.com/bmaltais/kohya_ss
 * * https://huggingface.co/madebyollin/sdxl-vae-fp16-fix
 *
 * Kohya repeating logic : https://github.com/kohya-ss/sd-scripts/issues/640
+*
+* Using ground truth regularization images approach
+* * https://github.com/victorchall/EveryDream2trainer/blob/main/doc/NOTDREAMBOOTH.md 
 
 ### How To Install Kohya GUI On RunPod
 
