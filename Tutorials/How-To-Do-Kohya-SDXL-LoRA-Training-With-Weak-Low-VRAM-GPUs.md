@@ -63,7 +63,7 @@ git clone https://github.com/bmaltais/kohya_ss
 *
 * Kohya repeating logic : https://github.com/kohya-ss/sd-scripts/issues/640
 *
-* Using ground truth regularization images approach
+* Using ground truth regularization / classification images approach
 * * https://github.com/victorchall/EveryDream2trainer/blob/main/doc/NOTDREAMBOOTH.md 
 
 ### How To Install Kohya GUI On RunPod
