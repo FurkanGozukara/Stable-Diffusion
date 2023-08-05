@@ -57,6 +57,8 @@ git clone https://github.com/bmaltais/kohya_ss
 * * https://twitter.com/GozukaraFurkan/status/1687819402597593088
 * SDXL fp16 VAE
 * * https://huggingface.co/madebyollin/sdxl-vae-fp16-fix
+*
+* Kohya repeating logic : https://github.com/kohya-ss/sd-scripts/issues/640
 
 ### How To Install Kohya GUI On RunPod
 
