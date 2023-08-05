@@ -86,7 +86,7 @@ worst quality, low quality, bad quality, lowres, blurry, out of focus, deformed,
 #### Some Others
 * Realism 
 ```
-portrait photo of (ohwx man:1.1) wearing an expensive White suit, white background, fit
+portrait photo of (ohwx man:1.1) wearing an expensive White suit, white background, fit <lora:12gb_settings-000007:1>
 ```
 
 ```
@@ -95,13 +95,13 @@ portrait photo of (ohwx man:1.1) wearing an expensive White suit, white backgrou
 
 * GTA 5
 ```
-portrait photo of ohwx:0.8 man in gta 5 style, game character, digital drawing, digital artwork
+portrait photo of ohwx:0.8 man in gta 5 style, game character, digital drawing, digital artwork <lora:12gb_settings-000007:1>
 ```
 No negatives
 
 * Pixar
 ```
-photo of ohwx:0.9 man as a pixar character
+photo of ohwx:0.9 man as a pixar character <lora:12gb_settings-000007:1>
 ```
 
 ```
@@ -110,7 +110,7 @@ low, bad, blurry, worse, worst, ugly, tiling, deformed, mutated, low quality
 
 * van gogh in automatic 1111 web ui
 ```
-painting of ohwx man in van gogh style <lora:test9:1>
+painting of ohwx man in van gogh style <lora:12gb_settings-000007:1>
 ```
 
 ```
@@ -119,7 +119,7 @@ realistic, realism, photo, picture, canon, hdr, studioshot , photoshoot, low qua
 
 * miniature in automatic 1111 web ui
 ```
-ohwx man as a plastic figurine, miniature product photography  <lora:test9:1>
+ohwx man as a plastic figurine, miniature product photography <lora:12gb_settings-000007:1>
 ```
 
 ## Use Versions And Pip Freeze
