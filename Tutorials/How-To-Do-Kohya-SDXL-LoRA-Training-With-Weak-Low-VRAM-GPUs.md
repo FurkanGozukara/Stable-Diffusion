@@ -67,6 +67,9 @@ git clone https://github.com/bmaltais/kohya_ss
 * * https://github.com/victorchall/EveryDream2trainer/blob/main/doc/NOTDREAMBOOTH.md
 *
 * Image Validator Script : https://www.patreon.com/posts/image-validator-85618765
+*
+* Best realism workflow with SD 1.5 models
+* * [The END of Photography - Use AI to Make Your Own Studio Photos, FREE Via DreamBooth Training](https://youtu.be/g0wXIcRhkJk) 
 
 ### How To Install Kohya GUI On RunPod
 
