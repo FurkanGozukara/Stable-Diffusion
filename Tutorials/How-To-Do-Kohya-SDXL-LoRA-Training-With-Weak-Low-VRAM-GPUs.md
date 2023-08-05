@@ -21,7 +21,8 @@
 * https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 ### Automatic1111 SD Web UI Repo : https://github.com/AUTOMATIC1111/stable-diffusion-webui
-* ```git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui``` 
+* ```
+ git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui``` 
 
 ### Kohya GUI Repo : https://github.com/bmaltais/kohya_ss
 * ```git clone https://github.com/bmaltais/kohya_ss```
