@@ -1,26 +1,20 @@
+# [Tutorial] How To Install Automatic1111 With SDXL, Install Kohya SS GUI For SDXL LoRA Training With Low VRAM Having GPUs, How To Use SDXL LoRAs With Automatic1111 Web UI
+## Tutorial video link will be added when published
+### This Tutorial Readme File Will Be Updated In Future If Something Gets Broken
+
 [![image](https://img.shields.io/discord/772774097734074388?label=Discord&logo=discord)](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFurkanGozukara%2FStable-Diffusion%2Fblob%2Fmain%2FTutorials%2FHow-To-Do-Kohya-SDXL-LoRA-Training-With-Weak-Low-VRAM-GPUs.md&count_bg=%2379C83D&title_bg=%239E0F0F&icon=apachespark.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com) [![Twitter Follow Furkan Gözükara](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GozukaraFurkan) [![Udemy](https://img.shields.io/static/v1?style=for-the-badge&message=Stable%20Diffusion%20Course&color=A435F0&logo=Udemy&logoColor=FFFFFF&label=Udemy)](https://www.udemy.com/course/stable-diffusion-dreambooth-lora-zero-to-hero/) 
 
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-SECourses-C50C0C?style=for-the-badge&logo=youtube)](https://www.youtube.com/SECourses) [![Patreon](https://img.shields.io/badge/Patreon-Support%20Me-F2EB0E?style=for-the-badge&logo=patreon)](https://www.patreon.com/SECourses) [![Furkan Gözükara LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkangozukara/) [![Codio](https://img.shields.io/static/v1?style=for-the-badge&message=Articles&color=4574E0&logo=Codio&logoColor=FFFFFF&label=CivitAI)](https://civitai.com/user/SECourses/articles)
 
-
-
-
-
-# [Tutorial] How To Install And Use Kohya GUI And Do Ultra Realistic SDXL Training
-
 ## Prerequisites
 
 ### Full tutorial for Python and Git installation and extra info regarding venv (virtual enviroment)
 * [How To Install Python, Setup Virtual Environment VENV, Set Default Python System Path & Install Git](https://youtu.be/B5U7LJOvH6g)
-* Python 3.10.9 > https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe
-
-### Full tutorial for how to install and use ComfyUI for SDXL
-* How To Use ComfyUI Tutorial Readme : [click here](https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Tutorials/How-To-Use-ComfyUI-On-Your-PC-On-RunPod-On-Colab-With-SDXL.md)
-* Tutorial Video Of ComfyUI : [ComfyUI Master Tutorial - Stable Diffusion XL (SDXL) - Install On PC, Google Colab (Free) & RunPod](https://youtu.be/FnMHbhvWUhE)
-
-### Full tutorial for how to install and use Stable Diffusion Automatic1111 Web UI: 
-* First 15 minutes : [Zero to Hero ControlNet Tutorial: Stable Diffusion Web UI Extension | Complete Feature Guide](https://youtu.be/3E5fhFQUVLo)
+* Python 3.10.11 (I know prefer 3.10.11 since latest xFormers requires this) > https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe
+* * https://www.python.org/downloads/release/python-31011/
+ 
+### Auto Automatic1111 Web UI Installer With SDXL & Correct VAE
 
 ### Download and install Visual Studio 2015, 2017, 2019, and 2022 redistributable 
 * https://aka.ms/vs/17/release/vc_redist.x64.exe
