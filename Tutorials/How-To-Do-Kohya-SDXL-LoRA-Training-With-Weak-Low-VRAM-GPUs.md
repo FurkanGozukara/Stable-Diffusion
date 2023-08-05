@@ -14,7 +14,8 @@
 * Python 3.10.11 (I know prefer 3.10.11 since latest xFormers requires this) > https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe
 * * https://www.python.org/downloads/release/python-31011/
  
-### Auto Automatic1111 Web UI Installer With Correct VAE Having SDXL
+### Auto Automatic1111 Web UI Installer
+* Auto clones, installs, downloads SDXL and correct VAE into correct folders
 * https://www.patreon.com/posts/automatic-for-ui-86307255
 
 ### Download and install Visual Studio 2015, 2017, 2019, and 2022 redistributable 
