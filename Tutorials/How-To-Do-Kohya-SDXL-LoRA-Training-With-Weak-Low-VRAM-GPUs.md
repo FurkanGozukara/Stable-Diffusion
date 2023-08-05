@@ -69,7 +69,9 @@ git clone https://github.com/bmaltais/kohya_ss
 * Image Validator Script : https://www.patreon.com/posts/image-validator-85618765
 *
 * Best realism workflow with SD 1.5 models
-* * [The END of Photography - Use AI to Make Your Own Studio Photos, FREE Via DreamBooth Training](https://youtu.be/g0wXIcRhkJk) 
+* * [The END of Photography - Use AI to Make Your Own Studio Photos, FREE Via DreamBooth Training](https://youtu.be/g0wXIcRhkJk)
+*
+* [How To Get Amazing Prompts With ChatGPT For Stable Diffusion](https://www.patreon.com/posts/how-to-get-with-87038686)
 
 ### How To Install Kohya GUI On RunPod
 
