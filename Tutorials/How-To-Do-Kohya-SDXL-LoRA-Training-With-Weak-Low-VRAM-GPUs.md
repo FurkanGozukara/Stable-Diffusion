@@ -40,7 +40,7 @@ git clone https://github.com/bmaltais/kohya_ss
 * * YouTube Tutorial : https://youtu.be/343I11mhnXs
 * Script : https://www.patreon.com/posts/sort-ai-images-82478694
 * 
-* * What is LoRA training master tutorial below
+* What is LoRA training master tutorial below
 * * [How To Do Stable Diffusion LORA Training By Using Web UI On Different Models - Tested SD 1.5, SD 2.1](https://youtu.be/mfaqqL5yOO4)
 *
 * What is DreamBooth training, rare tokens, class images master tutorial below
