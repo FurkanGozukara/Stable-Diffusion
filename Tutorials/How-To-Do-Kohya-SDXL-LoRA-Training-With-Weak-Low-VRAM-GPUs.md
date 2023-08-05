@@ -48,6 +48,7 @@ git clone https://github.com/bmaltais/kohya_ss
 *
 * Ground truth Classification / Regularization images dataset (512, 640, 768, 960, 1024px & raw)
 * * https://www.patreon.com/posts/4k-2700-real-84053021
+* * [Human Cropping Script & 4K+ Resolution Class / Reg Images For Stable Diffusion DreamBooth / LoRA](https://youtu.be/QTYX0tgA5ho)
 *
 * Explaining LoRA Learning Settings
 * https://github.com/bmaltais/kohya_ss/blob/master/docs/LoRA/options.md
