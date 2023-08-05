@@ -45,6 +45,9 @@ git clone https://github.com/bmaltais/kohya_ss
 * Explaining LoRA Learning Settings
 * https://github.com/bmaltais/kohya_ss/blob/master/docs/LoRA/options.md
 * ![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/49889acf-5576-4ecf-9308-749bd0fd3bb2)
+*
+* My Civit AI : https://civitai.com/user/SECourses
+ 
 
 
 ### How To Install Kohya GUI On RunPod
