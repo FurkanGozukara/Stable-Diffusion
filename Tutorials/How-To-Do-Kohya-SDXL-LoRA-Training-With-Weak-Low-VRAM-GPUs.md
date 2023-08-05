@@ -14,7 +14,8 @@
 * Python 3.10.11 (I know prefer 3.10.11 since latest xFormers requires this) > https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe
 * * https://www.python.org/downloads/release/python-31011/
  
-### Auto Automatic1111 Web UI Installer With SDXL & Correct VAE
+### Auto Automatic1111 Web UI Installer With Correct VAE Having SDXL
+* https://www.patreon.com/posts/automatic-for-ui-86307255
 
 ### Download and install Visual Studio 2015, 2017, 2019, and 2022 redistributable 
 * https://aka.ms/vs/17/release/vc_redist.x64.exe
@@ -25,17 +26,29 @@
 * How To Find Best Stable Diffusion Generated Images By Using DeepFace AI - DreamBooth / LoRA Training
 * YouTube Tutorial : https://youtu.be/343I11mhnXs
 * Script : https://www.patreon.com/posts/sort-ai-images-82478694
+* 
 * What is DreamBooth training, rare tokens, class images master tutorial below
 * [Zero To Hero Stable Diffusion DreamBooth Tutorial By Using Automatic1111 Web UI - Ultra Detailed](https://youtu.be/Bdl-jWR3Ukc)
+*
+* Ground truth Classification / Regularization images dataset (512, 640, 768, 960, 1024px & raw)
+* https://www.patreon.com/posts/4k-2700-real-84053021
 
 ### How To Install Kohya GUI On RunPod
 
 * Manual Install Tutorial Video: https://youtu.be/3uzCNrQao3o
 * 1 Click Automatic Installer Script For RunPod: https://www.patreon.com/posts/84898806
+* Hopefully I will make a new tutorial video for this. Auto installer updated and working
 
-### SDXL Base Model File 1.0 Direct Download Link
+### SDXL Base 1.0 Direct Download Links
 
-* https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors 
+* Main repo : https://huggingface.co/stabilityai
+* 
+* Fixed VAE
+* * https://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetensors
+* 1.0 (broken VAE embedded)
+* * https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors
+* 1.0 (corrected VAE embedded)
+* * https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0_0.9vae.safetensors
 
 ### Optimizer Extra Arguments For SDXL
 ```
