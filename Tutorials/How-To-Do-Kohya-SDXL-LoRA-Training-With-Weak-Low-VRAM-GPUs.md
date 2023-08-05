@@ -14,6 +14,7 @@
 * Python 3.10.11 (I know prefer 3.10.11 since latest xFormers requires this)
 * * https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe
 * * https://www.python.org/downloads/release/python-31011/
+* Git > https://git-scm.com/downloads
  
 ### Auto Automatic1111 Web UI Installer
 * Auto clones, installs, downloads SDXL and correct VAE into correct folders
