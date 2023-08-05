@@ -55,6 +55,10 @@
 scale_parameter=False relative_step=False warmup_init=False
 ```
 
+### Used Training Json File Attached As .txt So Change Extension To .json
+
+* Json config : [test_video_lowVRAM.txt](https://github.com/FurkanGozukara/Stable-Diffusion/files/12267056/test_video_lowVRAM.txt)
+
 ### Used Training Command
 
 ```
@@ -62,6 +66,24 @@ accelerate launch --num_cpu_threads_per_process=2 "./sdxl_train_network.py" --en
 ```
 
 ### Used Prompts
+
+#### Used prompts to generated 2000+ images
+```
+closeshot photo of ohwx:1.2 man with eyeglasses wearing an expensive white  suit, looking at the viewer, award winning photography, highres, best quality, absurdres, detailed, hasselblad, aperture f/2.8, high resolution, analog style, cinematic illumination, sharp focus   <lora:12gb_settings-000007:1>
+```
+
+* Then change color of the suit such as below
+
+```
+closeshot photo of ohwx:1.2 man with eyeglasses wearing an expensive black  suit, looking at the viewer, award winning photography, highres, best quality, absurdres, detailed, hasselblad, aperture f/2.8, high resolution, analog style, cinematic illumination, sharp focus   <lora:12gb_settings-000007:1>
+```
+
+Negative
+```
+worst quality, low quality, bad quality, lowres, blurry, out of focus, deformed, ugly, fat, obese, poorly drawn face, poorly drawn eyes, poorly drawn eyelashes, bad proportions, bad anatomy, arthropod limbs, poorly drawn hands, too many fingers, bad hands, fused fingers, mutated, warped, discoloration, rash, jpeg artifacts, bored, boring, poorly drawn iris, milky isis, missing pupils, oversized limb, big head, long neck, mutant hand, deformed fingers, forehead bulge, dented face, forehead dent, double chin, long chin, double mouth, extra mouth, iso grain, noise
+```
+
+#### Some Others
 * Realism 
 ```
 portrait photo of (ohwx man:1.1) wearing an expensive White suit, white background, fit
