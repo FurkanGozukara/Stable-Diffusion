@@ -26,7 +26,9 @@
 ### Automatic1111 SD Web UI Repo : https://github.com/AUTOMATIC1111/stable-diffusion-webui
 ```
 git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui
-``` 
+```
+* Command Line Arguments Automatic1111 SD Web UI
+* * https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Command-Line-Arguments-and-Settings
 
 ### Kohya GUI Repo : https://github.com/bmaltais/kohya_ss
 ```
