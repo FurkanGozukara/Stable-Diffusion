@@ -124,7 +124,7 @@ ohwx man as a plastic figurine, miniature product photography  <lora:test9:1>
 
 ## Use Versions And Pip Freeze
 
-* Kohya SS GUI Commit Id : 5c44ba372c6d94f996f98bbcb1d2a60731ba3080
+* Kohya SS GUI Commit Id : 2accb1305979ba62f5077a23aabac23b4c37e935
 * VENV Pip Freeze
 
 ```
