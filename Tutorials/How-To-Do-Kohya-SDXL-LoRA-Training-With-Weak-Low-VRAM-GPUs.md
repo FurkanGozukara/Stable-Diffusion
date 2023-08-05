@@ -89,6 +89,11 @@ git clone https://github.com/bmaltais/kohya_ss
 * Follow the tutorial video
 * For linux you can watch RunPod tutorial
 
+### How To Do Training On Second GPU
+* Edit gui.bat file
+* Add below command
+* ```set CUDA_VISIBLE_DEVICES=1```
+
 ### Optimizer Extra Arguments For SDXL
 ```
 scale_parameter=False relative_step=False warmup_init=False
