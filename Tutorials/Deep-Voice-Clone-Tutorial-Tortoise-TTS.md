@@ -121,6 +121,8 @@ If you ever needed to install a missing package manually, to activate anaconda o
 
 ```pip3 install torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117```
 
+```pip install transformers==4.28.1```
+
 After installation double click "Start DLAS.cmd" file and it will open the GUI interface
 
 Follow the steps I have shown in the video to start training.
