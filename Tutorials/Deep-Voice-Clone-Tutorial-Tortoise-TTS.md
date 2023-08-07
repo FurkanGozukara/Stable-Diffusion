@@ -18,6 +18,10 @@ Python 3.10.9 : https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe
 
 I have excellent tutorial for Python and Git installation here : https://youtu.be/B5U7LJOvH6g 
 
+Also install Miniconda and if you already have it upgade it
+
+```conda update -n base -c defaults conda```
+
 ### Part 1 - Preparing training speech files
 We will begin with pre-processing the speech training file
 
