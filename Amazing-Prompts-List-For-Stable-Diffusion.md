@@ -112,7 +112,7 @@ Some positive and negative prompts
 
 #### Positive prompt:
 
-<img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/a4b8f3f9-7cad-44e0-9e92-abfc64ddb54a" width="100" />
+<img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/a4b8f3f9-7cad-44e0-9e92-abfc64ddb54a" width="200" />
 
 ```closeshot photo of ohwx man hiking on a snowy mountain <lora:12gb_settings:1>```
 
@@ -122,7 +122,7 @@ Some positive and negative prompts
 
 #### Positive prompt:
 
-<img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/6747e048-fdd3-47b5-9087-16d215583fdd" width="100" />
+<img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/6747e048-fdd3-47b5-9087-16d215583fdd" width="200" />
 
 ```a minimalistic lineart illustration of ohwx man, continuous one line drawing, (lineart:1.2), black and white, (thin lines:1.1), (white flat background:1.1), high quality, vector file  <lora:24gb_settings-000007:1>```
 
@@ -131,7 +131,7 @@ Some positive and negative prompts
 none
 
 #### Positive prompt:
-<img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/d20c983e-7ac0-4dc2-bcfc-be2d7cddc61b" width="100" />
+<img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/d20c983e-7ac0-4dc2-bcfc-be2d7cddc61b" width="200" />
 
 ```
 cinematic photo ohwx man riding dinosaur in a jungle with mud, sunny day shiny clear sky . 35mm photograph,film,professional,4k,highly detailed
