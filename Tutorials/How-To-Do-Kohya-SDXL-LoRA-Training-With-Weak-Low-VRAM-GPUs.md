@@ -76,9 +76,9 @@ git clone https://github.com/bmaltais/kohya_ss
 * [How To Get Amazing Prompts With ChatGPT For Stable Diffusion](https://www.patreon.com/posts/how-to-get-with-87038686)
 *
 * The effect of SDXL LoRA Higher Network Rank (Dimension) vs Lower Network Rank (Dimension)
-* * > https://twitter.com/GozukaraFurkan/status/1688613661034635264
-* * > https://civitai.com/articles/1647/lora-higher-network-rank-dimension-effect-on-sdxl-training-very-interesting
-* * > https://www.linkedin.com/posts/furkangozukara_just-found-out-an-interesting-information-activity-7094380517902475265-qXhS
+* * [Twitter Post](https://twitter.com/GozukaraFurkan/status/1688613661034635264)
+* * [CivitAI Article](https://civitai.com/articles/1647/lora-higher-network-rank-dimension-effect-on-sdxl-training-very-interesting)
+* * [LinkedIn Post](https://www.linkedin.com/posts/furkangozukara_just-found-out-an-interesting-information-activity-7094380517902475265-qXhS)
 
 ### How To Install Kohya GUI On RunPod
 
