@@ -130,4 +130,17 @@ Some positive and negative prompts
 
 none
 
+#### Positive prompt:
+<img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/d20c983e-7ac0-4dc2-bcfc-be2d7cddc61b" width="100" />
 
+```
+cinematic photo ohwx man riding dinosaur in a jungle with mud, sunny day shiny clear sky . 35mm photograph,film,professional,4k,highly detailed
+
+<lora:24gb_settings-000007:1>
+Negative prompt: drawing,painting,crayon,sketch,graphite,impressionist,noisy,blurry,soft,deformed,ugly
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 2149319757, Size: 1280x720, Model hash: 31e35c80fc, Model: sd_xl_base_1.0, Denoising strength: 0.5, ADetailer model: face_yolov8n.pt, ADetailer prompt: "face photo of ohwx man <lora:24gb_settings-000007:1>", ADetailer confidence: 0.3, ADetailer dilate/erode: 4, ADetailer mask blur: 4, ADetailer denoising strength: 0.4, ADetailer inpaint only masked: True, ADetailer inpaint padding: 32, ADetailer version: 23.7.11, Hires upscale: 1.6, Hires upscaler: Latent, Lora hashes: "24gb_settings-000007: f99b38a8f85d", Version: v1.5.1
+```
+```cinematic photo ohwx man  riding  dinosaur  in a jungle with mud, sunny day shiny clear sky . 35mm photograph,film,professional,4k,highly detailed <lora:24gb_settings-000007:1>```
+
+#### Negative prompt:
+```drawing,painting,crayon,sketch,graphite,impressionist,noisy,blurry,soft,deformed,ugly```
