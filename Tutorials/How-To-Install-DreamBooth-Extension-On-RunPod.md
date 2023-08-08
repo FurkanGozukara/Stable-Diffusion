@@ -117,7 +117,7 @@ yes | pip3 install torch torchvision torchaudio --index-url https://download.pyt
 ```
 
 ```
-pip install -U --pre xformers
+pip install xformers==0.0.20
 ```
 
 ```
@@ -152,3 +152,9 @@ yes | apt install -y libcudnn8=8.9.2.26-1+cuda11.8 libcudnn8-dev=8.9.2.26-1+cuda
 cd /workspace/stable-diffusion-webui
 python relauncher.py
 ```
+
+## Pip freeze and commit ids as date of 8 August 2023
+
+Automatic1111 : 68f336bd994bed5442ad95bad6b6ad5564a5409a
+Dreambooth ext : c2a5617c587b812b5a408143ddfb18fc49234edf
+
