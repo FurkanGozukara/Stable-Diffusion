@@ -155,6 +155,6 @@ python relauncher.py
 
 ## Pip freeze and commit ids as date of 8 August 2023
 
-Automatic1111 : 68f336bd994bed5442ad95bad6b6ad5564a5409a
-Dreambooth ext : c2a5617c587b812b5a408143ddfb18fc49234edf
+* Automatic1111 : 68f336bd994bed5442ad95bad6b6ad5564a5409a
+* Dreambooth ext : c2a5617c587b812b5a408143ddfb18fc49234edf
 
