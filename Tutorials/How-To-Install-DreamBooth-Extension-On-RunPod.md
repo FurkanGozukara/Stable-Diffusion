@@ -33,7 +33,7 @@ while launch_counter < 1:
 
 Then download auto installer posted on Patreon (install1.sh and install2.sh - upload to workspace) or follow below steps
 
-### Auto installer script on Patreon : https://www.patreon.com/posts/runpod-auto-84716845
+### Auto installer script on Patreon (8 August 2023 Updated) : https://www.patreon.com/posts/runpod-auto-84716845
 
 ```
 chmod +x install1.sh
