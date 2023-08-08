@@ -20,10 +20,11 @@
 
 ## Initial Instruction for Both Automatic and Manual Installation
 
-**IMPORTANT - First modify relauncher.py as shown in video and restart the pod (only 1 time necessary)**
+**IMPORTANT - First modify relauncher.py as below**
+* The line you are going to change to below one is > ```while True:```
 
 ```
-while (n<1):
+while launch_counter < 1:
 ```
 
 ## Automatic Script Installation
