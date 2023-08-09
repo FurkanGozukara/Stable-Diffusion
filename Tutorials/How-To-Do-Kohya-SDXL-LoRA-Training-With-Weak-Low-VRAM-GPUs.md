@@ -96,6 +96,8 @@ git clone https://github.com/bmaltais/kohya_ss
 * * https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors
 * 1.0 (corrected VAE embedded)
 * * https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0_0.9vae.safetensors
+* 1.0 Refiner (uses same VAE of base)
+* * https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors
 
 ### How To Install Kohya GUI On Windows
 * Do a git clone of repository
