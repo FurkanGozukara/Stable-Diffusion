@@ -27,6 +27,8 @@
 while launch_counter < 1:
 ```
 
+You can also open [this link](https://gist.githubusercontent.com/FurkanGozukara/822ed8078dcf8bcfe72a0c81e22d62dc/raw/7d7128d27bf16d4160f18cacebfdfc15de40f6a0/relauncher.py) and copy paste it into your relauncher.py (this is easier)
+
 ## Automatic Script Installation
 
 ### Video For Script Installation : https://youtu.be/MOVEcvn5h-0
