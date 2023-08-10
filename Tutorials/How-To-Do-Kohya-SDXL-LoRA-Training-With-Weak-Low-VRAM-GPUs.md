@@ -1,7 +1,6 @@
 # [Tutorial] How To Install Automatic1111 With SDXL, Install Kohya SS GUI For SDXL LoRA Training With Low VRAM Having GPUs, How To Use SDXL LoRAs With Automatic1111 Web UI
-## Tutorial video link will be added when published
+## Tutorial video > https://youtu.be/sBFGitIvD2A
 ### This Tutorial Readme File Will Be Updated In Future If Something Gets Broken
-
 
 [![image](https://img.shields.io/discord/772774097734074388?label=Discord&logo=discord)](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFurkanGozukara%2FStable-Diffusion%2Fblob%2Fmain%2FTutorials%2FHow-To-Do-Kohya-SDXL-LoRA-Training-With-Weak-Low-VRAM-GPUs.md&count_bg=%2379C83D&title_bg=%239E0F0F&icon=apachespark.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com) 
 
@@ -104,7 +103,7 @@ git clone https://github.com/bmaltais/kohya_ss
 ### How To Install Kohya GUI On Windows
 * Do a git clone of repository
 * Run setup.bat file
-* Follow the tutorial video
+* Follow the tutorial [video](https://youtu.be/sBFGitIvD2A)
 * For linux you can watch RunPod tutorial
 
 ### How To Do Training On Second GPU
