@@ -89,9 +89,8 @@ wget https://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetenso
 
 ## How To Install Kohya GUI On RunPod
 
-* Select Stable Diffusion stable-diffusion:web-ui or fast stable diffusion
-
-* Make container disk size 15 GB
+* Select stable-diffusion:web-ui or stable-diffusion:fast-stable-diffusion templates
+* Make container disk size at least 15 GB
 
 Kohya SS Gui Repo : https://github.com/bmaltais/kohya_ss
 
