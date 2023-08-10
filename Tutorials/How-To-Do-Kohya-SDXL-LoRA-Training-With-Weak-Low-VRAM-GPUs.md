@@ -128,6 +128,34 @@ accelerate launch --num_cpu_threads_per_process=2 "./sdxl_train_network.py" --pr
 
 ### Used Prompts
 
+#### Used prompts to generate images shown in intro of the tutorial
+
+```
+photo ohwx man dressage riding a saber-toothed tiger , sunny day, 35mm photograph,film,professional,4k,highly detailed
+
+<lora:12gb_settings-000007:1>
+Negative prompt: drawing,painting,crayon,sketch,graphite,impressionist,noisy,blurry,soft,deformed,ugly
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 1935425320, Size: 1280x720, Model hash: 31e35c80fc, Model: sd_xl_base_1.0, Denoising strength: 0.5, ADetailer model: face_yolov8n.pt, ADetailer prompt: "face photo of ohwx man <lora:12gb_settings-000007:1>", ADetailer confidence: 0.3, ADetailer dilate/erode: 4, ADetailer mask blur: 4, ADetailer denoising strength: 0.4, ADetailer inpaint only masked: True, ADetailer inpaint padding: 32, ADetailer version: 23.7.11, Hires upscale: 1.6, Hires upscaler: Latent, Lora hashes: "12gb_settings-000007: f9b455fdd697", Version: v1.5.1
+```
+```
+breathtaking closeshot photo of ohwx man riding a dinosaur <lora:24gb_settings-000007:1> . award-winning, professional, highly detailed
+Negative prompt: deformed, ugly, deformed, noisy, blurry, distorted, grainy
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 4007836056, Size: 1280x720, Model hash: 31e35c80fc, Model: sd_xl_base_1.0, Denoising strength: 0.5, ADetailer model: face_yolov8n.pt, ADetailer prompt: "ohwx man <lora:24gb_settings-000007:1>", ADetailer confidence: 0.3, ADetailer dilate/erode: 4, ADetailer mask blur: 4, ADetailer denoising strength: 0.4, ADetailer inpaint only masked: True, ADetailer inpaint padding: 32, ADetailer version: 23.7.11, Hires upscale: 2, Hires upscaler: Latent, Lora hashes: "24gb_settings-000007: f99b38a8f85d", Version: v1.5.1
+Template: closeshot photo of ohwx man riding a dinosaur <lora:24gb_settings-000007:1>
+Negative Template: deformed
+```
+```
+cinematic photo ohwx man riding dinosaur in a jungle with mud, sunny day shiny clear sky . 35mm photograph,film,professional,4k,highly detailed
+
+<lora:24gb_settings-000007:1>
+Negative prompt: drawing,painting,crayon,sketch,graphite,impressionist,noisy,blurry,soft,deformed,ugly
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 4114707048, Size: 1280x720, Model hash: 31e35c80fc, Model: sd_xl_base_1.0, Denoising strength: 0.5, ADetailer model: face_yolov8n.pt, ADetailer prompt: "face photo of ohwx man <lora:24gb_settings-000007:1>", ADetailer confidence: 0.3, ADetailer dilate/erode: 4, ADetailer mask blur: 4, ADetailer denoising strength: 0.4, ADetailer inpaint only masked: True, ADetailer inpaint padding: 32, ADetailer version: 23.7.11, Hires upscale: 1.6, Hires upscaler: Latent, Lora hashes: "24gb_settings-000007: f99b38a8f85d", Version: v1.5.1
+Template: cinematic photo ohwx man riding dinosaur in a jungle with mud, sunny day shiny clear sky . 35mm photograph,film,professional,4k,highly detailed
+
+<lora:24gb_settings-000007:1>
+Negative Template: drawing,painting,crayon,sketch,graphite,impressionist,noisy,blurry,soft,deformed,ugly
+```
+
 #### Used prompts to generated 2000+ images
 ```
 closeshot photo of ohwx:1.2 man with eyeglasses wearing an expensive white  suit, looking at the viewer, award winning photography, highres, best quality, absurdres, detailed, hasselblad, aperture f/2.8, high resolution, analog style, cinematic illumination, sharp focus   <lora:12gb_settings-000007:1>
