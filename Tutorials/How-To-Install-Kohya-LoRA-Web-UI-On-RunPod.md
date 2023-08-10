@@ -127,10 +127,6 @@ source venv/bin/activate
 ```
 
 ```
-apt-get install python3.10-tk
-```
-
-```
 pip install fastapi==0.99.1
 ```
 
