@@ -150,5 +150,21 @@ pip install fastapi==0.99.1
 bash gui.sh --share --headless
 ```
 
+## How To Kill Automatic1111 Web UI Instance Before Training And Start Web UI Manually
 
+1 Time modify relauncher.py file as below and do a Pod restart
+```
+while launch_counter < 1:
+```
+
+To kill Automatic1111 Web UI instance
+```
+fuser -k 3000/tcp
+```
+
+To start Automatic1111 Web UI instance again
+```
+cd /workspace/stable-diffusion-webui
+python relauncher.py
+```
 
