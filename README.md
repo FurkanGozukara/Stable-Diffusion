@@ -208,7 +208,7 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [**Generate Studio Quality Realistic Photos By Kohya LoRA Stable Diffusion Training - Full Tutorial**](https://youtu.be/TpuDOsuKIBo)
 
-[![image](https://user-images.githubusercontent.com/19240467/235155355-83ff14e5-a3c8-4ae8-83a5-6d2573189a22.png)](https://youtu.be/TpuDOsuKIBo)
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/QA9woGfjeql37J9JepbrW.png)](https://youtu.be/TpuDOsuKIBo)
 
 31.) Kaggle NoteBook - Free
 
