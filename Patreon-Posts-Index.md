@@ -16,6 +16,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### August 8 - 2023
+[1 Click RunPodCTL Installer .bat File - Script](https://www.patreon.com/posts/1-click-bat-file-87505171)
+* 1 Click installer for runpodctl. runpodctl is super fast to upload and download files between pod to pc, pc to pod and pod to pod.
+
 ### August 1 - 2023
 [How To Get Amazing Prompts With ChatGPT For Stable Diffusion](https://www.patreon.com/posts/how-to-get-with-87038686)
 * How to Utilize free ChatGPT to write unlimited number of different prompts for Stable Diffusion models. 540 prompts attached
