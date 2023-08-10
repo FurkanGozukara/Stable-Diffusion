@@ -8,21 +8,6 @@
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-SECourses-C50C0C?style=for-the-badge&logo=youtube)](https://www.youtube.com/SECourses) [![Patreon](https://img.shields.io/badge/Patreon-Support%20Me-F2EB0E?style=for-the-badge&logo=patreon)](https://www.patreon.com/SECourses) [![Furkan Gözükara LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkangozukara/) [![Codio](https://img.shields.io/static/v1?style=for-the-badge&message=Articles&color=4574E0&logo=Codio&logoColor=FFFFFF&label=CivitAI)](https://civitai.com/user/SECourses/articles)
 
-Realistic Vision V5.1 
-```
-wget https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE/resolve/main/Realistic_Vision_V5.1.safetensors
-```
-
-SD 1.5 Best VAE
-```
-wget https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
-```
-
-SDXL Best VAE
-```
-wget https://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetensors
-```
-
 ### Auto Installer For RunPod - Updated 11 August 2023
 * Scripts : https://www.patreon.com/posts/84898806
 * Upload downloadSDXL.sh
@@ -59,9 +44,13 @@ bash gui.sh --share --headless
 * Quick destination folder ```/workspace/stable-diffusion-webui/models/Lora```
 * [Screenshot of custom model selection](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/YPU7_TfhK9xOIbynF9Jft.png)
 
-## Original Kohya Tutorial
+## Kohya Tutorials Recent To Old - Watch Them To Learn With Details
 
-[**Generate Studio Quality Realistic Photos By Kohya LoRA Stable Diffusion Training - Full Tutorial**](https://youtu.be/TpuDOsuKIBo)
+SDXL > [**Become A Master Of SDXL Training With Kohya SS LoRAs - Combine Power Of Automatic1111 & SDXL LoRAs**](https://youtu.be/sBFGitIvD2A)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/rXbRquLxFaDGaGlkl-SUp.png)](https://youtu.be/sBFGitIvD2A)
+
+SD 1.5 Models > [**Generate Studio Quality Realistic Photos By Kohya LoRA Stable Diffusion Training - Full Tutorial**](https://youtu.be/TpuDOsuKIBo)
 
 [![image](https://user-images.githubusercontent.com/19240467/235155355-83ff14e5-a3c8-4ae8-83a5-6d2573189a22.png)](https://youtu.be/TpuDOsuKIBo)
 
@@ -77,20 +66,28 @@ bash gui.sh --share --headless
 
 [![image](https://user-images.githubusercontent.com/19240467/219958249-82ecb925-901b-4f87-b776-f592b0f5eaad.png)](https://www.youtube.com/watch?v=QN1vdGhjcRc)
 
-### Hand-Picked Realistic Vision V2 - 2071 classification / regularization images
+## Resources
 
-https://www.patreon.com/posts/realistic-vision-82085317
+* 2700 Ground Truth (Real Person Images) Regularazation / Classification Images With Many Different Aspect Ratios
+* https://www.patreon.com/posts/4k-2700-real-84053021
+* Video tutorial of these images : https://www.youtube.com/watch?v=QTYX0tgA5ho
 
-Realistic Vision V3 Full model : https://huggingface.co/SG161222/Realistic_Vision_V3.0_VAE/resolve/main/Realistic_Vision_V3.0.safetensors
+Realistic Vision V5.1 
+```
+wget https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE/resolve/main/Realistic_Vision_V5.1.safetensors
+```
 
-```wget https://huggingface.co/SG161222/Realistic_Vision_V3.0_VAE/resolve/main/Realistic_Vision_V3.0.safetensors```
+SD 1.5 Best VAE
+```
+wget https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
+```
 
-Best vae : https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
+SDXL Best VAE
+```
+wget https://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetensors
+```
 
-```wget https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt``` 
-
-
-## Kohya LoRA GUI On RunPod
+## How To Install Kohya GUI On RunPod
 
 * Select Stable Diffusion stable-diffusion:web-ui or fast stable diffusion
 
@@ -103,21 +100,39 @@ Patiently wait it can take up to 15 minutes total to install.
 ```
 apt update
 ```
+
+```
+apt-get install python3.10-tk
+```
+
+```
+cd /workspace
+```
+
 ```
 git clone https://github.com/bmaltais/kohya_ss.git
 ```
+
 ```
 cd kohya_ss
 ```
+
 ```
 python3 -m venv venv
 ```
+
 ```
 source venv/bin/activate
 ```
+
 ```
-yes | apt-get install python3.10-tk
+apt-get install python3.10-tk
 ```
+
+```
+pip install fastapi==0.99.1
+```
+
 ```
 ./setup.sh -n
 ```
