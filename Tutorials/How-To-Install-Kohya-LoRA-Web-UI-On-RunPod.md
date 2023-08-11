@@ -72,6 +72,7 @@ SD 1.5 Models > [**Generate Studio Quality Realistic Photos By Kohya LoRA Stable
 
 * 2700 Ground Truth (Real Person Images) Regularazation / Classification Images With Many Different Aspect Ratios
 * https://www.patreon.com/posts/4k-2700-real-84053021
+* https://www.patreon.com/posts/1k-resolution-0-85976249
 * Video tutorial of these images : https://www.youtube.com/watch?v=QTYX0tgA5ho
 
 Realistic Vision V5.1 
