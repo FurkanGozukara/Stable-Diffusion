@@ -74,6 +74,7 @@ SD 1.5 Models > [**Generate Studio Quality Realistic Photos By Kohya LoRA Stable
 * https://www.patreon.com/posts/4k-2700-real-84053021
 * https://www.patreon.com/posts/1k-resolution-0-85976249
 * Video tutorial of these images : https://www.youtube.com/watch?v=QTYX0tgA5ho
+* 1 Click RunPodCTL installer script > https://www.patreon.com/posts/1-click-bat-file-87505171
 
 Realistic Vision V5.1 
 ```
