@@ -76,6 +76,7 @@ SD 1.5 Models > [**Generate Studio Quality Realistic Photos By Kohya LoRA Stable
 * Video tutorial of these images : https://www.youtube.com/watch?v=QTYX0tgA5ho
 * 1 Click RunPodCTL installer script > https://www.patreon.com/posts/1-click-bat-file-87505171
 * Network Rank (Dimension) Effect : https://twitter.com/GozukaraFurkan/status/1688613661034635264
+* 1 Click Automatic1111 Web UI RunPod Updater / Installer : https://www.patreon.com/posts/1-click-runpod-86438018
  
 Realistic Vision V5.1 
 ```
