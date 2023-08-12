@@ -3,7 +3,8 @@
 ## Tutorial link for this readme file : will be put once video published
 * Tutorial Video Used .json config file
 * Download attached txt file and remove txt extension
-* * [test1.json.txt](https://github.com/FurkanGozukara/Stable-Diffusion/files/12325217/test1.json.txt)
+* * [test1.json.txt](https://github.com/FurkanGozukara/Stable-Diffusion/files/12327860/test1.json.txt)
+
 
 
 [![image](https://img.shields.io/discord/772774097734074388?label=Discord&logo=discord)](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFurkanGozukara%2FStable-Diffusion%2Fedit%2Fmain%2FTutorials%2FHow-To-Install-Kohya-LoRA-Web-UI-On-RunPod.md&count_bg=%2379C83D&title_bg=%239E0F0F&icon=apachespark.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com) 
