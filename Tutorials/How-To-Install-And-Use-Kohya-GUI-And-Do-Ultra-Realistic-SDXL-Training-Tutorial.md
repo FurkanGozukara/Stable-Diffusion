@@ -38,7 +38,7 @@
 
 * https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors 
 
-### Optimizer Extra Arguments For SDXL
+### Optimizer Extra Arguments For SDXL (Adafactor Optimizer)
 ```
 scale_parameter=False relative_step=False warmup_init=False
 ```
