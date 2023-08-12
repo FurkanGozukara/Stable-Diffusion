@@ -97,6 +97,11 @@ SDXL Best VAE
 wget https://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetensors
 ```
 
+## Optimizer Extra Arguments For SDXL (Adafactor Optimizer)
+```
+scale_parameter=False relative_step=False warmup_init=False
+```
+
 ## How To Install Kohya GUI On RunPod
 
 * Select stable-diffusion:web-ui or stable-diffusion:fast-stable-diffusion templates
