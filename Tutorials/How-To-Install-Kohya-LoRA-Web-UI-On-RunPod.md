@@ -1,6 +1,6 @@
 # Tutorial For How To Install Kohya LoRA- Web UI On RunPod - Updated 11 August 2023
 
-## Tutorial link for this readme file : will be put once video published
+## Tutorial link for this readme file : https://youtu.be/-xEwaQ54DI4
 * Tutorial Video Used .json config file
 * Download attached txt file and remove txt extension
 * * [test1.json.txt](https://github.com/FurkanGozukara/Stable-Diffusion/files/12327860/test1.json.txt)
