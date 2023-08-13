@@ -19,6 +19,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### August 13 - 2023
+[Convert Very Long X/Y/Z Plot Output Images Into Square Grids](https://www.patreon.com/posts/convert-very-x-y-87608128)
+* A script to convert very long X/Y/Z Plot image into a chunked Square Grid Image. Examples are attached.
+
 ### August 8 - 2023
 [1 Click RunPodCTL Installer .bat File - Script](https://www.patreon.com/posts/1-click-bat-file-87505171)
 * 1 Click installer for runpodctl. runpodctl is super fast to upload and download files between pod to pc, pc to pod and pod to pod.
