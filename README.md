@@ -8,15 +8,17 @@
 
 Greetings everyone. I am **Dr. Furkan Gözükara**. I am an Assistant Professor in Software Engineering department  of a private university (have PhD in Computer Engineering).
 
-My linkedin : [**https://www.linkedin.com/in/furkangozukara**](https://www.linkedin.com/in/furkangozukara/)
+My LinkedIn : [**https://www.linkedin.com/in/furkangozukara**](https://www.linkedin.com/in/furkangozukara/)
 
-### Our channel address (22k+ subscribers) if you like to subscribe ⤵️
+My Twitter : [**https://twitter.com/GozukaraFurkan**](https://twitter.com/GozukaraFurkan)
+
+### Our channel address (24k+ subscribers) if you like to subscribe ⤵️
 [**https://www.youtube.com/@SECourses**](https://www.youtube.com/@SECourses)
 
 ### Our discord (4k+ members) to get more help ⤵️
 [**https://discord.com/servers/software-engineering-courses-secourses-772774097734074388**](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388)
 
-### Our 750+ Stars GitHub Stable Diffusion and other tutorials repo ⤵️
+### Our 800+ Stars GitHub Stable Diffusion and other tutorials repo ⤵️
 [**https://github.com/FurkanGozukara/Stable-Diffusion**](https://github.com/FurkanGozukara/Stable-Diffusion)
 
 I am keeping this list up-to-date. I got upcoming new awesome video ideas. Trying to find time to do that.
