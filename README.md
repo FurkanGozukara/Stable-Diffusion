@@ -221,110 +221,104 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://user-images.githubusercontent.com/19240467/236293388-6254ff84-0866-4bd4-a5d4-2db3c42be3f0.png)](https://youtu.be/343I11mhnXs)
 
-33.) Kohya Web UI - RunPod - Paid
-
-[**How To Install And Use Kohya LoRA GUI / Web UI on RunPod IO With Stable Diffusion & Automatic1111**](https://youtu.be/3uzCNrQao3o)
-
-[![image](https://i.imgur.com/q7FPRIO.png)](https://youtu.be/3uzCNrQao3o)
-
-34.) PC - Google Colab - Free
+33.) PC - Google Colab - Free
 
 [**Mind-Blowing Deepfake Tutorial: Turn Anyone into Your Favorite Movie Star! PC & Google Colab - roop**](https://youtu.be/OI1LEN-SgLM)
 
 [![image](https://i.imgur.com/ICWeeV0.png)](https://youtu.be/OI1LEN-SgLM)
 
-35.) Automatic1111 Web UI - PC - Free
+34.) Automatic1111 Web UI - PC - Free
 
 [**Stable Diffusion Now Has The Photoshop Generative Fill Feature With ControlNet Extension - Tutorial**](https://youtu.be/ot5GkaxHPzk)
 
 [![image](https://i.imgur.com/Cf4z9J7.png)](https://youtu.be/ot5GkaxHPzk)
 
-36.) Automatic1111 Web UI - PC - Free
+35.) Automatic1111 Web UI - PC - Free
 
 [**Human Cropping Script & 4K+ Resolution Class / Reg Images For Stable Diffusion DreamBooth / LoRA**](https://youtu.be/QTYX0tgA5ho)
 
 [![image](https://i.imgur.com/oyZxQTu.png)](https://youtu.be/QTYX0tgA5ho)
 
-37.) Automatic1111 Web UI - PC - Free
+36.) Automatic1111 Web UI - PC - Free
 
 [**Stable Diffusion 2 NEW Image Post Processing Scripts And Best Class / Regularization Images Datasets**](https://youtu.be/olX1mySE8HA)
 
 [![image](https://i.imgur.com/cGY0AWk.png)](https://youtu.be/olX1mySE8HA)
 
-38.) Automatic1111 Web UI - PC - Free
+37.) Automatic1111 Web UI - PC - Free
 
 [**How To Use Roop DeepFake On RunPod Step By Step Tutorial With Custom Made Auto Installer Script**](https://youtu.be/jD1ZSd9aFHg)
 
 [![image](https://i.imgur.com/Qgyv3Kq.png)](https://youtu.be/jD1ZSd9aFHg)
 
-39.) RunPod - Automatic1111 Web UI - Cloud - Paid - No PC Is Required
+38.) RunPod - Automatic1111 Web UI - Cloud - Paid - No PC Is Required
 
 [**How To Install DreamBooth & Automatic1111 On RunPod & Latest Libraries - 2x Speed Up - cudDNN - CUDA**](https://youtu.be/c_S2kFAefTQ)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/erSEOiSZQDvHVwqXBCAfN.png)](https://youtu.be/c_S2kFAefTQ)
 
-40.) Automatic1111 Web UI - PC - Free + RunPod
+39.) Automatic1111 Web UI - PC - Free + RunPod
 
 [**Zero to Hero ControlNet Tutorial: Stable Diffusion Web UI Extension | Complete Feature Guide**](https://youtu.be/3E5fhFQUVLo)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/3I25wwnG6IfYLBo-Ie6ZJ.png)](https://youtu.be/3E5fhFQUVLo)
 
 
-41.) Automatic1111 Web UI - PC - Free + RunPod
+40.) Automatic1111 Web UI - PC - Free + RunPod
 
 [**The END of Photography - Use AI to Make Your Own Studio Photos, FREE Via DreamBooth Training**](https://youtu.be/g0wXIcRhkJk)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/vp0tLPFBzWzNj9G0ev5TV.png)](https://youtu.be/g0wXIcRhkJk)
 
-42.) Google Colab - Gradio - Free - Cloud
+41.) Google Colab - Gradio - Free - Cloud
 
 [**How To Use Stable Diffusion XL (SDXL 0.9) On Google Colab For Free**](https://youtu.be/s2MQqmv6yAg)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/A2RflDXjgXjg6Z2Neq9gv.png)](https://youtu.be/s2MQqmv6yAg)
 
-43.) Local - PC - Free - Gradio
+42.) Local - PC - Free - Gradio
 
 [**Stable Diffusion XL (SDXL) Locally On Your PC - 8GB VRAM - Easy Tutorial With Automatic Installer**](https://youtu.be/__7VNmnn5iU)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/3UAi7i7oLdtvlibSlx4z9.png)](https://youtu.be/__7VNmnn5iU)
 
-44.) Cloud - RunPod
+43.) Cloud - RunPod
 
 [**How To Use SDXL On RunPod Tutorial. Auto Installer & Refiner & Amazing Native Diffusers Based Gradio**](https://youtu.be/gTdPRm-R-14)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/mquAeJwsz4UBuop3VjUl5.png)](https://youtu.be/gTdPRm-R-14)
 
-45.) Local - PC - Free - Google Colab - RunPod - Cloud - Custom Web UI
+44.) Local - PC - Free - Google Colab - RunPod - Cloud - Custom Web UI
 
 [**ComfyUI Master Tutorial - Stable Diffusion XL (SDXL) - Install On PC, Google Colab (Free) & RunPod**](https://youtu.be/FnMHbhvWUhE)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/WEPEFBLGWUYBdMEWaq2zS.png)](https://youtu.be/FnMHbhvWUhE)
 
-46.) Local - PC - Free - RunPod - Cloud
+45.) Local - PC - Free - RunPod - Cloud
 
 [**First Ever SDXL Training With Kohya LoRA - Stable Diffusion XL Training Will Replace Older Models**](https://youtu.be/AY6DMBCIZ3A)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/mG0CvKAzb8o29nr5ye0Br.png)](https://youtu.be/AY6DMBCIZ3A)
 
-47.) Local - PC - Free
+46.) Local - PC - Free
 
 [**How To Use SDXL in Automatic1111 Web UI - SD Web UI vs ComfyUI - Easy Local Install Tutorial / Guide**](https://youtu.be/eY_v5IR4dUQ)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/dtzefTNkEvQiM86qrLJRd.png)](https://youtu.be/eY_v5IR4dUQ)
 
-48.) Cloud - RunPod - Paid
+47.) Cloud - RunPod - Paid
 
 [**How to use Stable Diffusion X-Large (SDXL) with Automatic1111 Web UI on RunPod - Easy Tutorial**](https://youtu.be/mDW4zqh8R40)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/3n3u3IGXY544moAtlg8-e.png)](https://youtu.be/mDW4zqh8R40)
 
-49.) Local - PC - Free
+48.) Local - PC - Free
 
 [**Become A Master Of SDXL Training With Kohya SS LoRAs - Combine Power Of Automatic1111 & SDXL LoRAs**](https://youtu.be/sBFGitIvD2A)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/rXbRquLxFaDGaGlkl-SUp.png)](https://youtu.be/sBFGitIvD2A)
 
-50.) Cloud - RunPod - Paid
+49.) Cloud - RunPod - Paid
 
 [**How To Do SDXL LoRA Training On RunPod With Kohya SS GUI Trainer & Use LoRAs With Automatic1111 UI**](https://youtu.be/-xEwaQ54DI4)
 
