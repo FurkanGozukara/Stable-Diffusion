@@ -19,6 +19,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### August 15 - 2023
+[Massive 4K Resolution Woman & Man Class Ground Truth Stable Diffusion Regularization Images Dataset](https://www.patreon.com/posts/massive-4k-woman-87700469)
+* 4K Hand Picked Ground Truth Real Man & Woman Regularization Images For Stable Diffusion & SDXL Training - 512px 768px 1024px 1280px 1536px
+
 ### August 13 - 2023
 [Convert Very Long X/Y/Z Plot Output Images Into Square Grids](https://www.patreon.com/posts/convert-very-x-y-87608128)
 * A script to convert very long X/Y/Z Plot image into a chunked Square Grid Image. Examples are attached.
