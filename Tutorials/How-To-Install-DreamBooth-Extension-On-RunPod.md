@@ -67,6 +67,7 @@ Restart Web UI
 If Dreambooth gets broken run below code again
 
 ```
+cd /workspace
 chmod +x install2.sh
 ./install2.sh
 ```
