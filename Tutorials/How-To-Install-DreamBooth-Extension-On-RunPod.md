@@ -38,11 +38,13 @@ Then download auto installer posted on Patreon (install1.sh and install2.sh - up
 ### Auto installer script on Patreon (8 August 2023 Updated) : https://www.patreon.com/posts/runpod-auto-84716845
 
 ```
+cd /workspace
 chmod +x install1.sh
 ./install1.sh
 ```
 
 ```
+cd /workspace
 chmod +x install2.sh
 ./install2.sh
 ```
