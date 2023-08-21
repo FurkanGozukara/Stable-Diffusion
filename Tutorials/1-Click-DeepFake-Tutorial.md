@@ -161,7 +161,7 @@ python run.py --keep-frames --keep-fps --temp-frame-quality 1 --output-video-qua
 ```
 python run.py --keep-frames --keep-fps --temp-frame-quality 1 --output-video-quality 1 --execution-provider cuda
 ```
-
+* The below code will also apply face enhancement. Will take longer
 ```
 python run.py --keep-frames --keep-fps --temp-frame-quality 1 --output-video-quality 1 --execution-provider cuda --frame-processor face_swapper face_enhancer 
 ```
