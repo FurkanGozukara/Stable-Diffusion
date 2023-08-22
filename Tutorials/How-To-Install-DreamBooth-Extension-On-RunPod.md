@@ -153,7 +153,7 @@ python relauncher.py
 
 ```
 fuser -k 3000/tcp
-yes | apt install -y libcudnn8=8.9.2.26-1+cuda11.8 libcudnn8-dev=8.9.2.26-1+cuda11.8 --allow-change-held-packages
+yes | apt install -y libcudnn8=8.9.4.25-1+cuda11.8 libcudnn8-dev=8.9.4.25-1+cuda11.8 --allow-change-held-packages
 cd /workspace/stable-diffusion-webui
 python relauncher.py
 ```
