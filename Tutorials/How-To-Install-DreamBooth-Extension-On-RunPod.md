@@ -163,3 +163,7 @@ python relauncher.py
 * Automatic1111 : 68f336bd994bed5442ad95bad6b6ad5564a5409a
 * Dreambooth ext : c2a5617c587b812b5a408143ddfb18fc49234edf
 
+* get latest cuda files list on runpod
+* apt update
+* apt list -a libcudnn8-dev
+
