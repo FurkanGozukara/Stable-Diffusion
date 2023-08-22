@@ -85,15 +85,15 @@ Here how my path is set
 
 ### Step 6 : The Installation
 
-***Currently 7:21 PM UTC+3, 22 August, latest version working - da1ef285f1d43bd0cc8b9cdb9a0f80f7ae793a97***
+***Currently 7:21 PM UTC+3, 23 August, latest version working - 55164ee67baad2dd2b508265bc0c96ba837078bd***
 
-https://github.com/s0md3v/roop
+https://github.com/FurkanGozukara/roop
 
 ```
 
 python -m pip install --upgrade pip
 
-git clone https://github.com/s0md3v/roop
+git clone https://github.com/FurkanGozukara/roop
 
 cd roop
 
@@ -218,7 +218,7 @@ First clone
 
 Then checkout to specific working commit as below
 
-```git checkout da1ef285f1d43bd0cc8b9cdb9a0f80f7ae793a97```
+```git checkout 55164ee67baad2dd2b508265bc0c96ba837078bd```
 
 
 ## Pip Freeze Results
