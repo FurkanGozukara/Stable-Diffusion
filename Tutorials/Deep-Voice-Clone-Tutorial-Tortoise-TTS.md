@@ -160,6 +160,7 @@ F:\voice clone tutorial\tortoise-tts-fast
 ```
 python -m pip install -e .
 pip3 install git+https://github.com/152334H/BigVGAN.git
+pip install transformers==4.29.2
 ```
 
 
