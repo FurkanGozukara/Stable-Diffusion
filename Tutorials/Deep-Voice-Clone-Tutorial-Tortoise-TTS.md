@@ -142,15 +142,15 @@ commit id : f4820a8eabdd559eb369a07d60cbe03960ddd54d
 
  https://github.com/152334H/tortoise-tts-fast
 
-```git clone  https://github.com/152334H/tortoise-tts-fast```
-
-```python -m venv venv```
-
-activate venv
-
 ```
 git clone https://github.com/152334H/tortoise-tts-fast
 cd tortoise-tts-fast
+python -m venv venv
+cd venv
+cd scripts
+activate
+cd..
+cd..
 pip3 install torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
 ```
 
