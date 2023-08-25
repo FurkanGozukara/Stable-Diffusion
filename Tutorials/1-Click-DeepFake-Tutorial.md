@@ -1,6 +1,8 @@
 # Easiest Tutorial For Generating Deep Fake Videos - Educational & Research Purposes Only
 
-## Tested and verified to be working 22 August 2023. If you can't make it work become a Patreon supporter, message me on Patreon, and I will install on your computer.
+# 1 Click Auto Installer On Windows > https://www.patreon.com/posts/1-click-auto-88234834
+
+## Tested and verified to be working 25 August 2023. If you can't make it work become a Patreon supporter, message me on Patreon, and I will install on your computer.
 
 ## Tutorial Video Link > https://youtu.be/OI1LEN-SgLM
 
