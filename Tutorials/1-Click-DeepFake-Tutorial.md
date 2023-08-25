@@ -124,7 +124,7 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 
 ### Step 8 : inswapper_128 model file
 
-Download and move into root folder : https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/inswapper_128.onnx
+You don't need to download inswapper_128 manually anymore
 
 ### How to use
 
