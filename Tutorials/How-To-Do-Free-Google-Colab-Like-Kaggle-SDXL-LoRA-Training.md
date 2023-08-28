@@ -9,7 +9,8 @@
 
 ## The Tutorial Video Link Will Be Added Once Published
 
-## Download Kaggle Notebook Used In This Tutorial : https://www.patreon.com/posts/kohya-sdxl-lora-88397937
+## Download Kaggle Notebook Used In This Tutorial 
+* **https://www.patreon.com/posts/kohya-sdxl-lora-88397937**
 * Alternatively by watching the video you can type yourself
 * Writing is not hard but if you support me on Patreon I would appreciate that very much 
 
