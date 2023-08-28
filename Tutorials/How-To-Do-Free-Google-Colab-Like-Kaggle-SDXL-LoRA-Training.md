@@ -28,7 +28,7 @@
 
 * I suggest you to watch below 3 tutorials before doing SDXL LoRA training
 * The Logic of LoRA explained in this video
-* * [How To Do Stable Diffusion LORA Training By Using Web UI On Different Models - Tested SD 1.5, SD 2.1]
+* * [How To Do Stable Diffusion LORA Training By Using Web UI On Different Models - Tested SD 1.5, SD 2.1](https://youtu.be/mfaqqL5yOO4)
 * SDXL very comprehensive LoRA training video
 * * [Become A Master Of SDXL Training With Kohya SS LoRAs - Combine Power Of Automatic1111 & SDXL LoRAs](https://youtu.be/sBFGitIvD2A)
 * SDXL training on a RunPod which is another cloud service similar to Kaggle but this one don't provide free GPU
