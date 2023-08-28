@@ -19,6 +19,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### August 28 - 2023
+[SOTA Subject Cropper and Face Focused Image Resizer Scripts](https://www.patreon.com/posts/sota-subject-and-88391247)
+* State Of The Art (SOTA) Subject Cropper (Zoom Subject Without Quality Loss) and SOTA Image Downscaler To Get Perfect Desired Resolution.
+
 ### August 25 - 2023
 [1 Click Auto Roop (DeepFake - FaceSwap) Local Windows Installer Script](https://www.patreon.com/posts/1-click-auto-88234834)
 * Automatic Roop DeepFake / FaceSwap installer script. 1 click to install and 1 click to run and start using it very easily.
