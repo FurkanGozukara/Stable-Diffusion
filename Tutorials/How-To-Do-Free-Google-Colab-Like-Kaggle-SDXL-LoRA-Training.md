@@ -33,6 +33,10 @@
 * * [Become A Master Of SDXL Training With Kohya SS LoRAs - Combine Power Of Automatic1111 & SDXL LoRAs](https://youtu.be/sBFGitIvD2A)
 * SDXL training on a RunPod which is another cloud service similar to Kaggle but this one don't provide free GPU
 * * [How To Do SDXL LoRA Training On RunPod With Kohya SS GUI Trainer & Use LoRAs With Automatic1111 UI](https://youtu.be/-xEwaQ54DI4)
+* Sort generated images with similarity to find best ones easily
+* * [How To Find Best Stable Diffusion Generated Images By Using DeepFace AI - DreamBooth / LoRA Training](https://youtu.be/343I11mhnXs)
+* 765 Styles that you can use. Don't forget to change extension to .csv > [styles.txt](https://github.com/FurkanGozukara/Stable-Diffusion/files/12458705/styles.txt)
+
 
 ### How To Use Kaggle Free Account To Run Automatic1111 Web UI
 * A tutorial for this will be made hopefully and the link will be shared here hopefully
