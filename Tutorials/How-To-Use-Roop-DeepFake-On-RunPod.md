@@ -95,12 +95,17 @@ Once you have uploaded files modify below file paths and execute command
 
 Then modify your file names in the given below command and hit enter on the opened cmd window
 
-First option will not enhance face
+### To Start With GPU
 
-Second option will enhance face automatically
+--execution-provider tensorrt, cuda, cpu
 
-* ```python run.py -s "face2.png" -t "video3.mp4" -o "face_changed_video.mp4" --keep-frames --keep-fps --video-quality 7 --execution-provider cuda```
-* ```python run.py -s "face2.png" -t "video3.mp4" -o "face_changed_and_enhanced_video.mp4" --keep-frames --keep-fps --video-quality 7 --execution-provider cuda --frame-processor face_swapper face_enhancer```
+```
+python run.py --keep-frames --keep-fps --temp-frame-quality 1 --output-video-quality 1 --execution-provider cuda
+```
+* The below code will also apply face enhancement. Will take longer
+```
+python run.py --keep-frames --keep-fps --temp-frame-quality 1 --output-video-quality 1 --execution-provider cuda --frame-processor face_swapper face_enhancer 
+```
 
 ## After you have turned off the pod or restarted the pod execute below commands 1 time. Do this after each restart or turned off pod and started again
 Execute below commands 1 by 1 
