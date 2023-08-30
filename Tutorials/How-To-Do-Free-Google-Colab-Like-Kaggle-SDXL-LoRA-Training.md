@@ -39,6 +39,8 @@
 * 765 Styles that you can use. Don't forget to change extension to .csv > [styles.txt](https://github.com/FurkanGozukara/Stable-Diffusion/files/12458705/styles.txt)
 * Effect of higher network rank dimension (32 vs 256)
 * * https://twitter.com/GozukaraFurkan/status/1694317688393203742
+* SD 1.5 versions based LoRA training tutorial
+* * [Generate Studio Quality Realistic Photos By Kohya LoRA Stable Diffusion Training - Full Tutorial](https://youtu.be/TpuDOsuKIBo)
 
 
 ### How To Use Kaggle Free Account To Run Automatic1111 Web UI
