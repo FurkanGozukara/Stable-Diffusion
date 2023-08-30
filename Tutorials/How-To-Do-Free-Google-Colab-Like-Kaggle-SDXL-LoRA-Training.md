@@ -36,6 +36,7 @@
 * Sort generated images with similarity to find best ones easily
 * * [How To Find Best Stable Diffusion Generated Images By Using DeepFace AI - DreamBooth / LoRA Training](https://youtu.be/343I11mhnXs)
 * 765 Styles that you can use. Don't forget to change extension to .csv > [styles.txt](https://github.com/FurkanGozukara/Stable-Diffusion/files/12458705/styles.txt)
+* Effect of higher network rank dimension (32 vs 256) > https://twitter.com/GozukaraFurkan/status/1694317688393203742
 
 
 ### How To Use Kaggle Free Account To Run Automatic1111 Web UI
