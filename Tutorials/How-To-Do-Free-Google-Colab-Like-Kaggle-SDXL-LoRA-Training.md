@@ -48,6 +48,21 @@
 * The used Optimizer Arguments ```scale_parameter=False relative_step=False warmup_init=False```
 * The used Additional Parameters ```--lowram```
 
+**Copy paste the below codes into a new Notebook or download from Patreon post. Alternatively watch video and follow code shared there**
+
+```%cd /kaggle/working```
+
+```!git clone https://github.com/bmaltais/kohya_ss.git```
+
+```%cd /kaggle/working/kohya_ss```
+
+```!./setup.sh -n```
+
+**After installation has been completed use below code to start**
+
+```!bash gui.sh --share --headless```
+
+
 ## Ground Truth Classification / Regularazation Images
 * All images for both man and woman class are provided in below link
 * * https://www.patreon.com/posts/massive-4k-woman-87700469
