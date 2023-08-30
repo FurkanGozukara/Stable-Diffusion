@@ -58,7 +58,7 @@
 
 ```!./setup.sh -n```
 
-**After installation has been completed use below code to start**
+**After installation has been completed use below code to start Kohya GUI**
 
 ```!bash gui.sh --share --headless```
 
