@@ -30,16 +30,11 @@ Make runtime container disk size at least 15 GB
 Follow tutorial video of this (https://youtu.be/jD1ZSd9aFHg) and execute below commands as shown in tutorial 1 by 1
 
 ```
-git clone https://github.com/s0md3v/roop
+git clone https://github.com/FurkanGozukara/roop
 ```
 
 ```
 cd roop
-```
-
-latest commit working right now 6:57 PM (UTC+3) 3 July. The below commit hash set for 3 July testing
-```
-git checkout 3d02b267663e4badc5c7936d5295effcae3dfbc0
 ```
 
 ```
@@ -52,10 +47,6 @@ source ./venv/bin/activate
 
 ```
 pip install onnxruntime-gpu && pip install -r requirements.txt
-```
-
-```
-wget https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/inswapper_128.onnx
 ```
 
 ```
