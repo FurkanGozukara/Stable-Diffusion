@@ -100,11 +100,11 @@ Then modify your file names in the given below command and hit enter on the open
 --execution-provider tensorrt, cuda, cpu
 
 ```
-python run.py --keep-frames --keep-fps --temp-frame-quality 1 --output-video-quality 1 --execution-provider cuda
+python run.py -s "face2.png" -t "video3.mp4" -o "face_changed_video.mp4" --keep-frames --keep-fps --temp-frame-quality 1 --output-video-quality 1 --execution-provider cuda
 ```
 * The below code will also apply face enhancement. Will take longer
 ```
-python run.py --keep-frames --keep-fps --temp-frame-quality 1 --output-video-quality 1 --execution-provider cuda --frame-processor face_swapper face_enhancer 
+python run.py -s "face2.png" -t "video3.mp4" -o "face_restored_video.mp4" --keep-frames --keep-fps --temp-frame-quality 1 --output-video-quality 1 --execution-provider cuda --frame-processor face_swapper face_enhancer
 ```
 
 ## After you have turned off the pod or restarted the pod execute below commands 1 time. Do this after each restart or turned off pod and started again
