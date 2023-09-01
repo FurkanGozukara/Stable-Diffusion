@@ -19,6 +19,7 @@
 
 * Select RunPod Fast Stable Diffusion template
 * Select at least 24 GB VRAM having pod
+* Customize deployment and make Volume Disk size 200 GB
 * Upload sdxl.sh to the workspace folder (download from here : https://www.patreon.com/posts/auto-sdxl-runpod-85845581)
 * Execute below command and wait until you see this message : ```auto install of SDXL completed```
 * For Auto installer you don't need token I handled it for you
@@ -45,7 +46,7 @@ The generated images will be saved inside below folder
 
 * Select RunPod Fast Stable Diffusion template
 * Select at least 24 GB VRAM having pod
-
+* Customize deployment and make Volume Disk size 200 GB
 
 * Start a new terminal and execute below commands 1 by 1
 
