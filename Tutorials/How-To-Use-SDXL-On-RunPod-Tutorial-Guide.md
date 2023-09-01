@@ -1,4 +1,5 @@
 # Tutorial For How To Install and Use SDXL On RunPod With A Decent Gradio Interface
+* **2 September 2023 Files Updated For SDXL 1.0**
 
 ## Tutorial video for this readme file : coming
 
@@ -11,17 +12,15 @@
 * How to use runpodctl tutorial
 * [Ultimate RunPod Tutorial For Stable Diffusion - Automatic1111 - Data Transfers, Extensions, CivitAI](https://youtu.be/QN1vdGhjcRc)
 
-* [How To Use Stable Diffusion XL (SDXL 0.9) On Google Colab For Free](https://youtu.be/s2MQqmv6yAg)
+* [How To Use Stable Diffusion XL (SDXL 1.0) On Google Colab For Free](https://youtu.be/s2MQqmv6yAg)
 * [Stable Diffusion XL (SDXL) Locally On Your PC - 8GB VRAM - Easy Tutorial With Automatic Installer](https://youtu.be/__7VNmnn5iU)
 
 ## Auto Installer For RunPod
 
 * Select RunPod Fast Stable Diffusion template
 * Select at least 24 GB VRAM having pod
-* Click customize development and make volume disk size min 200 GB
 * Upload sdxl.sh to the workspace folder (download from here : https://www.patreon.com/posts/auto-sdxl-runpod-85845581)
 * Execute below command and wait until you see this message : ```auto install of SDXL completed```
-* It will take like 30 min depending on your Pod Speed (e.g. 1785 megabits per second pod)
 * For Auto installer you don't need token I handled it for you
   
 ```
@@ -46,16 +45,7 @@ The generated images will be saved inside below folder
 
 * Select RunPod Fast Stable Diffusion template
 * Select at least 24 GB VRAM having pod
-* Click customize development and make volume disk size min 200 GB
 
-* Register Hugging Face and login if you don't have an account already
-* https://huggingface.co/join
-* https://huggingface.co/login
-* Open below links and accept terms and conditions - now auto approve official weights - just type anything to the form fill sections
-* https://huggingface.co/stabilityai/stable-diffusion-xl-base-0.9
-* https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-0.9
-* Generate your Hugging Face access token and save it somewhere
-* https://huggingface.co/settings/tokens
 
 * Start a new terminal and execute below commands 1 by 1
 
@@ -89,48 +79,8 @@ source venv/bin/activate
 pip install -r requirements4.txt
 ```
 
-```
-cd /workspace
-```
+### No Need Token Anymore - Files Updated To SDXL 1.0
 
-```
-mv /root/.cache /workspace/.cache
-ln -s /workspace/.cache /root/.cache
-```
-
-```
-cd /workspace
-```
-
-```
-git lfs clone https://YOUR_HUGGING_FACE_USERNAME:HUGGIN_FACE_TOKEN@huggingface.co/stabilityai/stable-diffusion-xl-base-0.9
-```
-
-```
-find /workspace/stable-diffusion-xl-base-0.9 -type f -name "*.safetensors" -exec rm {} \;
-```
-
-```
-mv /root/.cache /workspace/.cache
-ln -s /workspace/.cache /root/.cache
-```
-
-```
-cd /workspace
-```
-
-```
-git lfs clone https://YOUR_HUGGING_FACE_USERNAME:HUGGIN_FACE_TOKEN@huggingface.co/stabilityai/stable-diffusion-xl-refiner-0.9
-```
-
-```
-find /workspace/stable-diffusion-xl-refiner-0.9 -type f -name "*.safetensors" -exec rm {} \;
-```
-
-```
-mv /root/.cache /workspace/.cache
-ln -s /workspace/.cache /root/.cache
-```
 
 * After installation all you need is running below command everyone
 * If you don't want to use refiner, make ```ENABLE_REFINER=false```
