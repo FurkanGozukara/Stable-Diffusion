@@ -51,8 +51,14 @@ The generated images will be saved inside below folder
 * Select at least 24 GB VRAM having pod
 * Customize deployment and make Volume Disk size 200 GB
 * No Need Token Anymore - Files Updated To SDXL 1.0
+* Delete auto downloaded models by template
+ 
 
 * Start a new terminal and execute below commands 1 by 1
+
+```
+rm -r /workspace/auto-models
+```
 
 ```
 apt update
