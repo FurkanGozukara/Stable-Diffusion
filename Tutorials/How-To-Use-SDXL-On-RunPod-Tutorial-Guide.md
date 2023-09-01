@@ -50,6 +50,7 @@ The generated images will be saved inside below folder
 * Select RunPod Fast Stable Diffusion template
 * Select at least 24 GB VRAM having pod
 * Customize deployment and make Volume Disk size 200 GB
+* No Need Token Anymore - Files Updated To SDXL 1.0
 
 * Start a new terminal and execute below commands 1 by 1
 
@@ -83,7 +84,49 @@ source venv/bin/activate
 pip install -r requirements4.txt
 ```
 
-### No Need Token Anymore - Files Updated To SDXL 1.0
+
+```
+cd /workspace
+```
+
+```
+mv /root/.cache /workspace/.cache
+ln -s /workspace/.cache /root/.cache
+```
+
+```
+cd /workspace
+```
+
+```
+git lfs clone https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
+```
+
+```
+find /workspace/stable-diffusion-xl-base-0.9 -type f -name "*.safetensors" -exec rm {} \;
+```
+
+```
+mv /root/.cache /workspace/.cache
+ln -s /workspace/.cache /root/.cache
+```
+
+```
+cd /workspace
+```
+
+```
+git lfs clone https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0
+```
+
+```
+find /workspace/stable-diffusion-xl-refiner-0.9 -type f -name "*.safetensors" -exec rm {} \;
+```
+
+```
+mv /root/.cache /workspace/.cache
+ln -s /workspace/.cache /root/.cache
+```
 
 
 * After installation all you need is running below command everyone
