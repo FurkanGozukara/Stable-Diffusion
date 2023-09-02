@@ -7,7 +7,7 @@
 # How To Do Free SDXL Google Colab Like Free Kaggle Account SDXL LoRA Training With Kohya SS GUI
 * You can use Kaggle to do SD 1.5 based models training as well
 
-## The Tutorial Video Link Will Be Added Once Published
+## The Tutorial Video Link > https://youtu.be/JF2P7BIUpIU?feature=shared
 
 ## Download Kaggle Notebook Used In This Tutorial 
 * **https://www.patreon.com/posts/kohya-sdxl-lora-88397937**
