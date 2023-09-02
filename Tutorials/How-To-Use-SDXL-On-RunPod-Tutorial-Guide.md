@@ -53,14 +53,8 @@ The generated images will be saved inside below folder
 * Customize deployment and make Container Disk size 30 GB
 * * This container size is really important. It will be downloaded into container space and download will be much smaller
 * No Need Token Anymore - Files Updated To SDXL 1.0
-* Delete auto downloaded models by template
- 
 
 * Start a new terminal and execute below commands 1 by 1
-
-```
-rm -r /workspace/auto-models
-```
 
 ```
 apt update
