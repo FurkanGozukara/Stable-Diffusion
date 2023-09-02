@@ -22,7 +22,8 @@
 
 * Select RunPod Fast Stable Diffusion template
 * Select at least 24 GB VRAM having pod
-* Customize deployment and make Volume Disk size 200 GB
+* Customize deployment and make Container Disk size 30 GB
+* * This container size is really important. It will be downloaded into container space and download will be much smaller
 * Upload sdxl.sh to the workspace folder (download from here : https://www.patreon.com/posts/auto-sdxl-runpod-85845581)
 * Execute below command and wait until you see this message : ```auto install of SDXL completed```
 * For Auto installer you don't need token I handled it for you
@@ -49,7 +50,8 @@ The generated images will be saved inside below folder
 
 * Select RunPod Fast Stable Diffusion template
 * Select at least 24 GB VRAM having pod
-* Customize deployment and make Volume Disk size 200 GB
+* Customize deployment and make Container Disk size 30 GB
+* * This container size is really important. It will be downloaded into container space and download will be much smaller
 * No Need Token Anymore - Files Updated To SDXL 1.0
 * Delete auto downloaded models by template
  
@@ -88,50 +90,6 @@ source venv/bin/activate
 
 ```
 pip install -r requirements4.txt
-```
-
-
-```
-cd /workspace
-```
-
-```
-mv /root/.cache /workspace/.cache
-ln -s /workspace/.cache /root/.cache
-```
-
-```
-cd /workspace
-```
-
-```
-git lfs clone https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
-```
-
-```
-find /workspace/stable-diffusion-xl-base-0.9 -type f -name "*.safetensors" -exec rm {} \;
-```
-
-```
-mv /root/.cache /workspace/.cache
-ln -s /workspace/.cache /root/.cache
-```
-
-```
-cd /workspace
-```
-
-```
-git lfs clone https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0
-```
-
-```
-find /workspace/stable-diffusion-xl-refiner-0.9 -type f -name "*.safetensors" -exec rm {} \;
-```
-
-```
-mv /root/.cache /workspace/.cache
-ln -s /workspace/.cache /root/.cache
 ```
 
 
