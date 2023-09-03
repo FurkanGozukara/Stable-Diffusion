@@ -55,6 +55,7 @@
 * The used Additional Parameters ```--lowram```
 * **Enable Full fp16 training (from advanced tab) to make it work with SDXL** ```--full_fp16```
 * **Now Cache latents and Cache latents to disk working. Enable them for huge speed up :** --cache_latents --cache_latents_to_disk
+* Cache latents speed up comparison : https://twitter.com/GozukaraFurkan/status/1698471340032872721
 
 **Copy paste the below codes into a new Notebook or download from Patreon post. Alternatively watch video and follow code shared there**
 
