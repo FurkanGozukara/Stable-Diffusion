@@ -12,7 +12,7 @@ My LinkedIn : [**https://www.linkedin.com/in/furkangozukara**](https://www.linke
 
 My Twitter : [**https://twitter.com/GozukaraFurkan**](https://twitter.com/GozukaraFurkan)
 
-### Our channel address (24k+ subscribers) if you like to subscribe ⤵️
+### Our channel address (25k+ subscribers) if you like to subscribe ⤵️
 [**https://www.youtube.com/@SECourses**](https://www.youtube.com/@SECourses)
 
 ### Our discord (4k+ members) to get more help ⤵️
