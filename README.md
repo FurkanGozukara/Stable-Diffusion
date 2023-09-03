@@ -15,7 +15,7 @@ My Twitter : [**https://twitter.com/GozukaraFurkan**](https://twitter.com/Gozuka
 ### Our channel address (25k+ subscribers) if you like to subscribe ⤵️
 [**https://www.youtube.com/@SECourses**](https://www.youtube.com/@SECourses)
 
-### Our discord (4k+ members) to get more help ⤵️
+### Our discord (4.5k+ members) to get more help ⤵️
 [**https://discord.com/servers/software-engineering-courses-secourses-772774097734074388**](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388)
 
 ### Our 900+ Stars GitHub Stable Diffusion and other tutorials repo ⤵️
