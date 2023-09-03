@@ -18,6 +18,14 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### September 4 - 2023
+[Run Automatic1111 On A Free Kaggle NoteBook Like In Your PC - Supports SDXL & ControlNet](https://www.patreon.com/posts/run-on-free-like-88714330)
+* A Free Kaggle account notebook to use Automatic1111 for free. Supports SDXL, ControlNet, LoRA, trained LoRAs & automatic extension install.
+
+### September 1 - 2023
+[Kohya SDXL LoRA Training Free Kaggle NoteBook](https://www.patreon.com/posts/kohya-sdxl-lora-88397937)
+* A Free Kaggle Account Notebook for SDXL Kohya SS LoRA Training. If you don't have a strong GPU you can train your LoRAs for free with this.
+
 ### August 28 - 2023
 [SOTA Subject Cropper and Face Focused Image Resizer Scripts](https://www.patreon.com/posts/sota-subject-and-88391247)
 * State Of The Art (SOTA) Subject Cropper (Zoom Subject Without Quality Loss) and SOTA Image Downscaler To Get Perfect Desired Resolution.
