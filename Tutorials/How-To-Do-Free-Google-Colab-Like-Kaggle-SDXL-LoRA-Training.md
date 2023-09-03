@@ -6,6 +6,7 @@
 
 # How To Do Free SDXL Google Colab Like Free Kaggle Account SDXL LoRA Training With Kohya SS GUI
 * You can use Kaggle to do SD 1.5 based models training as well
+* Enable full FP16 training to make it work with SDXL
 
 ## The Tutorial Video Link > https://youtu.be/JF2P7BIUpIU?feature=shared
 
@@ -52,6 +53,7 @@
 * SDXL Hugging Face repo name ```stabilityai/stable-diffusion-xl-base-1.0```
 * The used Optimizer Arguments ```scale_parameter=False relative_step=False warmup_init=False```
 * The used Additional Parameters ```--lowram```
+* Enable full FP16 training to make it work with SDXL ```--full_fp16```
 
 **Copy paste the below codes into a new Notebook or download from Patreon post. Alternatively watch video and follow code shared there**
 
