@@ -88,3 +88,36 @@
 * You can find all SDXL ControlNet models in below repo (can be used with any SDXL like Base 1.0 or Realistic Vision XL)
 * * https://huggingface.co/lllyasviel/sd_control_collection/tree/main
 * Hugging Face downloads are same for all Hugging Face hosted files
+* AFter Automatic1111 Web UI started you need to go to the settings and set ControlNet models folder as ```/kaggle/temp/cnmodels``` as shown in video. After that apply and not restart needed
+
+### How to download and use custom LoRAs from CivitAI
+* This below code will download pixel art SDXL lora from civit AI. this is the format to download others
+* right click download button and copy link and replace yours as below
+* We download LoRAs intot he defualt folder
+```!mkdir -p /kaggle/working/stable-diffusion-webui/models/Lora```
+
+```!wget https://civitai.com/api/download/models/135931 -O /kaggle/working/stable-diffusion-webui/models/Lora/Pixel_Art_XL_1_1.safetensors```
+
+### How to upload and use your own LoRA checkpoints
+* To use your own LoRAs you need to first upload them into a Kaggle dataset you compose yourself as shown in tutorial video
+* Then when starting Automatic1111 web you we define a custom LoRA folder path like below
+```--lora-dir "/kaggle/input/my-loras"```
+
+## Where to find and see all Automatic1111 Web UI starting command line arguments
+* Read this page > https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Command-Line-Arguments-and-Settings
+
+## How To Start Automatic1111 Web UI After Installation Has Been Completed With Above Steps
+```
+!./webui.sh \
+    -f \
+    --xformers \
+    --share \
+    --ckpt-dir "/kaggle/temp/models" \
+    --enable-insecure-extension-access \
+    --no-half-vae \
+    #--lora-dir "/kaggle/input/my-loras" \
+```
+* As you are seeing above, if you want to use your own custom LoRA remove dash (#) in fron of your own LoRA dataset path - change it with your path
+
+
+    
