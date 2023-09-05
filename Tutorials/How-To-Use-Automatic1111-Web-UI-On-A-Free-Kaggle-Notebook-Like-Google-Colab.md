@@ -28,6 +28,8 @@
  
 ## Suggested Resources Before Doing Training
 
+* ControlNet SDXL development discussion thread
+* * https://github.com/Mikubill/sd-webui-controlnet/discussions/2039
 * I suggest you to watch below 2 tutorials before start using Kaggle based Automatic1111 SD Web UI
 * Free Kaggle Based SDXL LoRA Training
 * * [How to Do SDXL Training For FREE with Kohya LoRA - Kaggle - NO GPU Required - Pwns Google Colab](https://youtu.be/JF2P7BIUpIU)
