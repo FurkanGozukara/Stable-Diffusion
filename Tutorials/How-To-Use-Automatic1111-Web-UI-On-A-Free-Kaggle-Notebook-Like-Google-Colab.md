@@ -40,6 +40,51 @@
 
 **Start a new notebook and copy paste below codes and run them**
 
+```!apt update```
 
+```!yes | apt install libgoogle-perftools-dev```
 
+```!git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui```
 
+```%cd /kaggle/working/stable-diffusion-webui```
+
+```!wget https://github.com/FurkanGozukara/Stable-Diffusion/files/12458705/styles.txt -O /kaggle/working/stable-diffusion-webui/styles.csv```
+
+```!chmod +x webui.sh```
+
+```!mkdir -p /kaggle/temp/models```
+
+```!mkdir -p /kaggle/temp/cnmodels```
+
+* The logic of downloading models
+* For example SDXL base model shared on Hugging Face. Strategy is same for all models on Hugging Face. You can use any custom model hosted on Hugging Face
+* Repo name : https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
+* Open it. Go files and versions. Copy download link of sd_xl_base_1.0.safetensors
+* Replace the below command for other models. The logic is wget link then the file name
+* We will download into ```/kaggle/temp/models/``` because temp folder has about 75 GB space while working directory has 20 GB space
+
+### Download SDXL base model into the models folder. Same rule apply for CivitAI models
+!wget https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors -O /kaggle/temp/models/sd_xl_base_1.0.safetensors
+
+### For example download Realistic Vision From CivitAI
+* Click download options, right click and copy download link, replace download link and replace name
+!wget https://civitai.com/api/download/models/130072?type=Model&format=SafeTensor&size=full&fp=fp16 -O /kaggle/temp/models/Realistic_Vision_V5.1.safetensors
+
+### Before starting Automatic1111 we will clone ControlNet extension so it will be automatically installed
+```%cd /kaggle/working/stable-diffusion-webui/extensions```
+
+```!git clone https://github.com/Mikubill/sd-webui-controlnet```
+
+```%cd /kaggle/working/stable-diffusion-webui```
+
+* Then you need to download ControlNet models into the ```/kaggle/temp/cnmodels``` folder
+* Example download of SD 1.5 Canny model below
+
+```!wget -O /kaggle/temp/cnmodels/control_v11p_sd15_canny.pth "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_canny.pth"```
+
+* The same strategy applies to all models of ControlNet
+* You can find all SD 1.5 based ControlNet models in below repo (can be used with any SD 1.5 based model such as Realistic Vision 5.1)
+* * https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main
+* You can find all SDXL ControlNet models in below repo (can be used with any SDXL like Base 1.0 or Realistic Vision XL)
+* * https://huggingface.co/lllyasviel/sd_control_collection/tree/main
+* Hugging Face downloads are same for all Hugging Face hosted files
