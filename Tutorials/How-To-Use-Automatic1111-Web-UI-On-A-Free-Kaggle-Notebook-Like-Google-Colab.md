@@ -4,14 +4,14 @@
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-SECourses-C50C0C?style=for-the-badge&logo=youtube)](https://www.youtube.com/SECourses)  [![Furkan Gözükara LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkangozukara/)   [![Udemy](https://img.shields.io/static/v1?style=for-the-badge&message=Stable%20Diffusion%20Course&color=A435F0&logo=Udemy&logoColor=FFFFFF&label=Udemy)](https://www.udemy.com/course/stable-diffusion-dreambooth-lora-zero-to-hero/) [![Twitter Follow Furkan Gözükara](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GozukaraFurkan)
 
+# How To Use Automatic1111 SD Web UI On A Free Kaggle Notebook Without Having A Strong Computer - Use As Easy As On Your Computer
+* This tutorial runs on Cloud. Therefore, you don't even need a computer to follow this tutorial
+* If you have a computer but don't have a strong GPU or RAM, you can use Free Kaggle to use Automatic1111 like as in your own very strong computer
+
 ## Download Kaggle Notebook Used In This Tutorial 
 * **https://www.patreon.com/posts/run-on-free-like-88714330**
 * Alternatively by watching the video you can type yourself
 * Writing is not hard but if you support me on Patreon I would appreciate that very much 
-
-# How To Use Automatic1111 SD Web UI On A Free Kaggle Notebook Without Having A Strong Computer - Use As Easy As On Your Computer
-* This tutorial runs on Cloud. Therefore, you don't even need a computer to follow this tutorial
-* If you have a computer but don't have a strong GPU or RAM, you can use Free Kaggle to use Automatic1111 like as in your own very strong computer
 
 ## The Tutorial Video Link > will be added once published hopefully
 
