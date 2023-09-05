@@ -66,6 +66,10 @@
 ### Download SDXL base model into the models folder. Same rule apply for CivitAI models
 !wget https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors -O /kaggle/temp/models/sd_xl_base_1.0.safetensors
 
+### Download SDXL best VAE into the VAE folder. Same strategy applies to SD 1.5 based VAEs as well
+!wget https://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetensors -O /kaggle/working/stable-diffusion-webui/models/VAE/sdxl_vae.safetensors
+
+
 ### For example download Realistic Vision From CivitAI
 * Click download options, right click and copy download link, replace download link and replace name
 !wget https://civitai.com/api/download/models/130072?type=Model&format=SafeTensor&size=full&fp=fp16 -O /kaggle/temp/models/Realistic_Vision_V5.1.safetensors
