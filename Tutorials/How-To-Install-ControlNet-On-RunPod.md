@@ -18,12 +18,14 @@ First please watch below tutorials
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/3I25wwnG6IfYLBo-Ie6ZJ.png)](https://youtu.be/3E5fhFQUVLo)
 
-## Use Stable Diffusion web-automatic-8.0.3 template - it comes with ControlNet by default
-
-## Auto Updater & Downloader For RunPod
-* Script : https://www.patreon.com/posts/84896373
-* Select Stable Diffusion web-automatic-8.0.3 template
+## The Template Selection
+* Select Stable Diffusion stable-diffusion:web-ui template
 * It comes with ControlNet extension
+* Select like 200 GB volume disk
+
+## Auto Updater & Downloader For RunPod - Much Easier To Use
+* Script : https://www.patreon.com/posts/84896373
+* Read instructions written on Patreon post
 * Download attached CND_runpod.py and upload it into your Workspace folder
 * Run with below command
 ```
