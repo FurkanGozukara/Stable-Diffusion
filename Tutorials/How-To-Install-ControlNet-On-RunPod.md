@@ -12,6 +12,12 @@ Tutorial : 18.) RunPod - Automatic1111 Web UI - Cloud - Paid - No PC Is Required
 
 [![image](https://user-images.githubusercontent.com/19240467/219958249-82ecb925-901b-4f87-b776-f592b0f5eaad.png)](https://www.youtube.com/watch?v=QN1vdGhjcRc)
 
+39.) Automatic1111 Web UI - PC - Free + RunPod
+
+[**Zero to Hero ControlNet Tutorial: Stable Diffusion Web UI Extension | Complete Feature Guide**](https://youtu.be/3E5fhFQUVLo)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/3I25wwnG6IfYLBo-Ie6ZJ.png)](https://youtu.be/3E5fhFQUVLo)
+
 ## Use Stable Diffusion web-automatic-8.0.3 template - it comes with ControlNet by default
 
 ## Auto Updater & Downloader For RunPod
@@ -23,14 +29,22 @@ Tutorial : 18.) RunPod - Automatic1111 Web UI - Cloud - Paid - No PC Is Required
 ```
 python CND_runpod.py
 ```
-* Then restart your Automatic1111 Web ui
 * It will clone/update ControlNet and then start downloading all ControlNet model pth files
 * It will display status of downloads like can be seen here : Screenshot of downloads
 * It will skip previously existing models but make sure that those models have been 100% downloaded. Otherwise they will give an error to you
-* After all downloads have been completed restart your Automatic1111 Web UI. It will install requirements of ControlNet (if necessary).
+* After all downloads have been completed Start your Automatic1111 Web UI as below. Start a new terminal and copy paste
+```
+fuser -k 3000/tcp
+```
+```
+cd /workspace/stable-diffusion-webui
+```
+```
+python relauncher.py
+```
 * If you had previously installed ControlNet then it will just download the missing model files. You can also delete this folder for fresh install : stable-diffusion-webui\extensions\sd-webui-controlnet
 
-Hopefully a tutorial is coming for ControlNet. This is a part of my hopefully upcoming ultra realistic beyond studio quality DreamBooth training workflow.
+
 
 
 
