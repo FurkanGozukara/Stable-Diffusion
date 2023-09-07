@@ -13,7 +13,7 @@
 * Alternatively by watching the video you can type yourself
 * Writing is not hard but if you support me on Patreon I would appreciate that very much 
 
-## The Tutorial Video Link > will be added once published hopefully
+## The Tutorial Video Link > https://youtu.be/dpM02YMj8FY?feature=shared
 
 ## Register A Free Kaggle Account
 
