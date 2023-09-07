@@ -331,3 +331,9 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 [**How to Do SDXL Training For FREE with Kohya LoRA - Kaggle - NO GPU Required - Pwns Google Colab**](https://youtu.be/JF2P7BIUpIU)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/n82kc7ND2rDmhRmRexLrb.png)](https://youtu.be/JF2P7BIUpIU)
+
+51.) Cloud - Kaggle - Free
+
+[**How Use Stable Diffusion, SDXL, ControlNet, LoRAs For FREE Without A GPU On Kaggle Like Google Colab**](https://youtu.be/dpM02YMj8FY)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/mXZLV052fCgDHOpEbGUtL.png)](https://youtu.be/dpM02YMj8FY)
