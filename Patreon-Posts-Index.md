@@ -19,7 +19,7 @@ Your Patreon support is tremendously important for me so thank you so much
 ## Patreon Exclusive Content 
 
 ### September 12 - 2023
-[How To Start Multiple Automatic1111 Web UI On A Single Pod](https://www.patreon.com/posts/how-to-start-web-89150521)
+[How To Start Multiple Automatic1111 Web UI And Kohya Training On A Single Pod](https://www.patreon.com/posts/how-to-start-web-89150521)
 * Download webui-user.sh and relauncher.py files and follow instructions to start multiple Automatic1111 on different GPUs on a  single RunPod
 
 ### September 4 - 2023
