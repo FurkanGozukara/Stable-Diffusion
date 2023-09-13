@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### September 13 - 2023
+[The Very Best Workflow For SDXL DreamBooth / Full Fine Tuning - Results Of 66 Full Trainings](https://www.patreon.com/posts/very-best-for-of-89213064)
+* The very best workflow for SDXL DreamBooth / Full Fine Tuning training. Workflow found after 66 different full training experimentation. 
+
 ### September 12 - 2023
 [How To Start Multiple Automatic1111 Web UI And Kohya Training On A Single Pod](https://www.patreon.com/posts/how-to-start-web-89150521)
 * Download webui-user.sh and relauncher.py files and follow instructions to start multiple Automatic1111 on different GPUs on a  single RunPod
