@@ -26,6 +26,10 @@ Your Patreon support is tremendously important for me so thank you so much
 [How To Start Multiple Automatic1111 Web UI And Kohya Training On A Single Pod](https://www.patreon.com/posts/how-to-start-web-89150521)
 * Download webui-user.sh and relauncher.py files and follow instructions to start multiple Automatic1111 on different GPUs on a  single RunPod
 
+### September 11 - 2023
+[How To Start Multiple Automatic1111 Web UI And Kohya Training On A Single Pod](https://www.patreon.com/posts/how-to-start-web-89150521)
+* Download webui-user.sh and relauncher.py files and follow instructions to start multiple Automatic1111 on different GPUs on a  single RunPod
+
 ### September 4 - 2023
 [Run Automatic1111 On A Free Kaggle NoteBook Like In Your PC - Supports SDXL & ControlNet](https://www.patreon.com/posts/run-on-free-like-88714330)
 * A Free Kaggle account notebook to use Automatic1111 for free. Supports SDXL, ControlNet, LoRA, trained LoRAs & automatic extension install.
