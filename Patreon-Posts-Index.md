@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### September 15 - 2023
+[Automatic1111 Web UI Google Colab NoteBook With All ControlNet Models And More](https://www.patreon.com/posts/automatic1111-ui-89288738)
+* Automatic1111 Web UI Google Colab Notebook With All ControlNet Models, SDXL Model, Best SD 1.5 Model, LoRA Download Example, Upscaler & More
+
 ### September 14 - 2023
 [Google Colab Notebook For Würstchen: Fast Diffusion for Image Generation](https://www.patreon.com/posts/google-colab-for-89280042)
 * Würstchen V2 model on a free Google Colab Notebook with instructions. Super quality Generative AI like Stable Diffusion XL (SDXL) but faster
