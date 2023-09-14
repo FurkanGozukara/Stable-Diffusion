@@ -18,6 +18,14 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### September 14 - 2023
+[Google Colab Notebook For Würstchen: Fast Diffusion for Image Generation](https://www.patreon.com/posts/google-colab-for-89280042)
+* Würstchen V2 model on a free Google Colab Notebook with instructions. Super quality Generative AI like Stable Diffusion XL (SDXL) but faster
+
+### September 14 - 2023
+[Auto Windows Installer For Würstchen: Fast Diffusion for Image Generation](https://www.patreon.com/posts/auto-windows-for-89265135)
+* Install latest Generative AI model Würstchen V2 to your computer with 1 click. Fixed file instead of broken Gradio demo hosted on Hugging Face
+
 ### September 13 - 2023
 [The Very Best Workflow For SDXL DreamBooth / Full Fine Tuning - Results Of 66 Full Trainings](https://www.patreon.com/posts/very-best-for-of-89213064)
 * The very best workflow for SDXL DreamBooth / Full Fine Tuning training. Workflow found after 66 different full training experimentation. 
