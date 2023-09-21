@@ -18,8 +18,9 @@
 * Git > https://git-scm.com/downloads
  
 ### Auto Automatic1111 Web UI Installer
-* Auto clones, installs, downloads SDXL and correct VAE into correct folders
+* Auto clones, installs, downloads SDXL and correct VAE into correct folders, and more. Amazing script
 * https://www.patreon.com/posts/automatic-for-ui-86307255
+* More info @ : https://twitter.com/GozukaraFurkan/status/1704979192746479696
 
 ### Download and install Visual Studio 2015, 2017, 2019, and 2022 redistributable 
 * https://aka.ms/vs/17/release/vc_redist.x64.exe
@@ -40,27 +41,16 @@ git clone https://github.com/bmaltais/kohya_ss
 * How To Find Best Stable Diffusion Generated Images By Using DeepFace AI - DreamBooth / LoRA Training
 * * YouTube Tutorial : https://youtu.be/343I11mhnXs
 * Script : https://www.patreon.com/posts/sort-ai-images-82478694
-* 
-* What is LoRA training master tutorial below
-* * [How To Do Stable Diffusion LORA Training By Using Web UI On Different Models - Tested SD 1.5, SD 2.1](https://youtu.be/mfaqqL5yOO4)
 *
 * What is DreamBooth training, rare tokens, class images master tutorial below
 * * [Zero To Hero Stable Diffusion DreamBooth Tutorial By Using Automatic1111 Web UI - Ultra Detailed](https://youtu.be/Bdl-jWR3Ukc)
 *
-* Ground truth Classification / Regularization images dataset (512, 640, 768, 960, 1024px & raw)
+* Ground truth Classification / Regularization images dataset (512px, 768px, 1024px, 1280px, 1536px & raw)
 * * https://www.patreon.com/posts/4k-2700-real-84053021
 * * [Human Cropping Script & 4K+ Resolution Class / Reg Images For Stable Diffusion DreamBooth / LoRA](https://youtu.be/QTYX0tgA5ho)
 * * [Stable Diffusion 2 NEW Image Post Processing Scripts And Best Class / Regularization Images Datasets](https://youtu.be/olX1mySE8HA)
+* * More info @ : https://twitter.com/GozukaraFurkan/status/1704276686089421218
 *
-* Explaining LoRA Learning Settings
-* https://github.com/bmaltais/kohya_ss/blob/master/docs/LoRA/options.md
-* ![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/49889acf-5576-4ecf-9308-749bd0fd3bb2)
-*
-* My Civit AI : https://civitai.com/user/SECourses
-* SDXL 1.0 VAE vs 0.9 VAE comparison
-* * https://twitter.com/GozukaraFurkan/status/1687759746512609280
-* SDXL 1.0 vs 1.0_0.9 VAE LoRA comparison
-* * https://twitter.com/GozukaraFurkan/status/1687819402597593088
 * SDXL fp16 VAE
 * * https://huggingface.co/madebyollin/sdxl-vae-fp16-fix
 *
@@ -75,17 +65,13 @@ git clone https://github.com/bmaltais/kohya_ss
 * * [The END of Photography - Use AI to Make Your Own Studio Photos, FREE Via DreamBooth Training](https://youtu.be/g0wXIcRhkJk)
 *
 * [How To Get Amazing Prompts With ChatGPT For Stable Diffusion](https://www.patreon.com/posts/how-to-get-with-87038686)
-*
-* The effect of SDXL LoRA Higher Network Rank (Dimension) vs Lower Network Rank (Dimension)
-* * [Twitter Post](https://twitter.com/GozukaraFurkan/status/1688613661034635264)
-* * [CivitAI Article](https://civitai.com/articles/1647/lora-higher-network-rank-dimension-effect-on-sdxl-training-very-interesting)
-* * [LinkedIn Post](https://www.linkedin.com/posts/furkangozukara_just-found-out-an-interesting-information-activity-7094380517902475265-qXhS)
-
+ 
 ### How To Install Kohya GUI On RunPod
 
 * Manual Install Tutorial Video: https://youtu.be/3uzCNrQao3o
 * 1 Click Automatic Installer Script For RunPod: https://www.patreon.com/posts/84898806
-* Hopefully I will make a new tutorial video for this. Auto installer updated and working
+* Tutorial for RunPod
+* * [How To Do SDXL LoRA Training On RunPod With Kohya SS GUI Trainer & Use LoRAs With Automatic1111 UI](https://youtu.be/-xEwaQ54DI4)
 
 ### SDXL Base 1.0 Direct Download Links
 
@@ -93,10 +79,8 @@ git clone https://github.com/bmaltais/kohya_ss
 * 
 * Fixed VAE
 * * https://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetensors
-* 1.0 (broken VAE embedded)
+* 1.0 (broken VAE embedded which I use for training)
 * * https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors
-* 1.0 (corrected VAE embedded)
-* * https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0_0.9vae.safetensors
 * 1.0 Refiner (uses same VAE of base)
 * * https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors
 
@@ -113,7 +97,7 @@ git clone https://github.com/bmaltais/kohya_ss
 
 ### Optimizer Extra Arguments For SDXL
 ```
-scale_parameter=False relative_step=False warmup_init=False
+scale_parameter=False relative_step=False warmup_init=False weight_decay=0.01
 ```
 
 ### Used Training Json File Attached As .txt So Change Extension To .json
@@ -123,7 +107,7 @@ scale_parameter=False relative_step=False warmup_init=False
 ### Used Training Command
 
 ```
-accelerate launch --num_cpu_threads_per_process=2 "./sdxl_train_network.py" --pretrained_model_name_or_path="C:/fresh auto1111/stable-diffusion-webui/models/Stable-diffusion/sd_xl_base_1.0.safetensors" --train_data_dir="C:/fresh auto1111/stable-diffusion-webui/models/Lora\img" --reg_data_dir="C:/fresh auto1111/stable-diffusion-webui/models/Lora\reg" --resolution="1024,1024" --output_dir="C:/fresh auto1111/stable-diffusion-webui/models/Lora\model" --logging_dir="C:/fresh auto1111/stable-diffusion-webui/models/Lora\log" --network_alpha="1" --save_model_as=safetensors --network_module=networks.lora --text_encoder_lr=0.0004 --unet_lr=0.0004 --network_dim=32 --output_name="12vram" --lr_scheduler_num_cycles="8" --no_half_vae --full_bf16 --learning_rate="0.0004" --lr_scheduler="constant" --train_batch_size="1" --max_train_steps="5200" --save_every_n_epochs="1" --mixed_precision="bf16" --save_precision="bf16" --cache_latents --cache_latents_to_disk --optimizer_type="Adafactor" --optimizer_args scale_parameter=False relative_step=False warmup_init=False --max_data_loader_n_workers="0" --bucket_reso_steps=64 --save_state --gradient_checkpointing --xformers --bucket_no_upscale --noise_offset=0.0
+accelerate launch --num_cpu_threads_per_process=4 "./sdxl_train.py" --pretrained_model_name_or_path="F:/0 models/sd_xl_base_1.0.safetensors" --train_data_dir="E:/SD web ui with controlnet/stable-diffusion-webui/models/Stable-diffusion\img" --reg_data_dir="E:/SD web ui with controlnet/stable-diffusion-webui/models/Stable-diffusion\reg" --resolution="1024,1024" --output_dir="E:/SD web ui with controlnet/stable-diffusion-webui/models/Stable-diffusion\model" --logging_dir="E:/SD web ui with controlnet/stable-diffusion-webui/models/Stable-diffusion\log" --save_model_as=safetensors --full_bf16 --output_name="SDXL_DB_Tuto" --lr_scheduler_num_cycles="8" --max_data_loader_n_workers="0" --learning_rate="1e-05" --lr_scheduler="constant" --train_batch_size="1" --max_train_steps="8320" --save_every_n_epochs="1" --mixed_precision="bf16" --save_precision="bf16" --cache_latents --cache_latents_to_disk --optimizer_type="Adafactor" --optimizer_args scale_parameter=False relative_step=False warmup_init=False weight_decay=0.01 --max_data_loader_n_workers="0" --bucket_reso_steps=64 --xformers --bucket_no_upscale --noise_offset=0.0
 ```
 
 ### Used Prompts
@@ -213,36 +197,30 @@ ohwx man as a plastic figurine, miniature product photography <lora:12gb_setting
 
 ## Use Versions And Pip Freeze
 
-* Kohya SS GUI Commit Id : 2accb1305979ba62f5077a23aabac23b4c37e935
+* Kohya SS GUI Commit Id : ed4e3b0239a40506de9a17e550e6cf2d0b867a4f -  tag: v21.8.9
 * VENV Pip Freeze
 
 ```
-Microsoft Windows [Version 10.0.19045.3208]
-(c) Microsoft Corporation. All rights reserved.
-
-F:\kohya_ss\venv\Scripts>activate
-
-(venv) F:\kohya_ss\venv\Scripts>pip freeze
-absl-py==1.4.0
+(venv) F:\kohya_ss>pip freeze
+absl-py==2.0.0
 accelerate==0.19.0
-aiofiles==23.1.0
+aiofiles==23.2.1
 aiohttp==3.8.5
 aiosignal==1.3.1
-albumentations==1.3.0
 altair==4.2.2
 annotated-types==0.5.0
 anyio==3.7.1
 appdirs==1.4.4
 astunparse==1.6.3
-async-timeout==4.0.2
+async-timeout==4.0.3
 attrs==23.1.0
 bitsandbytes==0.35.0
 cachetools==5.3.1
 certifi==2022.12.7
 charset-normalizer==2.1.1
-click==8.1.6
+click==8.1.7
 colorama==0.4.6
-contourpy==1.1.0
+contourpy==1.1.1
 cycler==0.11.0
 dadaptation==3.1
 diffusers==0.18.2
@@ -250,68 +228,63 @@ docker-pycreds==0.4.0
 easygui==0.98.3
 einops==0.6.0
 entrypoints==0.4
-exceptiongroup==1.1.2
+exceptiongroup==1.1.3
 fairscale==0.4.13
-fastapi==0.99.1
+fastapi==0.103.1
 ffmpy==0.3.1
 filelock==3.9.0
 flatbuffers==23.5.26
-fonttools==4.41.1
+fonttools==4.42.1
 frozenlist==1.4.0
-fsspec==2023.6.0
+fsspec==2023.9.1
 ftfy==6.1.1
 gast==0.4.0
 gitdb==4.0.10
-GitPython==3.1.32
-google-auth==2.22.0
+GitPython==3.1.36
+google-auth==2.23.0
 google-auth-oauthlib==1.0.0
 google-pasta==0.2.0
 gradio==3.36.1
-gradio_client==0.2.10
-grpcio==1.56.2
+gradio_client==0.5.1
+grpcio==1.58.0
 h11==0.14.0
 h5py==3.9.0
-httpcore==0.17.3
-httpx==0.24.1
+httpcore==0.18.0
+httpx==0.25.0
 huggingface-hub==0.15.1
 idna==3.4
-imageio==2.31.1
 importlib-metadata==6.8.0
 invisible-watermark==0.2.0
-jax==0.4.13
+jax==0.4.16
 Jinja2==3.1.2
-joblib==1.3.1
-jsonschema==4.18.4
+jsonschema==4.19.1
 jsonschema-specifications==2023.7.1
 keras==2.12.0
-kiwisolver==1.4.4
-lazy_loader==0.3
+kiwisolver==1.4.5
 libclang==16.0.6
--e git+https://github.com/bmaltais/kohya_ss@2accb1305979ba62f5077a23aabac23b4c37e935#egg=library
+-e git+https://github.com/bmaltais/kohya_ss@ed4e3b0239a40506de9a17e550e6cf2d0b867a4f#egg=library
 lightning-utilities==0.9.0
 linkify-it-py==2.0.2
 lion-pytorch==0.0.6
-lycoris-lora==1.8.0
+lycoris-lora==1.8.3
 Markdown==3.4.4
 markdown-it-py==2.2.0
 MarkupSafe==2.1.2
-matplotlib==3.7.2
+matplotlib==3.8.0
 mdit-py-plugins==0.3.3
 mdurl==0.1.2
-ml-dtypes==0.2.0
+ml-dtypes==0.3.0
 mpmath==1.2.1
 multidict==6.0.4
-mypy-extensions==1.0.0
 networkx==3.0
 numpy==1.23.5
 oauthlib==3.2.2
 open-clip-torch==2.20.0
 opencv-python==4.7.0.68
-opencv-python-headless==4.8.0.74
 opt-einsum==3.3.0
-orjson==3.9.2
+orjson==3.9.7
 packaging==23.1
-pandas==2.0.3
+pandas==2.1.1
 pathtools==0.1.2
 Pillow==9.3.0
 prodigyopt==1.0
@@ -319,36 +292,32 @@ protobuf==3.20.3
 psutil==5.9.5
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
-pydantic==1.10.12
-pydantic_core==2.4.0
+pydantic==2.3.0
+pydantic_core==2.6.3
 pydub==0.25.1
-Pygments==2.15.1
-pyparsing==3.0.9
-pyre-extensions==0.0.29
+Pygments==2.16.1
+pyparsing==3.1.1
 python-dateutil==2.8.2
 python-multipart==0.0.6
 pytorch-lightning==1.9.0
-pytz==2023.3
+pytz==2023.3.post1
 PyWavelets==1.4.1
 PyYAML==6.0.1
-qudida==0.0.4
-referencing==0.30.0
-regex==2023.6.3
+referencing==0.30.2
+regex==2023.8.8
 requests==2.28.1
 requests-oauthlib==1.3.1
 rich==13.4.1
-rpds-py==0.9.2
+rpds-py==0.10.3
 rsa==4.9
 safetensors==0.3.1
-scikit-image==0.21.0
-scikit-learn==1.3.0
-scipy==1.11.1
+scipy==1.11.2
 semantic-version==2.10.0
 sentencepiece==0.1.99
-sentry-sdk==1.28.1
+sentry-sdk==1.31.0
 setproctitle==1.3.2
 six==1.16.0
-smmap==5.0.0
+smmap==5.0.1
 sniffio==1.3.0
 starlette==0.27.0
 sympy==1.11.1
@@ -359,34 +328,31 @@ tensorflow-estimator==2.12.0
 tensorflow-intel==2.12.0
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.3.0
-threadpoolctl==3.2.0
-tifffile==2023.7.18
 timm==0.6.12
 tk==0.1.0
 tokenizers==0.13.3
 toml==0.10.2
 toolz==0.12.0
 torch==2.0.1+cu118
-torchmetrics==1.0.1
+torchmetrics==1.1.2
 torchvision==0.15.2+cu118
-tqdm==4.65.0
+tqdm==4.66.1
 transformers==4.30.2
-typing-inspect==0.9.0
-typing_extensions==4.7.1
+typing_extensions==4.8.0
 tzdata==2023.3
 uc-micro-py==1.0.2
 urllib3==1.26.13
-uvicorn==0.23.1
+uvicorn==0.23.2
 voluptuous==0.13.1
 wandb==0.15.0
 wcwidth==0.2.6
 websockets==11.0.3
-Werkzeug==2.3.6
+Werkzeug==2.3.7
 wrapt==1.14.1
-xformers==0.0.20
+xformers==0.0.21
 yarl==1.9.2
-zipp==3.16.2
+zipp==3.17.0
 
-(venv) F:\kohya_ss\venv\Scripts>
+(venv) F:\kohya_ss>
 ```
 
