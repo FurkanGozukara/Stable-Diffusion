@@ -65,7 +65,9 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/8e17d940-6b28-44fb-8cea-f99e71e828a0" width="200" />
 
 * ohwx man as a plastic figurine, miniature product photography
-* <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/2b8adce8-d97c-4523-8134-02d8897cd224" width="200" /> 
+* <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/0ed66156-4332-4310-ad6c-a0bb645ed90b" width="200" />
+
+
 
 
 
