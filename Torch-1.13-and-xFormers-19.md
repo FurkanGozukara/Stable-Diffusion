@@ -4,29 +4,29 @@
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-SECourses-C50C0C?style=for-the-badge&logo=youtube)](https://www.youtube.com/SECourses)  [![Furkan Gözükara LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkangozukara/)   [![Udemy](https://img.shields.io/static/v1?style=for-the-badge&message=Stable%20Diffusion%20Course&color=A435F0&logo=Udemy&logoColor=FFFFFF&label=Udemy)](https://www.udemy.com/course/stable-diffusion-dreambooth-lora-zero-to-hero/) [![Twitter Follow Furkan Gözükara](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GozukaraFurkan)
 
-Our Channel : https://www.youtube.com/@SECourses
+Kanalımız : https://www.youtube.com/@SECourses
 
-Stable Diffusion Playlist : https://www.youtube.com/watch?v=mnCY8uM7E50&list=PL_pbwdIyffsmclLl0O144nQRnezKlNdx3
+Kararlı Difüzyon Oynatma Listesi : https://www.youtube.com/watch?v=mnCY8uM7E50&list=PL_pbwdIyffsmclLl0O144nQRnezKlNdx3
 
-How to Install Torch 1.13 and xFormers video : https://www.youtube.com/watch?v=pom3nQejaTs&list=PL_pbwdIyffsmclLl0O144nQRnezKlNdx3&index=25
+Torch 1.13 ve xFormers nasıl kurulur videosu : https://www.youtube.com/watch?v=pom3nQejaTs&list=PL_pbwdIyffsmclLl0O144nQRnezKlNdx3&index=25
 
-Activate correct venv
+Doğru venv'yi etkinleştirin
 
-Run below commands with order
+Aşağıdaki komutları sırayla çalıştırın
 
-```pip uninstall torch```
+```pip kaldırma meşalesi```
 
 ```pip3 install torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117```
 
-**This below link is only compatiable with Python 3.10.x and Torch 1.13 and Windows**
+**Aşağıdaki bu bağlantı yalnızca Python 3.10.x, Torch 1.13 ve Windows ile uyumludur**
 
-```pip install https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/xformers-0.0.21.dev541-cp310-cp310-win_amd64.whl```
+```pip kurulumu https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/xformers-0.0.21.dev541-cp310-cp310-win_amd64.whl```
 
-**This below link is only compatiable with Python 3.10.x and Torch 1.13 and Unix/Linux/RunPod**
+**Aşağıdaki bu bağlantı yalnızca Python 3.10.x ve Torch 1.13 ve Unix/Linux/RunPod ile uyumludur**
 
-```pip install https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/xformers-0.0.21.dev541-cp310-cp310-manylinux2014_x86_64.whl```
+```pip kurulumu https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/xformers-0.0.21.dev541-cp310-cp310-manylinux2014_x86_64.whl```
 
-Latest version 
+En son sürüm
 ```
 pip install -U --pre xformers
 ```
