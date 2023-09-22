@@ -64,6 +64,8 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * Masterful, high-resolution full-body photograph of an (ohwx man:1.1), stylishly donning sunglasses. With (cinematic grading:1.3) and (dynamic lighting:1.4), this image should capture the subject's charm and charisma in a movie-like atmosphere
 * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/8e17d940-6b28-44fb-8cea-f99e71e828a0" width="200" />
 
+* ohwx man as a plastic figurine, miniature product photography
+* <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/2b8adce8-d97c-4523-8134-02d8897cd224" width="200" /> 
 
 
 
