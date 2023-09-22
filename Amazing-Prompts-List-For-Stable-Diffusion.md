@@ -67,6 +67,8 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * ohwx man as a plastic figurine, miniature product photography
 * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/0ed66156-4332-4310-ad6c-a0bb645ed90b" width="200" />
 
+* cinematic photo ohwx man riding dinosaur in a jungle with mud, sunny day shiny clear sky . 35mm photograph,film,professional,4k,highly detailed
+* <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/ad763174-38e1-4527-9752-8fc1c17191c7" width="200" />
 
 
 
