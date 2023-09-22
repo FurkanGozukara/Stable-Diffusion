@@ -61,6 +61,9 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * 8k intricate, highly detailed, digital photography, best quality, masterpiece, a (full body shot) photo of A warrior ohwx man that lived with dragons his whole life is now leading them to battle. torn clothes exposing parts of her body, scratch marks, epic, hyperrealistic, hyperrealism, 8k, cinematic lighting, greg rutkowski, wlop
 * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/0a0268c3-8f95-481b-89ff-356fda8c2f92" width="200" />
 
+* Masterful, high-resolution full-body photograph of an (ohwx man:1.1), stylishly donning sunglasses. With (cinematic grading:1.3) and (dynamic lighting:1.4), this image should capture the subject's charm and charisma in a movie-like atmosphere
+* <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/8e17d940-6b28-44fb-8cea-f99e71e828a0" width="200" />
+
 
 
 
