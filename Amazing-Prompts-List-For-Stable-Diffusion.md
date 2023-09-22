@@ -49,6 +49,21 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * 8K, ultra-detailed full-body shot of an (ohwx man:1.1), confidently wearing eyeglasses. Enhanced with (cinematic grading:1.3) and (artistic lighting:1.4), the image should portray the subject as a captivating character in a modern film
 * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/79a8a4bd-2e5d-43b0-bbc0-b5c075355fe7" width="200" />
 
+* Masterful, high-resolution full-body photograph of an (ohwx man:1.1), stylishly donning eyeglasses. With (cinematic grading:1.3) and (dynamic lighting:1.4), this image should capture the subject's charm and charisma in a movie-like atmosphere
+* <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/36c3a5b2-4c50-42fc-b089-5f87eac5d5f7" width="200" />
+
+* Cinematic, full-body photograph of an (ohwx man:1.1), adorned in eyeglasses. With a (filmic color grading:1.3) and (dramatic lighting:1.4), the image should encapsulate the subject's strong persona and create a narrative akin to a cinematic masterpiece
+* <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/9e94db79-6184-48af-b91c-a7bee7d1645f" width="200" />
+
+* handsome portrait photo of (ohwx man) wearing a space armor on a space station, hdr, canon, hd, 8k, 4k, sharp focus
+* <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/72f2563e-7e5e-4d65-8a48-e23bb5dcdea6" width="200" />
+
+* 8k intricate, highly detailed, digital photography, best quality, masterpiece, a (full body shot) photo of A warrior ohwx man that lived with dragons his whole life is now leading them to battle. torn clothes exposing parts of her body, scratch marks, epic, hyperrealistic, hyperrealism, 8k, cinematic lighting, greg rutkowski, wlop
+* <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/0a0268c3-8f95-481b-89ff-356fda8c2f92" width="200" />
+
+
+
+
 
 
 
