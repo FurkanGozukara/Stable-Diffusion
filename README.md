@@ -6,28 +6,28 @@
 
 # Expert-Level Tutorials on Stable Diffusion & SDXL: Master Advanced Techniques and Strategies
 
-Greetings everyone. I am **Dr. Furkan Gözükara**. I am an Assistant Professor in Software Engineering department  of a private university (have PhD in Computer Engineering).
+Herkese selamlar. Ben **Dr. Furkan Gözükara**. Özel bir üniversitenin Yazılım Mühendisliği bölümünde Yardımcı Doçent olarak görev yapıyorum (Bilgisayar Mühendisliği alanında doktoram var).
 
-My LinkedIn : [**https://www.linkedin.com/in/furkangozukara**](https://www.linkedin.com/in/furkangozukara/)
+LinkedIn'im: [**https://www.linkedin.com/in/furkangozukara**](https://www.linkedin.com/in/furkangozukara/)
 
-My Twitter : [**https://twitter.com/GozukaraFurkan**](https://twitter.com/GozukaraFurkan)
+Twitter'ım : [**https://twitter.com/GozukaraFurkan**](https://twitter.com/GozukaraFurkan)
 
-### Our channel address (25k+ subscribers) if you like to subscribe ⤵️
+### Abone olmak isterseniz Youtube kanalımız (25k+ abone) ⤵️
 [**https://www.youtube.com/@SECourses**](https://www.youtube.com/@SECourses)
 
-### Our discord (4.5k+ members) to get more help ⤵️
+### Daha fazla yardım almak için Discord'umuz (4,5k+ üye) ⤵️
 [**https://discord.com/servers/software-engineering-courses-secourses-772774097734074388**](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388)
 
-### Our 900+ Stars GitHub Stable Diffusion and other tutorials repo ⤵️
+### 900'den fazla Yıldızlı GitHub Stabil Difüzyonumuz ve diğer repo eğitimlerimiz ⤵️
 [**https://github.com/FurkanGozukara/Stable-Diffusion**](https://github.com/FurkanGozukara/Stable-Diffusion)
 
-I am keeping this list up-to-date. I got upcoming new awesome video ideas. Trying to find time to do that.
+Bu listeyi güncel tutuyorum. Yaklaşan yeni harika video fikirlerim var. Bunun için zaman bulmaya çalışıyorum.
 
-### I am open to any criticism you have. I am constantly trying to improve the quality of my tutorial guide videos. Please leave comments with both your suggestions and what you would like to see in future videos.
+### Her türlü eleştiriye açığım. Eğitim rehberi videolarımın kalitesini sürekli iyileştirmeye çalışıyorum. Lütfen yorumlarınızı, hem önerilerinizi hem de gelecekteki videolarda görmek istediklerinizi belirtin.
 
-### All videos have manually fixed subtitles and properly prepared video chapters. You can watch with these perfect subtitles or look for the chapters you are interested in.
+### Tüm videolarda manuel olarak düzeltilmiş altyazılar ve uygun şekilde hazırlanmış video bölümleri bulunur. Bu mükemmel altyazılarla izleyebilir veya ilgilendiğiniz bölümleri arayabilirsiniz.
 
-Since my profession is teaching, I usually do not skip any of the important parts. Therefore, you may find my videos a little bit longer.
+Mesleğim öğretmenlik olduğu için genelde önemli kısımları atlamıyorum. Bu nedenle videolarımı biraz daha uzun bulabilirsiniz.
 
 Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & Google Colab Guides, DreamBooth, Textual Inversion / Embedding, LoRA, AI Upscaling, Video to Anime**](https://www.youtube.com/watch?v=mnCY8uM7E50&list=PL_pbwdIyffsmclLl0O144nQRnezKlNdx3)
 
