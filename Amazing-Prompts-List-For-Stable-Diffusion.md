@@ -25,5 +25,15 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * Cinematic, full-body photograph of an (ohwx man:1.1), adorned in sunglasses. With a (filmic color grading:1.3) and (dramatic lighting:1.4), the image should encapsulate the subject's strong persona and create a narrative akin to a cinematic masterpiece
 * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/0138d07e-aeb5-43f7-b4fc-5e0935fda0ff" width="200" />
 -
+* photo of ohwx man walking in new york city, shot on Fujifilm Superia 400, wearing yeezy apparel, natural lighting, close up shot, 32k, cinematic composition, professional color grading, film grain, atmosphere, wondrous
+* <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/559b196f-5b9b-429e-b6b7-576cee873d94" width="200" />
+-
+* closeshot handsome photo of (ohwx man) (in a warrior armor ) in a coliseum, hdr, canon, hd, 8k, 4k, sharp focus
+* <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/79632c03-e4cd-4666-bae5-da45019b4430" width="200" />
+-
+* photo of ohwx man wearing a medieval armor, shot on Fujifilm Superia 400, natural lighting, next to crowded of people in ancient rome, close up shot, 32k, cinematic composition, professional color grading, film grain, atmosphere, wondrous
+* <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/32e90c48-41bf-4864-90a3-f19cd08015e5" width="200" />
+
+
 
 
