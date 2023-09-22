@@ -33,6 +33,18 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 -
 * photo of ohwx man wearing a medieval armor, shot on Fujifilm Superia 400, natural lighting, next to crowded of people in ancient rome, close up shot, 32k, cinematic composition, professional color grading, film grain, atmosphere, wondrous
 * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/32e90c48-41bf-4864-90a3-f19cd08015e5" width="200" />
+-
+* Cinematic, full-body photograph of an (ohwx man:1.1), adorned in eyeglasses. With a (filmic color grading:1.3) and (dramatic lighting:1.4), the image should encapsulate the subject's strong persona and create a narrative akin to a cinematic masterpiece
+* <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/624b8504-71f4-4f8e-add0-63cc774a2142" width="200" />
+-
+* portrait photo of (ohwx man:1.1) wearing an expensive White suit, white background, fit
+* <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/596c6d96-29d3-45fc-8b6a-bfd30c20090f" width="200" />
+-
+* photo of ohwx man warrior, modelshoot style, (extremely detailed CG unity 8k wallpaper), full shot body photo of the most beautiful artwork in the world, medieval armor, professional majestic oil painting by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, trending on ArtStation, trending on CGSociety, Intricate, High Detail, Sharp focus, dramatic, photorealistic painting art by midjourney and greg rutkowski
+* <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/5ea75fdd-cb66-4694-b234-c2113743ced1" width="200" />
+
+
+
 
 
 
