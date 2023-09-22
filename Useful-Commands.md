@@ -4,22 +4,22 @@
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-SECourses-C50C0C?style=for-the-badge&logo=youtube)](https://www.youtube.com/SECourses)  [![Furkan Gözükara LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkangozukara/)   [![Udemy](https://img.shields.io/static/v1?style=for-the-badge&message=Stable%20Diffusion%20Course&color=A435F0&logo=Udemy&logoColor=FFFFFF&label=Udemy)](https://www.udemy.com/course/stable-diffusion-dreambooth-lora-zero-to-hero/) [![Twitter Follow Furkan Gözükara](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GozukaraFurkan)
 
-## RunPod install latest cudnn
+## RunPod en son cudnn'i yükle
 
 ```apt list -a libcudnn8-dev```
 
 ```apt install libcudnn8=8.9.4.25-1+cuda11.8 libcudnn8-dev=8.9.4.25-1+cuda11.8```
 
-## Runpod quick commands
+## Runpod için komutlar
 
-* This will purge your python cache : ```pip cache purge```
-* This will turn of Pod after 2 minutes : ```sleep 2m; runpodctl stop pod $RUNPOD_POD_ID```
-* This will turn of Pod after 2 hours : ```sleep 2h; runpodctl stop pod $RUNPOD_POD_ID```
-* To download a google drive file into RunPod : gdown id_of_the_file - you can see id in the url when you copy
+* Bu python önbelleğinizi temizleyecektir : ```pip cache purge```
+* Bu, 2 dakika sonra Pod'u kapatacak : ```sleep 2m; runpodctl stop pod $RUNPOD_POD_ID```
+* Bu, 2 saat sonra Pod'u kapatacak : ```sleep 2h; runpodctl stop pod $RUNPOD_POD_ID```
+* Bir Google Drive dosyasını RunPod'a indirmek için: gdown id_of_the_file -kopyaladığınızda URL'de kimliği görebilirsiniz
 * * E.g. https://drive.google.com/file/d/1odxPpTJePQfMHxiO2jdeuYA7zxgvWg4c/view?usp=drive_link > ```gdown 1odxPpTJePQfMHxiO2jdeuYA7zxgvWg4c```
 
-## Download civitai model
-* Change url (https://civitai.com/api/download/models/89824) and model name (Consistent-Factor_v5.safetensors)
+## civitai model indirme
+* linki değiştir (https://civitai.com/api/download/models/89824) ve model adı (Consistent-Factor_v5.safetensors)
 * ![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/7cd583f0-635b-408b-a3ad-877a7eac2526)
 
 ```
@@ -44,20 +44,20 @@ pip install -r /workspace/stable-diffusion-webui/extensions/sd_dreambooth_extens
 pip install -U --pre xformers
 ```
 
-## Install Tensorflow With GPU On Windows
+## Windows'ta Tensorflow'u GPU ile Kurun
 
 ```
 python -m pip install "tensorflow<2.11
 ```
 
-## Below command will extract every frame of a 30 FPS video as PNG with ffmpeg
+## Aşağıdaki komut, 30 FPS'lik bir videonun her karesini ffmpeg ile PNG olarak çıkaracaktır.
 
 ```
 ffmpeg -i "org.mp4" -vf "fps=30.00" -start_number 100000 -q:v 1 %06d.png
 ``` 
 
 ## cuda check script
-### dont forget to change cudnn file path
+### cudnn dosya yolunu değiştirmeyi unutmayın
 ``` 
 import ctypes
 import torch
@@ -109,7 +109,7 @@ display_cuda_info()
 
 ```
 
-## Install Triton On Windows
+## Triton'u Windows'a yükleyin
 ```
 venv/scripts/activate
 ```
