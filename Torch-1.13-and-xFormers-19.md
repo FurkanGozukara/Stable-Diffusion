@@ -6,7 +6,7 @@
 
 Kanalımız : https://www.youtube.com/@SECourses
 
-Kararlı Difüzyon Oynatma Listesi : https://www.youtube.com/watch?v=mnCY8uM7E50&list=PL_pbwdIyffsmclLl0O144nQRnezKlNdx3
+Stable Diffusion Oynatma Listesi : https://www.youtube.com/watch?v=mnCY8uM7E50&list=PL_pbwdIyffsmclLl0O144nQRnezKlNdx3
 
 Torch 1.13 ve xFormers nasıl kurulur videosu : https://www.youtube.com/watch?v=pom3nQejaTs&list=PL_pbwdIyffsmclLl0O144nQRnezKlNdx3&index=25
 
@@ -14,17 +14,17 @@ Doğru venv'yi etkinleştirin
 
 Aşağıdaki komutları sırayla çalıştırın
 
-```pip kaldırma meşalesi```
+```pip uninstall torch```
 
 ```pip3 install torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117```
 
 **Aşağıdaki bu bağlantı yalnızca Python 3.10.x, Torch 1.13 ve Windows ile uyumludur**
 
-```pip kurulumu https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/xformers-0.0.21.dev541-cp310-cp310-win_amd64.whl```
+```pip install https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/xformers-0.0.21.dev541-cp310-cp310-win_amd64.whl```
 
 **Aşağıdaki bu bağlantı yalnızca Python 3.10.x ve Torch 1.13 ve Unix/Linux/RunPod ile uyumludur**
 
-```pip kurulumu https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/xformers-0.0.21.dev541-cp310-cp310-manylinux2014_x86_64.whl```
+```pip install https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/xformers-0.0.21.dev541-cp310-cp310-manylinux2014_x86_64.whl```
 
 En son sürüm
 ```
