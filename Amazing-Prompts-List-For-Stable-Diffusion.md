@@ -17,5 +17,8 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * Also After Detailer (ADetailer) were used to improve face quality with auto inpainting
 
 * High-resolution, full-body photograph of an (ohwx man:1.1) suitable for a popular Instagram post. (Fashion-forward:1.3), (urban backdrop:1.4), capturing the contemporary and vibrant energy of Instagram's aesthetics
-* ![01378-3836834155](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/d3cf8808-44b4-486f-9bb3-ae20b3fbe0e8)
 * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/d3cf8808-44b4-486f-9bb3-ae20b3fbe0e8" width="200" />
+-
+* High-definition, full-body photograph of an (ohwx man:1.1), featuring stylish eyeglasses. Utilizing (cinematic color grading:1.3) and (moody lighting:1.4), the image should depict the subject as a compelling character in a story yet to unfold
+* <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/4b0380db-4919-46f3-a3fa-6629a1912d55" width="200" />
+
