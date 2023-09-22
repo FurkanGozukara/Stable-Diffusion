@@ -13,7 +13,7 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * You can download images and use PNG info
 
 ### All Below Have Used DreamBooth SDXL Training, ohwx man rare token approach, no captions, 
-* Only used negative prompt is : drawing,painting,crayon,sketch,graphite,impressionist,noisy,blurry,soft,deformed,ugly
+* Only used negative prompt is : ```drawing,painting,crayon,sketch,graphite,impressionist,noisy,blurry,soft,deformed,ugly```
 * Also After Detailer (ADetailer) were used to improve face quality with auto inpainting
 
 * High-resolution, full-body photograph of an (ohwx man:1.1) suitable for a popular Instagram post. (Fashion-forward:1.3), (urban backdrop:1.4), capturing the contemporary and vibrant energy of Instagram's aesthetics
@@ -21,4 +21,9 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 -
 * High-definition, full-body photograph of an (ohwx man:1.1), featuring stylish eyeglasses. Utilizing (cinematic color grading:1.3) and (moody lighting:1.4), the image should depict the subject as a compelling character in a story yet to unfold
 * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/4b0380db-4919-46f3-a3fa-6629a1912d55" width="200" />
+-
+* Cinematic, full-body photograph of an (ohwx man:1.1), adorned in sunglasses. With a (filmic color grading:1.3) and (dramatic lighting:1.4), the image should encapsulate the subject's strong persona and create a narrative akin to a cinematic masterpiece
+* <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/0138d07e-aeb5-43f7-b4fc-5e0935fda0ff" width="200" />
+-
+
 
