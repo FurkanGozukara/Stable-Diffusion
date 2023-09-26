@@ -12,7 +12,7 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 
 * You can download images and use PNG info
 
-### All Below Have Used DreamBooth SDXL Training, ohwx man rare token approach, no captions, 
+### All Below Have Used DreamBooth SDXL Training, ohwx man rare token approach, no captions
 * Only used negative prompt is : ```drawing,painting,crayon,sketch,graphite,impressionist,noisy,blurry,soft,deformed,ugly```
 * Also After Detailer (ADetailer) were used to improve face quality with auto inpainting
 
@@ -69,6 +69,19 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 
 * cinematic photo ohwx man riding dinosaur in a jungle with mud, sunny day shiny clear sky . 35mm photograph,film,professional,4k,highly detailed
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/ad763174-38e1-4527-9752-8fc1c17191c7" width="200" />
+
+## More Styled Generations
+
+* You can download images and use PNG info
+
+### All Below Have Used DreamBooth SDXL Training, ohwx man rare token approach, no captions
+
+* After Detailer (ADetailer) used to improve face quality with auto inpainting
+
+* urban graffiti style photo of (ohwx man:1.1) . vibrant, edgy, street art, underground, spray paint effect
+* clean, minimalistic, soft, gentle, blurry, off-center
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/2d51bd0c-e3dd-428b-a73a-4e2816d69e07" width="200" />
+
 
 
 
