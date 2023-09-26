@@ -83,6 +83,18 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/2d51bd0c-e3dd-428b-a73a-4e2816d69e07" width="200" />
 
 
+* pop art style photo of (ohwx man:1.1) . bold colors, mass culture, comic style, ironical, vibrant, detailed,neutral
+* realistic
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/10cff26a-3856-4235-ba6e-403a0f227d3a" width="200" />
+
+
+* Lichtenstein style photo of (ohwx man:1.1) . Pop art, comic strip, bold, ironic, "realistic
+* traditional
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/e0026443-410d-4209-8913-5aa749bf8a4e" width="200" />
+ 
+* graffiti style photo of (ohwx man:1.1) . street art, bold, colorful, vibrant, dynamic, urban, rebellious, intricate,refined
+* subtle
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/257d9e27-d8c7-4755-b9cc-3a9616364662" width="200" />
 
 
 
