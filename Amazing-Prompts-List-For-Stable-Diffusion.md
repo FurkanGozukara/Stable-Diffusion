@@ -76,7 +76,8 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 
 ### All Below Have Used DreamBooth SDXL Training, ohwx man rare token approach, no captions
 
-* After Detailer (ADetailer) used to improve face quality with auto inpainting
+* After Detailer (ADetailer) used to improve face quality with auto inpainting in some cases
+* If it becomes to realistic disable ADetailer
 
 * urban graffiti style photo of (ohwx man:1.1) . vibrant, edgy, street art, underground, spray paint effect
 * clean, minimalistic, soft, gentle, blurry, off-center
@@ -97,8 +98,13 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/257d9e27-d8c7-4755-b9cc-3a9616364662" width="200" />
 
 
+* folk art depiction of photo of (ohwx man:1.1) . traditional, handmade, decorative, vibrant, detailed,modern
+* digital
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/49192579-1695-4616-9017-7a2e7466610a" width="200" />
 
-
+* comic photo of (ohwx man:1.1) . graphic illustration, comic art, graphic novel art, vibrant, highly detailed
+* photograph, deformed, glitch, noisy, realistic, stock photo
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/e18023d4-451d-49e6-b6b7-dc98d8406ba4" width="200" /> 
 
 
 
