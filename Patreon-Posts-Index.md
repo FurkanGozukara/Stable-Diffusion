@@ -18,7 +18,7 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
-### September 19 - 2023
+### September 27 - 2023
 [Auto Windows Installer For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/auto-windows-for-89914747)
 * 1 Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On Your Computer With SDXL
 
