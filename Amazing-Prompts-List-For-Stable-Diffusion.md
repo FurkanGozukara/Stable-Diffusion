@@ -106,11 +106,14 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * photograph, deformed, glitch, noisy, realistic, stock photo
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/e18023d4-451d-49e6-b6b7-dc98d8406ba4" width="200" /> 
 
+* pop art photo of (ohwx man:1.1) . vibrant, mass culture, comic style, bold lines, ironic
+*  soft, elegant, high culture, realistic, subtle lines
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/07574261-7971-481e-b88c-b14848c0b66c" width="200" /> 
 
 
-
-
-
+* DC Extended Universe photo of (ohwx man:1.1) . Superheroes, grim, darker tones, highly detailed
+*  ordinary people, cheerful, brighter tones, undetailed, mask, masked
+* * <img src="[https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/228070e0-7a5b-496f-9ae3-eda7028ca159]()" width="200" />
 
 
 
