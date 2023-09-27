@@ -123,3 +123,7 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * cartoon modern photo of (ohwx man:1.1) . mid-century modern aesthetic, stylized, geometric shapes, flat colors, highly detailed
 *  realistic, 3D, CG, anime, manga, black and white
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/6f8adfe6-50fe-478b-93ce-0abc16d477d4" width="200" /> 
+
+* calligraphy style photo of (ohwx man:1.1) . elegant, flowing, precise, detailed, intricate, hand-drawn,bold
+* blocky
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/a150afd9-71d5-4e04-b629-39df91bff17c" width="200" />
