@@ -113,7 +113,7 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 
 * DC Extended Universe photo of (ohwx man:1.1) . Superheroes, grim, darker tones, highly detailed
 *  ordinary people, cheerful, brighter tones, undetailed, mask, masked
-* * <img src="[https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/228070e0-7a5b-496f-9ae3-eda7028ca159]()" width="200" />
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/228070e0-7a5b-496f-9ae3-eda7028ca159" width="200" />
 
 
 
