@@ -116,4 +116,10 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/228070e0-7a5b-496f-9ae3-eda7028ca159" width="200" />
 
 
-
+* western comics art photo of (ohwx man:1.1) . bold lines, dynamic poses, vibrant colors, dramatic lighting, highly detailed
+*  anime, manga, 3D, CG, black and white
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/848f8f5a-70e5-43a5-9430-c8b39bd5af8d" width="200" />
+ 
+* cartoon modern photo of (ohwx man:1.1) . mid-century modern aesthetic, stylized, geometric shapes, flat colors, highly detailed
+*  realistic, 3D, CG, anime, manga, black and white
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/6f8adfe6-50fe-478b-93ce-0abc16d477d4" width="200" /> 
