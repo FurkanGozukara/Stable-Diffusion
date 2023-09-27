@@ -127,3 +127,5 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * calligraphy style photo of (ohwx man:1.1) . elegant, flowing, precise, detailed, intricate, hand-drawn,bold
 * blocky
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/a150afd9-71d5-4e04-b629-39df91bff17c" width="200" />
+
+
