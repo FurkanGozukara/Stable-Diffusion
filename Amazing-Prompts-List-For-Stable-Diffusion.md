@@ -188,3 +188,7 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/b763f6df-2863-4d7c-a31b-3bb41d01bbcf" width="200" />  
 
+* line art drawing photo of (ohwx man:1.1) . professional, sleek, modern, minimalist, graphic, line art, vector graphics
+* anime, photorealistic, 35mm film, deformed, glitch, blurry, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, mutated, realism, realistic, impressionism, expressionism, oil, acrylic
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/2090174f-c863-4baf-a77b-e9d8a26c6d53" width="200" />  
+
