@@ -150,4 +150,9 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
  
 * woodcut style photo of (ohwx man:1.1) . carved, bold lines, high contrast, rustic, handmade,smooth
 * soft
-* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/ee2f341a-daa3-4882-b129-cf096b395a1d" width="200" />  
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/ee2f341a-daa3-4882-b129-cf096b395a1d" width="200" />
+ 
+* stencil art of photo of (ohwx man:1.1) . sharp edges, bold, graphic, street art style, vibrant,soft
+* loose
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/25f28e83-d79c-450a-bf60-7085cd207bcc" width="200" />
+
