@@ -194,4 +194,9 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 
 * art deco interpretation of photo of (ohwx man:1.1) . geometric, bold, symmetrical, ornate, detailed, decorative,soft
 * organic
-* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/e38b7047-b2a5-4afe-917c-b8f9d9e47706" width="200" /> 
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/e38b7047-b2a5-4afe-917c-b8f9d9e47706" width="200" />
+ 
+* street art version of photo of (ohwx man:1.1) . urban, graffiti, spray paint, vibrant, bold, rough, rebellious,elegant
+* refined
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/58de8eff-4351-45a1-a220-7b74df2209ce" width="200" />
+
