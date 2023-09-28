@@ -158,4 +158,9 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 
 * action painting of photo of (ohwx man:1.1) . spontaneous, energetic, abstract, expressive, bold,precise
 * slow
-* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/dddb7547-8578-4de1-9511-4f62f1e389b3" width="200" /> 
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/dddb7547-8578-4de1-9511-4f62f1e389b3" width="200" />
+ 
+* glitch art of photo of (ohwx man:1.1) . distorted, digital, vibrant, abstract, modern,refined
+* traditional
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/cfbe7511-baae-4f3d-a8ee-86d0d3d9946a" width="200" /> 
+
