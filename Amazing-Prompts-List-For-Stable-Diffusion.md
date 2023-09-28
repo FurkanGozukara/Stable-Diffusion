@@ -156,3 +156,6 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * loose
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/25f28e83-d79c-450a-bf60-7085cd207bcc" width="200" />
 
+* action painting of photo of (ohwx man:1.1) . spontaneous, energetic, abstract, expressive, bold,precise
+* slow
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/dddb7547-8578-4de1-9511-4f62f1e389b3" width="200" /> 
