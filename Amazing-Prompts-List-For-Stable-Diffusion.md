@@ -215,6 +215,9 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
  
 * Iznik style photo of (ohwx man:1.1) . Turkish, ceramic, floral, highly detailed
 * non-Turkish, canvas, geometric, undetailed
-* * <img src="(https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/bd54fa83-9cc9-436e-a67d-1dd8295a41e2" width="200" />
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/bd54fa83-9cc9-436e-a67d-1dd8295a41e2" width="200" />
 
+* Cloisonné style photo of (ohwx man:1.1) . metalwork, enamel, intricate, highly detailed
+* woodwork, paint, simple, undetailed
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/24d932bc-c56e-418a-8b7a-35dd7b3f42ea" width="200" /> 
 
