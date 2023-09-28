@@ -135,3 +135,8 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * graffiti stencil art of photo of (ohwx man:1.1) . urban, bold, vibrant, street style, graphic,elegant
 * refined
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/c1cf34c5-2a99-4ed1-85d7-7695a2a4feec" width="200" />
+
+* gouache painting of photo of (ohwx man:1.1) . vibrant, opaque, smooth, rich, detailed,transparent
+* loose
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/c631fd32-394d-4e4d-ab11-369cd81d9dee" width="200" /> 
+
