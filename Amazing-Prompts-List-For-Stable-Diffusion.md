@@ -200,3 +200,7 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * refined
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/58de8eff-4351-45a1-a220-7b74df2209ce" width="200" />
 
+* woodcut style photo of (ohwx man:1.1) . carved, bold lines, high contrast, rustic, handmade,smooth
+* soft
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/9e569b31-0745-4fbd-921e-e67c641ac5fb" width="200" /> 
+
