@@ -229,3 +229,6 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * fantasy, non-family, urban, undetailed
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/97e521c5-3682-4e99-8004-a0f801a4af2c" width="200" />
 
+* Frozen photo of (ohwx man:1.1) . Animated, fairytale, ice magic, highly detailed
+* live-action, realistic, fire magic, undetailed
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/584c7cf3-edf4-4cff-af01-2438ca1af676" width="200" /> 
