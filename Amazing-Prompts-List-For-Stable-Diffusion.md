@@ -43,9 +43,6 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * photo of ohwx man warrior, modelshoot style, (extremely detailed CG unity 8k wallpaper), full shot body photo of the most beautiful artwork in the world, medieval armor, professional majestic oil painting by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, trending on ArtStation, trending on CGSociety, Intricate, High Detail, Sharp focus, dramatic, photorealistic painting art by midjourney and greg rutkowski
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/5ea75fdd-cb66-4694-b234-c2113743ced1" width="200" />
 
-* High-resolution, full-body photograph of an (ohwx man:1.1) suitable for a popular Instagram post. (Fashion-forward:1.3), (urban backdrop:1.4), capturing the contemporary and vibrant energy of Instagram's aesthetics
-* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/73c64613-0d36-4900-9ad1-e2fb9b598491" width="200" />
-
 * 8K, ultra-detailed full-body shot of an (ohwx man:1.1), confidently wearing eyeglasses. Enhanced with (cinematic grading:1.3) and (artistic lighting:1.4), the image should portray the subject as a captivating character in a modern film
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/79a8a4bd-2e5d-43b0-bbc0-b5c075355fe7" width="200" />
 
