@@ -209,3 +209,6 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * rural, gallery art, abstract, low detail
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/16a8ad0f-843c-45ed-b18e-378d6d74c946" width="200" />  
 
+* Symbolist style photo of (ohwx man:1.1) . mythical, dreamy, spiritual, highly detailed
+* realistic, practical, secular, undetailed
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/d1e46a9e-79cf-447c-8c4e-967cbd4c5501" width="200" />  
