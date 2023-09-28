@@ -231,4 +231,9 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 
 * Frozen photo of (ohwx man:1.1) . Animated, fairytale, ice magic, highly detailed
 * live-action, realistic, fire magic, undetailed
-* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/584c7cf3-edf4-4cff-af01-2438ca1af676" width="200" /> 
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/584c7cf3-edf4-4cff-af01-2438ca1af676" width="200" />
+ 
+* Interstellar photo of (ohwx man:1.1) . Sci-fi, space travel, wormholes, highly detailed
+* romantic comedy, earth travel, roads, undetailed
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/5145e3e4-86de-4eef-8be3-13271d6aa9e2" width="200" /> 
+
