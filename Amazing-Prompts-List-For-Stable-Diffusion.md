@@ -192,3 +192,6 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * anime, photorealistic, 35mm film, deformed, glitch, blurry, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, mutated, realism, realistic, impressionism, expressionism, oil, acrylic
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/2090174f-c863-4baf-a77b-e9d8a26c6d53" width="200" />  
 
+* art deco interpretation of photo of (ohwx man:1.1) . geometric, bold, symmetrical, ornate, detailed, decorative,soft
+* organic
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/e38b7047-b2a5-4afe-917c-b8f9d9e47706" width="200" /> 
