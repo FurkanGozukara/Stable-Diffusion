@@ -140,3 +140,6 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * loose
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/c631fd32-394d-4e4d-ab11-369cd81d9dee" width="200" /> 
 
+* photo of (ohwx man:1.1) in haute couture. Luxury, designer brands, runway-ready, tailored, chic
+* casual, sporty, laid-back, street style, loose
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/d42aa276-316b-47d2-9719-926aee891e92" width="200" />  
