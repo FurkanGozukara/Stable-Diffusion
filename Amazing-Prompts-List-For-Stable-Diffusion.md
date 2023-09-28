@@ -164,3 +164,6 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * traditional
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/cfbe7511-baae-4f3d-a8ee-86d0d3d9946a" width="200" /> 
 
+* psychedelic version of photo of (ohwx man:1.1) . vibrant color, distorted visuals, swirling patterns, trippy, detailed, intricate,neutral
+* realistic
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/6c790920-689e-487f-974e-fa2873afcc4b" width="200" /> 
