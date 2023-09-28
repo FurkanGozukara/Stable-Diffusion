@@ -92,7 +92,7 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 
 * comic photo of (ohwx man:1.1) . graphic illustration, comic art, graphic novel art, vibrant, highly detailed
 * photograph, deformed, glitch, noisy, realistic, stock photo
-* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/e18023d4-451d-49e6-b6b7-dc98d8406ba4" width="200" /> 
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/e18023d4-451d-49e6-b6b7-dc98d8406ba4" width="200" /> <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/e85b3922-18d9-4226-85d8-7977fc7a4c75" width="200" /> 
 
 * pop art photo of (ohwx man:1.1) . vibrant, mass culture, comic style, bold lines, ironic
 *  soft, elegant, high culture, realistic, subtle lines
@@ -168,10 +168,7 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * anime, manga, 3D, CG, western comics
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/d0c48681-ecc9-4582-b028-b9a28b59e61c" width="200" /> 
 
-* comic photo of (ohwx man:1.1) . graphic illustration, comic art, graphic novel art, vibrant, highly detailed
-* photograph, deformed, glitch, noisy, realistic, stock photo
-* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/e85b3922-18d9-4226-85d8-7977fc7a4c75" width="200" />
- 
+
 * analog film photo photo of (ohwx man:1.1) . faded film, desaturated, 35mm photo, grainy, vignette, vintage, Kodachrome, Lomography, stained, highly detailed, found footage
 * painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/b763f6df-2863-4d7c-a31b-3bb41d01bbcf" width="200" />  
