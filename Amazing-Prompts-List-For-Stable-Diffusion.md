@@ -204,3 +204,6 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * soft
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/9e569b31-0745-4fbd-921e-e67c641ac5fb" width="200" /> 
 
+* glass painting of photo of (ohwx man:1.1) . translucent, vibrant, decorative, intricate, glossy,matte
+* dull
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/716b10d7-8c21-475f-8f3d-75b072981f47" width="200" /> 
