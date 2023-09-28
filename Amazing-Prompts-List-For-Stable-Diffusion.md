@@ -142,4 +142,9 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 
 * photo of (ohwx man:1.1) in haute couture. Luxury, designer brands, runway-ready, tailored, chic
 * casual, sporty, laid-back, street style, loose
-* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/d42aa276-316b-47d2-9719-926aee891e92" width="200" />  
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/d42aa276-316b-47d2-9719-926aee891e92" width="200" />
+ 
+* scratchboard technique on photo of (ohwx man:1.1) . contrast, engraved, black and white, detailed, dramatic,colorful
+* soft
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/784f0fc2-833f-4547-8c1d-18ec42fdd494" width="200" /> 
+ 
