@@ -128,4 +128,10 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * blocky
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/a150afd9-71d5-4e04-b629-39df91bff17c" width="200" />
 
+* vector animation photo of (ohwx man:1.1) . digital, clean lines, geometric shapes, bold colors, highly detailed
+* stop-motion, claymation, 3D, CG, black and white
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/e11065af-f913-40e4-ae06-6865f4d9f368" width="200" />
 
+* graffiti stencil art of photo of (ohwx man:1.1) . urban, bold, vibrant, street style, graphic,elegant
+* refined
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/c1cf34c5-2a99-4ed1-85d7-7695a2a4feec" width="200" />
