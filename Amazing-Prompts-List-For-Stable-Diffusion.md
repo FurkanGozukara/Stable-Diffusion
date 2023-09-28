@@ -212,3 +212,6 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * tight
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/d72dccb7-9e0b-419f-a729-cd844a27afc0" width="200" /> 
 
+* photo of (ohwx man:1.1) rocking the rock style. Leather, band tees, edgy, black
+* preppy, pastel, boho, cute
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/7b886e77-5dd5-4f7a-a87e-f780ef9eade6" width="200" /> 
