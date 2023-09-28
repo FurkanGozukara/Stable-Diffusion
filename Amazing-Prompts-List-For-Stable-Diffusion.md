@@ -174,4 +174,9 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 
 * tenebrism style photo of (ohwx man:1.1) . dark, dramatic illumination, high contrast, detailed
 * light, flat lighting, low contrast, low detail
-* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/bb59ecb4-274f-43a5-b444-1db9b11273ad" width="200" /> 
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/bb59ecb4-274f-43a5-b444-1db9b11273ad" width="200" />
+ 
+* graphic novel art photo of (ohwx man:1.1) . detailed, expressive, ranges from black and white to full color, often more realistic than traditional comics, highly detailed
+* anime, manga, 3D, CG, western comics
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/d0c48681-ecc9-4582-b028-b9a28b59e61c" width="200" /> 
+
