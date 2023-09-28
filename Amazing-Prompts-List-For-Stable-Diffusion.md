@@ -221,3 +221,6 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * woodwork, paint, simple, undetailed
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/24d932bc-c56e-418a-8b7a-35dd7b3f42ea" width="200" /> 
 
+* Jurassic Park photo of (ohwx man:1.1) . Adventure, dinosaurs, Isla Nublar, highly detailed
+* undramatic, no dinosaurs, mainland, undetailed
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/22a3da27-b4d0-4ae2-913f-6554442a43c1" width="200" />
