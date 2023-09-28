@@ -211,4 +211,10 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 
 * Symbolist style photo of (ohwx man:1.1) . mythical, dreamy, spiritual, highly detailed
 * realistic, practical, secular, undetailed
-* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/d1e46a9e-79cf-447c-8c4e-967cbd4c5501" width="200" />  
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/d1e46a9e-79cf-447c-8c4e-967cbd4c5501" width="200" />
+ 
+* Iznik style photo of (ohwx man:1.1) . Turkish, ceramic, floral, highly detailed
+* non-Turkish, canvas, geometric, undetailed
+* * <img src="(https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/bd54fa83-9cc9-436e-a67d-1dd8295a41e2" width="200" />
+
+
