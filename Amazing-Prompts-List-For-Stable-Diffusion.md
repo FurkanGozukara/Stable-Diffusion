@@ -172,3 +172,6 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * geometric, earthy, low detail, not H.R. Giger-inspired
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/3c2a5043-ce7b-48d5-bd77-0991bf2d6da8" width="200" />  
 
+* tenebrism style photo of (ohwx man:1.1) . dark, dramatic illumination, high contrast, detailed
+* light, flat lighting, low contrast, low detail
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/bb59ecb4-274f-43a5-b444-1db9b11273ad" width="200" /> 
