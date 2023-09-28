@@ -237,3 +237,6 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * romantic comedy, earth travel, roads, undetailed
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/5145e3e4-86de-4eef-8be3-13271d6aa9e2" width="200" /> 
 
+* Inside Llewyn Davis photo of (ohwx man:1.1) . Drama, folk music, 1960s, highly detailed
+* action, pop music, modern day, undetailed
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/7b3077fa-3cf0-483b-b07e-680dfba5558a" width="200" /> 
