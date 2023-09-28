@@ -219,3 +219,7 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * mosaic of photo of (ohwx man:1.1) . tiled, geometric, vibrant, intricate, decorative,soft
 * organic
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/31ceb1a0-6ec4-460a-91b6-4a64ef405270" width="200" />  
+
+* pop art style photo of (ohwx man:1.1) . bold colors, mass culture, comic style, ironical, vibrant, detailed,neutral
+* realistic
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/fe6381b3-c891-424d-94f4-7b0bebfdeebc" width="200" />   
