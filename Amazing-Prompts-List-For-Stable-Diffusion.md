@@ -167,3 +167,8 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 * psychedelic version of photo of (ohwx man:1.1) . vibrant color, distorted visuals, swirling patterns, trippy, detailed, intricate,neutral
 * realistic
 * * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/6c790920-689e-487f-974e-fa2873afcc4b" width="200" /> 
+
+* biomechanical style photo of (ohwx man:1.1) . organic meets mechanical, alien, detailed, H.R. Giger-inspired
+* geometric, earthy, low detail, not H.R. Giger-inspired
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/3c2a5043-ce7b-48d5-bd77-0991bf2d6da8" width="200" />  
+
