@@ -206,4 +206,9 @@ How to install Python and Stable Diffusion tutorial : https://youtu.be/B5U7LJOvH
 
 * glass painting of photo of (ohwx man:1.1) . translucent, vibrant, decorative, intricate, glossy,matte
 * dull
-* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/716b10d7-8c21-475f-8f3d-75b072981f47" width="200" /> 
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/716b10d7-8c21-475f-8f3d-75b072981f47" width="200" />
+ 
+* ink wash painting of photo of (ohwx man:1.1) . monochromatic, loose, fluid, expressive, delicate,colorful
+* tight
+* * <img src="https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/d72dccb7-9e0b-419f-a729-cd844a27afc0" width="200" /> 
+
