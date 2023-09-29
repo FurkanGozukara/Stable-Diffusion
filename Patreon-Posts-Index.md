@@ -19,7 +19,7 @@ Your Patreon support is tremendously important for me so thank you so much
 ## Patreon Exclusive Content 
 
 ### September 27 - 2023
-[Auto Windows Installer For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/auto-runpod-for-89919157)
+[Auto RunPod Installer For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/auto-runpod-for-89919157)
 * 1 Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On RunPod With SDXL
 
 ### September 27 - 2023
