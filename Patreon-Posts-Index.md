@@ -139,8 +139,8 @@ Your Patreon support is tremendously important for me so thank you so much
 * This script will update ControlNet extension to its latest version and also automatically download all model files of ControlNet
 
 ### June 21 - 2023
-[Automatic ControlNet Installer And Downloader BAT File](https://www.patreon.com/posts/84875387)
-* These scripts will clone ControlNet repo and download all of the ControlNet models into the correct folder automatically. Super convenient.
+[Automatic ControlNet Installer And Downloader For Windows BAT File](https://www.patreon.com/posts/84875387)
+* Scripts will clone ControlNet repo and download all of the ControlNet models with SDXL into the correct folder automatically for Windows
 
 ### June 20 - 2023
 [Auto Installer Bat File For Latest cuDNN dll files & How To Manually Install & Update](https://www.patreon.com/posts/auto-installer-84830198)
