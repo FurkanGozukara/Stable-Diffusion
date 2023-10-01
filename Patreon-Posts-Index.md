@@ -192,8 +192,8 @@ Your Patreon support is tremendously important for me so thank you so much
 * As shown in the tutorial video, the scripts I have developed make voice cloning and text-to-speech synthesis much easier and more efficient.
 
 ### May 4 - 2023
-[Sort AI Generated Images By Their Similarity Script](https://www.patreon.com/posts/sort-ai-images-82478694)
-* Follow the tutorial and download the attached activate.bat and findBestImages.py files. New findbestimagesV2 added (model + lora info)
+[Sort AI Generated Images By Their Similarity With DeepFace & RetinaFace](https://www.patreon.com/posts/sort-ai-images-82478694)
+* With DeepFace & RetinaFace libraries we will sort AI generated images with best accuracy to your original. Thus, you can find best ones easy
 
 ### April 30 - 2023
 [Enhanced DeepFloyd-IF Kaggle Notebook File](https://www.patreon.com/posts/enhanced-if-file-82253574)
