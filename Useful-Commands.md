@@ -8,7 +8,7 @@
 
 ```apt list -a libcudnn8-dev```
 
-```apt install libcudnn8=8.9.4.25-1+cuda11.8 libcudnn8-dev=8.9.4.25-1+cuda11.8```
+```apt install libcudnn8=8.9.5.29-1+cuda11.8 libcudnn8-dev=8.9.5.29-1+cuda11.8```
 
 ## Runpod quick commands
 
