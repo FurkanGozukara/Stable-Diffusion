@@ -147,8 +147,8 @@ Your Patreon support is tremendously important for me so thank you so much
 * Attached bat file will automatically download 8.9.2.26 cuDNN dll files and replace the ones that comes with default Torch installation 
 
 ### June 19 - 2023
-[Auto Installer Bat Files For Automatic1111 & DreamBooth](https://www.patreon.com/posts/auto-installer-84773926)
-* Automatic Installer For Stable Diffusion Automatic1111 Web UI along with latest DreamBooth extension, Cuda and xFormers. 1 Click installer.
+[Auto Installer Bat Files For Automatic1111 & DreamBooth Extension On Windows](https://www.patreon.com/posts/auto-installer-84773926)
+* Included BAT script files will clone and install fully automatically Automatic1111 SD Web UI and DreamBooth extension for you on Windows.
 
 ### June 18 - 2023
 [RunPod Auto DreamBooth Extension Of Automatic1111 Web UI & Latest Libraries Installer Script](https://www.patreon.com/posts/runpod-auto-84716845)
