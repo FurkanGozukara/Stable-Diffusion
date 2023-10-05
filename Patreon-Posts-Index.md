@@ -151,8 +151,8 @@ Your Patreon support is tremendously important for me so thank you so much
 * Automatic Installer For Stable Diffusion Automatic1111 Web UI along with latest DreamBooth extension, Cuda and xFormers. 1 Click installer.
 
 ### June 18 - 2023
-[RunPod Auto DreamBooth & Latest Libraries Installer Script](https://www.patreon.com/posts/runpod-auto-84716845)
-* Upgrade Auto1111 Latest, install latest libraries for best performance, install latest DreamBooth with 1 click installer, 19.5 it/s RTX 3090
+[RunPod Auto DreamBooth Extension Of Automatic1111 Web UI & Latest Libraries Installer Script](https://www.patreon.com/posts/runpod-auto-84716845)
+* This script will install working version of DreamBooth extension of Automatic1111 Web UI fully automatically for you on RunPod. 
 
 ### June 16 - 2023
 [Core i7 10700F vs Core i9 13900K](https://www.patreon.com/posts/core-i7-10700f-84640971)
