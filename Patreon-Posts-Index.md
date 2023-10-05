@@ -96,7 +96,7 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ### July 21 - 2023
 [1 Click RunPod Automatic1111 Web UI SDXL Installer](https://www.patreon.com/posts/1-click-runpod-86438018)
-* 1 Click Installer for Automatic1111 Web UI on RunPod with SDXL support. Installs latest Automatic1111 Web UI and SDXL Models.
+* 1 Click Installer for Automatic1111 Web UI on RunPod with SDXL support. Installs latest Automatic1111 Web UI and SDXL Models with best VAE.
 
 ### July 19 - 2023
 [Automatic Windows Installer For SDXL & Automatic1111 Web UI](https://www.patreon.com/posts/automatic-for-ui-86307255)
