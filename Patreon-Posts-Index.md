@@ -18,6 +18,14 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### October 7 - 2023
+[Tortoise TTS Fast (tortoise-tts-fast) Windows Auto Installer BAT Script](https://www.patreon.com/posts/tortoise-tts-tts-90496485)
+* 1 Click installer for tortoise-tts-fast on Windows. It will make its own VENV so will not affect any other AI apps such as Stable Diffusion.
+
+### October 5 - 2023
+[Amazing Prompt List For DreamBooth or LoRA Trained Stable Diffusion XL (SDXL) & SD 1.5 Based Models](https://www.patreon.com/posts/amazing-prompt-1-90346033)
+* Specially crafted very best Stable Diffusion XL (SDXL) + SD 1.5 based models prompt list for DreamBooth and LoRA trained models.
+
 ### September 27 - 2023
 [Auto RunPod Installer For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/auto-runpod-for-89919157)
 * 1 Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On RunPod With SDXL
