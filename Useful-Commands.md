@@ -10,6 +10,15 @@
 
 ```apt install libcudnn8=8.9.5.29-1+cuda11.8 libcudnn8-dev=8.9.5.29-1+cuda11.8```
 
+## How To Git Add LFS on Unix
+```
+apt update
+apt install git
+```
+```
+git add --verbose . > ../progress.txt & percent=0; while [[ $percent -le 99 && $percent -ge 0 ]]; do num1=$(cat ../progress.txt | wc -l); num2=$(find . -type f -not -path "./.git/*" | wc -l); percent=$((num1*100 / (num2 - 3) )); echo $percent"%"; sleep 1; done; echo "DONE"; sleep 1; rm ../progress.txt
+```
+
 ## Runpod quick commands
 
 * This will purge your python cache : ```pip cache purge```
