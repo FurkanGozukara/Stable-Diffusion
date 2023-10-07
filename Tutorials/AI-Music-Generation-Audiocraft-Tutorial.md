@@ -54,14 +54,6 @@ Open cmd type
 git clone https://github.com/facebookresearch/audiocraft
 ```
 
-**After git cloned enter inside audiocraft and open requirements.txt file with notepad or notepad++ or etc**
-
-**Add below code to the very beginning of the txt file save and close**
-
-```
---extra-index-url https://download.pytorch.org/whl/cu118
-```
-
 Move into cloned folder on the cmd
 
 ```
@@ -99,7 +91,23 @@ cd ..
 ```
 
 ```
-pip install -r requirements.txt
+for /F "tokens=*" %%i in ('type requirements.txt ^| findstr /V "^#"') do pip install %%i
+```
+
+```
+pip uninstall torch --yes
+```
+
+```
+pip uninstall torchaudio --yes
+```
+
+```
+pip uninstall torchvision --yes
+```
+
+```
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
 
 Then we are ready to start the application. Whenever you start the application you need to activate venv. For activating venv open a new cmd window in cloned repo, execute below command and it will work
