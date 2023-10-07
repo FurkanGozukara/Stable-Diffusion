@@ -101,9 +101,13 @@ pip uninstall torchaudio -y
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
 
-This will install latest development version xformers. This may not work with older cards. 
+This will install stable xFormers version
 ```
 pip install xformers==0.0.22
+```
+
+```
+pip install gradio
 ```
 
 Then we are ready to start the application. Whenever you start the application you need to activate venv. For activating venv open a new cmd window in cloned repo, execute below command and it will work
