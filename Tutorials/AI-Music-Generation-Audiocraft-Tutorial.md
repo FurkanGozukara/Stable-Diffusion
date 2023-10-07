@@ -70,31 +70,14 @@ Enter incide venv - scripts and activate
 
 ```
 cd venv
+```
+
+```
 cd scripts
+```
+
+```
 activate
-```
-
-Execute below commands all 1 by 1 or you can use our [auto installer](https://www.patreon.com/posts/ai-music-auto-84334460)
-
-```
-cd ..
-cd ..
-```
-
-```
-pip install -e .
-```
-
-```
-pip uninstall torch -y
-```
-
-```
-pip uninstall torchvision -y
-```
-
-```
-pip uninstall torchaudio -y
 ```
 
 ```
@@ -106,8 +89,18 @@ This will install stable xFormers version
 pip install xformers==0.0.22
 ```
 
+Execute below commands all 1 by 1 or you can use our [auto installer](https://www.patreon.com/posts/ai-music-auto-84334460)
+
 ```
-pip install gradio
+cd ..
+```
+
+```
+cd ..
+```
+
+```
+pip install -e .
 ```
 
 Then we are ready to start the application. Whenever you start the application you need to activate venv. For activating venv open a new cmd window in cloned repo, execute below command and it will work
