@@ -54,7 +54,11 @@ Open cmd type
 git clone https://github.com/facebookresearch/audiocraft
 ```
 
-Move into cloned folder
+**After git cloned enter inside audiocraft and open requirements.txt file with notepad or notepad++ or etc**
+
+**Remove xformers line and save back. We have to make this change due to mistake of the repo developers**
+
+Move into cloned folder on the cmd
 
 ```
 cd audiocraft
@@ -71,6 +75,7 @@ Enter incide venv - scripts and activate
 ```
 cd venv
 ```
+
 
 ```
 cd scripts
