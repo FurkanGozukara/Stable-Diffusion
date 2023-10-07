@@ -103,7 +103,7 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 
 This will install latest development version xformers. This may not work with older cards. 
 ```
-pip install -U --pre xformers
+pip install xformers==0.0.22
 ```
 
 Then we are ready to start the application. Whenever you start the application you need to activate venv. For activating venv open a new cmd window in cloned repo, execute below command and it will work
