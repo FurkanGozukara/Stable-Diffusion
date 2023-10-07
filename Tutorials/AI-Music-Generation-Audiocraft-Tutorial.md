@@ -54,6 +54,10 @@ Open cmd type
 git clone https://github.com/facebookresearch/audiocraft
 ```
 
+```
+python.exe -m pip install --upgrade pip
+```
+
 Move into cloned folder on the cmd
 
 ```
