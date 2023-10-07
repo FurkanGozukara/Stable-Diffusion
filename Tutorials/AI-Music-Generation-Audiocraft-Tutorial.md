@@ -80,22 +80,12 @@ Enter incide venv - scripts and activate
 cd venv
 ```
 
-
 ```
 cd scripts
 ```
 
 ```
 activate
-```
-
-```
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-```
-
-This will install stable xFormers version
-```
-pip install xformers==0.0.22
 ```
 
 Execute below commands all 1 by 1 or you can use our [auto installer](https://www.patreon.com/posts/ai-music-auto-84334460)
@@ -109,7 +99,7 @@ cd ..
 ```
 
 ```
-pip install -e .
+pip install -r requirements.txt
 ```
 
 Then we are ready to start the application. Whenever you start the application you need to activate venv. For activating venv open a new cmd window in cloned repo, execute below command and it will work
