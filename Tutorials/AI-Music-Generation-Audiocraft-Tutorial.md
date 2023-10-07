@@ -45,17 +45,26 @@ A tutorial that shows how to install (2:56) : https://youtu.be/OI1LEN-SgLM?t=176
 
 ## Installation
 
+Execute below commands all 1 by 1 or you can use our [auto installer](https://www.patreon.com/posts/ai-music-auto-84334460)
+
+![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/66f6b729-1271-4955-9176-558ca680a29d)
+
 Main Repo url : https://github.com/facebookresearch/audiocraft
 
 Enter inside the drive or folder where you want to install
 
 Open cmd type 
+
 ```
 git clone https://github.com/facebookresearch/audiocraft
 ```
 
 ```
 python.exe -m pip install --upgrade pip
+```
+
+```
+pip3 install torch==2.0.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
 
 Move into cloned folder on the cmd
@@ -84,8 +93,6 @@ cd scripts
 activate
 ```
 
-Execute below commands all 1 by 1 or you can use our [auto installer](https://www.patreon.com/posts/ai-music-auto-84334460)
-
 ```
 cd ..
 ```
@@ -95,29 +102,16 @@ cd ..
 ```
 
 ```
-for /F "tokens=*" %i in ('type requirements.txt ^| findstr /V "^#"') do pip install %i
-```
-
-```
-pip uninstall torch --yes
-```
-
-```
-pip uninstall torchaudio --yes
-```
-
-```
-pip uninstall torchvision --yes
-```
-
-```
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+pip install -e .
 ```
 
 Then we are ready to start the application. Whenever you start the application you need to activate venv. For activating venv open a new cmd window in cloned repo, execute below command and it will work
 
 ```
 call .\venv\Scripts\activate.bat
+```
+
+```
 python .\demos\musicgen_app.py --inbrowser
 ```
 
