@@ -91,7 +91,7 @@ cd ..
 ```
 
 ```
-for /F "tokens=*" %%i in ('type requirements.txt ^| findstr /V "^#"') do pip install %%i
+for /F "tokens=*" %i in ('type requirements.txt ^| findstr /V "^#"') do pip install %i
 ```
 
 ```
