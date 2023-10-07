@@ -141,6 +141,8 @@ I have even shown how you can continue training by using your last checkpoint.
 
 ### Part 3, generating cloned voice via tortoise-tts-fast
 
+**(7 October 2023) Tortoise TTS Fast (tortoise-tts-fast) Windows Auto Installer BAT Script > https://www.patreon.com/posts/tortoise-tts-tts-90496485**
+
 commit id : f4820a8eabdd559eb369a07d60cbe03960ddd54d
 
  https://github.com/152334H/tortoise-tts-fast
