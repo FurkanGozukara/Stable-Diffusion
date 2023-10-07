@@ -56,7 +56,11 @@ git clone https://github.com/facebookresearch/audiocraft
 
 **After git cloned enter inside audiocraft and open requirements.txt file with notepad or notepad++ or etc**
 
-**Remove xformers line and save back. We have to make this change due to mistake of the repo developers**
+**Add below code to the very beginning of the txt file save and close**
+
+```
+--extra-index-url https://download.pytorch.org/whl/cu118
+```
 
 Move into cloned folder on the cmd
 
