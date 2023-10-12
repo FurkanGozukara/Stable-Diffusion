@@ -20,7 +20,7 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ### October 11 - 2023
 [SOTA (The Very Best) Image Captioning Models Script For Stable Diffusion And More](https://www.patreon.com/posts/sota-very-best-90744385)
-* 1 Click install and use SOTA image captioning models on your computer. Supports 8 bit loading as well. coca_ViT-L-14 and blip2-opt-6.7b and more
+* 1 Click install and use SOTA image captioning models on your computer. Supports 8 bit loading as well. 90+ CLIP Vision and 5+ Caption models
 
 ### October 7 - 2023
 [Tortoise TTS Fast (tortoise-tts-fast) Windows Auto Installer BAT Script](https://www.patreon.com/posts/tortoise-tts-tts-90496485)
