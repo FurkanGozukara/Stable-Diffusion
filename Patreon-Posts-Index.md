@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### October 16 - 2023
+[1 Click Auto RunPod Installer For Rerender A Video - 1 Click Video To Anime](https://www.patreon.com/posts/1-click-auto-for-91039997)
+* Rerender is an amazing new AI that allows you to turn videos into Anime with 1 click. RunPod auto install scripts and instructions are here.
+
 ### October 11 - 2023
 [SOTA (The Very Best) Image Captioning Models Script For Stable Diffusion And More](https://www.patreon.com/posts/sota-very-best-90744385)
 * 1 Click install and use SOTA image captioning models on your computer. Supports 8 bit loading as well. 90+ CLIP Vision and 5+ Caption models. Supports  laion/CLIP-ViT-bigG-14-laion2B-39B-b160k too
