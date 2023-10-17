@@ -37,6 +37,8 @@
 * My current driver : 536.23
 
 
+## Upgrade Pip
 
+```python.exe -m pip install --upgrade pip```
 
 
