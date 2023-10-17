@@ -6,6 +6,8 @@
 
 # How To Get Huge Speed Up Boost With RTX Acceleration
 
+## Full Tutorial Link : will be added hopefully once published
+
 ## Prerequisites
 
 **Full tutorial for python and git installation**
