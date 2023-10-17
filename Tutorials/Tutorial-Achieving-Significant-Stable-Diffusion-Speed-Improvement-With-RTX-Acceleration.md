@@ -35,6 +35,7 @@
 * Stable-Diffusion-WebUI-TensorRT Extension
 * * https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT
 * My current driver : 536.23
+* Download cudnn files : https://developer.nvidia.com/cudnn
 
 
 ## Upgrade Pip
