@@ -18,7 +18,7 @@
 ## Auto Installer
 
 * Installer Script Link : https://www.patreon.com/posts/automatic-for-ui-86307255
-* The below installer will 1 click install Automatic1111 Web UI for you
+* The above installer will 1 click install Automatic1111 Web UI for you
 * It will also automatically download following models
 * * SDXL 1.0 Base, SDXL 1.0 Refiner, SDXL FP16 VAE (best VAE)
 * * Realistic Vision 5.1, SD 1.5 Base Model, SD 1.5 based models best VAE
