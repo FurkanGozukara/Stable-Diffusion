@@ -35,7 +35,11 @@
 * Stable-Diffusion-WebUI-TensorRT Extension
 * * https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT
 * My current driver : 536.23
-* Download cudnn files : https://developer.nvidia.com/cudnn
+* Download cuDNN v8.9.4 (August 8th, 2023), for CUDA 11.x
+* * https://developer.nvidia.com/rdp/cudnn-archive
+* * https://developer.nvidia.com/downloads/compute/cudnn/secure/8.9.4/local_installers/11.x/cudnn-windows-x86_64-8.9.4.25_cuda11-archive.zip/
+* Compared driver : 545.84
+
 
 
 ## Upgrade Pip
