@@ -39,7 +39,8 @@
 * * https://developer.nvidia.com/rdp/cudnn-archive
 * * https://developer.nvidia.com/downloads/compute/cudnn/secure/8.9.4/local_installers/11.x/cudnn-windows-x86_64-8.9.4.25_cuda11-archive.zip/
 * Compared driver : 545.84
-
+* Detailed info about optimal resolutions in below link
+* * https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT/issues/45
 
 
 ## Upgrade Pip
