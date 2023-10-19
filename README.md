@@ -342,10 +342,10 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [**Turn Videos Into Animation With Just 1 Click - ReRender A Video Tutorial -  Installer For Windows**](https://youtu.be/a8oeCFyM5gA)
 
-[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/JEgSX0zJzcflLDUUA5gcf.png)](https://youtu.be/a8oeCFyM5gA)
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/ODpemx_36c1iPZc1kMwVv.png)](https://youtu.be/a8oeCFyM5gA)
 
 53.) RunPod - Cloud - Paid
 
 [**Turn Videos Into Animation / 3D Just 1 Click - ReRender A Video Tutorial -  Installer For RunPod**](https://youtu.be/cVf9Qf_pKks)
 
-[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/eTtoQPR1M4xJymPRgw27b.png)](https://youtu.be/cVf9Qf_pKks)
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/6MFsLs-f_GZR2L1Q6z413.png)](https://youtu.be/cVf9Qf_pKks)
