@@ -30,6 +30,7 @@
 ## SDXL DreamBooth Config
 * Config File > https://www.patreon.com/posts/very-best-for-of-89213064
 * Quick Tutorial > https://www.youtube.com/watch?v=EEV8RPohsbw
+* Amazing Prompts > https://www.patreon.com/posts/amazing-prompt-1-90346033
 
 ## Resources Links
 * Announcement Link
