@@ -24,6 +24,8 @@
 * It will also automatically download following models
 * * SDXL 1.0 Base, SDXL 1.0 Refiner, SDXL FP16 VAE (best VAE)
 * * Realistic Vision 5.1, SD 1.5 Base Model, SD 1.5 based models best VAE
+* It also has an option to download pre-compiled TensorRT files for:
+* * Realistic Vision 5.1, SDXL 1.0, SD 1.5 Base and Rev Animated 1.2.2
 
 ## Resources Links
 * Announcement Link
