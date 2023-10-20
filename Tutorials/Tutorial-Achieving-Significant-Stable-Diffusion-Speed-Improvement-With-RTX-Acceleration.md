@@ -26,6 +26,10 @@
 * * Realistic Vision 5.1, SD 1.5 Base Model, SD 1.5 based models best VAE
 * It also has an option to download pre-compiled TensorRT files for:
 * * Realistic Vision 5.1, SDXL 1.0, SD 1.5 Base and Rev Animated 1.2.2
+ 
+## SDXL DreamBooth Config
+* Config File > https://www.patreon.com/posts/very-best-for-of-89213064
+* Quick Tutorial > https://www.youtube.com/watch?v=EEV8RPohsbw
 
 ## Resources Links
 * Announcement Link
