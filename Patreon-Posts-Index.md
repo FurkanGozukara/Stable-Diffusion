@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### October 22 - 2023
+[Kohya SD 1.5 & SDXL LoRA - DreamBooth Training Free Kaggle NoteBook](https://www.patreon.com/posts/kohya-sdxl-lora-88397937)
+* A Kaggle NoteBook file to do Stable Diffusion 1.5 & XL (SDXL) Kohya GUI both LoRA and DreamBooth training on a free Kaggle account. If you don't have a strong GPU this is the notebook you need. It supports even SDXL DreamBooth full fine tuning.
+
 ### October 20 - 2023
 [SOTA (The Very Best) Image Captioning Models Script For Stable Diffusion And More](https://www.patreon.com/posts/sota-very-best-90744385)
 * 1 Click install and use SOTA image captioning models on your computer. Supports 8 bit loading as well. 90+ CLIP Vision and 5+ Caption models. Supports  laion/CLIP-ViT-bigG-14-laion2B-39B-b160k too
@@ -77,10 +81,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### September 11 - 2023
 [How To Start Multiple Automatic1111 Web UI And Kohya Training On A Single Pod](https://www.patreon.com/posts/how-to-start-web-89150521)
 * Download webui-user.sh and relauncher.py files and follow instructions to start multiple Automatic1111 on different GPUs on a  single RunPod
-
-### September 1 - 2023
-[Kohya SDXL LoRA Training Free Kaggle NoteBook](https://www.patreon.com/posts/kohya-sdxl-lora-88397937)
-* A Free Kaggle Account Notebook for SDXL Kohya SS LoRA Training. If you don't have a strong GPU you can train your LoRAs for free with this.
 
 ### August 28 - 2023
 [SOTA Subject Cropper and Face Focused Image Resizer Scripts](https://www.patreon.com/posts/sota-subject-and-88391247)
