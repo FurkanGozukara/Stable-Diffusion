@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### October 24 - 2023
+[Automatic1111 Web UI Google Colab NoteBook With All ControlNet Models And More](https://www.patreon.com/posts/automatic1111-ui-89288738)
+* Automatic1111 Web UI Google Colab Notebook With All ControlNet Models, SDXL Model, Best SD 1.5 Model, LoRA Download Example, Upscaler, SDXL LoRAs, SDXL ControlNet All Models & More
+
 ### October 22 - 2023
 [Kohya SD 1.5 & SDXL LoRA - DreamBooth Training Free Kaggle NoteBook](https://www.patreon.com/posts/kohya-sdxl-lora-88397937)
 * A Kaggle NoteBook file to do Stable Diffusion 1.5 & XL (SDXL) Kohya GUI both LoRA and DreamBooth training on a free Kaggle account. If you don't have a strong GPU this is the notebook you need. It supports even SDXL DreamBooth full fine tuning.
@@ -57,10 +61,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### September 27 - 2023
 [Auto Windows Installer For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/auto-windows-for-89914747)
 * 1 Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On Your Computer With SDXL
-
-### September 15 - 2023
-[Automatic1111 Web UI Google Colab NoteBook With All ControlNet Models And More](https://www.patreon.com/posts/automatic1111-ui-89288738)
-* Automatic1111 Web UI Google Colab Notebook With All ControlNet Models, SDXL Model, Best SD 1.5 Model, LoRA Download Example, Upscaler & More
 
 ### September 14 - 2023
 [Google Colab Notebook For Würstchen: Fast Diffusion for Image Generation](https://www.patreon.com/posts/google-colab-for-89280042)
