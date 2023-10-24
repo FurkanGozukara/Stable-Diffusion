@@ -6,7 +6,7 @@
 
 # How To Get Huge Speed Up Boost With RTX Acceleration
 
-## Full Tutorial Link : will be added hopefully once published
+## Full Tutorial Link : https://youtu.be/kvxX6NrPtEk
 
 ## Prerequisites
 
