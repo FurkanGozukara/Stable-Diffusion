@@ -349,3 +349,10 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 [**Turn Videos Into Animation / 3D Just 1 Click - ReRender A Video Tutorial -  Installer For RunPod**](https://youtu.be/cVf9Qf_pKks)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/6MFsLs-f_GZR2L1Q6z413.png)](https://youtu.be/cVf9Qf_pKks)
+
+54.) Local - PC - Free
+
+[**Double Your Stable Diffusion Inference Speed with RTX Acceleration TensorRT: A Comprehensive Guide**](https://youtu.be/kvxX6NrPtEk)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/QhVEeR5hzqZ5SXujvTxzs.png)](https://youtu.be/kvxX6NrPtEk)
+
