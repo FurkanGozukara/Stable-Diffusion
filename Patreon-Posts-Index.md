@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### October 26 - 2023
+[1 Click RunPod Automatic1111 SD Web UI SDXL & TensorRT Installer](https://www.patreon.com/posts/86438018)
+* 1 Click Installer for Automatic1111 Web UI on RunPod with SDXL and newest TensorRT (75%+ Speed Boost) support. Installs latest Automatic1111 Web UI and SDXL Models with best VAE.
+
 ### October 24 - 2023
 [Automatic1111 Web UI Google Colab NoteBook With All ControlNet Models And More](https://www.patreon.com/posts/automatic1111-ui-89288738)
 * Automatic1111 Web UI Google Colab Notebook With All ControlNet Models, SDXL Model, Best SD 1.5 Model, LoRA Download Example, Upscaler, SDXL LoRAs, SDXL ControlNet All Models & More
@@ -113,10 +117,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### July 27 - 2023
 [How To Fix Artifacts In The SDXL 1.0 VAE - Hidden Watermark System](https://www.patreon.com/posts/86736816)
 * How to get rid off embedded watermarking system in SDXL 1.0 VAE. We will use new VAE. How to use proper VAE with SDXL for best quality.
-
-### July 21 - 2023
-[1 Click RunPod Automatic1111 Web UI SDXL Installer](https://www.patreon.com/posts/1-click-runpod-86438018)
-* 1 Click Installer for Automatic1111 Web UI on RunPod with SDXL support. Installs latest Automatic1111 Web UI and SDXL Models with best VAE.
 
 ### July 14 - 2023
 [RunPod ComfyUI Auto Installer With SDXL Auto Install Including Refiner](https://www.patreon.com/posts/runpod-comfyui-86062569)
