@@ -356,3 +356,9 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/QhVEeR5hzqZ5SXujvTxzs.png)](https://youtu.be/kvxX6NrPtEk)
 
+55.) RunPod - Cloud - Paid
+
+[**How to Install & Run TensorRT on RunPod, Unix, Linux for 2x Faster Stable Diffusion Inference Speed**](https://youtu.be/eKnMVXVjVoU)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/6-Njk7uG39nMU98fGqRYN.png)](https://youtu.be/eKnMVXVjVoU)
+
