@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### October 30 - 2023
+[SOTA Subject Cropper and Face Focused Image Resizer Scripts Do Better Training](https://www.patreon.com/posts/sota-subject-and-88391247)
+* State Of The Art (SOTA) Subject Cropper (Zoom Subject Without Quality Loss) and SOTA Image Downscaler To Get Perfect Desired Resolution. These scripts will improve your training quality significantly. 
+
 ### October 28 - 2023
 [RunPod Auto DreamBooth Extension Of Automatic1111 Web UI & Latest Libraries Installer Script](https://www.patreon.com/posts/runpod-auto-84716845)
 * This script will install working version of DreamBooth extension of Automatic1111 Web UI fully automatically for you on RunPod. 
@@ -89,10 +93,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### September 11 - 2023
 [How To Start Multiple Automatic1111 Web UI And Kohya Training On A Single Pod](https://www.patreon.com/posts/how-to-start-web-89150521)
 * Download webui-user.sh and relauncher.py files and follow instructions to start multiple Automatic1111 on different GPUs on a  single RunPod
-
-### August 28 - 2023
-[SOTA Subject Cropper and Face Focused Image Resizer Scripts](https://www.patreon.com/posts/sota-subject-and-88391247)
-* State Of The Art (SOTA) Subject Cropper (Zoom Subject Without Quality Loss) and SOTA Image Downscaler To Get Perfect Desired Resolution.
 
 ### August 25 - 2023
 [1 Click Auto Roop (DeepFake - FaceSwap) Local Windows Installer Script](https://www.patreon.com/posts/1-click-auto-88234834)
