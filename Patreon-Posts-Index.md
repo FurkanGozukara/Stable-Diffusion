@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### November 1 - 2023
+[Auto Windows Installer For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/auto-windows-for-89914747)
+* 1 Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On Your Computer With SDXL
+
 ### October 31 - 2023
 [1-Click ComfyUI Auto Windows Installer](https://www.patreon.com/posts/92013455)
 * Allows you to install ComfyUI with your own Python, Torch, Cuda version with 1 click on Windows. It will also auto install ComfyUI manager. You can also install any specific Commit/Version of ComfyUI
@@ -73,10 +77,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### September 27 - 2023
 [Auto RunPod Installer For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/auto-runpod-for-89919157)
 * 1 Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On RunPod With SDXL
-
-### September 27 - 2023
-[Auto Windows Installer For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/auto-windows-for-89914747)
-* 1 Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On Your Computer With SDXL
 
 ### September 14 - 2023
 [Google Colab Notebook For Würstchen: Fast Diffusion for Image Generation](https://www.patreon.com/posts/google-colab-for-89280042)
