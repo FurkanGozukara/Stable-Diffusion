@@ -362,3 +362,9 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/6-Njk7uG39nMU98fGqRYN.png)](https://youtu.be/eKnMVXVjVoU)
 
+56.) Local - PC - Free
+
+[**Fooocus Stable Diffusion Web UI - Use SDXL Like You Are Using Midjourney - Easy To Use High Quality**](https://youtu.be/jHTkVm2mcfs)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/zuJst_wZ7_qs_2e3KV33W.png)](https://youtu.be/jHTkVm2mcfs)
+
