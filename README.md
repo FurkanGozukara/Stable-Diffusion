@@ -14,20 +14,20 @@ My Twitter : [**https://twitter.com/GozukaraFurkan**](https://twitter.com/Gozuka
 
 My Linktr : [**https://linktr.ee/FurkanGozukara**](https://linktr.ee/FurkanGozukara)
 
-#### Our channel address (28,000+ subscribers) if you like to subscribe ⤵️
+**Our channel address (28,000+ subscribers) if you like to subscribe ⤵️**
 [**https://www.youtube.com/@SECourses**](https://www.youtube.com/@SECourses)
 
-### Our discord (5,300+ members) to get more help ⤵️
+**Our discord (5,300+ members) to get more help ⤵️**
 [**https://discord.com/servers/software-engineering-courses-secourses-772774097734074388**](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388)
 
-### Our 1,200+ Stars GitHub Stable Diffusion and other tutorials repo ⤵️
+**Our 1,200+ Stars GitHub Stable Diffusion and other tutorials repo ⤵️**
 [**https://github.com/FurkanGozukara/Stable-Diffusion**](https://github.com/FurkanGozukara/Stable-Diffusion)
 
 I am keeping this list up-to-date. I got upcoming new awesome video ideas. Trying to find time to do that.
 
-### I am open to any criticism you have. I am constantly trying to improve the quality of my tutorial guide videos. Please leave comments with both your suggestions and what you would like to see in future videos.
+**I am open to any criticism you have. I am constantly trying to improve the quality of my tutorial guide videos. Please leave comments with both your suggestions and what you would like to see in future videos.**
 
-### All videos have manually fixed subtitles and properly prepared video chapters. You can watch with these perfect subtitles or look for the chapters you are interested in.
+**All videos have manually fixed subtitles and properly prepared video chapters. You can watch with these perfect subtitles or look for the chapters you are interested in.**
 
 Since my profession is teaching, I usually do not skip any of the important parts. Therefore, you may find my videos a little bit longer.
 
