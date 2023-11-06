@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### November 6 - 2023
+[Auto Installer Bat Files For Automatic1111 & DreamBooth Extension On Windows](https://www.patreon.com/posts/auto-installer-84773926)
+* Included BAT script files will clone and install fully automatically Automatic1111 SD Web UI and DreamBooth extension for you on Windows.
+
 ### November 4 - 2023
 [Auto RunPod Installer For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/auto-runpod-for-89919157)
 * 1 Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On RunPod With SDXL
@@ -169,10 +173,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### June 20 - 2023
 [Auto Installer Bat File For Latest cuDNN dll files & How To Manually Install & Update](https://www.patreon.com/posts/auto-installer-84830198)
 * Attached bat file will automatically download 8.9.2.26 cuDNN dll files and replace the ones that comes with default Torch installation 
-
-### June 19 - 2023
-[Auto Installer Bat Files For Automatic1111 & DreamBooth Extension On Windows](https://www.patreon.com/posts/auto-installer-84773926)
-* Included BAT script files will clone and install fully automatically Automatic1111 SD Web UI and DreamBooth extension for you on Windows.
 
 ### June 16 - 2023
 [Core i7 10700F vs Core i9 13900K](https://www.patreon.com/posts/core-i7-10700f-84640971)
