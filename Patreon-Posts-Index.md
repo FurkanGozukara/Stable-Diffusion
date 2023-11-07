@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### November 7 - 2023
+[The Very Best Workflow For SDXL DreamBooth / Full Fine Tuning - Results Of 66 Full Trainings](https://www.patreon.com/posts/very-best-for-of-89213064)
+* The very best workflows for SDXL DreamBooth / Full Fine Tuning training. Includes configuration both for U-NET only and U-NET + Text Encoder. 120+ Trainings have been made to find all configuration.
+
 ### November 6 - 2023
 [Auto Installer Bat Files For Automatic1111 & DreamBooth Extension On Windows](https://www.patreon.com/posts/auto-installer-84773926)
 * Included BAT script files will clone and install fully automatically Automatic1111 SD Web UI and DreamBooth extension for you on Windows.
@@ -89,10 +93,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### September 14 - 2023
 [Auto Windows Installer For Würstchen: Fast Diffusion for Image Generation](https://www.patreon.com/posts/auto-windows-for-89265135)
 * Install latest Generative AI model Würstchen V2 to your computer with 1 click. Fixed file instead of broken Gradio demo hosted on Hugging Face
-
-### September 13 - 2023
-[The Very Best Workflow For SDXL DreamBooth / Full Fine Tuning - Results Of 66 Full Trainings](https://www.patreon.com/posts/very-best-for-of-89213064)
-* The very best workflow for SDXL DreamBooth / Full Fine Tuning training. Workflow found after 66 different full training experimentation. 
 
 ### September 12 - 2023
 [How To Start Multiple Automatic1111 Web UI And Kohya Training On A Single Pod](https://www.patreon.com/posts/how-to-start-web-89150521)
