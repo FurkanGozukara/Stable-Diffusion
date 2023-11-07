@@ -22,7 +22,7 @@ git add --verbose . > ../progress.txt & percent=0; while [[ $percent -le 99 && $
 ## Runpod quick commands
 
 * This will purge your python cache : ```pip cache purge```
-* This will turn of Pod after 2 minutes : ```sleep 2m; runpodctl stop pod $RUNPOD_POD_ID```
+* This will turn of Pod after 2 minutes : ```sleep 2m; runpodctl stop pod $RUNPOD_POD_ID``` e.g. ```sleep 1m; runpodctl stop pod idhh7hsnix48ac```
 * This will turn of Pod after 2 hours : ```sleep 2h; runpodctl stop pod $RUNPOD_POD_ID```
 * To download a google drive file into RunPod : gdown id_of_the_file - you can see id in the url when you copy
 * * E.g. https://drive.google.com/file/d/1odxPpTJePQfMHxiO2jdeuYA7zxgvWg4c/view?usp=drive_link > ```gdown 1odxPpTJePQfMHxiO2jdeuYA7zxgvWg4c```
