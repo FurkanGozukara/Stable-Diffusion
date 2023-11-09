@@ -125,3 +125,6 @@ venv/scripts/activate
 ```
 pip install --use-pep517 https://huggingface.co/r4ziel/xformers_pre_built/resolve/main/triton-2.0.0-cp310-cp310-win_amd64.whl
 ```
+
+## yt-dlp
+```yt-dlp -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best" video```
