@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### November 9 - 2023
+[Automatic ControlNet Installer / Updater - Model Downloader For RunPod](https://www.patreon.com/posts/84896373)
+* This script will update ControlNet extension to its latest version and also automatically download all model files of ControlNet
+
 ### November 7 - 2023
 [The Very Best Workflow For SDXL DreamBooth / Full Fine Tuning - Results Of 66 Full Trainings](https://www.patreon.com/posts/very-best-for-of-89213064)
 * The very best workflows for SDXL DreamBooth / Full Fine Tuning training. Includes configuration both for U-NET only and U-NET + Text Encoder. 120+ Trainings have been made to find all configuration.
@@ -161,10 +165,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### June 21 - 2023
 [For RunPod - Automatic Kohya SS LoRA Installer](https://www.patreon.com/posts/for-runpod-kohya-84898806)
 * This script will automatically install Kohya SS on RunPod. Additionally, I have added after Pod restart script which will fix installation.
-
-### June 21 - 2023
-[Automatic ControlNet Installer / Updater - Model Downloader For RunPod](https://www.patreon.com/posts/84896373)
-* This script will update ControlNet extension to its latest version and also automatically download all model files of ControlNet
 
 ### June 21 - 2023
 [Automatic ControlNet Installer And Downloader For Windows BAT File](https://www.patreon.com/posts/84875387)
