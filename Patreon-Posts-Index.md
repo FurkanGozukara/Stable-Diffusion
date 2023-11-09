@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### November 10 - 2023
+[Gender Classifier Script - State Of The Art - Very Best - 1 Click Install](https://www.patreon.com/posts/92607385)
+* This script uses Retina Face and a fine tuned gender-classification model from Hugging Face (SOTA). 1 Click install into a new VENV and run.
+
 ### November 9 - 2023
 [Automatic ControlNet Installer / Updater - Model Downloader For RunPod](https://www.patreon.com/posts/84896373)
 * This script will update ControlNet extension to its latest version and also automatically download all model files of ControlNet
