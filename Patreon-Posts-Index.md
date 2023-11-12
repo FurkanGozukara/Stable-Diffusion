@@ -22,9 +22,9 @@ Your Patreon support is tremendously important for me so thank you so much
 [Fooocus SD Web UI RunPod Auto Installer - 1 Click - Latest Version](https://www.patreon.com/posts/fooocus-sd-web-1-92759045)
 * Automatic installer for Stable Diffusion Fooocus Web UI on RunPod. 1 Click. Use Fooocus on RunPod with all models and features. Latest version. Follow the instructions on the Patreon post.
 
-### November 10 - 2023
-[Gender Classifier Script - State Of The Art - Very Best - 1 Click Install](https://www.patreon.com/posts/92607385)
-* This script uses Retina Face and a fine tuned gender-classification model from Hugging Face (SOTA). 1 Click install into a new VENV and run.
+### November 12 - 2023
+[Gender Classifier - Low Colors & Multiple Face Remover - Stable Diffusion Training Images Preprocessor](https://www.patreon.com/posts/92607385)
+* Gender Classifier - Low Colors & Multiple Face Remover - Stable Diffusion Training Images Preprocessor. Utilizes SOTA models and techniques. Supports GPU Retina Face too.
 
 ### November 9 - 2023
 [Automatic ControlNet Installer / Updater - Model Downloader For RunPod](https://www.patreon.com/posts/84896373)
