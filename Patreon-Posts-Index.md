@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### November 13 - 2023
+[SOTA Subject Cropper and Face Focused Image Resizer Scripts Do Better Training](https://www.patreon.com/posts/sota-subject-and-88391247)
+* State Of The Art (SOTA) Subject Cropper (Zoom Subject Without Quality Loss) and SOTA Image Downscaler To Get Perfect Desired Resolution. These scripts will significantly improve your training quality.
+
 ### November 12 - 2023
 [Fooocus SD Web UI RunPod Auto Installer - 1 Click - Latest Version](https://www.patreon.com/posts/fooocus-sd-web-1-92759045)
 * Automatic installer for Stable Diffusion Fooocus Web UI on RunPod. 1 Click. Use Fooocus on RunPod with all models and features. Latest version. Follow the instructions on the Patreon post.
@@ -49,10 +53,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### October 31 - 2023
 [1-Click ComfyUI Auto Windows Installer](https://www.patreon.com/posts/92013455)
 * Allows you to install ComfyUI with your own Python, Torch, Cuda version with 1 click on Windows. It will also auto install ComfyUI manager. You can also install any specific Commit/Version of ComfyUI
-
-### October 30 - 2023
-[SOTA Subject Cropper and Face Focused Image Resizer Scripts Do Better Training](https://www.patreon.com/posts/sota-subject-and-88391247)
-* State Of The Art (SOTA) Subject Cropper (Zoom Subject Without Quality Loss) and SOTA Image Downscaler To Get Perfect Desired Resolution. These scripts will significantly improve your training quality.
 
 ### October 28 - 2023
 [RunPod Auto DreamBooth Extension Of Automatic1111 Web UI & Latest Libraries Installer Script](https://www.patreon.com/posts/runpod-auto-84716845)
