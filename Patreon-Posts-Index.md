@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### November 17 - 2023
+[Automatic ControlNet Installer And Downloader For Windows BAT File](https://www.patreon.com/posts/84875387)
+* Scripts will clone ControlNet repo and download all of the ControlNet models with SDXL into the correct folder automatically for Windows
+
 ### November 13 - 2023
 [SOTA Subject Cropper and Face Focused Image Resizer Scripts Do Better Training](https://www.patreon.com/posts/sota-subject-and-88391247)
 * State Of The Art (SOTA) Subject Cropper (Zoom Subject Without Quality Loss) and SOTA Image Downscaler To Get Perfect Desired Resolution. These scripts will significantly improve your training quality.
@@ -173,10 +177,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### June 21 - 2023
 [For RunPod - Automatic Kohya SS LoRA Installer](https://www.patreon.com/posts/for-runpod-kohya-84898806)
 * This script will automatically install Kohya SS on RunPod. Additionally, I have added after Pod restart script which will fix installation.
-
-### June 21 - 2023
-[Automatic ControlNet Installer And Downloader For Windows BAT File](https://www.patreon.com/posts/84875387)
-* Scripts will clone ControlNet repo and download all of the ControlNet models with SDXL into the correct folder automatically for Windows
 
 ### June 20 - 2023
 [Auto Installer Bat File For Latest cuDNN dll files & How To Manually Install & Update](https://www.patreon.com/posts/auto-installer-84830198)
