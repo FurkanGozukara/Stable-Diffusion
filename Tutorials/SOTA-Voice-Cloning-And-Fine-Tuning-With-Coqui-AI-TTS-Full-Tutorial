@@ -1,3 +1,5 @@
+If you use more than 1 number of beams make tempature at least 1.0
+
 ```
 https://github.com/coqui-ai/TTS/blob/04901fb2e4b74953bb5733205adcb7cb13655a06/TTS/tts/models/xtts.py#L473
 Args:
