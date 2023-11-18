@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### November 18 - 2023
+[Massive 4K Resolution Woman & Man Class Ground Truth Stable Diffusion Regularization Images Dataset](https://www.patreon.com/posts/massive-4k-woman-87700469)
+* 4K Hand Picked Ground Truth Real Man & Woman Regularization Images For Stable Diffusion & SDXL Training - 512px 768px 1024px 1280px 1536px and more
+
 ### November 17 - 2023
 [Automatic ControlNet Installer And Downloader For Windows BAT File](https://www.patreon.com/posts/84875387)
 * Scripts will clone ControlNet repo and download all of the ControlNet models with SDXL into the correct folder automatically for Windows
@@ -121,10 +125,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### August 25 - 2023
 [1 Click Auto Roop (DeepFake - FaceSwap) Local Windows Installer Script](https://www.patreon.com/posts/1-click-auto-88234834)
 * Automatic Roop DeepFake / FaceSwap installer script. 1 click to install and 1 click to run and start using it very easily.
-
-### August 15 - 2023
-[Massive 4K Resolution Woman & Man Class Ground Truth Stable Diffusion Regularization Images Dataset](https://www.patreon.com/posts/massive-4k-woman-87700469)
-* 4K Hand Picked Ground Truth Real Man & Woman Regularization Images For Stable Diffusion & SDXL Training - 512px 768px 1024px 1280px 1536px
 
 ### August 13 - 2023
 [Convert Very Long X/Y/Z Plot Output Images Into Square Grids](https://www.patreon.com/posts/convert-very-x-y-87608128)
