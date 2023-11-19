@@ -45,8 +45,7 @@
 
 
 ### How To Use Kaggle Free Account To Run Automatic1111 Web UI
-* A tutorial for this will be made hopefully and the link will be shared here hopefully
-* Stay subscribed
+* A tutorial for this is here : https://youtu.be/dpM02YMj8FY
 
 ## How To Install And Do LoRA Training
 * Start a new Notebook as shown in tutorial video and follow the steps
