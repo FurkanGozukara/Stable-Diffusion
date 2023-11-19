@@ -23,6 +23,11 @@
 * Once it is done you are ready to use 30 hours per week dual GPU for free
 * If your Phone doesn't work you need to email their support
 * * https://www.kaggle.com/contact#/account/activate/phone
+ 
+## Register A Free Hugging Face Account To Upload And Download Models
+* Register : https://huggingface.co/join
+* Login : https://huggingface.co/login
+* Get your Token : https://huggingface.co/settings/tokens
 
 ## Suggested Resources Before Doing Training
 
