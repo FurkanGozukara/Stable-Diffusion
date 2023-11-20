@@ -29,7 +29,16 @@
 * Login : https://huggingface.co/login
 * Get your Token : https://huggingface.co/settings/tokens
 
-## Suggested Resources Before Doing Training
+## Suggested Resources
+
+* 1 Click RunPod Automatic1111 SD Web UI SDXL & TensorRT Installer
+* * https://www.patreon.com/posts/86438018
+* Amazing Prompt List For DreamBooth or LoRA Trained Stable Diffusion XL (SDXL) & SD 1.5 Based Models
+* * https://www.patreon.com/posts/amazing-prompt-1-90346033
+
+
+
+## Suggested Tutorials Before Doing Training
 
 * I suggest you to watch below 4 tutorials before doing SDXL training
 * [How to Do SDXL Training For FREE with Kohya LoRA - Kaggle - NO GPU Required - Pwns Google Colab](https://youtu.be/JF2P7BIUpIU)
