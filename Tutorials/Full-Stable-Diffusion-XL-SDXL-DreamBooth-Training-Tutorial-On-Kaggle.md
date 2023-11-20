@@ -39,6 +39,8 @@
 * * https://www.patreon.com/posts/amazing-prompt-1-90346033
 * How Use Stable Diffusion, SDXL, ControlNet, LoRAs For FREE Without A GPU On Kaggle Like Google Colab
 * * https://youtu.be/dpM02YMj8FY
+* The Very Best Workflow For SDXL DreamBooth / Full Fine Tuning - Results Of 100+ Full Trainings
+* * https://www.patreon.com/posts/very-best-for-of-89213064
 
 
 
