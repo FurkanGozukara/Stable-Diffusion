@@ -33,6 +33,8 @@
 
 * 1 Click RunPod Automatic1111 SD Web UI SDXL & TensorRT Installer
 * * https://www.patreon.com/posts/86438018
+* Full TensorRT public tutorial literally almost double speed
+* * https://youtu.be/kvxX6NrPtEk
 * Amazing Prompt List For DreamBooth or LoRA Trained Stable Diffusion XL (SDXL) & SD 1.5 Based Models
 * * https://www.patreon.com/posts/amazing-prompt-1-90346033
 
