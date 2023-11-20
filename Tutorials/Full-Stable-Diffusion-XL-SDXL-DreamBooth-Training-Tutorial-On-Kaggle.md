@@ -37,6 +37,8 @@
 * * https://youtu.be/kvxX6NrPtEk
 * Amazing Prompt List For DreamBooth or LoRA Trained Stable Diffusion XL (SDXL) & SD 1.5 Based Models
 * * https://www.patreon.com/posts/amazing-prompt-1-90346033
+* How Use Stable Diffusion, SDXL, ControlNet, LoRAs For FREE Without A GPU On Kaggle Like Google Colab
+* * https://youtu.be/dpM02YMj8FY
 
 
 
