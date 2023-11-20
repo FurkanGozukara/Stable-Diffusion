@@ -31,8 +31,8 @@
 
 ## Suggested Resources
 
-* 1 Click RunPod Automatic1111 SD Web UI SDXL & TensorRT Installer
-* * https://www.patreon.com/posts/86438018
+* Automatic Windows Installer For SDXL & Automatic1111 Web UI & RTX Accelerator TensorRT
+* * https://www.patreon.com/posts/86307255
 * Full TensorRT public tutorial literally almost double speed
 * * https://youtu.be/kvxX6NrPtEk
 * Amazing Prompt List For DreamBooth or LoRA Trained Stable Diffusion XL (SDXL) & SD 1.5 Based Models
