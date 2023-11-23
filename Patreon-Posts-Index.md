@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### November 23 - 2023
+[Sort AI Generated Images By Their Similarity With DeepFace & RetinaFace](https://www.patreon.com/posts/sort-ai-images-82478694)
+* With DeepFace & RetinaFace libraries we will sort AI generated images with best accuracy to your original. Thus, you can find best ones easy
+
 ### November 20 - 2023
 [Image Validator Script For Training - Moves Corrupted Images](https://www.patreon.com/posts/image-validator-85618765)
 * This attached below script will test each one of your images and moves the ones that are corrupted (breaking training) into another folder. Another script will scan and log but not move.
@@ -218,10 +222,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### May 8 - 2023
 [Voice Clone Tutorial Scripts](https://www.patreon.com/posts/voice-clone-82712205)
 * As shown in the tutorial video, the scripts I have developed make voice cloning and text-to-speech synthesis much easier and more efficient.
-
-### May 4 - 2023
-[Sort AI Generated Images By Their Similarity With DeepFace & RetinaFace](https://www.patreon.com/posts/sort-ai-images-82478694)
-* With DeepFace & RetinaFace libraries we will sort AI generated images with best accuracy to your original. Thus, you can find best ones easy
 
 ### April 30 - 2023
 [Enhanced DeepFloyd-IF Kaggle Notebook File](https://www.patreon.com/posts/enhanced-if-file-82253574)
