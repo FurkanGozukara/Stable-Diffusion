@@ -8,7 +8,7 @@
 
 * In this tutorial you will learn how to do a full DreamBooth training on a free Kaggle account by using Kohya SS GUI trainer
 
-## The Tutorial Video Link > will be put once done
+## The Tutorial Video Link > https://youtu.be/16-b1AjvyBE?si=HJM7-3KSJdvXwoGC
 
 ## Download Kaggle Notebook Used In This Tutorial 
 * **https://www.patreon.com/posts/kohya-sdxl-lora-88397937**
