@@ -370,3 +370,8 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/zuJst_wZ7_qs_2e3KV33W.png)](https://youtu.be/jHTkVm2mcfs)
 
+57.) Cloud - Kaggle - Free
+
+[**How To Do Stable Diffusion XL (SDXL) DreamBooth Training For Free - Utilizing Kaggle - Easy Tutorial**](https://youtu.be/16-b1AjvyBE)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/JU3U2Kk6IdVxx1-hfNkrA.png)](https://youtu.be/16-b1AjvyBE)
