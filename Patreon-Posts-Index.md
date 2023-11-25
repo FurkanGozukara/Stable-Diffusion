@@ -18,7 +18,11 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
-### October 24 - 2023
+### November 25 - 2023
+[SOTA (The Very Best) Image Captioning Models Script For Stable Diffusion And More](https://www.patreon.com/posts/sota-very-best-90744385)
+* 1 Click install and use SOTA image captioning models on your computer. Supports 8 bit loading as well. 90+ CLIP Vision and 5+ Caption models. Supports  laion/CLIP-ViT-bigG-14-laion2B-39B-b160k too. Supports total 115 Clip and 5 Caption model combination. 
+
+### November 24 - 2023
 [Kohya SD 1.5 & SDXL LoRA - DreamBooth Training Free Kaggle NoteBook](https://www.patreon.com/posts/kohya-sdxl-lora-88397937)
 * A Kaggle NoteBook file to do Stable Diffusion 1.5 & XL (SDXL) Kohya GUI both LoRA and DreamBooth training on a free Kaggle account. If you don't have a strong GPU this is the notebook you need. It supports even SDXL DreamBooth full fine tuning.
 
@@ -85,10 +89,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### October 24 - 2023
 [Automatic1111 Web UI Google Colab NoteBook With All ControlNet Models And More](https://www.patreon.com/posts/automatic1111-ui-89288738)
 * Automatic1111 Web UI Google Colab Notebook With All ControlNet Models, SDXL Model, Best SD 1.5 Model, LoRA Download Example, Upscaler, SDXL LoRAs, SDXL ControlNet All Models & More
-
-### October 20 - 2023
-[SOTA (The Very Best) Image Captioning Models Script For Stable Diffusion And More](https://www.patreon.com/posts/sota-very-best-90744385)
-* 1 Click install and use SOTA image captioning models on your computer. Supports 8 bit loading as well. 90+ CLIP Vision and 5+ Caption models. Supports  laion/CLIP-ViT-bigG-14-laion2B-39B-b160k too
 
 ### October 19 - 2023
 [Run Automatic1111 On A Free Kaggle NoteBook Like In Your PC - Supports SDXL & ControlNet](https://www.patreon.com/posts/run-on-free-like-88714330)
