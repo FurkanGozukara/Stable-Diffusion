@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### November 18 - 2023
+[Massive 4K Resolution Woman & Man Class Ground Truth Stable Diffusion Regularization Images Dataset](https://www.patreon.com/posts/massive-4k-woman-87700469)
+* 4K+ resolution 5200 images for each gender Hand Picked Ground Truth Real Man & Woman Regularization Images For Stable Diffusion & SDXL Training - 512px 768px 1024px 1280px 1536px and more
+
 ### November 26 - 2023
 [SOTA Image Captioning Scripts For Stable Diffusion: LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)](https://www.patreon.com/posts/sota-image-for-2-90744385)
 * State Of The Art - The Very Best > Image Captioning Scripts For Stable Diffusion: LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)
@@ -45,10 +49,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### November 20 - 2023
 [The Very Best Workflow For SDXL DreamBooth / Full Fine Tuning - Results Of 100+ Full Trainings](https://www.patreon.com/posts/very-best-for-of-89213064)
 * The very best workflows for SDXL DreamBooth / Full Fine Tuning training. Includes configuration both for U-NET only and U-NET + Text Encoder. 120+ Trainings have been made to find all configuration.
-
-### November 18 - 2023
-[Massive 4K Resolution Woman & Man Class Ground Truth Stable Diffusion Regularization Images Dataset](https://www.patreon.com/posts/massive-4k-woman-87700469)
-* 4K Hand Picked Ground Truth Real Man & Woman Regularization Images For Stable Diffusion & SDXL Training - 512px 768px 1024px 1280px 1536px and more
 
 ### November 17 - 2023
 [Automatic ControlNet Installer And Downloader For Windows BAT File](https://www.patreon.com/posts/84875387)
