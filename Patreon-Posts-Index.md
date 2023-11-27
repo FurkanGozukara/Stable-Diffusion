@@ -18,7 +18,11 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
-### November 18 - 2023
+### November 27 - 2023
+[PixArt-alpha (PixArt-α) Automatic Installer For Both Windows And RunPod With Additional Web UI Features](https://www.patreon.com/posts/93614549)
+* Auto installer scripts with an Advanced Web Gradio APP to install and use PIXART-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis (PixArt-alpha - SDXL Rival) for both Windows and RunPod. 
+
+### November 27 - 2023
 [Massive 4K Resolution Woman & Man Class Ground Truth Stable Diffusion Regularization Images Dataset](https://www.patreon.com/posts/massive-4k-woman-87700469)
 * 4K+ resolution 5200 images for each gender Hand Picked Ground Truth Real Man & Woman Regularization Images For Stable Diffusion & SDXL Training - 512px 768px 1024px 1280px 1536px and more
 
