@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### November 29 - 2023
+[AI Music Generation Audiocraft Tutorial - Auto Installer and Runner](https://www.patreon.com/posts/ai-music-auto-84334460)
+* These attached files will automatically install everything and let you run Facebook Meta Audiocraft / MusicGen music composer with a click
+
 ### November 27 - 2023
 [PixArt-alpha (PixArt-α) Automatic Installer For Both Windows And RunPod With Additional Web UI Features](https://www.patreon.com/posts/93614549)
 * Auto installer scripts with an Advanced Web Gradio APP to install and use PIXART-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis (PixArt-alpha - SDXL Rival) for both Windows and RunPod. 
@@ -201,11 +205,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### June 14 - 2023
 [Auto Installer Script For Roop (DeepFake) On RunPod & Example Image And Videos](https://www.patreon.com/posts/auto-installer-84511510)
 * How to automatically install DeepFake Roop with 1 click on RunPod and use it. Step by step instructions and 1click installer script file
-
-### June 9 - 2023
-[AI Music Generation Audiocraft Tutorial - Auto Installer and Runner](https://www.patreon.com/posts/ai-music-auto-84334460)
-* These attached files will automatically install everything and let you run Facebook Meta Audiocraft / MusicGen music composer with a click
-
 
 ### June 9 - 2023
 [2 Pre-Processing Scripts And 3 Datasets Of Processed Class Images For Popular Models](https://www.patreon.com/posts/84292083)
