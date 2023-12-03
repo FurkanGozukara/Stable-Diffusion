@@ -18,13 +18,13 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### December 4 - 2023
+[Auto Installer For AudioCraft Plus - MusicGen - AudioGen - An All-in-One AudioCraft WebUI](https://www.patreon.com/posts/ai-music-auto-84334460)
+* Auto Installer Windows Bat Files For AudioCraft Plus - MusicGen - AudioGen - An All-in-One AudioCraft WebUI - Facebook Research / Audiocraft
+
 ### December 3 - 2023
 [PixArt-alpha (PixArt-α) Automatic Installer For Both Windows And RunPod With Additional Web UI Features](https://www.patreon.com/posts/pixart-alpha-for-93614549)
 * Auto installer scripts with an Advanced Web Gradio APP to install and use PIXART-α (PixArt-alpha - SDXL Rival) for both Windows and RunPod. 
-
-### November 29 - 2023
-[AI Music Generation Audiocraft Tutorial - Auto Installer and Runner](https://www.patreon.com/posts/ai-music-auto-84334460)
-* These attached files will automatically install everything and let you run Facebook Meta Audiocraft / MusicGen music composer with a click
 
 ### November 27 - 2023
 [PixArt-alpha (PixArt-α) Automatic Installer For Both Windows And RunPod With Additional Web UI Features](https://www.patreon.com/posts/93614549)
