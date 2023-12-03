@@ -375,3 +375,9 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 [**How To Do Stable Diffusion XL (SDXL) DreamBooth Training For Free - Utilizing Kaggle - Easy Tutorial**](https://youtu.be/16-b1AjvyBE)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/JU3U2Kk6IdVxx1-hfNkrA.png)](https://youtu.be/16-b1AjvyBE)
+
+58.) Free - Local - RunPod
+
+[**PIXART-α : First Open Source Rival to Midjourney - Better Than Stable Diffusion SDXL - Full Tutorial**](https://youtu.be/ZiUXf_idIR4)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/NccIesCaYHEpKshYB-jF0.png)](https://youtu.be/ZiUXf_idIR4)
