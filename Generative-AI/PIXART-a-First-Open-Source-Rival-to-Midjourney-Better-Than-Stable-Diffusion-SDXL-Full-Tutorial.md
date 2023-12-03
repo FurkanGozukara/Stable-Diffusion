@@ -24,35 +24,35 @@ https://discord.com/servers/software-engineering-courses-secourses-7727740977340
 #PixArt #StableDiffusion #SDXL
 
 0:00 Introduction to PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis and the tutorial content
-2:38 What are the requirements to follow this tutorial and install PixArt Alpha
-3:05 How to install PixArt Alpha on your machine and start using it
-3:59 Where Hugging Face models are downloaded by default and how to change this default cache folder
-5:44 How to return back to using default Hugging Face cache folder
-6:08 How to fix corrupted files error during installation
-6:29 How to start PixArt Web APP after installation has been completed 
-7:24 How to use PixArt Web APP and its features
-7:59 Comparing a dragon prompt with SDXL base version
-8:14 How to use provided styles csv file
-8:40 How to start Automatic1111 SD Web UI on your second GPU
-8:50 Where the PixArt Web APP generated images are saved
-9:30 How to set parameters in your Automatic1111 SD Web UI to generate high quality images
-9:49 PixArt generated image vs SDXL generated image for same simple prompt
-10:15 Anime style same prompt comparison
-10:55 One another strong aspect of the PixArt Alpha model
-11:29 Fantasy art style comparison of SDXL vs PixArt-α
-11:52 3D style comparison of SDXL vs PixArt-α
-12:16 Manga style image generation comparison between SDXL vs PixArt-α
-12:44 Comparing PixArt vs SDXL vs Midjourney with same prompt
-13:41 How to use LLaVA for captioning and obtaining prompt ideas and generating more amazing images
-16:12 Comparison of PixArt vs SDXL prompt following in details
-17:29 Getting prompt idea from ChatGPT and comparing SDXL and PixArt prompt following
-19:46 PixArt owns hard the SDXL with this new detailed prompt
-22:00 How to install PixArt on a RunPod pod / machine
-23:54 How to set default Hugging Face cache folder on RunPod / Linux machines
-25:05 How to understand RunPod machine / pod is not working correctly and fix it
-26:00 How to properly delete files / folders on RunPod machines / pods
-26:51 How to connect and use PixArt web UI on a RunPod machine after it was started
-28:20 How to download all of the generated images on RunPod with runpodctl very fast
+* 2:38 What are the requirements to follow this tutorial and install PixArt Alpha
+* 3:05 How to install PixArt Alpha on your machine and start using it
+* 3:59 Where Hugging Face models are downloaded by default and how to change this default cache folder
+* 5:44 How to return back to using default Hugging Face cache folder
+* 6:08 How to fix corrupted files error during installation
+* 6:29 How to start PixArt Web APP after installation has been completed 
+* 7:24 How to use PixArt Web APP and its features
+* 7:59 Comparing a dragon prompt with SDXL base version
+* 8:14 How to use provided styles csv file
+* 8:40 How to start Automatic1111 SD Web UI on your second GPU
+* 8:50 Where the PixArt Web APP generated images are saved
+* 9:30 How to set parameters in your Automatic1111 SD Web UI to generate high quality images
+* 9:49 PixArt generated image vs SDXL generated image for same simple prompt
+* 10:15 Anime style same prompt comparison
+* 10:55 One another strong aspect of the PixArt Alpha model
+* 11:29 Fantasy art style comparison of SDXL vs PixArt-α
+* 11:52 3D style comparison of SDXL vs PixArt-α
+* 12:16 Manga style image generation comparison between SDXL vs PixArt-α
+* 12:44 Comparing PixArt vs SDXL vs Midjourney with same prompt
+* 13:41 How to use LLaVA for captioning and obtaining prompt ideas and generating more amazing images
+* 16:12 Comparison of PixArt vs SDXL prompt following in details
+* 17:29 Getting prompt idea from ChatGPT and comparing SDXL and PixArt prompt following
+* 19:46 PixArt owns hard the SDXL with this new detailed prompt
+* 22:00 How to install PixArt on a RunPod pod / machine
+* 23:54 How to set default Hugging Face cache folder on RunPod / Linux machines
+* 25:05 How to understand RunPod machine / pod is not working correctly and fix it
+* 26:00 How to properly delete files / folders on RunPod machines / pods
+* 26:51 How to connect and use PixArt web UI on a RunPod machine after it was started
+* 28:20 How to download all of the generated images on RunPod with runpodctl very fast
 
 The paper introduces PIXART-α, a Transformer-based text-to-image (T2I) diffusion model designed to significantly lower training costs while maintaining high image generation quality, competitive with leading models like Imagen and Midjourney. It achieves high-resolution synthesis up to 1024x1024 pixels at reduced training costs.
 
