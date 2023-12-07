@@ -6,14 +6,13 @@
 [![YouTube Channel](https://img.shields.io/badge/YouTube-SECourses-C50C0C?style=for-the-badge&logo=youtube)](https://www.youtube.com/SECourses)  [![Furkan Gözükara LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkangozukara/)   [![Udemy](https://img.shields.io/static/v1?style=for-the-badge&message=Stable%20Diffusion%20Course&color=A435F0&logo=Udemy&logoColor=FFFFFF&label=Udemy)](https://www.udemy.com/course/stable-diffusion-dreambooth-lora-zero-to-hero/?referralCode=E327407C9BDF0CEA8156) [![Twitter Follow Furkan Gözükara](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GozukaraFurkan)
 
 
-[**PIXART-α : First Open Source Rival to Midjourney - Better Than Stable Diffusion SDXL - Full Tutorial**](https://youtu.be/ZiUXf_idIR4)
+[**Google Gemini AI 🤯 Full Video - The Only Competitor Against ChatGPT / GPT-4 - #1 On Benchmarks**](https://youtu.be/D1s7ndtDXSk)
 
-[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/NccIesCaYHEpKshYB-jF0.png)](https://youtu.be/ZiUXf_idIR4)
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/2rPgExLwnpPziWQ4RPAjQ.png)](https://youtu.be/D1s7ndtDXSk)
 
-Introduction to the new PixArt-α (PixArt Alpha) text to image model which is for real better than Stable Diffusion models even from SDXL. PixArt-α is close to the Midjourney level meanwhile being open source and supporting full fine tuning and DreamBooth training. In this tutorial I show how to install and use PixArt-α both locally and on a cloud service RunPod with automatic installers and step by step guidance. 
+This is a combination of all 16 #Gemini videos published by Google. The video includes full 100% accurate subtitles and properly written chapters with descriptions. 
 
-The link to download resources ⤵️
-https://www.patreon.com/posts/pixart-alpha-for-93614549
+Google Just Launched Gemini, Its Long-Awaited Answer to #ChatGPT. Google says Gemini, launching today inside the #Bard chatbot, is its “most capable” #AI model ever. It was trained on video, images, and audio as well as text. Gemini is another multi-modal #LLM model.
 
 Stable Diffusion GitHub repository ⤵️
 https://github.com/FurkanGozukara/Stable-Diffusion
@@ -21,51 +20,80 @@ https://github.com/FurkanGozukara/Stable-Diffusion
 SECourses Discord To Get Full Support ⤵️
 https://discord.com/servers/software-engineering-courses-secourses-772774097734074388
 
-#PixArt #StableDiffusion #SDXL
+Google Gemini ⤵️
+https://bard.google.com/chat
 
-0:00 Introduction to PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis and the tutorial content
-* 2:38 What are the requirements to follow this tutorial and install PixArt Alpha
-* 3:05 How to install PixArt Alpha on your machine and start using it
-* 3:59 Where Hugging Face models are downloaded by default and how to change this default cache folder
-* 5:44 How to return back to using default Hugging Face cache folder
-* 6:08 How to fix corrupted files error during installation
-* 6:29 How to start PixArt Web APP after installation has been completed 
-* 7:24 How to use PixArt Web APP and its features
-* 7:59 Comparing a dragon prompt with SDXL base version
-* 8:14 How to use provided styles csv file
-* 8:40 How to start Automatic1111 SD Web UI on your second GPU
-* 8:50 Where the PixArt Web APP generated images are saved
-* 9:30 How to set parameters in your Automatic1111 SD Web UI to generate high quality images
-* 9:49 PixArt generated image vs SDXL generated image for same simple prompt
-* 10:15 Anime style same prompt comparison
-* 10:55 One another strong aspect of the PixArt Alpha model
-* 11:29 Fantasy art style comparison of SDXL vs PixArt-α
-* 11:52 3D style comparison of SDXL vs PixArt-α
-* 12:16 Manga style image generation comparison between SDXL vs PixArt-α
-* 12:44 Comparing PixArt vs SDXL vs Midjourney with same prompt
-* 13:41 How to use LLaVA for captioning and obtaining prompt ideas and generating more amazing images
-* 16:12 Comparison of PixArt vs SDXL prompt following in details
-* 17:29 Getting prompt idea from ChatGPT and comparing SDXL and PixArt prompt following
-* 19:46 PixArt owns hard the SDXL with this new detailed prompt
-* 22:00 How to install PixArt on a RunPod pod / machine
-* 23:54 How to set default Hugging Face cache folder on RunPod / Linux machines
-* 25:05 How to understand RunPod machine / pod is not working correctly and fix it
-* 26:00 How to properly delete files / folders on RunPod machines / pods
-* 26:51 How to connect and use PixArt web UI on a RunPod machine after it was started
-* 28:20 How to download all of the generated images on RunPod with runpodctl very fast
+0:00 Gemini: All you need to know in 90 seconds
+1:30 Gemini: Excelling at competitive programming
+6:30 Gemini: Unlocking insights in scientific literature
+9:12 Gemini: Explaining reasoning in math and physics
+11:11 Gemini: Processing and understanding raw audio
+14:55 Testing Gemini: Understanding environments
+16:07 Testing Gemini: Finding connections
+17:06 Hands-on with Gemini: Interacting with multimodal AI
+23:28 Testing Gemini: Guess the movie
+24:24 Testing Gemini: Turning images into code
+25:22 Testing Gemini: Emoji Kitchen
+26:32 Testing Gemini: Fit check
+27:16 Gemini: Safety and responsibility at the core
+28:56 Gemini: Reasoning about user intent to generate bespoke experiences
+32:28 Gemini: Google’s newest and most capable AI model
+37:03 Mark Rober takes Bard with Gemini Pro for a test flight
 
-The paper introduces PIXART-α, a Transformer-based text-to-image (T2I) diffusion model designed to significantly lower training costs while maintaining high image generation quality, competitive with leading models like Imagen and Midjourney. It achieves high-resolution synthesis up to 1024x1024 pixels at reduced training costs.
+CHAPTER 1:
+It’s built from the ground up to be multimodal — meaning that it’s trained to recognize, understand and combine different types of information, including text, images, audio, video and code. And it’s optimized in three different sizes: Ultra, Pro and Nano. 
 
-Key Innovations:
+CHPTR 2:
+Research Scientist Rémi Leblond also introduces AlphaCode 2, an advanced code generation system that excels at solving competitive programming problems involving complex math and theoretical computer science.
 
-Training Strategy Decomposition: The process is divided into three steps focusing on pixel dependency, text-image alignment, and image aesthetic quality. This approach reduces learning costs by starting with a low-cost class-condition model and then pretraining and fine-tuning on data rich in information density and aesthetic quality.
+CHPTR 3: 
+Watch Google DeepMind Research Scientist Sebastian Nowozin and Software Engineer Taylor Applebaum use Gemini to read, understand and filter 200,000 scientific papers to extract crucial scientific information. All in a lunch break.
 
-Efficient T2I Transformer: Built on the Diffusion Transformer (DiT) framework, it includes cross-attention modules for text conditions and streamlines computation. A reparameterization technique enables loading parameters from class-condition models, leveraging prior knowledge from ImageNet, thus accelerating training.
+CHPTR 4:
+Gemini was trained to recognize and understand text, images, audio, and more at the same time, so it better understands nuanced information and can answer questions relating to complicated topics. 
 
-High-informative Data: To overcome deficiencies in existing text-image datasets, the paper introduces an auto-labeling pipeline using a vision-language model (LLaVA) to generate captions on the SAM dataset. This dataset is selected for its diverse collection of objects, aiding in creating high-information-density text-image pairs for efficient alignment learning.
+This makes it especially good at explaining reasoning in complex subjects like math and physics.
 
-Image Quality: The model excels in image quality, artistry, and semantic control, surpassing existing models in user studies and benchmarks.
+CHPTR 5:
+Watch Google DeepMind Research Scientist Adrià Recasens Continente demonstrate Gemini’s abilities to understand audio in different languages, from multiple speakers and to combine vision, audio and text to offer a  helping hand while cooking in the kitchen.   
 
-Broader Implications: The paper suggests that PIXART-α's approach allows individual researchers and startups to develop high-quality T2I models at lower costs, potentially democratizing access to advanced AI-generated content.
+CHPTR 6:
+In this test, let’s see if Gemini can make sense of an environment by deciding where houseplants might receive the most sunlight. 
 
-The paper concludes with the hope that PIXART-α will inspire the AIGC community and enable more entities to build their own generative models efficiently and affordably.
+CHPTR 7:
+In this test, we go beyond image recognition and into image reasoning to see if Gemini can find similarities between images. 
+
+CHPTR 8:
+This video highlights some of Google favorite interactions with Gemini. Learn more and try the model: https://deepmind.google/gemini 
+
+Explore Gemini prompting approaches here: https://goo.gle/how-its-made-gemini 
+
+CHPTR 9:
+In this test, let’s see if Gemini can guess the name of a movie based on the play on words hidden in a set of images. 
+
+CHPTR 10:
+In this test, let's explore Gemini's code generation capabilities by turning an image into an SVG and also an interactive HTML demo. 
+
+CHPTR 11:
+In this test, let’s see if Gemini can understand how some unusual emojis were created using Emoji Kitchen.
+
+CHPTR 12:
+Let’s see if Gemini can understand outfits and even name a new hypothetical fashion trend. 
+
+CHPTR 13:
+From its early stages of development through deployment into our products, Gemini has been developed with responsibility, safety and our AI Principles in mind. 
+
+Learn more from Google DeepMind and Google Research leaders about our commitments to building Gemini responsibly.
+
+CHPTR 14:
+Join Google Research Engineering Director Palash Nandy as he showcases Gemini’s advanced reasoning and coding abilities, all while exploring ideas for a birthday party. 
+
+The model understands his intent to plan, design and build visually rich interactive experiences that go beyond chat interfaces and best display different types of information. 
+
+CHPTR 15:
+Unlike other AI models, Gemini was trained to recognize, understand, and combine different types of information including text, images, audio, video, and code. 
+
+Its state-of-the-art performance gives it remarkable new capabilities. And it’s built with safety and responsibility at its core. 
+
+CHPTR 16:
+Witness a mind-blowing fusion of science and engineering as Mark Rober and Bard collaborate to craft a paper plane that'll soar to uncharted territories of aerodynamics. Yes, if you’re wondering, Bard wrote this description.
