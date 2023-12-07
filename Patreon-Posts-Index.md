@@ -19,6 +19,10 @@ Your Patreon support is tremendously important for me so thank you so much
 ## Patreon Exclusive Content 
 
 ### December 8 - 2023
+[Magic Animate Automatic Installer and Video to DensePose Auto Converter For Windows And RunPod](https://www.patreon.com/posts/94098751)
+* Automatically install magic-animate on both Windows and RunPod. Also automatically generate DensePose from raw videos via best detectron2.
+
+### December 8 - 2023
 [Fooocus Stable Diffusion Web UI Kaggle NoteBook](https://www.patreon.com/posts/fooocus-stable-94269866)
 * Fooocus Stable Diffusion Web UI Free Kaggle Account Notebook. Use SDXL on Kaggle for free like Midjourney without even a computer. This is the way to use almost Midjourney for free.
 
