@@ -23,22 +23,22 @@ https://discord.com/servers/software-engineering-courses-secourses-7727740977340
 Google Gemini ⤵️
 https://bard.google.com/chat
 
-0:00 Gemini: All you need to know in 90 seconds
-1:30 Gemini: Excelling at competitive programming
-6:30 Gemini: Unlocking insights in scientific literature
-9:12 Gemini: Explaining reasoning in math and physics
-11:11 Gemini: Processing and understanding raw audio
-14:55 Testing Gemini: Understanding environments
-16:07 Testing Gemini: Finding connections
-17:06 Hands-on with Gemini: Interacting with multimodal AI
-23:28 Testing Gemini: Guess the movie
-24:24 Testing Gemini: Turning images into code
-25:22 Testing Gemini: Emoji Kitchen
-26:32 Testing Gemini: Fit check
-27:16 Gemini: Safety and responsibility at the core
-28:56 Gemini: Reasoning about user intent to generate bespoke experiences
-32:28 Gemini: Google’s newest and most capable AI model
-37:03 Mark Rober takes Bard with Gemini Pro for a test flight
+* 0:00 Gemini: All you need to know in 90 seconds
+* 1:30 Gemini: Excelling at competitive programming
+* 6:30 Gemini: Unlocking insights in scientific literature
+* 9:12 Gemini: Explaining reasoning in math and physics
+* 11:11 Gemini: Processing and understanding raw audio
+* 14:55 Testing Gemini: Understanding environments
+* 16:07 Testing Gemini: Finding connections
+* 17:06 Hands-on with Gemini: Interacting with multimodal AI
+* 23:28 Testing Gemini: Guess the movie
+* 24:24 Testing Gemini: Turning images into code
+* 25:22 Testing Gemini: Emoji Kitchen
+* 26:32 Testing Gemini: Fit check
+* 27:16 Gemini: Safety and responsibility at the core
+* 28:56 Gemini: Reasoning about user intent to generate bespoke experiences
+* 32:28 Gemini: Google’s newest and most capable AI model
+* 37:03 Mark Rober takes Bard with Gemini Pro for a test flight
 
 CHAPTER 1:
 It’s built from the ground up to be multimodal — meaning that it’s trained to recognize, understand and combine different types of information, including text, images, audio, video and code. And it’s optimized in three different sizes: Ultra, Pro and Nano. 
