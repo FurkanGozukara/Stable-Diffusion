@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### December 8 - 2023
+[Fooocus Stable Diffusion Web UI Kaggle NoteBook](https://www.patreon.com/posts/fooocus-stable-94269866)
+* Fooocus Stable Diffusion Web UI Free Kaggle Account Notebook. Use SDXL on Kaggle for free like Midjourney without even a computer. This is the way to use almost Midjourney for free.
+
 ### December 4 - 2023
 [Auto Installer For AudioCraft Plus - MusicGen - AudioGen - An All-in-One AudioCraft WebUI](https://www.patreon.com/posts/ai-music-auto-84334460)
 * Auto Installer Windows Bat Files For AudioCraft Plus - MusicGen - AudioGen - An All-in-One AudioCraft WebUI - Facebook Research / Audiocraft
