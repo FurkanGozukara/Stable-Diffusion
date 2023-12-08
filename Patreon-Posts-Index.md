@@ -18,9 +18,9 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
-### December 8 - 2023
+### December 9 - 2023
 [Magic Animate Automatic Installer and Video to DensePose Auto Converter For Windows And RunPod](https://www.patreon.com/posts/94098751)
-* Automatically install magic-animate on both Windows and RunPod. Also automatically generate DensePose from raw videos via best detectron2.
+* Automatically install magic-animate on both Windows and RunPod. Also automatically generate DensePose from raw videos via best detectron2. Includes a standalone CodeFormer Gradio Web APP too for improving faces in videos fully automatically.
 
 ### December 8 - 2023
 [Fooocus Stable Diffusion Web UI Kaggle NoteBook](https://www.patreon.com/posts/fooocus-stable-94269866)
