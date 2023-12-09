@@ -8,7 +8,7 @@
 # How To Install Python, C++ Compile Tools For Python, FFMPEG, CUDA and Do Git Operations Full Tutorial
 ## How To Install Pillars Of AI Application Libraries
 
-If you are using AI applications such as Stable Diffusion, SDXL, Automatic1111 SD Web UI, Oobabooga Text Generation (LLM) Web UI, Roop Deep Fake, DensePose Facebook, InsightFace and many others you need to install following tools. In this tutorial I will show you how to install all of them 1 by 1
+If you are using AI applications such as Stable Diffusion, SDXL, Automatic1111 SD Web UI, Oobabooga Text Generation (LLM) Web UI, Roop Deep Fake, DensePose Facebook, InsightFace, ONNX Runtime and many others you need to install following tools. In this tutorial I will show you how to install all of them 1 by 1
 
 ## Tutorial Link
 * Link will be added once the Tutorial published
