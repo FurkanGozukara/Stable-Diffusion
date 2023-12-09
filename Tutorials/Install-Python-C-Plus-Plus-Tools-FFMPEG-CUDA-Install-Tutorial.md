@@ -73,6 +73,11 @@ note: This error originates from a subprocess, and is likely not a problem with 
 * If you want to be able to use different branches of projects such as dev branch of Automatic1111 SD Web UI, you need to be able to do git checkout
 * If you have modified files you have to do git stash and then git pop if there be conflicting files
 * Follow the tutorial video to be able to do all of these operations
+* git stash and git stash pop resolves the below error when you do git pull
+```
+error: Your local changes to the following files would be overwritten by merge:
+Please commit your changes or stash them before you merge.
+```
 
 ## How To Generate VENV, Activate VENV, Uninstall and Install A Specific Library 
 * Sometimes you will be have to generate your own VENV
