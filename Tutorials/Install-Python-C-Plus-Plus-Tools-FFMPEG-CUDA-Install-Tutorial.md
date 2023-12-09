@@ -26,6 +26,12 @@
 * Install and make sure that Path is set as shown in tutorial video
 
 ### Microsoft Visual Studio C++ Compile Tools
+* This solves the following error that you get
+```
+error: Microsoft Visual C++ 14.0 or greater is required.
+Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+note: This error originates from a subprocess, and is likely not a problem with pip.
+```
 * This is super important and hard to install tools
 * Some AI libraries requires you to manually compile projects since they don't have pre-compiled wheels
 * Such as InsightFace library used by Deep Fake AI project Roop
