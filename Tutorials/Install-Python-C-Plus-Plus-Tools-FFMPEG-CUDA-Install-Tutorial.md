@@ -64,5 +64,9 @@ If you are using AI applications such as Stable Diffusion, SDXL, Automatic1111 S
 * If you have modified files you have to do git stash and then git pop if there be conflicting files
 * Follow the tutorial video to be able to do all of these operations
 
+## How To Generate VENV, Activate VENV, Uninstall and Install A Specific Library 
+* Sometimes you will be have to generate your own VENV
+* Sometimes you will be have to activate installed VENV and install a specific library
+* So watch tutorial video to learn all about this 
 
 
