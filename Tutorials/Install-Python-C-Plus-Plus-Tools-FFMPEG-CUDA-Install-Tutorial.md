@@ -24,6 +24,7 @@
 * Install Python with selecting all options
 * Make sure that it is added to the System Enviroment Variables Path
 * Install and make sure that Path is set as shown in tutorial video
+* Pip Cache management : https://pip.pypa.io/en/stable/topics/caching/
 
 ### Microsoft Visual Studio C++ Compile Tools
 * This solves the following error that you get
