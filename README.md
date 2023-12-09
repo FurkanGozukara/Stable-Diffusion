@@ -381,3 +381,5 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 [**PIXART-α : First Open Source Rival to Midjourney - Better Than Stable Diffusion SDXL - Full Tutorial**](https://youtu.be/ZiUXf_idIR4)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/NccIesCaYHEpKshYB-jF0.png)](https://youtu.be/ZiUXf_idIR4)
+
+new
