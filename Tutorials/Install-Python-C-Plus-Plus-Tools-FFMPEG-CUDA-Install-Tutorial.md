@@ -65,6 +65,8 @@ note: This error originates from a subprocess, and is likely not a problem with 
 * You need to download and install Git to be able to clone repositories
 * Download and install from below link
 * https://git-scm.com/downloads
+* If you ever need Git large download from below
+* https://git-lfs.com/
 
 ## How To Do git checkout , git pull, git stash, git stash pop
 * If you want to be able to use different branches of projects such as dev branch of Automatic1111 SD Web UI, you need to be able to do git checkout
