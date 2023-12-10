@@ -79,6 +79,7 @@ Please commit your changes or stash them before you merge.
 * Sometimes you will be have to activate installed VENV and install a specific library
 * So watch tutorial video to learn all about this
 * I am showing how to install any specific Torch version with GPU support
+* Never MOVE or RENAME a VENV. It will break it. Do a fresh install 
 
 ## How To Have Multiple Python Versions And Generate VENV For Specific Version Like 3.10.11 vs 3.11.0
 * This is super important topic in some cases to have multiple Python versions
