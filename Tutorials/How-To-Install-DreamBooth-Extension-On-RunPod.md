@@ -76,7 +76,7 @@ chmod +x install2.sh
 
 ```
 cd /workspace/stable-diffusion-webui
-git checkout master
+git checkout 68f336bd994bed5442ad95bad6b6ad5564a5409a
 git pull
 ```
 
@@ -118,15 +118,17 @@ fuser -k 3000/tcp
 
 ```
 yes | pip uninstall torch torchvision torchaudio
-yes | pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+yes | pip3 install torch==2.0.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
 
 ```
-pip install xformers==0.0.20
+pip install xformers==0.0.22
 ```
 
 ```
 git clone https://github.com/d8ahazard/sd_dreambooth_extension /workspace/stable-diffusion-webui/extensions/sd_dreambooth_extension
+cd /workspace/stable-diffusion-webui/extensions/sd_dreambooth_extension
+git checkout c2a5617c587b812b5a408143ddfb18fc49234edf
 ```
 
 ```
