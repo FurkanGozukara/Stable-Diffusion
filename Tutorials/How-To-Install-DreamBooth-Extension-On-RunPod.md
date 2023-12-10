@@ -76,12 +76,7 @@ chmod +x install2.sh
 
 ```
 cd /workspace/stable-diffusion-webui
-git checkout 68f336bd994bed5442ad95bad6b6ad5564a5409a
-git pull
-```
-
-```
-rm -r /workspace/venv
+git checkout 394ffa7b0a7fff3ec484bcd084e673a8b301ccc8
 ```
 
 First find ```webui-user.sh``` and change below line and remove ```--skip-install``` and save
@@ -128,11 +123,19 @@ pip install xformers==0.0.22
 ```
 git clone https://github.com/d8ahazard/sd_dreambooth_extension /workspace/stable-diffusion-webui/extensions/sd_dreambooth_extension
 cd /workspace/stable-diffusion-webui/extensions/sd_dreambooth_extension
-git checkout c2a5617c587b812b5a408143ddfb18fc49234edf
+git checkout dc413a14379b165355502d9f65856c40a4bb5b6f
 ```
 
 ```
 pip install -r /workspace/stable-diffusion-webui/extensions/sd_dreambooth_extension/requirements.txt
+```
+
+```
+pip uninstall httpx --yes
+```
+
+```
+pip install httpx==0.24.1
 ```
 
 ```
