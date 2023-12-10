@@ -82,9 +82,14 @@ Please commit your changes or stash them before you merge.
 ## How To Generate VENV, Activate VENV, Uninstall and Install A Specific Library 
 * Sometimes you will be have to generate your own VENV
 * Sometimes you will be have to activate installed VENV and install a specific library
-* So watch tutorial video to learn all about this 
+* So watch tutorial video to learn all about this
+* I am showing how to install any specific Torch version with GPU support
 
 ## How To Have Multiple Python Versions And Generate VENV For Specific Version Like 3.10.11 vs 3.11.0
 * This is super important topic in some cases to have multiple Python versions
 * I am also showing how to change default Python version
+* I am also showing how to setup a VENV with each Python version
+
+## How To Install Any App And Set Its Enviroment Path Variable
+* I am showing how to download and install runpodctl and set its path to use from any folder as example
 
