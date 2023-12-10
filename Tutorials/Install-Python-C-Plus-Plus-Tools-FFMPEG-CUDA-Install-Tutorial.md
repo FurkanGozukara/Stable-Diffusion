@@ -39,12 +39,7 @@ note: This error originates from a subprocess, and is likely not a problem with 
 * So proper installation of this tool and adding it to the System Enviroment Variables Path is super important 
 * Download Build Tools for Visual Studio 2022 from here : https://visualstudio.microsoft.com/downloads/
 * Install C++ tools as shown in tutorial video
-
-### Microsoft Visual C++ Redistributable
-* Microsoft Visual C++ Redistributable is another tool that you might need
-* Download Microsoft Visual C++ Redistributable for Visual Studio 2022 from below link
-* https://visualstudio.microsoft.com/downloads/
-* Instlal C++ Redistributable as shown in video
+* This installs Microsoft Visual C++ Redistributable as well
 
 ### FFMPEG
 * FFMPEG is the most widely used video editing and encoding open source library
