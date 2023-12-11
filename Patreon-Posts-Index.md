@@ -18,13 +18,13 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### December 11 - 2023
+[Fooocus Stable Diffusion Web UI Kaggle NoteBook](https://www.patreon.com/posts/fooocus-stable-94269866)
+* Fooocus Stable Diffusion Web UI Free Kaggle Account Notebook. Use SDXL on Kaggle for free like Midjourney without even a computer. This is the way to use almost Midjourney for free.
+
 ### December 9 - 2023
 [Magic Animate Automatic Installer and Video to DensePose Auto Converter For Windows And RunPod](https://www.patreon.com/posts/94098751)
 * Automatically install magic-animate on both Windows and RunPod. Also automatically generate DensePose from raw videos via best detectron2. Includes a standalone CodeFormer Gradio Web APP too for improving faces in videos fully automatically.
-
-### December 8 - 2023
-[Fooocus Stable Diffusion Web UI Kaggle NoteBook](https://www.patreon.com/posts/fooocus-stable-94269866)
-* Fooocus Stable Diffusion Web UI Free Kaggle Account Notebook. Use SDXL on Kaggle for free like Midjourney without even a computer. This is the way to use almost Midjourney for free.
 
 ### December 4 - 2023
 [Auto Installer For AudioCraft Plus - MusicGen - AudioGen - An All-in-One AudioCraft WebUI](https://www.patreon.com/posts/ai-music-auto-84334460)
