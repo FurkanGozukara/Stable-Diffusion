@@ -53,7 +53,7 @@ note: This error originates from a subprocess, and is likely not a problem with 
 * You need to register a free developer NVIDIA account to download CUDA from below link
 * https://developer.nvidia.com/cuda-11-8-0-download-archive
 * Alternatively you can directly download from below exe file
-* https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/cuda_11.8.0_522.06_windows.exe?download=true
+* https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/cuda_11.8.0_522.06_windows.exe
 * If you have different CUDA toolkits installed they will be likely to conflict
 * After installation of CUDA make sure that it is added to the System Enviroment Variables Path as shown in tutorial video
 
