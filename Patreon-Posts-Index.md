@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### December 14 - 2023
+[Run Automatic1111 On A Free Kaggle NoteBook Like In Your PC - Supports SDXL & ControlNet](https://www.patreon.com/posts/run-on-free-like-88714330)
+* A Free Kaggle account notebook to use Automatic1111 for free. Supports SDXL, ControlNet, LoRA, trained LoRAs & automatic extension install. Works like you have a very strong computer. Dual 15 GB GPUs, 29 GB RAM provided for free by Kaggle.
+
 ### December 11 - 2023
 [Fooocus Stable Diffusion Web UI Kaggle NoteBook](https://www.patreon.com/posts/fooocus-stable-94269866)
 * Fooocus Stable Diffusion Web UI Free Kaggle Account Notebook. Use SDXL on Kaggle for free like Midjourney without even a computer. This is the way to use almost Midjourney for free.
@@ -113,10 +117,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### October 24 - 2023
 [Automatic1111 Web UI Google Colab NoteBook With All ControlNet Models And More](https://www.patreon.com/posts/automatic1111-ui-89288738)
 * Automatic1111 Web UI Google Colab Notebook With All ControlNet Models, SDXL Model, Best SD 1.5 Model, LoRA Download Example, Upscaler, SDXL LoRAs, SDXL ControlNet All Models & More
-
-### October 19 - 2023
-[Run Automatic1111 On A Free Kaggle NoteBook Like In Your PC - Supports SDXL & ControlNet](https://www.patreon.com/posts/run-on-free-like-88714330)
-* A Free Kaggle account notebook to use Automatic1111 for free. Supports SDXL, ControlNet, LoRA, trained LoRAs & automatic extension install. Works like you have a very strong computer. Dual 15 GB GPUs, 29 GB RAM provided for free by Kaggle.
 
 ### October 19 - 2023
 [1 Click Auto Windows Installer For Rerender A Video - 1 Click Video To Anime](https://www.patreon.com/posts/89457537)
