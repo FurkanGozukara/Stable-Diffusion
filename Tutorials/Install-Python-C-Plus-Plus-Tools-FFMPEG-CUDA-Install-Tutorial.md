@@ -13,6 +13,7 @@
 
 ## Tutorial Link
 * [Essential AI Tools and Libraries: A Guide to Python, Git, C++ Compile Tools, FFmpeg, CUDA, PyTorch](https://www.youtube.com/watch?v=-NjNy7afOQ0)
+* https://www.youtube.com/watch?v=-NjNy7afOQ0
 
 ## Resources
 
