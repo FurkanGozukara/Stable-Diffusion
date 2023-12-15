@@ -12,7 +12,7 @@
 * In this tutorial video I will show you how to install all of them 1 by 1 on a freshly installed Windows PC
 
 ## Tutorial Link
-* Link will be added once the Tutorial published
+* [Essential AI Tools and Libraries: A Guide to Python, Git, C++ Compile Tools, FFmpeg, CUDA, PyTorch](https://www.youtube.com/watch?v=-NjNy7afOQ0)
 
 ## Resources
 
