@@ -150,10 +150,6 @@ Your Patreon support is tremendously important for me so thank you so much
 [How To Start Multiple Automatic1111 Web UI And Kohya Training On A Single Pod](https://www.patreon.com/posts/how-to-start-web-89150521)
 * Download webui-user.sh and relauncher.py files and follow instructions to start multiple Automatic1111 on different GPUs on a  single RunPod
 
-### September 11 - 2023
-[How To Start Multiple Automatic1111 Web UI And Kohya Training On A Single Pod](https://www.patreon.com/posts/how-to-start-web-89150521)
-* Download webui-user.sh and relauncher.py files and follow instructions to start multiple Automatic1111 on different GPUs on a  single RunPod
-
 ### August 25 - 2023
 [1 Click Auto Roop (DeepFake - FaceSwap) Local Windows Installer Script](https://www.patreon.com/posts/1-click-auto-88234834)
 * Automatic Roop DeepFake / FaceSwap installer script. 1 click to install and 1 click to run and start using it very easily.
