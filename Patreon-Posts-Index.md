@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### December 17 - 2023
+[1 Click RunPod Automatic1111 SD Web UI SDXL & TensorRT Installer](https://www.patreon.com/posts/86438018)
+* 1 Click Installer for Automatic1111 Web UI on RunPod with SDXL and newest TensorRT (75%+ Speed Boost) support. Installs latest Automatic1111 Web UI and SDXL Models with best VAE.
+
 ### December 14 - 2023
 [Run Automatic1111 On A Free Kaggle NoteBook Like In Your PC - Supports SDXL & ControlNet](https://www.patreon.com/posts/run-on-free-like-88714330)
 * A Free Kaggle account notebook to use Automatic1111 for free. Supports SDXL, ControlNet, LoRA, trained LoRAs & automatic extension install. Works like you have a very strong computer. Dual 15 GB GPUs, 29 GB RAM provided for free by Kaggle.
@@ -109,10 +113,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### October 28 - 2023
 [RunPod Auto DreamBooth Extension Of Automatic1111 Web UI & Latest Libraries Installer Script](https://www.patreon.com/posts/runpod-auto-84716845)
 * This script will install working version of DreamBooth extension of Automatic1111 Web UI fully automatically for you on RunPod. 
-
-### October 26 - 2023
-[1 Click RunPod Automatic1111 SD Web UI SDXL & TensorRT Installer](https://www.patreon.com/posts/86438018)
-* 1 Click Installer for Automatic1111 Web UI on RunPod with SDXL and newest TensorRT (75%+ Speed Boost) support. Installs latest Automatic1111 Web UI and SDXL Models with best VAE.
 
 ### October 24 - 2023
 [Automatic1111 Web UI Google Colab NoteBook With All ControlNet Models And More](https://www.patreon.com/posts/automatic1111-ui-89288738)
