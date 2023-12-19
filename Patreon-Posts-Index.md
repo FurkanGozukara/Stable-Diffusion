@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### December 19 - 2023
+[Automatic Windows Installer For SDXL & Automatic1111 Web UI & RTX Accelerator TensorRT](https://www.patreon.com/posts/86307255)
+* Automatic Windows installer script for SDXL and Automatic1111 Web UI. Downloads latest SDXL base, refiner models and FP16 VAE (.safetensors). Moreover it automatically installs and lets you download newest NVIDIA RTX Accelerator - TensorRT which brings 70%+ Speed Up.
+
 ### December 17 - 2023
 [1 Click RunPod Automatic1111 SD Web UI SDXL & TensorRT Installer](https://www.patreon.com/posts/86438018)
 * 1 Click Installer for Automatic1111 Web UI on RunPod with SDXL and newest TensorRT (75%+ Speed Boost) support. Installs latest Automatic1111 Web UI and SDXL Models with best VAE.
@@ -121,10 +125,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### October 19 - 2023
 [1 Click Auto Windows Installer For Rerender A Video - 1 Click Video To Anime](https://www.patreon.com/posts/89457537)
 * Rerender is an amazing new Paper that allows you to turn videos into Anime with 1 click. Auto install scripts and instructions provided here
-
-### October 18 - 2023
-[Automatic Windows Installer For SDXL & Automatic1111 Web UI & RTX Accelerator TensorRT](https://www.patreon.com/posts/86307255)
-* Automatic Windows installer script for SDXL and Automatic1111 Web UI. Downloads latest SDXL base, refiner models and FP16 VAE (.safetensors). Moreover it automatically installs and lets you download newest NVIDIA RTX Accelerator - TensorRT which brings 70%+ Speed Up.
 
 ### October 16 - 2023
 [1 Click Auto RunPod Installer For Rerender A Video - 1 Click Video To Anime](https://www.patreon.com/posts/1-click-auto-for-91039997)
