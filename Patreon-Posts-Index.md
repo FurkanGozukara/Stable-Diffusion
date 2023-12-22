@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### December 23 - 2023
+[RunPod ComfyUI Auto Installer With SDXL Auto Install Including Refiner](https://www.patreon.com/posts/runpod-comfyui-86062569)
+* 1 Click Auto Installer Script For ComfyUI (latest) & Manager On RunPod. Supports SDXL and SDXL Refiner. Workflows included. Includes LoRA
+
 ### December 22 - 2023
 [Fooocus Stable Diffusion Web UI Kaggle NoteBook](https://www.patreon.com/posts/fooocus-stable-94269866)
 * Fooocus Stable Diffusion Web UI Free Kaggle Account Notebook. Use SDXL on Kaggle for free like Midjourney without even a computer. This is the way to use almost Midjourney for free.
@@ -173,10 +177,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### July 27 - 2023
 [How To Fix Artifacts In The SDXL 1.0 VAE - Hidden Watermark System](https://www.patreon.com/posts/86736816)
 * How to get rid off embedded watermarking system in SDXL 1.0 VAE. We will use new VAE. How to use proper VAE with SDXL for best quality.
-
-### July 14 - 2023
-[RunPod ComfyUI Auto Installer With SDXL Auto Install Including Refiner](https://www.patreon.com/posts/runpod-comfyui-86062569)
-* 1 Click Auto Installer Script For ComfyUI (latest) & Manager On RunPod. Supports SDXL and SDXL Refiner. Workflows included. Includes LoRA
 
 ### July 12 - 2023
 [1k Resolution Class Images & Direct SDXL Download Links](https://www.patreon.com/posts/1k-resolution-85976249)
