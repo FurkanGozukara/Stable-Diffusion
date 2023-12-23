@@ -19,6 +19,11 @@ Your Patreon support is tremendously important for me so thank you so much
 ## Patreon Exclusive Content 
 
 ### December 23 - 2023
+[Find And Move Duplicate or Very Similar Images By Using imagehash - Batch Processing Super Fast](https://www.patreon.com/posts/find-and-move-or-95143007)
+* If you want to find duplicate or near duplicate images very fast, this script is what you are looking for. It analyzes the content of images so works amazingly 
+
+
+### December 23 - 2023
 [RunPod ComfyUI Auto Installer With SDXL Auto Install Including Refiner](https://www.patreon.com/posts/runpod-comfyui-86062569)
 * 1 Click Auto Installer Script For ComfyUI (latest) & Manager On RunPod. Supports SDXL and SDXL Refiner. Workflows included. Includes LoRA
 
