@@ -19,9 +19,12 @@ Your Patreon support is tremendously important for me so thank you so much
 ## Patreon Exclusive Content 
 
 ### December 23 - 2023
+[Batch Image Metadata Generator - Extremely Useful For Automatic1111 SD Web UI](https://www.patreon.com/posts/95176238)
+* If you want to batch generate Metadata of images with just one click, this is the script you are looking for. Extremely useful for SD Web UI
+
+### December 23 - 2023
 [Find And Move Duplicate or Very Similar Images By Using imagehash - Batch Processing Super Fast](https://www.patreon.com/posts/find-and-move-or-95143007)
 * If you want to find duplicate or near duplicate images very fast, this script is what you are looking for. It analyzes the content of images so works amazingly 
-
 
 ### December 23 - 2023
 [RunPod ComfyUI Auto Installer With SDXL Auto Install Including Refiner](https://www.patreon.com/posts/runpod-comfyui-86062569)
