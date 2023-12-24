@@ -382,4 +382,8 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/NccIesCaYHEpKshYB-jF0.png)](https://youtu.be/ZiUXf_idIR4)
 
-new
+59.) Free - Local - PC
+
+[**Essential AI Tools and Libraries: A Guide to Python, Git, C++ Compile Tools, FFmpeg, CUDA, PyTorch**](https://youtu.be/-NjNy7afOQ0)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/uSxPD2Yav4JlLEAHQE5Dr.png)](https://youtu.be/-NjNy7afOQ0)
