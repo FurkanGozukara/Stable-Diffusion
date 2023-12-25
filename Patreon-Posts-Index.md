@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### December 25 - 2023
+[Auto Installer Script For Roop (DeepFake) On RunPod & Example Image And Videos](https://www.patreon.com/posts/auto-installer-84511510)
+* How to automatically install DeepFake Roop with 1 click on RunPod and use it. Step by step instructions and 1click installer script file
+
 ### December 23 - 2023
 [Batch Image Metadata Generator - Extremely Useful For Automatic1111 SD Web UI](https://www.patreon.com/posts/95176238)
 * If you want to batch generate Metadata of images with just one click, this is the script you are looking for. Extremely useful for SD Web UI
@@ -221,10 +225,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### June 16 - 2023
 [Core i7 10700F vs Core i9 13900K](https://www.patreon.com/posts/core-i7-10700f-84640971)
 * Core i7 10700F vs Core i9 13900K results are shown in the image. Alternatively you can watch the youtube video to see them.
-
-### June 14 - 2023
-[Auto Installer Script For Roop (DeepFake) On RunPod & Example Image And Videos](https://www.patreon.com/posts/auto-installer-84511510)
-* How to automatically install DeepFake Roop with 1 click on RunPod and use it. Step by step instructions and 1click installer script file
 
 ### June 9 - 2023
 [2 Pre-Processing Scripts And 3 Datasets Of Processed Class Images For Popular Models](https://www.patreon.com/posts/84292083)
