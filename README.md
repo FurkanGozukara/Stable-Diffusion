@@ -17,7 +17,7 @@ My Linktr : [**https://linktr.ee/FurkanGozukara**](https://linktr.ee/FurkanGozuk
 **Our channel address (30,000+ subscribers) if you like to subscribe ⤵️**
 [**https://www.youtube.com/@SECourses**](https://www.youtube.com/@SECourses)
 
-**Our discord (5,800+ members) to get more help ⤵️**
+**Our discord (5,900+ members) to get more help ⤵️**
 [**https://discord.com/servers/software-engineering-courses-secourses-772774097734074388**](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388)
 
 **Our 1,400+ Stars GitHub Stable Diffusion and other tutorials repo ⤵️**
