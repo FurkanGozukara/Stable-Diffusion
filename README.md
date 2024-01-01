@@ -387,3 +387,11 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 [**Essential AI Tools and Libraries: A Guide to Python, Git, C++ Compile Tools, FFmpeg, CUDA, PyTorch**](https://youtu.be/-NjNy7afOQ0)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/uSxPD2Yav4JlLEAHQE5Dr.png)](https://youtu.be/-NjNy7afOQ0)
+
+
+60.) Free - Local - PC & RunPod
+
+[**MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model - Full Tutorial**](https://youtu.be/HeXknItbMM8)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/rrfzVUOXVlXyrS4RueGHA.png)](https://youtu.be/HeXknItbMM8)
+
