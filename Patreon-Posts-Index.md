@@ -18,13 +18,13 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### January 3 - 2024
+[Kohya SD 1.5 & SDXL LoRA - DreamBooth Training Free Kaggle NoteBook](https://www.patreon.com/posts/kohya-sdxl-lora-88397937)
+* A Kaggle NoteBook file to do Stable Diffusion 1.5 & XL (SDXL) Kohya GUI both LoRA and DreamBooth training on a free Kaggle account. If you don't have a strong GPU this is the notebook you need. It supports even SDXL DreamBooth full fine tuning.
+
 ### January 1 - 2024
 [Magic Animate Automatic Installer and Video to DensePose Auto Converter For Windows And RunPod](https://www.patreon.com/posts/94098751)
 * Automatically install magic-animate on both Windows and RunPod. Also automatically generate DensePose from raw videos via best detectron2. Includes a standalone CodeFormer Gradio Web APP too for improving faces in videos fully automatically.
-
-### December 31 - 2023
-[Kohya SD 1.5 & SDXL LoRA - DreamBooth Training Free Kaggle NoteBook](https://www.patreon.com/posts/kohya-sdxl-lora-88397937)
-* A Kaggle NoteBook file to do Stable Diffusion 1.5 & XL (SDXL) Kohya GUI both LoRA and DreamBooth training on a free Kaggle account. If you don't have a strong GPU this is the notebook you need. It supports even SDXL DreamBooth full fine tuning.
 
 ### December 25 - 2023
 [Auto Installer Script For Roop (DeepFake) On RunPod & Example Image And Videos](https://www.patreon.com/posts/auto-installer-84511510)
