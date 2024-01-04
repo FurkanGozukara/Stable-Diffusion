@@ -33,6 +33,8 @@ Since my profession is teaching, I usually do not skip any of the important part
 
 Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & Google Colab Guides, DreamBooth, Textual Inversion / Embedding, LoRA, AI Upscaling, Video to Anime**](https://www.youtube.com/watch?v=mnCY8uM7E50&list=PL_pbwdIyffsmclLl0O144nQRnezKlNdx3)
 
+## Tutorial Videos
+
 1.) Automatic1111 Web UI - PC - Free
 
 [**How To Install Python, Setup Virtual Environment VENV, Set Default Python System Path & Install Git**](https://youtu.be/B5U7LJOvH6g)
