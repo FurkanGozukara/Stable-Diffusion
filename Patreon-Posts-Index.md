@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### January 6 - 2024
+[1 Click RunPod Automatic1111 SD Web UI SDXL & TensorRT Installer](https://www.patreon.com/posts/86438018)
+* 1 Click Installer for Automatic1111 Web UI on RunPod with SDXL and newest TensorRT (75%+ Speed Boost) support. Installs latest Automatic1111 Web UI and SDXL Models with best VAE.
+
 ### January 3 - 2024
 [Kohya SD 1.5 & SDXL LoRA - DreamBooth Training Free Kaggle NoteBook](https://www.patreon.com/posts/kohya-sdxl-lora-88397937)
 * A Kaggle NoteBook file to do Stable Diffusion 1.5 & XL (SDXL) Kohya GUI both LoRA and DreamBooth training on a free Kaggle account. If you don't have a strong GPU this is the notebook you need. It supports even SDXL DreamBooth full fine tuning.
@@ -53,10 +57,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### December 19 - 2023
 [Automatic Windows Installer For SDXL & Automatic1111 Web UI & RTX Accelerator TensorRT](https://www.patreon.com/posts/86307255)
 * Automatic Windows installer script for SDXL and Automatic1111 Web UI. Downloads latest SDXL base, refiner models and FP16 VAE (.safetensors). Moreover it automatically installs and lets you download newest NVIDIA RTX Accelerator - TensorRT which brings 70%+ Speed Up.
-
-### December 17 - 2023
-[1 Click RunPod Automatic1111 SD Web UI SDXL & TensorRT Installer](https://www.patreon.com/posts/86438018)
-* 1 Click Installer for Automatic1111 Web UI on RunPod with SDXL and newest TensorRT (75%+ Speed Boost) support. Installs latest Automatic1111 Web UI and SDXL Models with best VAE.
 
 ### December 14 - 2023
 [Run Automatic1111 On A Free Kaggle NoteBook Like In Your PC - Supports SDXL & ControlNet](https://www.patreon.com/posts/run-on-free-like-88714330)
