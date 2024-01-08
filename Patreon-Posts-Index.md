@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### January 8 - 2024
+[OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets](https://www.patreon.com/posts/96028218)
+* Nerogar OneTrainer very best Stable Diffusion XL (SDXL) full fine tuning presets. 14 GB GPU is very sufficient and fast
+
 ### January 6 - 2024
 [1 Click RunPod Automatic1111 SD Web UI SDXL & TensorRT Installer](https://www.patreon.com/posts/86438018)
 * 1 Click Installer for Automatic1111 Web UI on RunPod with SDXL and newest TensorRT (75%+ Speed Boost) support. Installs latest Automatic1111 Web UI and SDXL Models with best VAE.
