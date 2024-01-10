@@ -398,6 +398,6 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 61.) Free - Local - PC - RunPod - Kaggle
 
-[**MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model - Full Tutorial**](https://youtu.be/rjXsJ24kQQg)
+[**Instantly Transfer Face By Using IP-Adapter-FaceID: Full Tutorial & GUI For Windows, RunPod & Kaggle**](https://youtu.be/rjXsJ24kQQg)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/lUGVOxswNTUEoUnCQfBVw.png)](https://youtu.be/rjXsJ24kQQg)
