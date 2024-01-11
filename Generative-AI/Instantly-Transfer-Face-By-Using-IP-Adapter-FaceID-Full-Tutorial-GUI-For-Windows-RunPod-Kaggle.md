@@ -34,43 +34,43 @@ https://discord.com/servers/software-engineering-courses-secourses-7727740977340
 Official Repo ⤵️
 https://huggingface.co/h94/IP-Adapter-FaceID
 
-0:00 Introduction to IP-Adapter-FaceID full tutorial
-2:19 Requirements to use IP-Adapter-FaceID gradio Web APP
-2:45 Where the Hugging Face models are downloaded by default on Windows
-3:12 How to change folder path where the Hugging Face models are downloaded and cached
-3:39 How to install IP-Adapter-FaceID Gradio Web APP and use on Windows
-5:35 How to start the IP-Adapter-FaceID Web UI after the installation
-5:46 How to use Stable Diffusion XL (SDXL) models with IP-Adapter-FaceID
-5:56 How to select your input face and start generating 0-shot face transferred new amazing images
-6:06 What does each option on the Web UI do explanations
-6:44 What are those dropdown menu models and their meaning
-7:50 How to use custom and local models with custom model path
-8:09 How to add custom models and local models into your Web UI dropdown menu permanently
-8:52 How to use a CivitAI model in IP-Adapter-FaceID web APP
-9:17 How to convert CKPT or Safetensors model files into diffusers format
-10:05 How to use diffusers exported model in custom model path input
-10:24 How to download generated images and also where the generated images are saved
-10:40 How to use an SDXL mode
-11:37 How to permanently add your custom local models into your Web APP models dropdown list
-13:28 How to install and use IP-Adapter-FaceID gradio Web APP on RunPod
-15:39 How to start IP-Adapter-FaceID gradio Web APP on RunPod after the installation
-16:02 What you need to be careful when using on RunPod or on Kaggle
-16:43 How to use a network storage on RunPod to permanently keep storage between pods
-17:17 How to edit web app on RunPod and add any model to UI permanently
-17:46 How to kill started Web UI instance on RunPod
-18:08 How to install fuser command on RunPod on Linux
-19:01 How to use custom CivitAI model on RunPod with IP-Adapter-FaceID
-20:00 If wget method from CivitAI fails how to make it work on RunPod or on Kaggle
-20:34 How to delete files on RunPod properly
-20:58 How to convert CKPT or Safetensors checkpoints into diffusers on RunPod
-22:58 Showing example of SD 1.5 model conversion on RunPod
-24:18 How to install and use IP-Adapter-FaceID gradio Web APP on a Free Kaggle notebook
-26:10 How to download custom models into the temp directory of Kaggle to use on the Web APP
-26:47 How to get your token and activate it to use Gradio app on Kaggle
-27:05 After auth token set how to start Web UI on Kaggle
-28:26 How to convert a custom CivitAI or any model into Diffusers on Kaggle to use
-29:23 How to download all the generated images on a Kaggle notebook with 1 click
-30:12 Where to find our Discord channel link
+* 0:00 Introduction to IP-Adapter-FaceID full tutorial
+* 2:19 Requirements to use IP-Adapter-FaceID gradio Web APP
+* 2:45 Where the Hugging Face models are downloaded by default on Windows
+* 3:12 How to change folder path where the Hugging Face models are downloaded and cached
+* 3:39 How to install IP-Adapter-FaceID Gradio Web APP and use on Windows
+* 5:35 How to start the IP-Adapter-FaceID Web UI after the installation
+* 5:46 How to use Stable Diffusion XL (SDXL) models with IP-Adapter-FaceID
+* 5:56 How to select your input face and start generating 0-shot face transferred new amazing images
+* 6:06 What does each option on the Web UI do explanations
+* 6:44 What are those dropdown menu models and their meaning
+* 7:50 How to use custom and local models with custom model path
+* 8:09 How to add custom models and local models into your Web UI dropdown menu permanently
+* 8:52 How to use a CivitAI model in IP-Adapter-FaceID web APP
+* 9:17 How to convert CKPT or Safetensors model files into diffusers format
+* 10:05 How to use diffusers exported model in custom model path input
+* 10:24 How to download generated images and also where the generated images are saved
+* 10:40 How to use an SDXL mode
+* 11:37 How to permanently add your custom local models into your Web APP models dropdown list
+* 13:28 How to install and use IP-Adapter-FaceID gradio Web APP on RunPod
+* 15:39 How to start IP-Adapter-FaceID gradio Web APP on RunPod after the installation
+* 16:02 What you need to be careful when using on RunPod or on Kaggle
+* 16:43 How to use a network storage on RunPod to permanently keep storage between pods
+* 17:17 How to edit web app on RunPod and add any model to UI permanently
+* 17:46 How to kill started Web UI instance on RunPod
+* 18:08 How to install fuser command on RunPod on Linux
+* 19:01 How to use custom CivitAI model on RunPod with IP-Adapter-FaceID
+* 20:00 If wget method from CivitAI fails how to make it work on RunPod or on Kaggle
+* 20:34 How to delete files on RunPod properly
+* 20:58 How to convert CKPT or Safetensors checkpoints into diffusers on RunPod
+* 22:58 Showing example of SD 1.5 model conversion on RunPod
+* 24:18 How to install and use IP-Adapter-FaceID gradio Web APP on a Free Kaggle notebook
+* 26:10 How to download custom models into the temp directory of Kaggle to use on the Web APP
+* 26:47 How to get your token and activate it to use Gradio app on Kaggle
+* 27:05 After auth token set how to start Web UI on Kaggle
+* 28:26 How to convert a custom CivitAI or any model into Diffusers on Kaggle to use
+* 29:23 How to download all the generated images on a Kaggle notebook with 1 click
+* 30:12 Where to find our Discord channel link
 
 [**Instantly Transfer Face By Using IP-Adapter-FaceID: Full Tutorial & GUI For Windows, RunPod & Kaggle**](https://youtu.be/rjXsJ24kQQg)
 
