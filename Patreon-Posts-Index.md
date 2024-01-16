@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### January 16 - 2024
+[PixArt-alpha (PixArt-α) Automatic Installer For Both Windows And RunPod With Additional Web UI Features](https://www.patreon.com/posts/pixart-alpha-for-93614549)
+* Auto installer scripts with an Advanced Web Gradio APP to install and use PIXART-α (PixArt-alpha - SDXL Rival) for both Windows and RunPod. 
+
 ### January 14 - 2024
 [Tortoise TTS Fast (tortoise-tts-fast) Windows Auto Installer BAT Script](https://www.patreon.com/posts/tortoise-tts-tts-90496485)
 * 1 Click installer for tortoise-tts-fast on Windows. It will make its own VENV so will not affect any other AI apps such as Stable Diffusion.
@@ -81,14 +85,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### December 4 - 2023
 [Auto Installer For AudioCraft Plus - MusicGen - AudioGen - An All-in-One AudioCraft WebUI](https://www.patreon.com/posts/ai-music-auto-84334460)
 * Auto Installer Windows Bat Files For AudioCraft Plus - MusicGen - AudioGen - An All-in-One AudioCraft WebUI - Facebook Research / Audiocraft
-
-### December 3 - 2023
-[PixArt-alpha (PixArt-α) Automatic Installer For Both Windows And RunPod With Additional Web UI Features](https://www.patreon.com/posts/pixart-alpha-for-93614549)
-* Auto installer scripts with an Advanced Web Gradio APP to install and use PIXART-α (PixArt-alpha - SDXL Rival) for both Windows and RunPod. 
-
-### November 27 - 2023
-[PixArt-alpha (PixArt-α) Automatic Installer For Both Windows And RunPod With Additional Web UI Features](https://www.patreon.com/posts/93614549)
-* Auto installer scripts with an Advanced Web Gradio APP to install and use PIXART-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis (PixArt-alpha - SDXL Rival) for both Windows and RunPod. 
 
 ### November 27 - 2023
 [Massive 4K Resolution Woman & Man Class Ground Truth Stable Diffusion Regularization Images Dataset](https://www.patreon.com/posts/massive-4k-woman-87700469)
