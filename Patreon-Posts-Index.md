@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### January 17 - 2024
+[Download 160 Very Best Stable Diffusion 1.5 Based (SD 1.5) Models With 1 Click](https://www.patreon.com/posts/96666744)
+* 1 click Download the very best 160+ Stable Diffusion 1.5 models (SD 1.5) from CivitAI and Hugging Face into your PC or RunPod or Cloud.
+
 ### January 16 - 2024
 [PixArt-alpha (PixArt-α) Automatic Installer For Both Windows And RunPod With Additional Web UI Features](https://www.patreon.com/posts/pixart-alpha-for-93614549)
 * Auto installer scripts with an Advanced Web Gradio APP to install and use PIXART-α (PixArt-alpha - SDXL Rival) for both Windows and RunPod. 
