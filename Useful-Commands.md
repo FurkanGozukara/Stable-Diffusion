@@ -132,3 +132,5 @@ pip install --use-pep517 https://huggingface.co/r4ziel/xformers_pre_built/resolv
 
 ## yt-dlp
 ```yt-dlp -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best" video```
+
+```yt-dlp.exe -f 140+137 video```
