@@ -19,6 +19,10 @@ Your Patreon support is tremendously important for me so thank you so much
 ## Patreon Exclusive Content 
 
 ### January 21 - 2024
+[IP-Adapter-FaceID-PlusV2 - 0 Shot Face Transfer - Auto Installer & Gradio App](https://www.patreon.com/posts/ip-adapter-0-app-95759342)
+* 1 Click Auto Install IP-Adapter-FaceID-PlusV2. Use it with an advanced standalone Gradio app. 0 Shot face transfer and generate images. 
+
+### January 21 - 2024
 [Fooocus Stable Diffusion Web UI Kaggle NoteBook](https://www.patreon.com/posts/fooocus-stable-94269866)
 * Fooocus Stable Diffusion Web UI Free Kaggle Account Notebook. Use SDXL on Kaggle for free like Midjourney without even a computer. This is the way to use almost Midjourney for free.
 
@@ -37,10 +41,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### January 12 - 2024
 [SOTA Image Captioning Scripts For Stable Diffusion: CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)](https://www.patreon.com/posts/sota-image-for-2-90744385)
 * State Of The Art - The Very Best > Image Captioning Scripts For Stable Diffusion: CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)
-
-### January 11 - 2024
-[IP-Adapter-FaceID-PlusV2 - 0 Shot Face Transfer - Auto Installer & Gradio App](https://www.patreon.com/posts/ip-adapter-0-app-95759342)
-* 1 Click Auto Install IP-Adapter-FaceID-PlusV2. Use it with an advanced standalone Gradio app. 0 Shot face transfer and generate images. 
 
 ### January 8 - 2024
 [OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets](https://www.patreon.com/posts/96028218)
