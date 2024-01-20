@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### January 21 - 2024
+[Fooocus Stable Diffusion Web UI Kaggle NoteBook](https://www.patreon.com/posts/fooocus-stable-94269866)
+* Fooocus Stable Diffusion Web UI Free Kaggle Account Notebook. Use SDXL on Kaggle for free like Midjourney without even a computer. This is the way to use almost Midjourney for free.
+
 ### January 17 - 2024
 [Download 160 Very Best Stable Diffusion 1.5 Based (SD 1.5) Models With 1 Click](https://www.patreon.com/posts/96666744)
 * 1 click Download the very best 160+ Stable Diffusion 1.5 models (SD 1.5) from CivitAI and Hugging Face into your PC or RunPod or Cloud.
@@ -73,10 +77,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### December 23 - 2023
 [RunPod ComfyUI Auto Installer With SDXL Auto Install Including Refiner](https://www.patreon.com/posts/runpod-comfyui-86062569)
 * 1 Click Auto Installer Script For ComfyUI (latest) & Manager On RunPod. Supports SDXL and SDXL Refiner. Workflows included. Includes LoRA
-
-### December 22 - 2023
-[Fooocus Stable Diffusion Web UI Kaggle NoteBook](https://www.patreon.com/posts/fooocus-stable-94269866)
-* Fooocus Stable Diffusion Web UI Free Kaggle Account Notebook. Use SDXL on Kaggle for free like Midjourney without even a computer. This is the way to use almost Midjourney for free.
 
 ### December 19 - 2023
 [Automatic Windows Installer For SDXL & Automatic1111 Web UI & RTX Accelerator TensorRT](https://www.patreon.com/posts/86307255)
