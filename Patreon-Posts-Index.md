@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### January 23 - 2024
+[Download 160 Very Best Stable Diffusion 1.5 Based (SD 1.5) Models With 1 Click](https://www.patreon.com/posts/96666744)
+* 1 click Download the very best 160+ Stable Diffusion 1.5 models (SD 1.5) from CivitAI and Hugging Face into your PC or RunPod or Cloud.
+
 ### January 21 - 2024
 [IP-Adapter-FaceID-PlusV2 - 0 Shot Face Transfer - Auto Installer & Gradio App](https://www.patreon.com/posts/ip-adapter-0-app-95759342)
 * 1 Click Auto Install IP-Adapter-FaceID-PlusV2. Use it with an advanced standalone Gradio app. 0 Shot face transfer and generate images. 
@@ -25,10 +29,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### January 21 - 2024
 [Fooocus Stable Diffusion Web UI Kaggle NoteBook](https://www.patreon.com/posts/fooocus-stable-94269866)
 * Fooocus Stable Diffusion Web UI Free Kaggle Account Notebook. Use SDXL on Kaggle for free like Midjourney without even a computer. This is the way to use almost Midjourney for free.
-
-### January 17 - 2024
-[Download 160 Very Best Stable Diffusion 1.5 Based (SD 1.5) Models With 1 Click](https://www.patreon.com/posts/96666744)
-* 1 click Download the very best 160+ Stable Diffusion 1.5 models (SD 1.5) from CivitAI and Hugging Face into your PC or RunPod or Cloud.
 
 ### January 16 - 2024
 [PixArt-alpha (PixArt-α) Automatic Installer For Both Windows And RunPod With Additional Web UI Features](https://www.patreon.com/posts/pixart-alpha-for-93614549)
