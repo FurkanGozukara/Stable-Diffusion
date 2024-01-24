@@ -401,3 +401,9 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 [**Instantly Transfer Face By Using IP-Adapter-FaceID: Full Tutorial & GUI For Windows, RunPod & Kaggle**](https://youtu.be/rjXsJ24kQQg)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/lUGVOxswNTUEoUnCQfBVw.png)](https://youtu.be/rjXsJ24kQQg)
+
+62.) Free - Local - PC - RunPod - Kaggle
+
+[**Detailed Comparison of 160+ Best Stable Diffusion 1.5 Custom Models & 1 Click Script to Download All**](https://youtu.be/G-oZn4H-aHQ)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/7P4KwfN4dci0uRdDaINIK.png)](https://youtu.be/G-oZn4H-aHQ)
