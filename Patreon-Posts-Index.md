@@ -18,6 +18,14 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### January 29 - 2024
+[The Very Best Kohya GUI Workflow & Config For SD 1.5 Based Models DreamBooth / Full Fine Tuning](https://www.patreon.com/posts/very-best-kohya-97379147)
+* Download the very best training configuration and learn the workflow for the Kohya SS GUI Stable Diffusion trainer & obtain amazing quality. The workflow is discovered after 70 empricial model trainings. 
+
+### January 29 - 2024
+[The Very Best OneTrainer Workflow & Config For SD 1.5 Based Models DreamBooth / Full Fine Tuning](https://www.patreon.com/posts/very-best-config-97381002)
+* Download the very best training configuration and learn the workflow for the OneTraine GUI Stable Diffusion trainer & obtain amazing quality. The workflow is discovered after 70 empricial model trainings. 
+
 ### January 23 - 2024
 [Download 160 Very Best Stable Diffusion 1.5 Based (SD 1.5) Models With 1 Click](https://www.patreon.com/posts/96666744)
 * 1 click Download the very best 160+ Stable Diffusion 1.5 models (SD 1.5) from CivitAI and Hugging Face into your PC or RunPod or Cloud.
