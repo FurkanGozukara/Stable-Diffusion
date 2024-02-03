@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### Feburary 3 - 2024
+[1 Click Automatic Installer & A Very Advanced GUI For InstantId For Windows, RunPod, Linux & Kaggle Notebook](https://www.patreon.com/posts/1-click-very-gui-97769887)
+* Advanced Gradio Web UI & Automatic Installers For Windows, RunPod, Kaggle & Linux For InstantID: Zero-shot Identity-Preserving Generation in Seconds
+
 ### January 30 - 2024
 [Kohya SD 1.5 & SDXL LoRA - DreamBooth Training Free Kaggle NoteBook](https://www.patreon.com/posts/kohya-sdxl-lora-88397937)
 * A Kaggle NoteBook file to do Stable Diffusion 1.5 & XL (SDXL) Kohya GUI both LoRA and DreamBooth training on a free Kaggle account. If you don't have a strong GPU this is the notebook you need. It supports even SDXL DreamBooth full fine tuning.
