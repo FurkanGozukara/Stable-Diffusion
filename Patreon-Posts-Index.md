@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### Feburary 5 - 2024
+[1 Click Auto RunPod Installer For Rerender A Video - 1 Click Video To Anime](https://www.patreon.com/posts/1-click-auto-for-91039997)
+* Rerender is an amazing new AI that allows you to turn videos into Anime with 1 click. RunPod auto install scripts and instructions are here.
+
 ### Feburary 3 - 2024
 [SOTA Image Captioning Scripts For Stable Diffusion: CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)](https://www.patreon.com/posts/sota-image-for-2-90744385)
 * State Of The Art - The Very Best > Image Captioning Scripts For Stable Diffusion: CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)
@@ -169,10 +173,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### October 19 - 2023
 [1 Click Auto Windows Installer For Rerender A Video - 1 Click Video To Anime](https://www.patreon.com/posts/89457537)
 * Rerender is an amazing new Paper that allows you to turn videos into Anime with 1 click. Auto install scripts and instructions provided here
-
-### October 16 - 2023
-[1 Click Auto RunPod Installer For Rerender A Video - 1 Click Video To Anime](https://www.patreon.com/posts/1-click-auto-for-91039997)
-* Rerender is an amazing new AI that allows you to turn videos into Anime with 1 click. RunPod auto install scripts and instructions are here.
 
 ### October 5 - 2023
 [Amazing Prompt List For DreamBooth or LoRA Trained Stable Diffusion XL (SDXL) & SD 1.5 Based Models](https://www.patreon.com/posts/amazing-prompt-1-90346033)
