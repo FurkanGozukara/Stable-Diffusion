@@ -18,13 +18,13 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### Feburary 8 - 2024
+[SOTA Image Captioning Scripts For Stable Diffusion: CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)](https://www.patreon.com/posts/sota-image-for-2-90744385)
+* State Of The Art - The Very Best > Image Captioning Scripts For Stable Diffusion: CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)
+
 ### Feburary 6 - 2024
 [RunPod ComfyUI Auto Installer With SDXL Auto Install Including Refiner](https://www.patreon.com/posts/runpod-comfyui-86062569)
 * 1 Click Auto Installer Script For ComfyUI (latest) & Manager On RunPod. Supports SDXL and SDXL Refiner. Workflows included. Includes LoRA
-
-### Feburary 6 - 2024
-[SOTA Image Captioning Scripts For Stable Diffusion: CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)](https://www.patreon.com/posts/sota-image-for-2-90744385)
-* State Of The Art - The Very Best > Image Captioning Scripts For Stable Diffusion: CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)
 
 ### Feburary 5 - 2024
 [1 Click Auto RunPod Installer For Rerender A Video - 1 Click Video To Anime](https://www.patreon.com/posts/1-click-auto-for-91039997)
