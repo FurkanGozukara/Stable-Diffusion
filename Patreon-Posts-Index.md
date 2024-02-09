@@ -20,7 +20,11 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ### Feburary 9 - 2024
 [The Very Best OneTrainer Workflow & Config For SD 1.5 Based Models DreamBooth / Full Fine Tuning](https://www.patreon.com/posts/very-best-config-97381002)
-* Download the very best training configuration and learn the workflow for the OneTraine GUI Stable Diffusion trainer & obtain amazing quality. The workflow is discovered after 70 empricial model trainings. 
+* Download the very best training configuration and learn the workflow for the OneTraine GUI Stable Diffusion trainer & obtain amazing quality. The workflow is discovered after 70 empricial model trainings.
+
+### Feburary 9 - 2024
+[OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets](https://www.patreon.com/posts/96028218)
+* Nerogar OneTrainer very best Stable Diffusion XL (SDXL) full fine tuning presets. 14 GB GPU is very sufficient and fast
 
 ### Feburary 8 - 2024
 [SOTA Image Captioning Scripts For Stable Diffusion: CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)](https://www.patreon.com/posts/sota-image-for-2-90744385)
@@ -65,10 +69,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### January 14 - 2024
 [Tortoise TTS Fast (tortoise-tts-fast) Windows Auto Installer BAT Script](https://www.patreon.com/posts/tortoise-tts-tts-90496485)
 * 1 Click installer for tortoise-tts-fast on Windows. It will make its own VENV so will not affect any other AI apps such as Stable Diffusion.
-
-### January 8 - 2024
-[OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets](https://www.patreon.com/posts/96028218)
-* Nerogar OneTrainer very best Stable Diffusion XL (SDXL) full fine tuning presets. 14 GB GPU is very sufficient and fast
 
 ### January 6 - 2024
 [1 Click RunPod Automatic1111 SD Web UI SDXL & TensorRT Installer](https://www.patreon.com/posts/86438018)
