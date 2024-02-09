@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### Feburary 9 - 2024
+[The Very Best OneTrainer Workflow & Config For SD 1.5 Based Models DreamBooth / Full Fine Tuning](https://www.patreon.com/posts/very-best-config-97381002)
+* Download the very best training configuration and learn the workflow for the OneTraine GUI Stable Diffusion trainer & obtain amazing quality. The workflow is discovered after 70 empricial model trainings. 
+
 ### Feburary 8 - 2024
 [SOTA Image Captioning Scripts For Stable Diffusion: CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)](https://www.patreon.com/posts/sota-image-for-2-90744385)
 * State Of The Art - The Very Best > Image Captioning Scripts For Stable Diffusion: CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)
@@ -41,10 +45,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### January 29 - 2024
 [The Very Best Kohya GUI Workflow & Config For SD 1.5 Based Models DreamBooth / Full Fine Tuning](https://www.patreon.com/posts/very-best-kohya-97379147)
 * Download the very best training configuration and learn the workflow for the Kohya SS GUI Stable Diffusion trainer & obtain amazing quality. The workflow is discovered after 70 empricial model trainings. 
-
-### January 29 - 2024
-[The Very Best OneTrainer Workflow & Config For SD 1.5 Based Models DreamBooth / Full Fine Tuning](https://www.patreon.com/posts/very-best-config-97381002)
-* Download the very best training configuration and learn the workflow for the OneTraine GUI Stable Diffusion trainer & obtain amazing quality. The workflow is discovered after 70 empricial model trainings. 
 
 ### January 23 - 2024
 [Download 160 Very Best Stable Diffusion 1.5 Based (SD 1.5) Models With 1 Click](https://www.patreon.com/posts/96666744)
