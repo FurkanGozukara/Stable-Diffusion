@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### Feburary 10 - 2024
+[1 Click Automatic Installer & A Very Advanced GUI For InstantId For Windows, RunPod, Linux & Kaggle Notebook](https://www.patreon.com/posts/1-click-very-gui-97769887)
+* Advanced Gradio Web UI & Automatic Installers For Windows, RunPod, Kaggle & Linux For InstantID: Zero-shot Identity-Preserving Generation in Seconds
+
 ### Feburary 9 - 2024
 [The Very Best OneTrainer Workflow & Config For SD 1.5 Based Models DreamBooth / Full Fine Tuning](https://www.patreon.com/posts/very-best-config-97381002)
 * Download the very best training configuration and learn the workflow for the OneTraine GUI Stable Diffusion trainer & obtain amazing quality. The workflow is discovered after 70 empricial model trainings.
@@ -37,10 +41,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### Feburary 5 - 2024
 [1 Click Auto RunPod Installer For Rerender A Video - 1 Click Video To Anime](https://www.patreon.com/posts/1-click-auto-for-91039997)
 * Rerender is an amazing new AI that allows you to turn videos into Anime with 1 click. RunPod auto install scripts and instructions are here.
-
-### Feburary 3 - 2024
-[1 Click Automatic Installer & A Very Advanced GUI For InstantId For Windows, RunPod, Linux & Kaggle Notebook](https://www.patreon.com/posts/1-click-very-gui-97769887)
-* Advanced Gradio Web UI & Automatic Installers For Windows, RunPod, Kaggle & Linux For InstantID: Zero-shot Identity-Preserving Generation in Seconds
 
 ### January 30 - 2024
 [Kohya SD 1.5 & SDXL LoRA - DreamBooth Training Free Kaggle NoteBook](https://www.patreon.com/posts/kohya-sdxl-lora-88397937)
