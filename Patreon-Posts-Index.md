@@ -19,12 +19,12 @@ Your Patreon support is tremendously important for me so thank you so much
 ## Patreon Exclusive Content 
 
 ### Feburary 15 - 2024
-[1 Click Automatic Installer & A Very Advanced GUI For InstantId For Windows, RunPod, Linux & Kaggle Notebook](https://www.patreon.com/posts/1-click-very-gui-97769887)
-* Advanced Gradio Web UI & Automatic Installers For Windows, RunPod, Kaggle & Linux For InstantID: Zero-shot Identity-Preserving Generation in Seconds
-
-### Feburary 14 - 2024
 [Stable Cascade 1 Click Installer & Advanced Gradio APP For Windows, RunPod, Linux & Kaggle](https://www.patreon.com/posts/stable-cascade-1-98410661)
 * 1 Click To Install Stable Cascade Model & Use On Your PC or On RunPod or Kaggle With Amazing Optimizations (Works on 8GB GPU) & Advanced GUI
+
+### Feburary 15 - 2024
+[1 Click Automatic Installer & A Very Advanced GUI For InstantId For Windows, RunPod, Linux & Kaggle Notebook](https://www.patreon.com/posts/1-click-very-gui-97769887)
+* Advanced Gradio Web UI & Automatic Installers For Windows, RunPod, Kaggle & Linux For InstantID: Zero-shot Identity-Preserving Generation in Seconds
 
 ### Feburary 12 - 2024
 [SOTA Image Captioning Scripts For Stable Diffusion: CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)](https://www.patreon.com/posts/sota-image-for-2-90744385)
