@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### Feburary 15 - 2024
+[1 Click Automatic Installer & A Very Advanced GUI For InstantId For Windows, RunPod, Linux & Kaggle Notebook](https://www.patreon.com/posts/1-click-very-gui-97769887)
+* Advanced Gradio Web UI & Automatic Installers For Windows, RunPod, Kaggle & Linux For InstantID: Zero-shot Identity-Preserving Generation in Seconds
+
 ### Feburary 14 - 2024
 [Stable Cascade 1 Click Installer & Advanced Gradio APP For Windows, RunPod, Linux & Kaggle](https://www.patreon.com/posts/stable-cascade-1-98410661)
 * 1 Click To Install Stable Cascade Model & Use On Your PC or On RunPod or Kaggle With Amazing Optimizations (Works on 8GB GPU) & Advanced GUI
@@ -29,10 +33,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### Feburary 10 - 2024
 [Sort AI Generated Images By Their Similarity With DeepFace & RetinaFace](https://www.patreon.com/posts/sort-ai-images-82478694)
 * With DeepFace & RetinaFace libraries we will sort AI generated images with best accuracy to your original. Thus, you can find best ones easy
-
-### Feburary 10 - 2024
-[1 Click Automatic Installer & A Very Advanced GUI For InstantId For Windows, RunPod, Linux & Kaggle Notebook](https://www.patreon.com/posts/1-click-very-gui-97769887)
-* Advanced Gradio Web UI & Automatic Installers For Windows, RunPod, Kaggle & Linux For InstantID: Zero-shot Identity-Preserving Generation in Seconds
 
 ### Feburary 9 - 2024
 [The Very Best OneTrainer Workflow & Config For SD 1.5 Based Models DreamBooth / Full Fine Tuning](https://www.patreon.com/posts/very-best-config-97381002)
