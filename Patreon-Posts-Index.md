@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### Feburary 16 - 2024
+[1 Click Auto Roop (DeepFake - FaceSwap) Local Windows Installer Script](https://www.patreon.com/posts/1-click-auto-88234834)
+* Automatic Roop DeepFake / FaceSwap installer script. 1 click to install and 1 click to run and start using it very easily.
+
 ### Feburary 15 - 2024
 [1 Click Auto Windows Installer For Rerender A Video - 1 Click Video To Anime](https://www.patreon.com/posts/89457537)
 * Rerender is an amazing new Paper that allows you to turn videos into Anime with 1 click. Auto install scripts and instructions provided here
@@ -193,10 +197,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### September 12 - 2023
 [How To Start Multiple Automatic1111 Web UI And Kohya Training On A Single Pod](https://www.patreon.com/posts/how-to-start-web-89150521)
 * Download webui-user.sh and relauncher.py files and follow instructions to start multiple Automatic1111 on different GPUs on a  single RunPod
-
-### August 25 - 2023
-[1 Click Auto Roop (DeepFake - FaceSwap) Local Windows Installer Script](https://www.patreon.com/posts/1-click-auto-88234834)
-* Automatic Roop DeepFake / FaceSwap installer script. 1 click to install and 1 click to run and start using it very easily.
 
 ### August 13 - 2023
 [Convert Very Long X/Y/Z Plot Output Images Into Square Grids](https://www.patreon.com/posts/convert-very-x-y-87608128)
