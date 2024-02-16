@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### December 17 - 2024
+[Auto Installer Script For Roop (DeepFake) On RunPod & Example Image And Videos](https://www.patreon.com/posts/auto-installer-84511510)
+* How to automatically install DeepFake Roop with 1 click on RunPod and use it. Step by step instructions and 1click installer script file
+
 ### Feburary 16 - 2024
 [1 Click Auto Roop (DeepFake - FaceSwap) Local Windows Installer Script](https://www.patreon.com/posts/1-click-auto-88234834)
 * Automatic Roop DeepFake / FaceSwap installer script. 1 click to install and 1 click to run and start using it very easily.
@@ -93,10 +97,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### January 1 - 2024
 [Magic Animate Automatic Installer and Video to DensePose Auto Converter For Windows And RunPod](https://www.patreon.com/posts/94098751)
 * Automatically install magic-animate on both Windows and RunPod. Also automatically generate DensePose from raw videos via best detectron2. Includes a standalone CodeFormer Gradio Web APP too for improving faces in videos fully automatically.
-
-### December 25 - 2023
-[Auto Installer Script For Roop (DeepFake) On RunPod & Example Image And Videos](https://www.patreon.com/posts/auto-installer-84511510)
-* How to automatically install DeepFake Roop with 1 click on RunPod and use it. Step by step instructions and 1click installer script file
 
 ### December 23 - 2023
 [Batch Image Metadata Generator - Extremely Useful For Automatic1111 SD Web UI](https://www.patreon.com/posts/95176238)
