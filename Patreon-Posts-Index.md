@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Important Public Sharings
 
+### Feburary 19 - 2024
+[Automatic Windows Installer For SDXL & Automatic1111 Web UI & RTX Accelerator TensorRT](https://www.patreon.com/posts/86307255)
+* Automatic Windows installer script for SDXL and Automatic1111 Web UI. Downloads latest SDXL base, refiner models and FP16 VAE (.safetensors). Moreover it automatically installs and lets you download newest NVIDIA RTX Accelerator - TensorRT which brings 70%+ Speed Up.
+
 ### Feburary 18 - 2024
 [Full Workflow For Newbie Stable Diffusion Trainers For SD 1.5 Models & SDXL Models Training With DreamBooth & LoRA
 ](https://www.patreon.com/posts/full-workflow-sd-98620163)
@@ -116,10 +120,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### December 23 - 2023
 [All Amazing Styles Of Fooocus As Automatic1111 SD Web UI Styles File And Styles File Generator](https://www.patreon.com/posts/all-amazing-of-95143823)
 * 275 Amazing Fooocus Styles in a single Styles.csv file compatible with Automatic1111 and Styles.csv generator for Fooocus styles folder.
-
-### December 19 - 2023
-[Automatic Windows Installer For SDXL & Automatic1111 Web UI & RTX Accelerator TensorRT](https://www.patreon.com/posts/86307255)
-* Automatic Windows installer script for SDXL and Automatic1111 Web UI. Downloads latest SDXL base, refiner models and FP16 VAE (.safetensors). Moreover it automatically installs and lets you download newest NVIDIA RTX Accelerator - TensorRT which brings 70%+ Speed Up.
 
 ### December 14 - 2023
 [Run Automatic1111 On A Free Kaggle NoteBook Like In Your PC - Supports SDXL & ControlNet](https://www.patreon.com/posts/run-on-free-like-88714330)
