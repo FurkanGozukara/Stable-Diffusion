@@ -4,13 +4,6 @@
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-SECourses-C50C0C?style=for-the-badge&logo=youtube)](https://www.youtube.com/SECourses)  [![Furkan Gözükara LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkangozukara/)   [![Udemy](https://img.shields.io/static/v1?style=for-the-badge&message=Stable%20Diffusion%20Course&color=A435F0&logo=Udemy&logoColor=FFFFFF&label=Udemy)](https://www.udemy.com/course/stable-diffusion-dreambooth-lora-zero-to-hero/?referralCode=E327407C9BDF0CEA8156) [![Twitter Follow Furkan Gözükara](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GozukaraFurkan)
 
-## Important Public Sharings
-
-### Feburary 18 - 2024
-[Full Workflow For Newbie Stable Diffusion Trainers For SD 1.5 Models & SDXL Models Training With DreamBooth & LoRA
-](https://www.patreon.com/posts/full-workflow-sd-98620163)
-* If you are new to Stable Diffusion and want to learn easily to train it with very best possible results, this article is prepared for this purpose with everything you need.
-
 # SECourses Patreon
 
 YouTube : https://www.youtube.com/SECourses
@@ -22,6 +15,13 @@ Please join discord and message me there so I can give you Patreon rank in our c
 Discord : https://discord.com/servers/software-engineering-courses-secourses-772774097734074388
 
 Your Patreon support is tremendously important for me so thank you so much
+
+## Important Public Sharings
+
+### Feburary 18 - 2024
+[Full Workflow For Newbie Stable Diffusion Trainers For SD 1.5 Models & SDXL Models Training With DreamBooth & LoRA
+](https://www.patreon.com/posts/full-workflow-sd-98620163)
+* If you are new to Stable Diffusion and want to learn easily to train it with very best possible results, this article is prepared for this purpose with everything you need.
 
 ## Patreon Exclusive Content 
 
