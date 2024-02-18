@@ -4,6 +4,13 @@
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-SECourses-C50C0C?style=for-the-badge&logo=youtube)](https://www.youtube.com/SECourses)  [![Furkan Gözükara LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkangozukara/)   [![Udemy](https://img.shields.io/static/v1?style=for-the-badge&message=Stable%20Diffusion%20Course&color=A435F0&logo=Udemy&logoColor=FFFFFF&label=Udemy)](https://www.udemy.com/course/stable-diffusion-dreambooth-lora-zero-to-hero/?referralCode=E327407C9BDF0CEA8156) [![Twitter Follow Furkan Gözükara](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GozukaraFurkan)
 
+## Important Public Sharings
+
+### Feburary 18 - 2024
+[Full Workflow For Newbie Stable Diffusion Trainers For SD 1.5 Models & SDXL Models Training With DreamBooth & LoRA
+](https://www.patreon.com/posts/full-workflow-sd-98620163)
+* If you are new to Stable Diffusion and want to learn easily to train it with very best possible results, this article is prepared for this purpose with everything you need.
+
 # SECourses Patreon
 
 YouTube : https://www.youtube.com/SECourses
@@ -18,11 +25,11 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
-### December 18 - 2024
+### Feburary 18 - 2024
 [RunPod ComfyUI Auto Installer With SDXL Auto Install Including Refiner](https://www.patreon.com/posts/runpod-comfyui-86062569)
 * 1 Click Auto Installer Script For ComfyUI (latest) & Manager On RunPod. Supports SDXL and SDXL Refiner. Workflows included. Includes LoRA
 
-### December 17 - 2024
+### Feburary 17 - 2024
 [Auto Installer Script For Roop (DeepFake) On RunPod & Example Image And Videos](https://www.patreon.com/posts/auto-installer-84511510)
 * How to automatically install DeepFake Roop with 1 click on RunPod and use it. Step by step instructions and 1click installer script file
 
