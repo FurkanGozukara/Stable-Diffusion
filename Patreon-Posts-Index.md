@@ -26,6 +26,10 @@ Your Patreon support is tremendously important for me so thank you so much
 ## Patreon Exclusive Content 
 
 ### Feburary 22 - 2024
+[The Very Best Workflow For SDXL DreamBooth / Full Fine Tuning - Results Of 100+ Full Trainings](https://www.patreon.com/posts/very-best-for-of-89213064)
+* The very best workflows for SDXL DreamBooth / Full Fine Tuning training. Includes configuration both for U-NET only and U-NET + Text Encoder. 120+ Trainings have been made to find all configuration.
+
+### Feburary 22 - 2024
 [Kohya SD 1.5 & SDXL LoRA - DreamBooth Training Free Kaggle NoteBook](https://www.patreon.com/posts/kohya-sdxl-lora-88397937)
 * A Kaggle NoteBook file to do Stable Diffusion 1.5 & XL (SDXL) Kohya GUI both LoRA and DreamBooth training on a free Kaggle account. If you don't have a strong GPU this is the notebook you need. It supports even SDXL DreamBooth full fine tuning.
 
@@ -144,10 +148,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### November 20 - 2023
 [Image Validator Script For Training - Moves Corrupted Images](https://www.patreon.com/posts/image-validator-85618765)
 * This attached below script will test each one of your images and moves the ones that are corrupted (breaking training) into another folder. Another script will scan and log but not move.
-
-### November 20 - 2023
-[The Very Best Workflow For SDXL DreamBooth / Full Fine Tuning - Results Of 100+ Full Trainings](https://www.patreon.com/posts/very-best-for-of-89213064)
-* The very best workflows for SDXL DreamBooth / Full Fine Tuning training. Includes configuration both for U-NET only and U-NET + Text Encoder. 120+ Trainings have been made to find all configuration.
 
 ### November 17 - 2023
 [Automatic ControlNet Installer And Downloader For Windows BAT File](https://www.patreon.com/posts/84875387)
