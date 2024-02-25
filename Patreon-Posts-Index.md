@@ -25,7 +25,7 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
-### Feburary 24 - 2024
+### Feburary 26 - 2024
 [SUPIR 1 Click Windows, RunPod / Linux Installer](https://www.patreon.com/posts/99176057)
 * 1 Click Windows and RunPod / Linux  Installer For The New SOTA Image Upscaling aan Enhancing Open Source SUPIR Model. Better than Magnify AI
 
