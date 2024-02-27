@@ -407,3 +407,9 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 [**Detailed Comparison of 160+ Best Stable Diffusion 1.5 Custom Models & 1 Click Script to Download All**](https://youtu.be/G-oZn4H-aHQ)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/7P4KwfN4dci0uRdDaINIK.png)](https://youtu.be/G-oZn4H-aHQ)
+
+63.) Free - Local - PC - RunPod
+
+[**SUPIR: New SOTA Open Source Image Upscaler & Enhancer Model Better Than Magnific & Topaz AI Tutorial**](https://youtu.be/PqREA6-bC3w)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/QqzGQeKmOw7-aO7Ippqp2.png)](https://youtu.be/PqREA6-bC3w)
