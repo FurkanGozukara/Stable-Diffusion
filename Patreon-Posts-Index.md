@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### March 1 - 2024
+[1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, TensorRT (RTX Accelerator) For RunPod / Any Linux System](https://www.patreon.com/posts/86438018)
+* Automatic RunPod (any Linux System) installer script for SDXL and Automatic1111 Web UI. Downloads latest SDXL base, refiner models and FP16 VAE (.safetensors). Moreover it automatically installs and lets you download newest NVIDIA RTX Accelerator - TensorRT which brings 70%+ Speed Up. Moreover, it will automatically install ControlNet and download all available ControlNet models for you.
+
 ### Feburary 26 - 2024
 [SUPIR 1 Click Windows, RunPod / Linux Installer](https://www.patreon.com/posts/99176057)
 * 1 Click Windows and RunPod / Linux  Installer For The New SOTA Image Upscaling aan Enhancing Open Source SUPIR Model. Better than Magnify AI
@@ -108,10 +112,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### January 14 - 2024
 [Tortoise TTS Fast (tortoise-tts-fast) Windows Auto Installer BAT Script](https://www.patreon.com/posts/tortoise-tts-tts-90496485)
 * 1 Click installer for tortoise-tts-fast on Windows. It will make its own VENV so will not affect any other AI apps such as Stable Diffusion.
-
-### January 6 - 2024
-[1 Click RunPod Automatic1111 SD Web UI SDXL & TensorRT Installer](https://www.patreon.com/posts/86438018)
-* 1 Click Installer for Automatic1111 Web UI on RunPod with SDXL and newest TensorRT (75%+ Speed Boost) support. Installs latest Automatic1111 Web UI and SDXL Models with best VAE.
 
 ### January 1 - 2024
 [Magic Animate Automatic Installer and Video to DensePose Auto Converter For Windows And RunPod](https://www.patreon.com/posts/94098751)
