@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### March 2 - 2024
+[Run Automatic1111 SD Web UI On A Free Kaggle NoteBook Like In Your PC - Supports SDXL & ControlNet](https://www.patreon.com/posts/run-on-free-like-88714330)
+* A Free Kaggle account notebook to use Automatic1111 for free. Supports SDXL, ControlNet, LoRA, trained LoRAs & automatic extension install. Works like you have a very strong computer. Dual 15 GB GPUs, 29 GB RAM provided for free by Kaggle. Auto downloads all of the ControlNet models for both SD 1.5 and SDXL models including even IP Adapter Face ID Plus and InstantID
+
 ### March 1 - 2024
 [1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, TensorRT (RTX Accelerator) For RunPod / Any Linux System](https://www.patreon.com/posts/86438018)
 * Automatic RunPod (any Linux System) installer script for SDXL and Automatic1111 Web UI. Downloads latest SDXL base, refiner models and FP16 VAE (.safetensors). Moreover it automatically installs and lets you download newest NVIDIA RTX Accelerator - TensorRT which brings 70%+ Speed Up. Moreover, it will automatically install ControlNet and download all available ControlNet models for you.
@@ -128,10 +132,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### December 23 - 2023
 [All Amazing Styles Of Fooocus As Automatic1111 SD Web UI Styles File And Styles File Generator](https://www.patreon.com/posts/all-amazing-of-95143823)
 * 275 Amazing Fooocus Styles in a single Styles.csv file compatible with Automatic1111 and Styles.csv generator for Fooocus styles folder.
-
-### December 14 - 2023
-[Run Automatic1111 On A Free Kaggle NoteBook Like In Your PC - Supports SDXL & ControlNet](https://www.patreon.com/posts/run-on-free-like-88714330)
-* A Free Kaggle account notebook to use Automatic1111 for free. Supports SDXL, ControlNet, LoRA, trained LoRAs & automatic extension install. Works like you have a very strong computer. Dual 15 GB GPUs, 29 GB RAM provided for free by Kaggle.
 
 ### December 4 - 2023
 [Auto Installer For AudioCraft Plus - MusicGen - AudioGen - An All-in-One AudioCraft WebUI](https://www.patreon.com/posts/ai-music-auto-84334460)
