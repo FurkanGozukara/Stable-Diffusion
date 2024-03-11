@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### March 12 - 2024
+[Kohya SD 1.5 & SDXL LoRA - DreamBooth Training Free Kaggle NoteBook](https://www.patreon.com/posts/kohya-sdxl-lora-88397937)
+* A Kaggle NoteBook file to do Stable Diffusion 1.5 & XL (SDXL) Kohya GUI both LoRA and DreamBooth training on a free Kaggle account. If you don't have a strong GPU this is the notebook you need. It supports even SDXL DreamBooth full fine tuning.
+
 ### March 2 - 2024
 [Run Automatic1111 SD Web UI On A Free Kaggle NoteBook Like In Your PC - Supports SDXL & ControlNet](https://www.patreon.com/posts/run-on-free-like-88714330)
 * A Free Kaggle account notebook to use Automatic1111 for free. Supports SDXL, ControlNet, LoRA, trained LoRAs & automatic extension install. Works like you have a very strong computer. Dual 15 GB GPUs, 29 GB RAM provided for free by Kaggle. Auto downloads all of the ControlNet models for both SD 1.5 and SDXL models including even IP Adapter Face ID Plus and InstantID
@@ -44,10 +48,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### Feburary 22 - 2024
 [The Very Best Workflow For SDXL DreamBooth / Full Fine Tuning - Results Of 100+ Full Trainings](https://www.patreon.com/posts/very-best-for-of-89213064)
 * The very best workflows for SDXL DreamBooth / Full Fine Tuning training. Includes configuration both for U-NET only and U-NET + Text Encoder. 120+ Trainings have been made to find all configuration.
-
-### Feburary 22 - 2024
-[Kohya SD 1.5 & SDXL LoRA - DreamBooth Training Free Kaggle NoteBook](https://www.patreon.com/posts/kohya-sdxl-lora-88397937)
-* A Kaggle NoteBook file to do Stable Diffusion 1.5 & XL (SDXL) Kohya GUI both LoRA and DreamBooth training on a free Kaggle account. If you don't have a strong GPU this is the notebook you need. It supports even SDXL DreamBooth full fine tuning.
 
 ### Feburary 19 - 2024
 [1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, TensorRT (RTX Accelerator) on Windows](https://www.patreon.com/posts/86307255)
