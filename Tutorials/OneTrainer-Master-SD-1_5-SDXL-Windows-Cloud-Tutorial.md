@@ -45,3 +45,7 @@ Help Documents : https://vm-docs.massedcompute.com/docs/category/product-overvie
 * CTRL + L
 * Path of Models of Automatic1111 : ```/home/Ubuntu/apps/stable-diffusion-webui/models/Stable-diffusion```
 
+### How To See GPU Usage
+
+* Open a CMD and type ```nvitop```
+* To install ```pip install nvitop```
