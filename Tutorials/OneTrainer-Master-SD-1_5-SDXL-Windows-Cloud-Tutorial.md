@@ -40,3 +40,8 @@ Help Documents : https://vm-docs.massedcompute.com/docs/category/product-overvie
 
 [Massive 4K Resolution Woman & Man Class Ground Truth Stable Diffusion Regularization Images Dataset](https://www.patreon.com/posts/massive-4k-woman-87700469)
 
+### How To Select Folders Paths Quickly
+
+* CTRL + L
+* Path of Models of Automatic1111 : ```/home/Ubuntu/apps/stable-diffusion-webui/models/Stable-diffusion```
+
