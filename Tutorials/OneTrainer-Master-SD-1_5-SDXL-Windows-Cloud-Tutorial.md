@@ -26,3 +26,7 @@ Help Documents : https://vm-docs.massedcompute.com/docs/category/product-overvie
 * Edit COMMANDLINE_ARGS having line as below and save
 * ```export COMMANDLINE_ARGS="--xformers"```
 
+### Download Links For Best Models For Training & Using
+* Follow tutorial video to see how to download and move into accurate folder
+* SDXL RealVisXL_V4 :  https://huggingface.co/SG161222/RealVisXL_V4.0/tree/main
+* SD 1.5 Hyper Realism V3 : https://civitai.com/models/158959/hyper-realism
