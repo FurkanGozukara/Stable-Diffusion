@@ -30,3 +30,13 @@ Help Documents : https://vm-docs.massedcompute.com/docs/category/product-overvie
 * Follow tutorial video to see how to download and move into accurate folder
 * SDXL RealVisXL_V4 :  https://huggingface.co/SG161222/RealVisXL_V4.0/tree/main
 * SD 1.5 Hyper Realism V3 : https://civitai.com/models/158959/hyper-realism
+
+### OneTrainer Config Files
+
+* [The Very Best OneTrainer Workflow & Config For SD 1.5 Based Models DreamBooth / Full Fine Tuning](https://www.patreon.com/posts/very-best-config-97381002)
+* [OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets](https://www.patreon.com/posts/96028218)
+
+### Manually Prepared Ground Truth Regularazation / Classification Images
+
+[Massive 4K Resolution Woman & Man Class Ground Truth Stable Diffusion Regularization Images Dataset](https://www.patreon.com/posts/massive-4k-woman-87700469)
+
