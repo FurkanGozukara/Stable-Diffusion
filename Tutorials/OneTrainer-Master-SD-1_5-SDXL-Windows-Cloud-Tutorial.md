@@ -90,3 +90,7 @@ chmod +x update_sd1111.sh
 * ```control_net_downloader.py```
 * ```download_ip_adapter_and_instantid.py```
 
+### Notebook To Upload Models And Files Into Hugging Face
+
+* Save as and run it with Jupyter Notebook
+* https://gist.github.com/FurkanGozukara/84ad2cf9731c278d5679f7b5fcf5e44e
