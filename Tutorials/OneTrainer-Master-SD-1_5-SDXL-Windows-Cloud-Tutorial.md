@@ -74,3 +74,19 @@ chmod +x update_sd1111.sh
 * Don't forget to use Run_Stable_Diffusion_Settings and add --xformers to use xFormers for huge speed up
 * You can also add --share parameter to use Automatic1111 on your computer or even on your phone
 
+* To download following models automatically into the accurate folder where Stable Diffusion installed
+* On massed compute it is ```/home/Ubuntu/apps```
+* Then open a terminal inside this folder
+* Execute below command to download Realistic_Vision_V6, SDXL Base 1.0 with fixed VAE, RealVisXL_V4 - very realistic model for training & most realistic SD 1.5 model Hyper_Realism_V3
+* ```python download_models.py```
+
+* To download all of the ControlNet models including Ip Adapter Face ID and InstantID use the following commands
+* Full tutorial of ControlNet is here : https://youtu.be/3E5fhFQUVLo
+* Using ip-adapter-faceid and instant_id_sdxl are not straight forward. 
+* Please read the following threads:
+* Ip Adapter Face ID of ControlNet : https://github.com/Mikubill/sd-webui-controlnet/discussions/2442
+* InstantID of ControlNet : https://github.com/Mikubill/sd-webui-controlnet/discussions/2589
+* Download commands
+* ```control_net_downloader.py```
+* ```download_ip_adapter_and_instantid.py```
+
