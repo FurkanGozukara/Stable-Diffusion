@@ -89,12 +89,12 @@ chmod +x update_sd1111.sh
 * Download commands
 ```
 chmod +x control_net_downloader.py
-control_net_downloader.py
+python control_net_downloader.py
 ```
 * 
 ```
 chmod +x download_ip_adapter_and_instantid.py
-download_ip_adapter_and_instantid.py
+python download_ip_adapter_and_instantid.py
 ```
 
 ### Notebook To Upload Models And Files Into Hugging Face
