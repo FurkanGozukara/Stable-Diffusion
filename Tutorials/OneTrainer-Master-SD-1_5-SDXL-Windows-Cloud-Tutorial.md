@@ -87,8 +87,8 @@ chmod +x update_sd1111.sh
 * Ip Adapter Face ID of ControlNet : https://github.com/Mikubill/sd-webui-controlnet/discussions/2442
 * InstantID of ControlNet : https://github.com/Mikubill/sd-webui-controlnet/discussions/2589
 * Download commands
-* ```sudo python control_net_downloader.py```
-* ```sudo python download_ip_adapter_and_instantid.py```
+* ```python control_net_downloader.py```
+* ```python download_ip_adapter_and_instantid.py```
 
 ### Notebook To Upload Models And Files Into Hugging Face
 
