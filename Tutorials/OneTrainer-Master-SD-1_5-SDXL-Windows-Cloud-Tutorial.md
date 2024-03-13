@@ -58,6 +58,8 @@ Help Documents : https://vm-docs.massedcompute.com/docs/category/product-overvie
 * Open a CMD inside the folder where you downloaded install_TensorRT.sh file
 * Run below commands
 ```
+sudo apt-get update
+sudo apt-get install build-essential
 chmod +x install_TensorRT.sh
 ./install_TensorRT.sh
 ```
@@ -67,6 +69,8 @@ chmod +x install_TensorRT.sh
 * Open a CMD inside the folder where you downloaded update_sd1111.sh file
 * Run below commands
 ```
+sudo apt-get update
+sudo apt-get install build-essential
 chmod +x update_sd1111.sh
 ./update_sd1111.sh
 ```
