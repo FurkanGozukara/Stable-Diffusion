@@ -87,11 +87,12 @@ chmod +x update_sd1111.sh
 * Ip Adapter Face ID of ControlNet : https://github.com/Mikubill/sd-webui-controlnet/discussions/2442
 * InstantID of ControlNet : https://github.com/Mikubill/sd-webui-controlnet/discussions/2589
 * Download commands
-* ```
+```
 chmod +x control_net_downloader.py
 control_net_downloader.py
 ```
-* ```
+* 
+```
 chmod +x download_ip_adapter_and_instantid.py
 download_ip_adapter_and_instantid.py
 ```
