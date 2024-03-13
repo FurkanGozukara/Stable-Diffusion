@@ -49,3 +49,12 @@ Help Documents : https://vm-docs.massedcompute.com/docs/category/product-overvie
 
 * Open a CMD and type ```nvitop```
 * To install ```pip install nvitop```
+
+### How To Update Auto1111 To Latest Version & Install ADetailer & ControlNet
+
+* Open a CMD inside the folder where you downloaded update_sd1111.sh file
+* Run below commands
+```
+chmod +x update_sd1111.sh
+./update_sd1111.sh
+```
