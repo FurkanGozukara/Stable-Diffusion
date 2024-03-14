@@ -52,6 +52,16 @@ Help Documents : https://vm-docs.massedcompute.com/docs/category/product-overvie
 
 ### How To Execute Custom SH Scripts
 
+
+* To Update Auto1111 To Latest Version & Install ADetailer & ControlNet & FaceFusion
+* This will install accurate libraries for you to be able to use even InstantID & FaceFusion & IP Adapter Face ID
+* Open a CMD inside the folder where you downloaded update_sd1111.sh file
+* Run below commands
+```
+chmod +x update_sd1111.sh
+./update_sd1111.sh
+```
+
 * TensorRT brings up to 75% speed up with 0 quality loss
 * Please watch this tutorial to learn it : https://youtu.be/eKnMVXVjVoU
 * To Install TensorRT Extension On Automatic1111 SD Web UI
@@ -62,14 +72,7 @@ chmod +x install_TensorRT.sh
 ./install_TensorRT.sh
 ```
 
-* To Update Auto1111 To Latest Version & Install ADetailer & ControlNet & FaceFusion
-* This will install accurate libraries for you to be able to use even InstantID & FaceFusion & IP Adapter Face ID
-* Open a CMD inside the folder where you downloaded update_sd1111.sh file
-* Run below commands
-```
-chmod +x update_sd1111.sh
-./update_sd1111.sh
-```
+
 
 * Don't forget to use Run_Stable_Diffusion_Settings and add --xformers to use xFormers for huge speed up
 * You can also add --share parameter to use Automatic1111 on your computer or even on your phone
