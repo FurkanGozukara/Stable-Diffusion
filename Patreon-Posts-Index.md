@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### March 17 - 2024
+[SUPIR 1 Click Windows, RunPod / Linux Installer](https://www.patreon.com/posts/99176057)
+* 1 Click Windows and RunPod / Linux  Installer For The New SOTA Image Upscaling aan Enhancing Open Source SUPIR Model. Better than Magnify AI
+
 ### March 14 - 2024
 [1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, TensorRT (RTX Accelerator) on Windows](https://www.patreon.com/posts/86307255)
 * Automatic Windows installer script for SDXL and Automatic1111 Web UI. Downloads latest SDXL base, refiner models and FP16 VAE (.safetensors). Moreover it automatically installs and lets you download newest NVIDIA RTX Accelerator - TensorRT which brings 70%+ Speed Up. Moreover, it will automatically install ControlNet and download all available ControlNet models for you.
@@ -44,10 +48,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### March 1 - 2024
 [1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, TensorRT (RTX Accelerator) For RunPod / Any Linux System](https://www.patreon.com/posts/86438018)
 * Automatic RunPod (any Linux System) installer script for SDXL and Automatic1111 Web UI. Downloads latest SDXL base, refiner models and FP16 VAE (.safetensors). Moreover it automatically installs and lets you download newest NVIDIA RTX Accelerator - TensorRT which brings 70%+ Speed Up. Moreover, it will automatically install ControlNet and download all available ControlNet models for you.
-
-### Feburary 26 - 2024
-[SUPIR 1 Click Windows, RunPod / Linux Installer](https://www.patreon.com/posts/99176057)
-* 1 Click Windows and RunPod / Linux  Installer For The New SOTA Image Upscaling aan Enhancing Open Source SUPIR Model. Better than Magnify AI
 
 ### Feburary 24 - 2024
 [1 Click Automatic Installer & A Very Advanced GUI For InstantId For Windows, RunPod, Linux & Kaggle Notebook](https://www.patreon.com/posts/1-click-very-gui-97769887)
