@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### March 20 - 2024
+[Bit-By-Bit Disk Cloning And Verification Software In C#, Fully Multi-Threaded, With Full Source Code](https://www.patreon.com/posts/76398813)
+* This in C# developed application is extremely efficient to verify every bit of cloned disks. It can be also used for file migration/backup verification. Full source code available with pre-compiled exe file. It is fully multi-threaded. 
+
 ### March 18 - 2024
 [1 Click Automatic Installer & A Very Advanced GUI For InstantId For Windows, RunPod, Linux & Kaggle Notebook](https://www.patreon.com/posts/1-click-very-gui-97769887)
 * Advanced Gradio Web UI & Automatic Installers For Windows, RunPod, Kaggle & Linux For InstantID: Zero-shot Identity-Preserving Generation in Seconds
@@ -332,10 +336,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### January 28 - 2023
 [How To Achieve Synchronization In C# While Doing Async Await Multithreaded Programming - .NET Core](https://www.patreon.com/posts/how-to-achieve-c-77858916)
 * Thank you so much for supporting us. Source code available in attachments. 
-
-### December 27 - 2023
-[File Verification Software Source Code](https://www.patreon.com/posts/file-software-76398813)
-* This is the source code of the file verification software shown and used in the How to clone Windows HDD / SSD to new or larger HDD / NVMe SSD
 
 ### xformers need to be updated posts time to time
 * https://github.com/FurkanGozukara/stable-diffusion-xl-demo
