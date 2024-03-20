@@ -30,8 +30,8 @@ Your Patreon support is tremendously important for me so thank you so much
 * 1 Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On RunPod With SDXL
 
 ### March 20 - 2024
-[Auto Windows Installer For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/auto-windows-for-89914747)
-* 1 Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On Your Computer With SDXL
+[Auto Windows Installer & Free Kaggle Notebook For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/auto-windows-for-89914747)
+* 1 Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On Your Computer With SDXL and also Kaggle Notebook to use it on Kaggle for free
 
 ### March 20 - 2024
 [Bit-By-Bit Disk Cloning And Verification Software In C#, Fully Multi-Threaded, With Full Source Code](https://www.patreon.com/posts/76398813)
