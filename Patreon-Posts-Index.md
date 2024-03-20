@@ -26,6 +26,14 @@ Your Patreon support is tremendously important for me so thank you so much
 ## Patreon Exclusive Content 
 
 ### March 20 - 2024
+[Auto RunPod Installer For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/auto-runpod-for-89919157)
+* 1 Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On RunPod With SDXL
+
+### March 20 - 2024
+[Auto Windows Installer For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/auto-windows-for-89914747)
+* 1 Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On Your Computer With SDXL
+
+### March 20 - 2024
 [Bit-By-Bit Disk Cloning And Verification Software In C#, Fully Multi-Threaded, With Full Source Code](https://www.patreon.com/posts/76398813)
 * This in C# developed application is extremely efficient to verify every bit of cloned disks. It can be also used for file migration/backup verification. Full source code available with pre-compiled exe file. It is fully multi-threaded. 
 
@@ -176,14 +184,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### November 6 - 2023
 [Auto Installer Bat Files For Automatic1111 & DreamBooth Extension On Windows](https://www.patreon.com/posts/auto-installer-84773926)
 * Included BAT script files will clone and install fully automatically Automatic1111 SD Web UI and DreamBooth extension for you on Windows.
-
-### November 4 - 2023
-[Auto RunPod Installer For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/auto-runpod-for-89919157)
-* 1 Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On RunPod With SDXL
-
-### November 1 - 2023
-[Auto Windows Installer For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/auto-windows-for-89914747)
-* 1 Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On Your Computer With SDXL
 
 ### October 31 - 2023
 [1-Click ComfyUI Auto Windows Installer](https://www.patreon.com/posts/92013455)
