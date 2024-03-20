@@ -34,7 +34,7 @@ Your Patreon support is tremendously important for me so thank you so much
 * 1 Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On Your Computer With SDXL and also Kaggle Notebook to use it on Kaggle for free
 
 ### March 20 - 2024
-[Bit-By-Bit Disk Cloning And Verification Software In C#, Fully Multi-Threaded, With Full Source Code](https://www.patreon.com/posts/76398813)
+[Bit-By-Bit Disk & File Verification Software In C#, Fully Multi-Threaded, With Full Source Code - Verify Disk Clone](https://www.patreon.com/posts/76398813)
 * This in C# developed application is extremely efficient to verify every bit of cloned disks. It can be also used for file migration/backup verification. Full source code available with pre-compiled exe file. It is fully multi-threaded. 
 
 ### March 18 - 2024
