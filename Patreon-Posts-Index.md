@@ -25,6 +25,18 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### March 22 - 2024
+[Stable Cascade 1 Click Installer & Advanced Gradio APP For Windows, RunPod, Linux & Kaggle](https://www.patreon.com/posts/stable-cascade-1-98410661)
+* 1 Click To Install Stable Cascade Model & Use On Your PC or On RunPod or Kaggle With Amazing Optimizations (Works on 8GB GPU) & Advanced GUI
+
+### March 22 - 2024
+[The Very Best OneTrainer Workflow & Config For SD 1.5 Based Models DreamBooth / Full Fine Tuning](https://www.patreon.com/posts/very-best-config-97381002)
+* Download the very best training configuration and learn the workflow for the OneTraine GUI Stable Diffusion trainer & obtain amazing quality. The workflow is discovered after 70 empricial model trainings.
+
+### March 22 - 2024
+[OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets](https://www.patreon.com/posts/96028218)
+* Nerogar OneTrainer very best Stable Diffusion XL (SDXL) full fine tuning presets. 14 GB GPU is very sufficient and fast
+
 ### March 20 - 2024
 [Auto RunPod Installer For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/auto-runpod-for-89919157)
 * 1 Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On RunPod With SDXL
@@ -85,10 +97,6 @@ Your Patreon support is tremendously important for me so thank you so much
 [1 Click Auto Windows Installer For Rerender A Video - 1 Click Video To Anime](https://www.patreon.com/posts/89457537)
 * Rerender is an amazing new Paper that allows you to turn videos into Anime with 1 click. Auto install scripts and instructions provided here
 
-### Feburary 15 - 2024
-[Stable Cascade 1 Click Installer & Advanced Gradio APP For Windows, RunPod, Linux & Kaggle](https://www.patreon.com/posts/stable-cascade-1-98410661)
-* 1 Click To Install Stable Cascade Model & Use On Your PC or On RunPod or Kaggle With Amazing Optimizations (Works on 8GB GPU) & Advanced GUI
-
 ### Feburary 12 - 2024
 [SOTA Image Captioning Scripts For Stable Diffusion: CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)](https://www.patreon.com/posts/sota-image-for-2-90744385)
 * State Of The Art - The Very Best > Image Captioning Scripts For Stable Diffusion: Kosmos-2, CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)
@@ -96,14 +104,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### Feburary 10 - 2024
 [Sort AI Generated Images By Their Similarity With DeepFace & RetinaFace](https://www.patreon.com/posts/sort-ai-images-82478694)
 * With DeepFace & RetinaFace libraries we will sort AI generated images with best accuracy to your original. Thus, you can find best ones easy
-
-### Feburary 9 - 2024
-[The Very Best OneTrainer Workflow & Config For SD 1.5 Based Models DreamBooth / Full Fine Tuning](https://www.patreon.com/posts/very-best-config-97381002)
-* Download the very best training configuration and learn the workflow for the OneTraine GUI Stable Diffusion trainer & obtain amazing quality. The workflow is discovered after 70 empricial model trainings.
-
-### Feburary 9 - 2024
-[OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets](https://www.patreon.com/posts/96028218)
-* Nerogar OneTrainer very best Stable Diffusion XL (SDXL) full fine tuning presets. 14 GB GPU is very sufficient and fast
 
 ### Feburary 5 - 2024
 [1 Click Auto RunPod Installer For Rerender A Video - 1 Click Video To Anime](https://www.patreon.com/posts/1-click-auto-for-91039997)
