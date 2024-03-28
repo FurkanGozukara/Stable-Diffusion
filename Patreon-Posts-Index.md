@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### March 28 - 2024
+[SUPIR 1 Click Windows, RunPod / Linux Installer](https://www.patreon.com/posts/99176057)
+* 1 Click Windows and RunPod / Linux  Installer For The New SOTA Image Upscaling and Enhancing Open Source SUPIR Model. Better than Magnify AI. SUPIR is the very best AI image upscaler at the moment.
+
 ### March 22 - 2024
 [Stable Cascade 1 Click Installer & Advanced Gradio APP For Windows, RunPod, Linux & Kaggle](https://www.patreon.com/posts/stable-cascade-1-98410661)
 * 1 Click To Install Stable Cascade Model & Use On Your PC or On RunPod or Kaggle With Amazing Optimizations (Works on 8GB GPU) & Advanced GUI
@@ -52,10 +56,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### March 18 - 2024
 [1 Click Automatic Installer & A Very Advanced GUI For InstantId For Windows, RunPod, Linux & Kaggle Notebook](https://www.patreon.com/posts/1-click-very-gui-97769887)
 * Advanced Gradio Web UI & Automatic Installers For Windows, RunPod, Kaggle & Linux For InstantID: Zero-shot Identity-Preserving Generation in Seconds
-
-### March 17 - 2024
-[SUPIR 1 Click Windows, RunPod / Linux Installer](https://www.patreon.com/posts/99176057)
-* 1 Click Windows and RunPod / Linux  Installer For The New SOTA Image Upscaling aan Enhancing Open Source SUPIR Model. Better than Magnify AI
 
 ### March 14 - 2024
 [1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, TensorRT (RTX Accelerator) on Windows](https://www.patreon.com/posts/86307255)
