@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### March 31 - 2024
+[Auto Installer Script For Roop (DeepFake) On RunPod & Example Image And Videos](https://www.patreon.com/posts/auto-installer-84511510)
+* How to automatically install DeepFake Roop with 1 click on RunPod and use it. Step by step instructions and 1click installer script file
+
 ### March 30 - 2024
 [OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets](https://www.patreon.com/posts/96028218)
 * Nerogar OneTrainer very best Stable Diffusion XL (SDXL) full fine tuning presets. 14 GB GPU is very sufficient and fast
@@ -84,10 +88,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### Feburary 18 - 2024
 [RunPod ComfyUI Auto Installer With SDXL Auto Install Including Refiner](https://www.patreon.com/posts/runpod-comfyui-86062569)
 * 1 Click Auto Installer Script For ComfyUI (latest) & Manager On RunPod. Supports SDXL and SDXL Refiner. Workflows included. Includes LoRA
-
-### Feburary 17 - 2024
-[Auto Installer Script For Roop (DeepFake) On RunPod & Example Image And Videos](https://www.patreon.com/posts/auto-installer-84511510)
-* How to automatically install DeepFake Roop with 1 click on RunPod and use it. Step by step instructions and 1click installer script file
 
 ### Feburary 16 - 2024
 [1 Click Auto Roop (DeepFake - FaceSwap) Local Windows Installer Script](https://www.patreon.com/posts/1-click-auto-88234834)
