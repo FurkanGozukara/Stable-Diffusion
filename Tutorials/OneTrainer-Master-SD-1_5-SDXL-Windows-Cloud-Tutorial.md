@@ -40,6 +40,8 @@ export COMMANDLINE_ARGS="--xformers --share --enable-insecure-extension-access"
 
 ### Download Links For Best Models For Training & Using
 * Follow tutorial video to see how to download and move into accurate folder
+* The folder path is
+```/home/Ubuntu/apps/stable-diffusion-webui/models/Stable-diffusion```
 * SDXL RealVisXL_V4 :  https://huggingface.co/SG161222/RealVisXL_V4.0/tree/main
 * SD 1.5 Hyper Realism V3 : https://civitai.com/api/download/models/292213?token=c4ac691fbdba136b3da555eed088fcbe
 
