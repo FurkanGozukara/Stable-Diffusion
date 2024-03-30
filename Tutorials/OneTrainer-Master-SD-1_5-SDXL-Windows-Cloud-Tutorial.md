@@ -39,7 +39,7 @@ git pull
 ### Download Links For Best Models For Training & Using
 * Follow tutorial video to see how to download and move into accurate folder
 * SDXL RealVisXL_V4 :  https://huggingface.co/SG161222/RealVisXL_V4.0/tree/main
-* SD 1.5 Hyper Realism V3 : https://civitai.com/api/download/models/292213?token=43ee74d93b45adfe1bb9ea833c065c69
+* SD 1.5 Hyper Realism V3 : https://civitai.com/api/download/models/292213?token=c4ac691fbdba136b3da555eed088fcbe
 
 ### OneTrainer Config Files
 
