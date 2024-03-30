@@ -16,7 +16,7 @@ Update / Installer Scripts & More : https://www.patreon.com/posts/101386817
 * Open a terminal 
 * Execute below commands to move into OneTrainer folder, activate its conda VENV and update it
 ```
-cd home/ubuntu/apps/OneTrainer
+cd /home/Ubuntu/apps/OneTrainer
 conda activate ot
 ./update.sh
 ```
