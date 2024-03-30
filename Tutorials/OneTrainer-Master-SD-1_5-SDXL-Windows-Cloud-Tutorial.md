@@ -34,7 +34,9 @@ git pull
 
 * Double click and start Stable Diffusion Settings on desktop
 * Edit COMMANDLINE_ARGS having line as below and save
-* ```export COMMANDLINE_ARGS="--xformers --share --enable-insecure-extension-access"```
+```
+export COMMANDLINE_ARGS="--xformers --share --enable-insecure-extension-access"
+```
 
 ### Download Links For Best Models For Training & Using
 * Follow tutorial video to see how to download and move into accurate folder
