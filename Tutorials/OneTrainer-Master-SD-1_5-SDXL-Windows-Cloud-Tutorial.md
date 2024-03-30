@@ -62,7 +62,7 @@ export COMMANDLINE_ARGS="--xformers --share --enable-insecure-extension-access"
 ### How To See GPU Usage
 
 * Open a CMD and type ```nvitop```
-* To install ```pip install nvitop```
+* To install ```pip install nvitop``` - You don't need to install on MassedCompute
 
 ### How To Execute Custom SH Scripts
 
