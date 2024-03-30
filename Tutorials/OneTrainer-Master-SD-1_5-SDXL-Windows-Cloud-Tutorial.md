@@ -14,12 +14,12 @@ Update / Installer Scripts & More : https://www.patreon.com/posts/101386817
 ### How To Update OneTrainer To The Latest Version On MassedCompute Virtual Machine
 
 * Open a terminal 
-* Execute below to move into accurate folder
-* ```cd apps/OneTrainer```
-* Execute below to activate VENV of OneTrainer
-* ```conda activate ot```
-* Execute below to update OneTrainer to the latest version
-* ```./update.sh```
+* Execute below commands to move into OneTrainer folder, activate its conda VENV and update it
+```
+cd apps/OneTrainer
+conda activate ot
+./update.sh
+```
 
 ### How To Update Automatic1111 SD Web UI On MassedCompute Virtual Machine
 
