@@ -25,8 +25,10 @@ conda activate ot
 
 * Open a terminal 
 * Execute below to move into Automatic1111 folder and update it to latest version
-```cd /home/Ubuntu/apps/stable-diffusion-webui
-git pull```
+```
+cd /home/Ubuntu/apps/stable-diffusion-webui
+git pull
+```
 
 ### How To Edit Automatic1111 SD Web UI Command Line Arguments On MassedCompute Virtual Machine
 
