@@ -9,7 +9,7 @@ Download thinlinc to connect and use VM : https://www.cendio.com/thinlinc/downlo
 
 Help Documents : https://vm-docs.massedcompute.com/docs/category/product-overview
 
-Update & Scripts : 
+Update / Installer Scripts & More : https://www.patreon.com/posts/101386817
 
 ### How To Update OneTrainer To The Latest Version On MassedCompute Virtual Machine
 
