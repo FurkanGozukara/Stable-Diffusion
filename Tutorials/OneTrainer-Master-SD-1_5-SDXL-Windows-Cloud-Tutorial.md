@@ -11,6 +11,12 @@ Help Documents : https://vm-docs.massedcompute.com/docs/category/product-overvie
 
 Update / Installer Scripts & More : https://www.patreon.com/posts/101386817
 
+### Requirements To Use OneTrainer & Other AI On Windows
+
+* Please watch this amazing tutorial and install Python 3.10.11, C++ Tools & FFmpeg exactly as shown step by step in the below tutorial
+* https://youtu.be/-NjNy7afOQ0
+
+
 ### How To Update OneTrainer To The Latest Version On MassedCompute Virtual Machine
 
 * Open a terminal 
