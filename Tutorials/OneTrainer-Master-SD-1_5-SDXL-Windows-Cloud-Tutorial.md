@@ -24,10 +24,9 @@ conda activate ot
 ### How To Update Automatic1111 SD Web UI On MassedCompute Virtual Machine
 
 * Open a terminal 
-* Execute below to move into accurate folder
-* ```cd apps/stable-diffusion-webui```
-* Execute below to activate VENV of OneTrainer
-* ```git pull```
+* Execute below to move into Automatic1111 folder and update it to latest version
+```cd /home/Ubuntu/apps/stable-diffusion-webui
+git pull```
 
 ### How To Edit Automatic1111 SD Web UI Command Line Arguments On MassedCompute Virtual Machine
 
