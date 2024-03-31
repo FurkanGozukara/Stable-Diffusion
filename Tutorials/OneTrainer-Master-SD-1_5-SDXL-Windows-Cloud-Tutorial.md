@@ -119,3 +119,14 @@ chmod +x install_TensorRT.sh
 
 * Save as and run it with Jupyter Notebook
 * https://gist.github.com/FurkanGozukara/84ad2cf9731c278d5679f7b5fcf5e44e
+
+### The Used OneTrainer Version
+* OneTrainer developer is really active and constantly fixing errors
+* But still for some reason if you ever want to use exactly same version as this tutorial
+* Edit update.bat file and add below code to the accurate part
+```
+%GIT% pull
+%GIT% checkout 9a35e7f8596988f672af668f474f8d489ff8f962
+if %ERRORLEVEL% == 0 goto :check_venv
+```
+* Then double click and run the update.bat file
