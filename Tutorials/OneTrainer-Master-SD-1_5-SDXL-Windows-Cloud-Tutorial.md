@@ -13,11 +13,17 @@ Update / Installer Scripts & More : https://www.patreon.com/posts/101386817
 
 ### Requirements To Use OneTrainer & Other AI On Windows
 
-* Please watch this amazing tutorial and install Python 3.10.11, C++ Tools & FFmpeg exactly as shown step by step in the below tutorial
+* Please watch this amazing tutorial and install Python 3.10.11, Git, C++ Tools & FFmpeg exactly as shown step by step in the below tutorial
 * https://youtu.be/-NjNy7afOQ0
 * [**Essential AI Tools and Libraries: A Guide to Python, Git, C++ Compile Tools, FFmpeg, CUDA, PyTorch**](https://youtu.be/-NjNy7afOQ0)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/uSxPD2Yav4JlLEAHQE5Dr.png)](https://youtu.be/-NjNy7afOQ0)
+
+After installing the requirements, you need to do git clone into any folder where you want to install
+I suggest like e.g. C:/OneTrainer
+So open a CMD on C drive and type ```git clone https://github.com/Nerogar/OneTrainer```
+Then double click and run ```install.bat``` file
+If you have previously installed, please run ```update.bat``` file to update
 
 ### How To Update OneTrainer To The Latest Version On MassedCompute Virtual Machine
 
