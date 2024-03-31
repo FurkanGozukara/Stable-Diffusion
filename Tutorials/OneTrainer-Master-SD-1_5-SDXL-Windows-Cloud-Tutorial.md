@@ -15,7 +15,7 @@ Update / Installer Scripts & More : https://www.patreon.com/posts/101386817
 
 * Please watch this amazing tutorial and install Python 3.10.11, C++ Tools & FFmpeg exactly as shown step by step in the below tutorial
 * https://youtu.be/-NjNy7afOQ0
-[**Essential AI Tools and Libraries: A Guide to Python, Git, C++ Compile Tools, FFmpeg, CUDA, PyTorch**](https://youtu.be/-NjNy7afOQ0)
+* [**Essential AI Tools and Libraries: A Guide to Python, Git, C++ Compile Tools, FFmpeg, CUDA, PyTorch**](https://youtu.be/-NjNy7afOQ0)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/uSxPD2Yav4JlLEAHQE5Dr.png)](https://youtu.be/-NjNy7afOQ0)
 
