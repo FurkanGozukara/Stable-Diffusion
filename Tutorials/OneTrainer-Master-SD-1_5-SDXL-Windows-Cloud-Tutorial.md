@@ -123,10 +123,8 @@ chmod +x install_TensorRT.sh
 ### The Used OneTrainer Version
 * OneTrainer developer is really active and constantly fixing errors
 * But still for some reason if you ever want to use exactly same version as this tutorial
-* Edit update.bat file and add below code to the accurate part
+* Edit update.bat file and add below code to under the ```%GIT% pull``` part
 ```
-%GIT% pull
 %GIT% checkout 9a35e7f8596988f672af668f474f8d489ff8f962
-if %ERRORLEVEL% == 0 goto :check_venv
 ```
 * Then double click and run the update.bat file
