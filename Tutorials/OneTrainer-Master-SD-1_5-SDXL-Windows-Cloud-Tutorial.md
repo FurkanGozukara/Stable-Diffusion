@@ -35,6 +35,13 @@ conda activate ot
 ./update.sh
 ```
 
+#### How To Fix OneTrainer xFormers Version After Update
+```
+cd /home/Ubuntu/apps/OneTrainer
+conda activate ot
+pip install https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/xformers-0.0.24-cp310-cp310-manylinux2014_x86_64.whl
+```
+
 ### How To Update Automatic1111 SD Web UI On MassedCompute Virtual Machine
 
 * Open a terminal 
