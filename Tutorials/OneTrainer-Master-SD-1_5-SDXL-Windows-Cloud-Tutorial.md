@@ -35,11 +35,19 @@ conda activate ot
 ./update.sh
 ```
 
-#### How To Fix OneTrainer xFormers Version After Update
+#### How To Fix OneTrainer xFormers Version After Update On MassedCompute
 ```
 cd /home/Ubuntu/apps/OneTrainer
 conda activate ot
 pip install https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/xformers-0.0.24-cp310-cp310-manylinux2014_x86_64.whl
+```
+
+#### How To Use Second GPU On MassedCompute To Start Second Training on Second GPU
+
+* Edit home/scripts/run_onetrainer.sh file
+* Add below code like shown in tutorial video
+```
+export CUDA_VISIBLE_DEVICES=1
 ```
 
 ### How To Update Automatic1111 SD Web UI On MassedCompute Virtual Machine
