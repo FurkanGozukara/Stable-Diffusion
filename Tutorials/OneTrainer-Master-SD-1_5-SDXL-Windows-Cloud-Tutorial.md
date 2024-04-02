@@ -144,7 +144,7 @@ chmod +x install_TensorRT.sh
 ./install_TensorRT.sh
 ```
 
-### xFormers
+### Additional Information For Automatic1111
 
 * Don't forget to use Run_Stable_Diffusion_Settings and add --xformers to use xFormers for huge speed up
 * You can also add --share parameter to use Automatic1111 on your computer or even on your phone
