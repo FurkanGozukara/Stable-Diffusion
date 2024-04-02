@@ -73,6 +73,15 @@ git pull
 export COMMANDLINE_ARGS="--xformers --share --enable-insecure-extension-access"
 ```
 
+### How To Update Kohya SS GUI Trainer UI On MassedCompute Virtual Machine
+
+* Open a terminal 
+* Execute below to move into Kohya folder and update it to latest version
+```
+cd /home/Ubuntu/apps/kohya_ss
+git pull
+```
+
 ### Download Links For Best Models For Training & Using
 * Follow tutorial video to see how to download and move into accurate folder
 * The folder path is
