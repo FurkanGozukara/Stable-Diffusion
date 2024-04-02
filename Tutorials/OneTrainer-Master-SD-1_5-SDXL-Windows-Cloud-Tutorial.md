@@ -90,7 +90,7 @@ git pull
 export CUDA_VISIBLE_DEVICES=1
 ```
 
-### OneTrainer Config Files
+### Kohya Config Files
 * The very best configs (as the date of April 2024) are shown in the tutorial video. However if the configs get updated in future with better parameters, you really should the ones on Patreon
 * [The Very Best Workflow For SDXL DreamBooth / Full Fine Tuning - Results Of 100+ Full Trainings](https://www.patreon.com/posts/very-best-for-of-89213064)
 * [The Very Best Kohya GUI Workflow & Config For SD 1.5 Based Models DreamBooth / Full Fine Tuning](https://www.patreon.com/posts/very-best-kohya-97379147)
