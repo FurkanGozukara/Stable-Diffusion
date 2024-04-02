@@ -82,6 +82,14 @@ cd /home/Ubuntu/apps/kohya_ss
 git pull
 ```
 
+#### How To Make Kohya SS GUI To Use Certain GPU On MassedCompute Virtual Machine
+
+* Edit home/scripts/run_kohya.sh file
+* Add below code like shown in tutorial video
+```
+export CUDA_VISIBLE_DEVICES=1
+```
+
 ### Download Links For Best Models For Training & Using
 * Follow tutorial video to see how to download and move into accurate folder
 * The folder path is
