@@ -133,6 +133,7 @@ chmod +x update_sd1111.sh
 ./update_sd1111.sh
 ```
 
+### TensorRT - Not Working As Date Of 3 April 2024 For Some Reason
 * TensorRT brings up to 75% speed up with 0 quality loss
 * Please watch this tutorial to learn it : https://youtu.be/eKnMVXVjVoU
 * To Install TensorRT Extension On Automatic1111 SD Web UI
@@ -143,7 +144,7 @@ chmod +x install_TensorRT.sh
 ./install_TensorRT.sh
 ```
 
-
+### xFormers
 
 * Don't forget to use Run_Stable_Diffusion_Settings and add --xformers to use xFormers for huge speed up
 * You can also add --share parameter to use Automatic1111 on your computer or even on your phone
