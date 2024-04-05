@@ -370,7 +370,7 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [**SOTA Image PreProcessing Scripts For Stable Diffusion Training - Auto Subject Crop & Face Focus**](https://youtu.be/Fbuyu35TkE4)
 
-[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/jL-AEf9kw_xrIXyLtnpph.png)](https://youtu.be/Fbuyu35TkE4)
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/Z3E4HXAg5KtVyMXn9AsFa.png)](https://youtu.be/Fbuyu35TkE4)
 
 57.) Local - PC - Free
 
