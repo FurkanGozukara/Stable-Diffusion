@@ -124,7 +124,15 @@ export CUDA_VISIBLE_DEVICES=1
 
 ### Image Captioning Effect
 
-Public Post : https://www.patreon.com/posts/compared-effect-101206188
+Public Article : https://www.patreon.com/posts/compared-effect-101206188
+
+### OneTrainer Fine Tuning vs Kohya SS DreamBooth & Huge Research of OneTrainer's Masked Training
+
+Public Article : https://www.patreon.com/posts/onetrainer-fine-101606471
+
+### Experimenting With OneTrainer - OneTrainer vs Kohya - Realism vs Stylization - Reg images vs No-Reg images
+
+Public Article : https://www.patreon.com/posts/experimenting-vs-96097301
 
 ### How To Select Folders Paths Quickly
 
