@@ -118,9 +118,9 @@ export CUDA_VISIBLE_DEVICES=1
 
 ### How To Perfectly Auto Crop & Resize Your Training Images
 
-[**Human Cropping Script & 4K+ Resolution Class / Reg Images For Stable Diffusion DreamBooth / LoRA**](https://youtu.be/QTYX0tgA5ho)
+[**SOTA Image PreProcessing Scripts For Stable Diffusion Training - Auto Subject Crop & Face Focus**](https://youtu.be/Fbuyu35TkE4)
 
-[![image](https://i.imgur.com/oyZxQTu.png)](https://youtu.be/QTYX0tgA5ho)
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/Z3E4HXAg5KtVyMXn9AsFa.png)](https://youtu.be/Fbuyu35TkE4)
 
 ### How To Select Folders Paths Quickly
 
