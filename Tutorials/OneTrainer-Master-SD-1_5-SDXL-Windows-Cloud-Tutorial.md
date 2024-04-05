@@ -116,6 +116,12 @@ export CUDA_VISIBLE_DEVICES=1
 
 [Massive 4K Resolution Woman & Man Class Ground Truth Stable Diffusion Regularization Images Dataset](https://www.patreon.com/posts/massive-4k-woman-87700469)
 
+### How To Perfectly Auto Crop & Resize Your Training Images
+
+[**Human Cropping Script & 4K+ Resolution Class / Reg Images For Stable Diffusion DreamBooth / LoRA**](https://youtu.be/QTYX0tgA5ho)
+
+[![image](https://i.imgur.com/oyZxQTu.png)](https://youtu.be/QTYX0tgA5ho)
+
 ### How To Select Folders Paths Quickly
 
 * CTRL + L
