@@ -122,6 +122,10 @@ export CUDA_VISIBLE_DEVICES=1
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/Z3E4HXAg5KtVyMXn9AsFa.png)](https://youtu.be/Fbuyu35TkE4)
 
+### Image Captioning Effect
+
+Public Post : https://www.patreon.com/posts/compared-effect-101206188
+
 ### How To Select Folders Paths Quickly
 
 * CTRL + L
