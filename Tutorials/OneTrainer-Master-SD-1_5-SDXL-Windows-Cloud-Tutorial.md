@@ -10,6 +10,8 @@
 **Register Massed Compute From Below Link (could be necessary to use our Special Coupon for A6000 GPU for 31 cents per hour):** 
 **https://bit.ly/Furkan-Gözükara**
 
+* Coupon Code for A6000 GPU is : ```SECourses```
+
 **Then from here deploy your VM as shown in below image: https://vm.massedcompute.com/deploy**
 
 ![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/da7b56fe-a452-41f2-9d75-f1ed17a75ec7)
