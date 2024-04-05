@@ -368,6 +368,12 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 56.) Local - PC - Free
 
+[**SOTA Image PreProcessing Scripts For Stable Diffusion Training - Auto Subject Crop & Face Focus**](https://youtu.be/Fbuyu35TkE4)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/jL-AEf9kw_xrIXyLtnpph.png)](https://youtu.be/Fbuyu35TkE4)
+
+57.) Local - PC - Free
+
 [**Fooocus Stable Diffusion Web UI - Use SDXL Like You Are Using Midjourney - Easy To Use High Quality**](https://youtu.be/jHTkVm2mcfs)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/zuJst_wZ7_qs_2e3KV33W.png)](https://youtu.be/jHTkVm2mcfs)
