@@ -6,6 +6,7 @@
 
 * The repo link of the OneTrainer : https://github.com/Nerogar/OneTrainer
 * The wiki of the OneTrainer : https://github.com/Nerogar/OneTrainer/wiki
+* ctrl + alt + d to minimize all on MassedCompute
 
 **Register Massed Compute From Below Link (could be necessary to use our Special Coupon for A6000 GPU for 31 cents per hour):** 
 **https://bit.ly/Furkan-Gözükara**
