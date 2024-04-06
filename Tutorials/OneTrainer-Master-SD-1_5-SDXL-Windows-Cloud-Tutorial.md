@@ -37,6 +37,10 @@ Update / Installer Scripts & More : https://www.patreon.com/posts/101386817
 * Then double click and run ```install.bat``` file
 * If you have previously installed, please run ```update.bat``` file to update
 
+### How To Automatic Install Automatic1111 On Windows
+
+* Download Scripts : https://www.patreon.com/posts/86307255
+
 ### How To Update OneTrainer To The Latest Version On MassedCompute Virtual Machine
 
 * Open a terminal 
