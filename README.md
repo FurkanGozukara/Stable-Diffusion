@@ -378,37 +378,37 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/zuJst_wZ7_qs_2e3KV33W.png)](https://youtu.be/jHTkVm2mcfs)
 
-57.) Cloud - Kaggle - Free
+58.) Cloud - Kaggle - Free
 
 [**How To Do Stable Diffusion XL (SDXL) DreamBooth Training For Free - Utilizing Kaggle - Easy Tutorial**](https://youtu.be/16-b1AjvyBE)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/JU3U2Kk6IdVxx1-hfNkrA.png)](https://youtu.be/16-b1AjvyBE)
 
-58.) Free - Local - RunPod
+59.) Free - Local - RunPod
 
 [**PIXART-α : First Open Source Rival to Midjourney - Better Than Stable Diffusion SDXL - Full Tutorial**](https://youtu.be/ZiUXf_idIR4)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/NccIesCaYHEpKshYB-jF0.png)](https://youtu.be/ZiUXf_idIR4)
 
-59.) Free - Local - PC
+60.) Free - Local - PC
 
 [**Essential AI Tools and Libraries: A Guide to Python, Git, C++ Compile Tools, FFmpeg, CUDA, PyTorch**](https://youtu.be/-NjNy7afOQ0)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/uSxPD2Yav4JlLEAHQE5Dr.png)](https://youtu.be/-NjNy7afOQ0)
 
-60.) Free - Local - PC & RunPod
+61.) Free - Local - PC & RunPod
 
 [**MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model - Full Tutorial**](https://youtu.be/HeXknItbMM8)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/rrfzVUOXVlXyrS4RueGHA.png)](https://youtu.be/HeXknItbMM8)
 
-61.) Free - Local - PC - RunPod - Kaggle
+62.) Free - Local - PC - RunPod - Kaggle
 
 [**Instantly Transfer Face By Using IP-Adapter-FaceID: Full Tutorial & GUI For Windows, RunPod & Kaggle**](https://youtu.be/rjXsJ24kQQg)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/lUGVOxswNTUEoUnCQfBVw.png)](https://youtu.be/rjXsJ24kQQg)
 
-62.) Free - Local - PC - RunPod - Kaggle
+63.) Free - Local - PC - RunPod - Kaggle
 
 [**Detailed Comparison of 160+ Best Stable Diffusion 1.5 Custom Models & 1 Click Script to Download All**](https://youtu.be/G-oZn4H-aHQ)
 
