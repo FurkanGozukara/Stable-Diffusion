@@ -15,7 +15,7 @@
 
 **Then from here deploy your VM as shown in below image: https://vm.massedcompute.com/deploy**
 
-![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/da7b56fe-a452-41f2-9d75-f1ed17a75ec7)
+![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/65a79056-ab5c-42ee-8ec6-924cdc832587)
 
 Download thinlinc to connect and use VM : https://www.cendio.com/thinlinc/download/
 
