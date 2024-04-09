@@ -204,6 +204,8 @@ chmod +x install_TensorRT.sh
 * But still for some reason if you ever want to use exactly same version as this tutorial
 * Edit update.bat file and add below code to under the ```%GIT% pull``` part
 ```
-%GIT% checkout 9a35e7f8596988f672af668f474f8d489ff8f962
+%GIT% checkout c959547505b594c1502d34b32120cb4d5ae4001a
 ```
 * Then double click and run the update.bat file
+* Pip freeze file is attached as [pip freeze onetrainer.txt](https://github.com/FurkanGozukara/Stable-Diffusion/files/14912783/pip.freeze.onetrainer.txt)
+
