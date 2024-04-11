@@ -34,8 +34,8 @@ Your Patreon support is tremendously important for me so thank you so much
 * Nerogar OneTrainer very best Stable Diffusion XL (SDXL) full fine tuning presets. 14 GB GPU is very sufficient and fast
 
 ### March 28 - 2024
-[SUPIR 1 Click Windows, RunPod / Linux Installer](https://www.patreon.com/posts/99176057)
-* 1 Click Windows and RunPod / Linux  Installer For The New SOTA Image Upscaling and Enhancing Open Source SUPIR Model. Better than Magnify AI. SUPIR is the very best AI image upscaler at the moment.
+[SUPIR 1 Click Windows, RunPod / Linux Installer & Free Kaggle Notebook](https://www.patreon.com/posts/99176057)
+* 1 Click Windows and RunPod / Linux Installer and a free Kaggle Notebook For The New SOTA Image Upscaling and Enhancing Open Source SUPIR Model. Better than Magnify AI. SUPIR is the very best AI image upscaler at the moment.
 
 ### March 22 - 2024
 [Stable Cascade 1 Click Installer & Advanced Gradio APP For Windows, RunPod, Linux & Kaggle](https://www.patreon.com/posts/stable-cascade-1-98410661)
