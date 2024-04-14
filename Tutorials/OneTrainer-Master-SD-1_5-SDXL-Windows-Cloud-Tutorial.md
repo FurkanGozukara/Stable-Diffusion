@@ -11,7 +11,7 @@
 
 **Register Massed Compute From Below Link (could be necessary to use our Special Coupon for A6000 GPU for 31 cents per hour):** 
 * **https://bit.ly/SECoursesMassedCompute**
-* **https://vm.massedcompute.com/signup?linkId=lp_034338**
+* Full link: **https://vm.massedcompute.com/signup?linkId=lp_034338&sourceId=secourses&tenantId=massed-compute**
 
 * Coupon Code for A6000 GPU is : ```SECourses```
 
