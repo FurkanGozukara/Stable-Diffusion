@@ -215,7 +215,7 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/QA9woGfjeql37J9JepbrW.png)](https://youtu.be/TpuDOsuKIBo)
 
-31.) Kaggle NoteBook - Free
+31.) Kaggle NoteBook (Cloud) - Free
 
 [**DeepFloyd IF By Stability AI - Is It Stable Diffusion XL or Version 3? We Review and Show How To Use**](https://youtu.be/R2fEocf-MU8)
 
@@ -227,7 +227,7 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://user-images.githubusercontent.com/19240467/236293388-6254ff84-0866-4bd4-a5d4-2db3c42be3f0.png)](https://youtu.be/343I11mhnXs)
 
-33.) PC - Google Colab - Free
+33.) PC - Google Colab (Cloud) - Free
 
 [**Mind-Blowing Deepfake Tutorial: Turn Anyone into Your Favorite Movie Star! PC & Google Colab - roop**](https://youtu.be/OI1LEN-SgLM)
 
@@ -263,14 +263,14 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/erSEOiSZQDvHVwqXBCAfN.png)](https://youtu.be/c_S2kFAefTQ)
 
-39.) Automatic1111 Web UI - PC - Free + RunPod
+39.) Automatic1111 Web UI - PC - Free + RunPod (Cloud)
 
 [**Zero to Hero ControlNet Tutorial: Stable Diffusion Web UI Extension | Complete Feature Guide**](https://youtu.be/3E5fhFQUVLo)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/3I25wwnG6IfYLBo-Ie6ZJ.png)](https://youtu.be/3E5fhFQUVLo)
 
 
-40.) Automatic1111 Web UI - PC - Free + RunPod
+40.) Automatic1111 Web UI - PC - Free + RunPod (Cloud)
 
 [**The END of Photography - Use AI to Make Your Own Studio Photos, FREE Via DreamBooth Training**](https://youtu.be/g0wXIcRhkJk)
 
@@ -294,13 +294,13 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/mquAeJwsz4UBuop3VjUl5.png)](https://youtu.be/gTdPRm-R-14)
 
-44.) Local - PC - Free - Google Colab - RunPod - Cloud - Custom Web UI
+44.) Local - PC - Free - Google Colab (Cloud) - RunPod (Cloud) - Custom Web UI
 
 [**ComfyUI Master Tutorial - Stable Diffusion XL (SDXL) - Install On PC, Google Colab (Free) & RunPod**](https://youtu.be/FnMHbhvWUhE)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/WEPEFBLGWUYBdMEWaq2zS.png)](https://youtu.be/FnMHbhvWUhE)
 
-45.) Local - PC - Free - RunPod - Cloud
+45.) Local - PC - Free - RunPod (Cloud)
 
 [**First Ever SDXL Training With Kohya LoRA - Stable Diffusion XL Training Will Replace Older Models**](https://youtu.be/AY6DMBCIZ3A)
 
@@ -378,13 +378,13 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/zuJst_wZ7_qs_2e3KV33W.png)](https://youtu.be/jHTkVm2mcfs)
 
-58.) Cloud - Kaggle - Free
+58.) Cloud - Kaggle (Cloud) - Free
 
 [**How To Do Stable Diffusion XL (SDXL) DreamBooth Training For Free - Utilizing Kaggle - Easy Tutorial**](https://youtu.be/16-b1AjvyBE)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/JU3U2Kk6IdVxx1-hfNkrA.png)](https://youtu.be/16-b1AjvyBE)
 
-59.) Free - Local - RunPod
+59.) Free - Local - RunPod (Cloud)
 
 [**PIXART-α : First Open Source Rival to Midjourney - Better Than Stable Diffusion SDXL - Full Tutorial**](https://youtu.be/ZiUXf_idIR4)
 
@@ -396,26 +396,32 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/uSxPD2Yav4JlLEAHQE5Dr.png)](https://youtu.be/-NjNy7afOQ0)
 
-61.) Free - Local - PC & RunPod
+61.) Free - Local - PC & RunPod (Cloud)
 
 [**MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model - Full Tutorial**](https://youtu.be/HeXknItbMM8)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/rrfzVUOXVlXyrS4RueGHA.png)](https://youtu.be/HeXknItbMM8)
 
-62.) Free - Local - PC - RunPod - Kaggle
+62.) Free - Local - PC - RunPod (Cloud) - Kaggle (Cloud)
 
 [**Instantly Transfer Face By Using IP-Adapter-FaceID: Full Tutorial & GUI For Windows, RunPod & Kaggle**](https://youtu.be/rjXsJ24kQQg)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/lUGVOxswNTUEoUnCQfBVw.png)](https://youtu.be/rjXsJ24kQQg)
 
-63.) Free - Local - PC - RunPod - Kaggle
+63.) Free - Local - PC - RunPod (Cloud) - Kaggle (Cloud)
 
 [**Detailed Comparison of 160+ Best Stable Diffusion 1.5 Custom Models & 1 Click Script to Download All**](https://youtu.be/G-oZn4H-aHQ)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/7P4KwfN4dci0uRdDaINIK.png)](https://youtu.be/G-oZn4H-aHQ)
 
-64.) Free - Local - PC - RunPod
+64.) Free - Local - PC - RunPod (Cloud)
 
 [**SUPIR: New SOTA Open Source Image Upscaler & Enhancer Model Better Than Magnific & Topaz AI Tutorial**](https://youtu.be/PqREA6-bC3w)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/QqzGQeKmOw7-aO7Ippqp2.png)](https://youtu.be/PqREA6-bC3w)
+
+65.) Free - Local - PC - Massed Compute (Cloud)
+
+[**Full Stable Diffusion SD & XL Fine Tuning Tutorial With OneTrainer On Windows & Cloud - Zero To Hero**](https://youtu.be/0t5l6CP9eBg)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/fzw4B_eMUEQulB1v_3xtB.png)](https://youtu.be/0t5l6CP9eBg)
