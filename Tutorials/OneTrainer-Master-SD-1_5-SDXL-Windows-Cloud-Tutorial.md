@@ -183,7 +183,9 @@ chmod +x install_TensorRT.sh
 * On massed compute it is ```/home/Ubuntu/apps```
 * Then open a terminal inside this folder
 * Execute below command to download Realistic_Vision_V6, SDXL Base 1.0 with fixed VAE, RealVisXL_V4 - very realistic model for training & most realistic SD 1.5 model Hyper_Realism_V3
-* ```python download_models.py```
+* python3 is python on Windows but on Massed Compute it is python3
+* ```pip install tqdm```
+* ```python3 download_models.py```
 
 * To download all of the ControlNet models including Ip Adapter Face ID and InstantID use the following commands
 * Full tutorial of ControlNet is here : https://youtu.be/3E5fhFQUVLo
@@ -192,8 +194,9 @@ chmod +x install_TensorRT.sh
 * Ip Adapter Face ID of ControlNet : https://github.com/Mikubill/sd-webui-controlnet/discussions/2442
 * InstantID of ControlNet : https://github.com/Mikubill/sd-webui-controlnet/discussions/2589
 * Download commands
-* ```python control_net_downloader.py```
-* ```python download_ip_adapter_and_instantid.py```
+* ```pip install tqdm```
+* ```python3 control_net_downloader.py```
+* ```python3 download_ip_adapter_and_instantid.py```
 
 ### Notebook To Upload Models And Files Into Hugging Face
 
