@@ -425,3 +425,9 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 [**Full Stable Diffusion SD & XL Fine Tuning Tutorial With OneTrainer On Windows & Cloud - Zero To Hero**](https://youtu.be/0t5l6CP9eBg)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/fzw4B_eMUEQulB1v_3xtB.png)](https://youtu.be/0t5l6CP9eBg)
+
+66.) Free - Local - PC - Cloud - Extension
+
+[**Improve Stable Diffusion Prompt Following & Image Quality Significantly With Incantations Extension**](https://youtu.be/lMQ7DIPmrfI)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/TzuZWTiHAc3wTxh3PwGL5.png)](https://youtu.be/lMQ7DIPmrfI)
