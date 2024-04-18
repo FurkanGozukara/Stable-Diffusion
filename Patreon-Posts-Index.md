@@ -26,6 +26,10 @@ Your Patreon support is tremendously important for me so thank you so much
 ## Patreon Exclusive Content 
 
 ### April 18 - 2024
+[Kohya SD 1.5 & SDXL LoRA - DreamBooth Training Free Kaggle NoteBook](https://www.patreon.com/posts/kohya-sdxl-lora-88397937)
+* A Kaggle NoteBook file to do Stable Diffusion 1.5 & XL (SDXL) Kohya GUI both LoRA and DreamBooth training on a free Kaggle account. If you don't have a strong GPU this is the notebook you need. It supports even SDXL DreamBooth full fine tuning.
+
+### April 18 - 2024
 [For RunPod - Automatic Kohya SS LoRA Installer](https://www.patreon.com/posts/for-runpod-kohya-84898806)
 * This script will automatically install Kohya SS on RunPod. Additionally, I have added after Pod restart script which will fix installation.
 
@@ -76,10 +80,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### March 12 - 2024
 [Fooocus Stable Diffusion Web UI Kaggle NoteBook](https://www.patreon.com/posts/fooocus-stable-94269866)
 * Fooocus Stable Diffusion Web UI Free Kaggle Account Notebook. Use SDXL on Kaggle for free like Midjourney without even a computer. This is the way to use almost Midjourney for free.
-
-### March 12 - 2024
-[Kohya SD 1.5 & SDXL LoRA - DreamBooth Training Free Kaggle NoteBook](https://www.patreon.com/posts/kohya-sdxl-lora-88397937)
-* A Kaggle NoteBook file to do Stable Diffusion 1.5 & XL (SDXL) Kohya GUI both LoRA and DreamBooth training on a free Kaggle account. If you don't have a strong GPU this is the notebook you need. It supports even SDXL DreamBooth full fine tuning.
 
 ### March 2 - 2024
 [Run Automatic1111 SD Web UI On A Free Kaggle NoteBook Like In Your PC - Supports SDXL & ControlNet](https://www.patreon.com/posts/run-on-free-like-88714330)
