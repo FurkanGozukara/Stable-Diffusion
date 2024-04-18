@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### April 18 - 2024
+[For RunPod - Automatic Kohya SS LoRA Installer](https://www.patreon.com/posts/for-runpod-kohya-84898806)
+* This script will automatically install Kohya SS on RunPod. Additionally, I have added after Pod restart script which will fix installation.
+
 ### April 16 - 2024
 [1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, TensorRT (RTX Accelerator) For RunPod / Any Linux System](https://www.patreon.com/posts/86438018)
 * Automatic RunPod (any Linux System) installer script for SDXL and Automatic1111 Web UI. Downloads latest SDXL base, refiner models and FP16 VAE (.safetensors). Moreover it automatically installs and lets you download newest NVIDIA RTX Accelerator - TensorRT which brings 70%+ Speed Up. Moreover, it will automatically install ControlNet and download all available ControlNet models for you.
@@ -252,10 +256,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### June 21 - 2023
 [How to fix Roop (insightface error) - cannot open include file: 'stdio.h': No such file or directory](https://www.patreon.com/posts/how-to-fix-roop-84932008)
 * This post will show you how to fix insightface wheel compiling error when installing Roop on Windows. 'stdio.h': No such file or directory
-
-### June 21 - 2023
-[For RunPod - Automatic Kohya SS LoRA Installer](https://www.patreon.com/posts/for-runpod-kohya-84898806)
-* This script will automatically install Kohya SS on RunPod. Additionally, I have added after Pod restart script which will fix installation.
 
 ### June 20 - 2023
 [Auto Installer Bat File For Latest cuDNN dll files & How To Manually Install & Update](https://www.patreon.com/posts/auto-installer-84830198)
