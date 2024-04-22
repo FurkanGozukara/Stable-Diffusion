@@ -18,3 +18,4 @@ Make a venv and install
 
 ```pip install moviepy```
 
+Then activate Python VENV and run the https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/CustomPythonScripts/whisper_transcribe_salad.py file
