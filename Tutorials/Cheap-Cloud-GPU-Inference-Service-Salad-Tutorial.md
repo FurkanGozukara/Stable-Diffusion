@@ -15,4 +15,5 @@
 Make a venv and install 
 
 ```pip install gradio requests```
+```pip install moviepy```
 
