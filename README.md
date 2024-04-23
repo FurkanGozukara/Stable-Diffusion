@@ -431,3 +431,9 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 [**Improve Stable Diffusion Prompt Following & Image Quality Significantly With Incantations Extension**](https://youtu.be/lMQ7DIPmrfI)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/TzuZWTiHAc3wTxh3PwGL5.png)](https://youtu.be/lMQ7DIPmrfI)
+
+67.) Free - Local - PC
+
+[**Complete Guide to SUPIR Enhancing and Upscaling Images Like in Sci-Fi Movies on Your PC**](https://youtu.be/OYxVEvDf284)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/mfxA2WEIFBtIN7_J_LKZn.png)](https://youtu.be/OYxVEvDf284)
