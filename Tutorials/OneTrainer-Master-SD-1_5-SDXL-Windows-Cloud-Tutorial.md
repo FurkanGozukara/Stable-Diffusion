@@ -94,6 +94,8 @@ cd /home/Ubuntu/apps/kohya_ss
 git pull
 ```
 
+![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/8593f096-8250-4abd-9b87-6fbc2ab9f7d0)
+
 #### How To Make Kohya SS GUI To Use Certain GPU On MassedCompute Virtual Machine
 
 * Edit home/scripts/run_kohya.sh file
@@ -101,9 +103,6 @@ git pull
 ```
 export CUDA_VISIBLE_DEVICES=1
 ```
-
-![image](https://github.com/FurkanGozukara/Stable-Diffusion/assets/19240467/8593f096-8250-4abd-9b87-6fbc2ab9f7d0)
-
 ### Kohya Config Files
 * The very best configs (as the date of April 2024) are shown in the tutorial video. However if the configs get updated in future with better parameters, you really should the ones on Patreon
 * [The Very Best Workflow For SDXL DreamBooth / Full Fine Tuning - Results Of 100+ Full Trainings](https://www.patreon.com/posts/very-best-for-of-89213064)
