@@ -16,9 +16,14 @@
 
 Make a venv and install 
 
-```pip install gradio requests```
+```
+python -m venv venv
+cd venv
+cd scripts
+activate
+pip install gradio requests moviepy
+```
 
-```pip install moviepy```
 
 Then activate Python VENV and run the [whisper_transcribe_salad.py](https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/CustomPythonScripts/whisper_transcribe_salad.py) file as below
 
