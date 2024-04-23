@@ -6,9 +6,11 @@
 
 # Cheap Cloud GPU Inference Service Salad Tutorial
 
-* Salad Website : https://portal.salad.com
+* Salad Main Site : https://salad.com/
+* Salad Portal : https://portal.salad.com
 * Your Salad API Key : https://portal.salad.com/api-key
 * Salad Documentation : https://docs.salad.com/
+* Rent Your GPU To Salad To Eearn Revenue : https://salad.com/download
 
 ## How To Use Simple Gradio APP To Transcribe Whisper
 
