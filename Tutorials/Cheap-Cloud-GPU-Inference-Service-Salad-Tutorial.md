@@ -6,6 +6,7 @@
 
 # Cheap Cloud GPU Inference Service Salad Tutorial
 
+* Join me on Salad and use code Y3MEDP for a 2x earning rate bonus! https://salad.com
 * Salad Main Site : https://salad.com/
 * Salad Portal : https://portal.salad.com
 * Your Salad API Key : https://portal.salad.com/api-key
