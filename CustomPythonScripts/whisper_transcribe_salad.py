@@ -2,7 +2,6 @@ import gradio as gr
 import requests
 import json
 from moviepy.editor import AudioFileClip
-import os
 from pydub import AudioSegment
 from io import BytesIO
 
@@ -34,16 +33,16 @@ def transcribe_audio(file, is_video=False):
         raw_text = data["text"]
         json_output = json.dumps(data, indent=2)
 
-        # Save SRT file
-        with open("transcription.srt", "w") as srt_file:
+        # Save SRT file with UTF-8 encoding
+        with open("transcription.srt", "w", encoding="utf-8") as srt_file:
             srt_file.write(srt_output)
 
-        # Save raw text file
-        with open("transcription.txt", "w") as txt_file:
+        # Save raw text file with UTF-8 encoding
+        with open("transcription.txt", "w", encoding="utf-8") as txt_file:
             txt_file.write(raw_text)
 
-        # Save JSON file
-        with open("transcription.json", "w") as json_file:
+        # Save JSON file with UTF-8 encoding
+        with open("transcription.json", "w", encoding="utf-8") as json_file:
             json_file.write(json_output)
 
         return srt_output, raw_text, json_output
