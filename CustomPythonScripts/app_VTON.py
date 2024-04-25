@@ -285,7 +285,7 @@ for ex_human in human_list_path:
 
 image_blocks = gr.Blocks().queue()
 with image_blocks as demo:
-    gr.Markdown("## V1 - IDM-VTON 👕👔👚")
+    gr.Markdown("## IDM-VTON 👕👔👚")
     gr.Markdown("Virtual Try-on with your image and garment image. Check out the [source codes](https://github.com/yisol/IDM-VTON) and the [model](https://huggingface.co/yisol/IDM-VTON)")
     with gr.Row():
         with gr.Column():
@@ -314,19 +314,13 @@ with image_blocks as demo:
             # image_out = gr.Image(label="Output", elem_id="output-img", height=400)
             masked_img = gr.Image(label="Masked image output", elem_id="masked-img",show_share_button=False)
         with gr.Column():
-            # image_out = gr.Image(label="Output", elem_id="output-img", height=400)
-            image_out = gr.Image(label="Output",format="png", elem_id="output-img",show_share_button=False)
-
-
-
-
-    with gr.Column():
-        try_button = gr.Button(value="Try-on")
-        with gr.Accordion(label="Advanced Settings", open=False):
             with gr.Row():
-                denoise_steps = gr.Number(label="Denoising Steps", minimum=20, maximum=40, value=30, step=1)
+            # image_out = gr.Image(label="Output", elem_id="output-img", height=400)
+                image_out = gr.Image(label="Output",format="png", elem_id="output-img",show_share_button=False)
+            with gr.Row():
+                try_button = gr.Button(value="Try-on")
+                denoise_steps = gr.Number(label="Denoising Steps", minimum=20, maximum=120, value=30, step=1)
                 seed = gr.Number(label="Seed", minimum=-1, maximum=2147483647, step=1, value=42)
-
 
 
     try_button.click(fn=start_tryon, inputs=[imgs, garm_img, prompt, is_checked,is_checked_crop, denoise_steps, seed], outputs=[image_out,masked_img], api_name='tryon')
