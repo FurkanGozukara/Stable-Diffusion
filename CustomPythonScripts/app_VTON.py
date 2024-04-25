@@ -1,4 +1,5 @@
 import gradio as gr
+import platform
 from PIL import Image
 from src.tryon_pipeline import StableDiffusionXLInpaintPipeline as TryonPipeline
 from src.unet_hacked_garmnet import UNet2DConditionModel as UNet2DConditionModel_ref
@@ -27,6 +28,8 @@ from torchvision.transforms.functional import to_pil_image
 parser = argparse.ArgumentParser()
 parser.add_argument("--share", type=str, default=False, help="Set to True to share the app publicly.")
 args = parser.parse_args()
+torchtype=torch.float16
+#torchtype=torch.bfloat16 no positive impact
 
 def save_output_image(image, base_path="outputs", base_filename="inputimage"):
     """Save an image with a unique filename in the specified directory."""
@@ -68,7 +71,7 @@ example_path = os.path.join(os.path.dirname(__file__), 'example')
 unet = UNet2DConditionModel.from_pretrained(
     base_path,
     subfolder="unet",
-    torch_dtype=torch.float16,
+    torch_dtype=torchtype,
 )
 unet.requires_grad_(False)
 tokenizer_one = AutoTokenizer.from_pretrained(
@@ -88,28 +91,28 @@ noise_scheduler = DDPMScheduler.from_pretrained(base_path, subfolder="scheduler"
 text_encoder_one = CLIPTextModel.from_pretrained(
     base_path,
     subfolder="text_encoder",
-    torch_dtype=torch.float16,
+    torch_dtype=torchtype,
 )
 text_encoder_two = CLIPTextModelWithProjection.from_pretrained(
     base_path,
     subfolder="text_encoder_2",
-    torch_dtype=torch.float16,
+    torch_dtype=torchtype,
 )
 image_encoder = CLIPVisionModelWithProjection.from_pretrained(
     base_path,
     subfolder="image_encoder",
-    torch_dtype=torch.float16,
+    torch_dtype=torchtype,
     )
 vae = AutoencoderKL.from_pretrained(base_path,
                                     subfolder="vae",
-                                    torch_dtype=torch.float16,
+                                    torch_dtype=torchtype,
 )
 
 # "stabilityai/stable-diffusion-xl-base-1.0",
 UNet_Encoder = UNet2DConditionModel_ref.from_pretrained(
     base_path,
     subfolder="unet_encoder",
-    torch_dtype=torch.float16,
+    torch_dtype=torchtype,
 )
 
 parsing_model = Parsing(0)
@@ -139,9 +142,22 @@ pipe = TryonPipeline.from_pretrained(
         tokenizer_2 = tokenizer_two,
         scheduler = noise_scheduler,
         image_encoder=image_encoder,
-        torch_dtype=torch.float16,
+        torch_dtype=torchtype,
 )
 pipe.unet_encoder = UNet_Encoder
+
+#pipe.enable_xformers_memory_efficient_attention() breaks app
+#pipe.enable_vae_tiling() no changes
+#pipe.enable_vae_slicing() no changes
+#pipe.enable_model_cpu_offload() not working
+
+def open_folder():
+    open_folder_path = os.path.abspath("outputs")
+    if platform.system() == "Windows":
+        os.startfile(open_folder_path)
+    elif platform.system() == "Linux":
+        os.system(f'xdg-open "{open_folder_path}"')
+
 
 
 def start_tryon(dict,garm_img,garment_des,is_checked,is_checked_crop,denoise_steps,seed):
@@ -233,20 +249,20 @@ def start_tryon(dict,garm_img,garment_des,is_checked,is_checked_crop,denoise_ste
 
 
 
-                    pose_img =  tensor_transfrom(pose_img).unsqueeze(0).to(device,torch.float16)
-                    garm_tensor =  tensor_transfrom(garm_img).unsqueeze(0).to(device,torch.float16)
+                    pose_img =  tensor_transfrom(pose_img).unsqueeze(0).to(device,torchtype)
+                    garm_tensor =  tensor_transfrom(garm_img).unsqueeze(0).to(device,torchtype)
                     generator = torch.Generator(device).manual_seed(seed) if seed is not None else None
                     images = pipe(
-                        prompt_embeds=prompt_embeds.to(device,torch.float16),
-                        negative_prompt_embeds=negative_prompt_embeds.to(device,torch.float16),
-                        pooled_prompt_embeds=pooled_prompt_embeds.to(device,torch.float16),
-                        negative_pooled_prompt_embeds=negative_pooled_prompt_embeds.to(device,torch.float16),
+                        prompt_embeds=prompt_embeds.to(device,torchtype),
+                        negative_prompt_embeds=negative_prompt_embeds.to(device,torchtype),
+                        pooled_prompt_embeds=pooled_prompt_embeds.to(device,torchtype),
+                        negative_pooled_prompt_embeds=negative_pooled_prompt_embeds.to(device,torchtype),
                         num_inference_steps=denoise_steps,
                         generator=generator,
                         strength = 1.0,
-                        pose_img = pose_img.to(device,torch.float16),
-                        text_embeds_cloth=prompt_embeds_c.to(device,torch.float16),
-                        cloth = garm_tensor.to(device,torch.float16),
+                        pose_img = pose_img.to(device,torchtype),
+                        text_embeds_cloth=prompt_embeds_c.to(device,torchtype),
+                        cloth = garm_tensor.to(device,torchtype),
                         mask_image=mask,
                         image=human_img, 
                         height=1024,
@@ -312,8 +328,12 @@ with image_blocks as demo:
                 examples_per_page=8,
                 examples=garm_list_path)
         with gr.Column():
+            with gr.Row():
             # image_out = gr.Image(label="Output", elem_id="output-img", height=400)
-            masked_img = gr.Image(label="Masked image output", elem_id="masked-img",show_share_button=False)
+                masked_img = gr.Image(label="Masked image output", elem_id="masked-img",show_share_button=False)
+            with gr.Row():
+                btn_open_outputs = gr.Button("Open Outputs Folder")
+                btn_open_outputs.click(fn=open_folder)
         with gr.Column():
             with gr.Row():
             # image_out = gr.Image(label="Output", elem_id="output-img", height=400)
