@@ -293,7 +293,7 @@ with image_blocks as demo:
             with gr.Row():
                 is_checked = gr.Checkbox(label="Yes", info="Use auto-generated mask (Takes 5 seconds)",value=True)
             with gr.Row():
-                is_checked_crop = gr.Checkbox(label="Yes", info="Use auto-crop & resizing",value=False)
+                is_checked_crop = gr.Checkbox(label="Yes", info="Use auto-crop & resizing",value=True)
 
             example = gr.Examples(
                 inputs=imgs,
