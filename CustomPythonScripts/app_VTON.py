@@ -301,8 +301,7 @@ for ex_human in human_list_path:
 
 image_blocks = gr.Blocks().queue()
 with image_blocks as demo:
-    gr.Markdown("## V1 IDM-VTON 👕👔👚 improved by SECourses")
-    gr.Markdown("1 - Click Installers Latest Version On : https://www.patreon.com/posts/103022942")
+    gr.Markdown("## V1 IDM-VTON 👕👔👚 improved by SECourses : 1-Click Installers Latest Version On : https://www.patreon.com/posts/103022942")
     gr.Markdown("Virtual Try-on with your image and garment image. Check out the [source codes](https://github.com/yisol/IDM-VTON) and the [model](https://huggingface.co/yisol/IDM-VTON)")
     with gr.Row():
         with gr.Column():
@@ -350,4 +349,3 @@ with image_blocks as demo:
 
 
 image_blocks.launch(inbrowser=True,share=args.share)
-
