@@ -31,7 +31,7 @@ args = parser.parse_args()
 torchtype=torch.float16
 #torchtype=torch.bfloat16 no positive impact
 
-def save_output_image(image, base_path="outputs", base_filename="inputimage"):
+def save_output_image(image, base_path="outputs", base_filename="inputimage",  seed=0):
     """Save an image with a unique filename in the specified directory."""
     if not os.path.exists(base_path):
         os.makedirs(base_path)
@@ -40,9 +40,9 @@ def save_output_image(image, base_path="outputs", base_filename="inputimage"):
     index = 0
     while True:
         if index == 0:
-            filename = f"{base_filename}.png"
+            filename = f"{base_filename}_seed_{seed}.png"
         else:
-            filename = f"{base_filename}_{str(index).zfill(4)}.png"
+            filename = f"{base_filename}_{str(index).zfill(4)}_seed_{seed}.png"
         
         file_path = os.path.join(base_path, filename)
         if not os.path.exists(file_path):
@@ -160,7 +160,7 @@ def open_folder():
 
 
 
-def start_tryon(dict,garm_img,garment_des,is_checked,is_checked_crop,denoise_steps,seed):
+def start_tryon(dict,garm_img,garment_des,is_checked,is_checked_crop,denoise_steps,seed,number_of_images):
     device = "cuda"
     
     openpose_model.preprocessor.body_estimation.model.to(device)
@@ -251,34 +251,40 @@ def start_tryon(dict,garm_img,garment_des,is_checked,is_checked_crop,denoise_ste
 
                     pose_img =  tensor_transfrom(pose_img).unsqueeze(0).to(device,torchtype)
                     garm_tensor =  tensor_transfrom(garm_img).unsqueeze(0).to(device,torchtype)
-                    generator = torch.Generator(device).manual_seed(seed) if seed is not None else None
-                    images = pipe(
-                        prompt_embeds=prompt_embeds.to(device,torchtype),
-                        negative_prompt_embeds=negative_prompt_embeds.to(device,torchtype),
-                        pooled_prompt_embeds=pooled_prompt_embeds.to(device,torchtype),
-                        negative_pooled_prompt_embeds=negative_pooled_prompt_embeds.to(device,torchtype),
-                        num_inference_steps=denoise_steps,
-                        generator=generator,
-                        strength = 1.0,
-                        pose_img = pose_img.to(device,torchtype),
-                        text_embeds_cloth=prompt_embeds_c.to(device,torchtype),
-                        cloth = garm_tensor.to(device,torchtype),
-                        mask_image=mask,
-                        image=human_img, 
-                        height=1024,
-                        width=768,
-                        ip_adapter_image = garm_img.resize((768,1024)),
-                        guidance_scale=2.0,
-                    )[0]
+                    results = []
+                    current_seed = seed
+                    for i in range(number_of_images):
+                        
+                        generator = torch.Generator(device).manual_seed(current_seed) if seed != -1 else None
+                        current_seed = seed + i
 
-    if is_checked_crop:
-        out_img = images[0].resize(crop_size)        
-        human_img_orig.paste(out_img, (int(left), int(top)))   
-        save_output_image(human_img_orig, base_path="outputs", base_filename='img')
-        return human_img_orig, mask_gray
-    else:
-        save_output_image(images[0], base_path="outputs", base_filename='img')
-        return images[0], mask_gray
+                        images = pipe(
+                            prompt_embeds=prompt_embeds.to(device,torchtype),
+                            negative_prompt_embeds=negative_prompt_embeds.to(device,torchtype),
+                            pooled_prompt_embeds=pooled_prompt_embeds.to(device,torchtype),
+                            negative_pooled_prompt_embeds=negative_pooled_prompt_embeds.to(device,torchtype),
+                            num_inference_steps=denoise_steps,
+                            generator=generator,
+                            strength = 1.0,
+                            pose_img = pose_img.to(device,torchtype),
+                            text_embeds_cloth=prompt_embeds_c.to(device,torchtype),
+                            cloth = garm_tensor.to(device,torchtype),
+                            mask_image=mask,
+                            image=human_img, 
+                            height=1024,
+                            width=768,
+                            ip_adapter_image = garm_img.resize((768,1024)),
+                            guidance_scale=2.0,
+                        )[0]
+                        if is_checked_crop:
+                            out_img = images[0].resize(crop_size)        
+                            human_img_orig.paste(out_img, (int(left), int(top)))   
+                            img_path = save_output_image(human_img_orig, base_path="outputs", base_filename='img', seed=current_seed)
+                            results.append(img_path)
+                        else:
+                            img_path = save_output_image(images[0], base_path="outputs", base_filename='img')
+                            results.append(img_path)
+                    return results, mask_gray
     # return images[0], mask_gray
 
 garm_list = os.listdir(os.path.join(example_path,"cloth"))
@@ -301,7 +307,7 @@ for ex_human in human_list_path:
 
 image_blocks = gr.Blocks().queue()
 with image_blocks as demo:
-    gr.Markdown("## V1 IDM-VTON 👕👔👚 improved by SECourses : 1-Click Installers Latest Version On : https://www.patreon.com/posts/103022942")
+    gr.Markdown("## V3 IDM-VTON 👕👔👚 improved by SECourses : 1-Click Installers Latest Version On : https://www.patreon.com/posts/103022942")
     gr.Markdown("Virtual Try-on with your image and garment image. Check out the [source codes](https://github.com/yisol/IDM-VTON) and the [model](https://huggingface.co/yisol/IDM-VTON)")
     with gr.Row():
         with gr.Column():
@@ -336,14 +342,15 @@ with image_blocks as demo:
         with gr.Column():
             with gr.Row():
             # image_out = gr.Image(label="Output", elem_id="output-img", height=400)
-                image_out = gr.Image(label="Output",format="png", elem_id="output-img",show_share_button=False)
+                image_gallery = gr.Gallery(label="Generated Images", show_label=True)
             with gr.Row():
                 try_button = gr.Button(value="Try-on")
                 denoise_steps = gr.Number(label="Denoising Steps", minimum=20, maximum=120, value=30, step=1)
-                seed = gr.Number(label="Seed", minimum=-1, maximum=2147483647, step=1, value=42)
+                seed = gr.Number(label="Seed", minimum=-1, maximum=2147483647, step=1, value=1)
+                number_of_images = gr.Number(label="Number Of Images To Generate (it will start from your input seed and increment by 1)", minimum=1, maximum=9999, value=1, step=1)
 
 
-    try_button.click(fn=start_tryon, inputs=[imgs, garm_img, prompt, is_checked,is_checked_crop, denoise_steps, seed], outputs=[image_out,masked_img], api_name='tryon')
+    try_button.click(fn=start_tryon, inputs=[imgs, garm_img, prompt, is_checked, is_checked_crop, denoise_steps, seed, number_of_images], outputs=[image_gallery, masked_img], api_name='tryon')
 
             
 
