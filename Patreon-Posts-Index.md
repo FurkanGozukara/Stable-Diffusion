@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### April 28 - 2024
+[Fooocus SD Web UI RunPod & Massed Compute Auto Installer - 1 Click - Latest Version](https://www.patreon.com/posts/fooocus-sd-web-1-92759045)
+* Automatic installer for Stable Diffusion Fooocus Web UI on RunPod and also Massed Compute. 1 Click. Use Fooocus on RunPod & Massed Compute with all models and features. Latest version. Follow the instructions on the Patreon post.
+
 ### April 25 - 2024
 [Virtual Try-on (IDM-VTON) 1 Click Installers - Try Any Clothing Immediately On Anyone](https://www.patreon.com/posts/86438018)
 * 1 Click installers (Windows, RunPod, Massed Compute, Linux, Kaggle Notebook) for IDM-VTON (Improving Diffusion Models for Authentic Virtual Try-on in the Wild). Click to install and start using
@@ -176,10 +180,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### November 17 - 2023
 [Automatic ControlNet Installer And Downloader For Windows BAT File](https://www.patreon.com/posts/84875387)
 * Scripts will clone ControlNet repo and download all of the ControlNet models with SDXL into the correct folder automatically for Windows
-
-### November 12 - 2023
-[Fooocus SD Web UI RunPod Auto Installer - 1 Click - Latest Version](https://www.patreon.com/posts/fooocus-sd-web-1-92759045)
-* Automatic installer for Stable Diffusion Fooocus Web UI on RunPod. 1 Click. Use Fooocus on RunPod with all models and features. Latest version. Follow the instructions on the Patreon post.
 
 ### November 12 - 2023
 [Gender Classifier - Low Colors & Multiple Face Remover - Stable Diffusion Training Images Preprocessor](https://www.patreon.com/posts/92607385)
