@@ -437,3 +437,10 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 [**Complete Guide to SUPIR Enhancing and Upscaling Images Like in Sci-Fi Movies on Your PC**](https://youtu.be/OYxVEvDf284)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/mfxA2WEIFBtIN7_J_LKZn.png)](https://youtu.be/OYxVEvDf284)
+
+68.) Free - Local - PC
+
+[**IDM-VTON: The Most Amazing Virtual Clothing Try On Application - Open Source - 1 Click Install & Use**](https://youtu.be/m4pcIeAVQD0)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/CuTegajGbsXe0gu8lO6HX.png)](https://youtu.be/m4pcIeAVQD0)
+
