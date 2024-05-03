@@ -207,9 +207,9 @@ chmod +x install_TensorRT.sh
 ### The Used OneTrainer Version
 * OneTrainer developer is really active and constantly fixing errors
 * But still for some reason if you ever want to use exactly same version as this tutorial
-* Edit update.bat file and add below code to under the ```%GIT% pull``` part
+* Edit update.bat file and add below code to under the ```git pull``` part
 ```
-%GIT% checkout c959547505b594c1502d34b32120cb4d5ae4001a
+git checkout c959547505b594c1502d34b32120cb4d5ae4001a
 ```
 * Then double click and run the update.bat file
 * Pip freeze file is attached as [pip freeze onetrainer.txt](https://github.com/FurkanGozukara/Stable-Diffusion/files/14912783/pip.freeze.onetrainer.txt)
