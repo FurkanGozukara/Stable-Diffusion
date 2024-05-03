@@ -444,3 +444,8 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/CuTegajGbsXe0gu8lO6HX.png)](https://youtu.be/m4pcIeAVQD0)
 
+69.) Paid - Cloud - RunPod - Massed Compute - Kaggle
+
+[**IDM-VTON: The Most Amazing Virtual Clothing Try On Application - RunPod - Massed Compute - Kaggle**](https://youtu.be/LeHfgq_lAXU)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/G3um_XDD1Pg2n_wQ1qwT2.png)](https://youtu.be/LeHfgq_lAXU)
