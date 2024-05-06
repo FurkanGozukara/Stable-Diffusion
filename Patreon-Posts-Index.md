@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### May 5 - 2024
+[Stable Cascade 1 Click Installer & Advanced Gradio APP For Windows, Massed Compute, RunPod, Linux & Kaggle](https://www.patreon.com/posts/stable-cascade-1-98410661)
+* 1 Click To Install Stable Cascade Model & Use On Your PC or On RunPod or On Massed Compute or Kaggle With Amazing Optimizations (Works on 5GB GPU) & Advanced GUI
+
 ### April 28 - 2024
 [Fooocus SD Web UI RunPod & Massed Compute Auto Installer - 1 Click - Latest Version](https://www.patreon.com/posts/fooocus-sd-web-1-92759045)
 * Automatic installer for Stable Diffusion Fooocus Web UI on RunPod and also Massed Compute. 1 Click. Use Fooocus on RunPod & Massed Compute with all models and features. Latest version. Follow the instructions on the Patreon post.
@@ -56,10 +60,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### March 30 - 2024
 [OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets](https://www.patreon.com/posts/96028218)
 * Nerogar OneTrainer very best Stable Diffusion XL (SDXL) full fine tuning presets. 14 GB GPU is very sufficient and fast
-
-### March 22 - 2024
-[Stable Cascade 1 Click Installer & Advanced Gradio APP For Windows, RunPod, Linux & Kaggle](https://www.patreon.com/posts/stable-cascade-1-98410661)
-* 1 Click To Install Stable Cascade Model & Use On Your PC or On RunPod or Kaggle With Amazing Optimizations (Works on 8GB GPU) & Advanced GUI
 
 ### March 22 - 2024
 [The Very Best OneTrainer Workflow & Config For SD 1.5 Based Models DreamBooth / Full Fine Tuning](https://www.patreon.com/posts/very-best-config-97381002)
