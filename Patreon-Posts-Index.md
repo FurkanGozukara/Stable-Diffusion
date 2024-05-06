@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### May 7 - 2024
+[FaceFusion (Most Advanced 1-Click DeepFake) 1-Click Installer for Windows, RunPod, Massed Compute & Kaggle Notebook](https://www.patreon.com/posts/103765029)
+* FaceFusion (Most Advanced 1-Click DeepFake) APP 1-Click Installer for Windows, RunPod, Massed Compute & free Kaggle account Notebook
+
 ### May 5 - 2024
 [Stable Cascade 1 Click Installer & Advanced Gradio APP For Windows, Massed Compute, RunPod, Linux & Kaggle](https://www.patreon.com/posts/stable-cascade-1-98410661)
 * 1 Click To Install Stable Cascade Model & Use On Your PC or On RunPod or On Massed Compute or Kaggle With Amazing Optimizations (Works on 5GB GPU) & Advanced GUI
