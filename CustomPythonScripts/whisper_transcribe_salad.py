@@ -63,6 +63,9 @@ def convert_to_srt(data):
     return srt_output
 
 def format_timestamp(seconds):
+    if seconds is None or not isinstance(seconds, (int, float)):
+        return "00:00:00,000"  # Return a default timestamp if seconds is None or not a number
+    
     hours = int(seconds // 3600)
     minutes = int((seconds % 3600) // 60)
     seconds = seconds % 60
@@ -88,7 +91,7 @@ def main():
 
         file_input.change(handle_file, inputs=file_input, outputs=[srt_output, raw_text_output, json_output])
 
-    app.launch(share=True)  # Enable sharing
+    app.launch(share=True, inbrowser=True)  # Enable sharing
 
 if __name__ == "__main__":
     main()
