@@ -35,12 +35,12 @@ chmod +x kohya_installer.sh
 * You may be need to hit enter twice after copy paste
 
 ```
-apt update
+apt update 
 yes | apt-get install python3.10-tk
 fuser -k 7860/tcp
 cd /workspace/kohya_ss
 source venv/bin/activate
-pip install fastapi==0.99.1
+export CUDA_VISIBLE_DEVICES=0
 bash gui.sh --share --headless
 ```
 
