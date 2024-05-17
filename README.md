@@ -444,8 +444,20 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/CuTegajGbsXe0gu8lO6HX.png)](https://youtu.be/m4pcIeAVQD0)
 
-69.) Paid - Cloud - RunPod - Massed Compute - Kaggle
+69.) Free & Paid - Cloud - RunPod - Massed Compute - Kaggle
 
 [**IDM-VTON: The Most Amazing Virtual Clothing Try On Application - RunPod - Massed Compute - Kaggle**](https://youtu.be/LeHfgq_lAXU)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/G3um_XDD1Pg2n_wQ1qwT2.png)](https://youtu.be/LeHfgq_lAXU)
+
+70.) Free - Local - PC
+
+[**Stable Cascade Full Tutorial for Windows - Predecessor of SD3 - 1-Click Install Amazing Gradio APP**](https://youtu.be/q0cYhalUUsc)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/8vsUxi7EudpiTBTIyFVsc.png)](https://youtu.be/q0cYhalUUsc)
+
+71.) Free & Paid - Cloud - RunPod - Massed Compute - Kaggle
+
+[**Stable Cascade Full Tutorial for Cloud - Predecessor of SD3 - Massed Compute, RunPod & Kaggle**](https://youtu.be/PKDeMdEObNo)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/p-n15XxgryehpflMBTwSW.png)](https://youtu.be/PKDeMdEObNo)
