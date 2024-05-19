@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### May 19 - 2024
+[1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, TensorRT (RTX Accelerator) For RunPod / Any Linux System](https://www.patreon.com/posts/86438018)
+* Automatic RunPod (any Linux System) installer script for SDXL and Automatic1111 Web UI. Downloads latest SDXL base, refiner models and FP16 VAE (.safetensors). Moreover it automatically installs and lets you download newest NVIDIA RTX Accelerator - TensorRT which brings 70%+ Speed Up. Moreover, it will automatically install ControlNet and download all available ControlNet models for you.
+
 ### May 16 - 2024
 [Stable Cascade 1 Click Installer & Advanced Gradio APP For Windows, Massed Compute, RunPod, Linux & Kaggle](https://www.patreon.com/posts/stable-cascade-1-98410661)
 * 1 Click To Install Stable Cascade Model & Use On Your PC or On RunPod or On Massed Compute or Kaggle With Amazing Optimizations (Works on 5GB GPU) & Advanced GUI
@@ -40,10 +44,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### April 28 - 2024
 [Fooocus SD Web UI RunPod & Massed Compute Auto Installer - 1 Click - Latest Version](https://www.patreon.com/posts/fooocus-sd-web-1-92759045)
 * Automatic installer for Stable Diffusion Fooocus Web UI on RunPod and also Massed Compute. 1 Click. Use Fooocus on RunPod & Massed Compute with all models and features. Latest version. Follow the instructions on the Patreon post.
-
-### April 18 - 2024
-[1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, TensorRT (RTX Accelerator) For RunPod / Any Linux System](https://www.patreon.com/posts/86438018)
-* Automatic RunPod (any Linux System) installer script for SDXL and Automatic1111 Web UI. Downloads latest SDXL base, refiner models and FP16 VAE (.safetensors). Moreover it automatically installs and lets you download newest NVIDIA RTX Accelerator - TensorRT which brings 70%+ Speed Up. Moreover, it will automatically install ControlNet and download all available ControlNet models for you.
 
 ### April 18 - 2024
 [Kohya SD 1.5 & SDXL LoRA - DreamBooth Training Free Kaggle NoteBook](https://www.patreon.com/posts/kohya-sdxl-lora-88397937)
