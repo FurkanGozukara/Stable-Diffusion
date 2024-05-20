@@ -152,16 +152,15 @@ Public Article : https://www.patreon.com/posts/experimenting-vs-96097301
 * Open a CMD and type ```nvitop```
 * To install ```pip install nvitop``` - You don't need to install on MassedCompute
 
-### How To Execute Custom SH Scripts
+### How To Execute Custom SH Scripts - Upgrade Automatic1111
 
 
-* To Update Auto1111 To Latest Version & Install ADetailer & ControlNet & FaceFusion & Reactor Extensions
-* This will install accurate libraries for you to be able to use even InstantID & FaceFusion & IP Adapter Face ID
-* Open a CMD inside the folder where you downloaded Update_Automatic1111.sh file
+* To Update & Upgrade Automatic1111 SD Web UI To Latest Version & Install After Detailer (ADetailer) & ControlNet & FaceFusion & Reactor Extensions:
+* Open a CMD inside the folder where you downloaded Upgrade_Automatic1111.sh file
 * Run below commands
 ```
-chmod +x Update_Automatic1111.sh
-./Update_Automatic1111.sh
+chmod +x Upgrade_Automatic1111.sh
+./Upgrade_Automatic1111.sh
 ```
 
 ### TensorRT - Not Working As Date Of 3 April 2024 For Some Reason
