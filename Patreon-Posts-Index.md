@@ -26,6 +26,10 @@ Your Patreon support is tremendously important for me so thank you so much
 ## Patreon Exclusive Content 
 
 ### March 20 - 2024
+[Massed Compute Installers - Upgrade Automatic1111 - Coupon Code - ControlNet - ADetailer - Facefusion - Reactor & More](https://www.patreon.com/posts/101386817)
+* Massed Compute Scripts & Coupon Code: A6000 GPU for 31 Cents Per Hour, Automatic1111 SD Web UI, Kohya, OneTrainer, After Detailer (ADetailer), Reactor, Facefusion, Forge & More
+
+### March 20 - 2024
 [1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, TensorRT (RTX Accelerator) on Windows](https://www.patreon.com/posts/86307255)
 * Automatic Windows installer script for SDXL and Automatic1111 Web UI. Downloads latest SDXL base with fixed VAE and best SD 1.5 and SDXL models. Moreover it automatically installs and lets you download newest NVIDIA RTX Accelerator - TensorRT which brings 70%+ Speed Up. Moreover, it will automatically install ControlNet and download all available ControlNet models for you. Furthermore, it will auto install After Detailer (ADetailer) and Reactor extensions and latest Torch and xFormers. All these installations are optional and you can install any of them.
 
