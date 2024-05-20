@@ -155,13 +155,13 @@ Public Article : https://www.patreon.com/posts/experimenting-vs-96097301
 ### How To Execute Custom SH Scripts
 
 
-* To Update Auto1111 To Latest Version & Install ADetailer & ControlNet & FaceFusion
+* To Update Auto1111 To Latest Version & Install ADetailer & ControlNet & FaceFusion & Reactor Extensions
 * This will install accurate libraries for you to be able to use even InstantID & FaceFusion & IP Adapter Face ID
-* Open a CMD inside the folder where you downloaded update_sd1111.sh file
+* Open a CMD inside the folder where you downloaded Update_Automatic1111.sh file
 * Run below commands
 ```
-chmod +x update_sd1111.sh
-./update_sd1111.sh
+chmod +x Update_Automatic1111.sh
+./Update_Automatic1111.sh
 ```
 
 ### TensorRT - Not Working As Date Of 3 April 2024 For Some Reason
