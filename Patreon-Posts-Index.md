@@ -26,6 +26,10 @@ Your Patreon support is tremendously important for me so thank you so much
 ## Patreon Exclusive Content 
 
 ### May 21 - 2024
+[Hugging Face Upload / Download Notebook - Supports Private Repositories and Multi Commit as Well](https://www.patreon.com/posts/104672510)
+* If you are looking for convenient and fast way to save and download your files from Hugging Face, this notebook will do the job. 1-click easy
+
+### May 21 - 2024
 [The Very Best Workflow For SDXL DreamBooth / Full Fine Tuning - Results Of 100+ Full Trainings](https://www.patreon.com/posts/very-best-for-of-89213064)
 * Updated the very best hyper training parameters / configuration and training workflow for Kohya SS GUI for Stable Diffusion XL (SDXL)
 
