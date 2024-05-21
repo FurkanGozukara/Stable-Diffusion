@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### May 21 - 2024
+[The Very Best Workflow For SDXL DreamBooth / Full Fine Tuning - Results Of 100+ Full Trainings](https://www.patreon.com/posts/very-best-for-of-89213064)
+* Updated the very best hyper training parameters / configuration and training workflow for Kohya SS GUI for Stable Diffusion XL (SDXL)
+
 ### March 20 - 2024
 [Massed Compute Installers - Upgrade Automatic1111 - Coupon Code - ControlNet - ADetailer - Facefusion - Reactor & More](https://www.patreon.com/posts/101386817)
 * Massed Compute Scripts & Coupon Code: A6000 GPU for 31 Cents Per Hour, Automatic1111 SD Web UI, Kohya, OneTrainer, After Detailer (ADetailer), Reactor, Facefusion, Forge & More
@@ -100,10 +104,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### March 12 - 2024
 [Fooocus Stable Diffusion Web UI Kaggle NoteBook](https://www.patreon.com/posts/fooocus-stable-94269866)
 * Fooocus Stable Diffusion Web UI Free Kaggle Account Notebook. Use SDXL on Kaggle for free like Midjourney without even a computer. This is the way to use almost Midjourney for free.
-
-### Feburary 22 - 2024
-[The Very Best Workflow For SDXL DreamBooth / Full Fine Tuning - Results Of 100+ Full Trainings](https://www.patreon.com/posts/very-best-for-of-89213064)
-* The very best workflows for SDXL DreamBooth / Full Fine Tuning training. Includes configuration both for U-NET only and U-NET + Text Encoder. 120+ Trainings have been made to find all configuration.
 
 ### Feburary 18 - 2024
 [RunPod ComfyUI Auto Installer With SDXL Auto Install Including Refiner](https://www.patreon.com/posts/runpod-comfyui-86062569)
