@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### May 27 - 2024
+[Virtual Try-on (IDM-VTON) 1 Click Installers - Try Any Clothing Immediately On Anyone](https://www.patreon.com/posts/86438018)
+* 1 Click installers (Windows, RunPod, Massed Compute, Linux, Kaggle Notebook) for IDM-VTON (Improving Diffusion Models for Authentic Virtual Try-on in the Wild). Click to install and start using
+
 ### May 25 - 2024
 [Run Automatic1111 SD Web UI On A Free Kaggle NoteBook Like In Your PC - Supports SDXL & ControlNet](https://www.patreon.com/posts/run-on-free-like-88714330)
 * A Free Kaggle account notebook to use Automatic1111 for free. Supports SDXL, ControlNet, LoRA, trained LoRAs & automatic extension install. Works like you have a very strong computer. Dual 15 GB GPUs, 29 GB RAM provided for free by Kaggle. Auto downloads all of the ControlNet models for both SD 1.5 and SDXL models including even IP Adapter Face ID Plus and InstantID
@@ -37,11 +41,11 @@ Your Patreon support is tremendously important for me so thank you so much
 [The Very Best Workflow For SDXL DreamBooth / Full Fine Tuning - Results Of 100+ Full Trainings](https://www.patreon.com/posts/very-best-for-of-89213064)
 * Updated the very best hyper training parameters / configuration and training workflow for Kohya SS GUI for Stable Diffusion XL (SDXL)
 
-### March 20 - 2024
+### May 20 - 2024
 [Massed Compute Installers - Upgrade Automatic1111 - Coupon Code - ControlNet - ADetailer - Facefusion - Reactor & More](https://www.patreon.com/posts/101386817)
 * Massed Compute Scripts & Coupon Code: A6000 GPU for 31 Cents Per Hour, Automatic1111 SD Web UI, Kohya, OneTrainer, After Detailer (ADetailer), Reactor, Facefusion, Forge & More
 
-### March 20 - 2024
+### May 20 - 2024
 [1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, TensorRT (RTX Accelerator) on Windows](https://www.patreon.com/posts/86307255)
 * Automatic Windows installer script for SDXL and Automatic1111 Web UI. Downloads latest SDXL base with fixed VAE and best SD 1.5 and SDXL models. Moreover it automatically installs and lets you download newest NVIDIA RTX Accelerator - TensorRT which brings 70%+ Speed Up. Moreover, it will automatically install ControlNet and download all available ControlNet models for you. Furthermore, it will auto install After Detailer (ADetailer) and Reactor extensions and latest Torch and xFormers. All these installations are optional and you can install any of them.
 
@@ -52,10 +56,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### May 16 - 2024
 [Stable Cascade 1 Click Installer & Advanced Gradio APP For Windows, Massed Compute, RunPod, Linux & Kaggle](https://www.patreon.com/posts/stable-cascade-1-98410661)
 * 1 Click To Install Stable Cascade Model & Use On Your PC or On RunPod or On Massed Compute or Kaggle With Amazing Optimizations (Works on 5GB GPU) & Advanced GUI
-
-### May 12 - 2024
-[Virtual Try-on (IDM-VTON) 1 Click Installers - Try Any Clothing Immediately On Anyone](https://www.patreon.com/posts/86438018)
-* 1 Click installers (Windows, RunPod, Massed Compute, Linux, Kaggle Notebook) for IDM-VTON (Improving Diffusion Models for Authentic Virtual Try-on in the Wild). Click to install and start using
 
 ### May 7 - 2024
 [FaceFusion (Most Advanced 1-Click DeepFake) 1-Click Installer for Windows, RunPod, Massed Compute & Kaggle Notebook](https://www.patreon.com/posts/103765029)
