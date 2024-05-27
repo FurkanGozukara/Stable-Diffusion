@@ -26,6 +26,10 @@ Your Patreon support is tremendously important for me so thank you so much
 ## Patreon Exclusive Content 
 
 ### May 27 - 2024
+[ComfyUI automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
+* 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto download best SDXL and SD 1.5 models and auto installs ComfyUI manager and Ip Adapter of ComfyUI. 
+
+### May 27 - 2024
 [IP-Adapter-FaceID-PlusV2 - 0 Shot Face Transfer - Auto Installer & Gradio App](https://www.patreon.com/posts/ip-adapter-0-app-95759342)
 * 1 Click Auto Install IP-Adapter-FaceID-PlusV2. Use it with an advanced standalone Gradio app. 0 Shot face transfer and generate images. 
 
@@ -112,10 +116,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### March 12 - 2024
 [Fooocus Stable Diffusion Web UI Kaggle NoteBook](https://www.patreon.com/posts/fooocus-stable-94269866)
 * Fooocus Stable Diffusion Web UI Free Kaggle Account Notebook. Use SDXL on Kaggle for free like Midjourney without even a computer. This is the way to use almost Midjourney for free.
-
-### Feburary 18 - 2024
-[RunPod ComfyUI Auto Installer With SDXL Auto Install Including Refiner](https://www.patreon.com/posts/runpod-comfyui-86062569)
-* 1 Click Auto Installer Script For ComfyUI (latest) & Manager On RunPod. Supports SDXL and SDXL Refiner. Workflows included. Includes LoRA
 
 ### Feburary 16 - 2024
 [1 Click Auto Roop (DeepFake - FaceSwap) Local Windows Installer Script](https://www.patreon.com/posts/1-click-auto-88234834)
@@ -204,10 +204,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### November 6 - 2023
 [Auto Installer Bat Files For Automatic1111 & DreamBooth Extension On Windows](https://www.patreon.com/posts/auto-installer-84773926)
 * Included BAT script files will clone and install fully automatically Automatic1111 SD Web UI and DreamBooth extension for you on Windows.
-
-### October 31 - 2023
-[1-Click ComfyUI Auto Windows Installer](https://www.patreon.com/posts/92013455)
-* Allows you to install ComfyUI with your own Python, Torch, Cuda version with 1 click on Windows. It will also auto install ComfyUI manager. You can also install any specific Commit/Version of ComfyUI
 
 ### October 28 - 2023
 [RunPod Auto DreamBooth Extension Of Automatic1111 Web UI & Latest Libraries Installer Script](https://www.patreon.com/posts/runpod-auto-84716845)
