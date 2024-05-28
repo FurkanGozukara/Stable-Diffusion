@@ -26,6 +26,10 @@ Your Patreon support is tremendously important for me so thank you so much
 ## Patreon Exclusive Content 
 
 ### May 28 - 2024
+[SUPIR 1 Click Windows, RunPod / Massed Compute / Linux Installer & Free Kaggle Notebook](https://www.patreon.com/posts/99176057)
+* 1 Click Windows and RunPod / Massed Compute / Linux Installer and a free Kaggle Notebook For The New SOTA Image Upscaling and Enhancing Open Source SUPIR Model. Better than Magnify AI. SUPIR is the very best AI image upscaler at the moment.
+
+### May 28 - 2024
 [Hugging Face Upload / Download Notebook - Supports Private Repositories and Multi Commit as Well](https://www.patreon.com/posts/104672510)
 * If you are looking for convenient and fast way to save and download your files from Hugging Face, this notebook will do the job. 1-click easy
 
@@ -80,10 +84,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### April 18 - 2024
 [For RunPod - Automatic Kohya SS LoRA Installer](https://www.patreon.com/posts/for-runpod-kohya-84898806)
 * This script will automatically install Kohya SS on RunPod. Additionally, I have added after Pod restart script which will fix installation.
-
-### April 14 - 2024
-[SUPIR 1 Click Windows, RunPod / Massed Compute / Linux Installer & Free Kaggle Notebook](https://www.patreon.com/posts/99176057)
-* 1 Click Windows and RunPod / Massed Compute / Linux Installer and a free Kaggle Notebook For The New SOTA Image Upscaling and Enhancing Open Source SUPIR Model. Better than Magnify AI. SUPIR is the very best AI image upscaler at the moment.
 
 ### March 31 - 2024
 [Auto Installer Script For Roop (DeepFake) On RunPod & Example Image And Videos](https://www.patreon.com/posts/auto-installer-84511510)
