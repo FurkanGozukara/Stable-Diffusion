@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### May 28 - 2024
+[Hugging Face Upload / Download Notebook - Supports Private Repositories and Multi Commit as Well](https://www.patreon.com/posts/104672510)
+* If you are looking for convenient and fast way to save and download your files from Hugging Face, this notebook will do the job. 1-click easy
+
 ### May 27 - 2024
 [ComfyUI automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
 * 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto download best SDXL and SD 1.5 models and auto installs ComfyUI manager and Ip Adapter of ComfyUI. 
@@ -40,10 +44,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### May 25 - 2024
 [Run Automatic1111 SD Web UI On A Free Kaggle NoteBook Like In Your PC - Supports SDXL & ControlNet](https://www.patreon.com/posts/run-on-free-like-88714330)
 * A Free Kaggle account notebook to use Automatic1111 for free. Supports SDXL, ControlNet, LoRA, trained LoRAs & automatic extension install. Works like you have a very strong computer. Dual 15 GB GPUs, 29 GB RAM provided for free by Kaggle. Auto downloads all of the ControlNet models for both SD 1.5 and SDXL models including even IP Adapter Face ID Plus and InstantID
-
-### May 21 - 2024
-[Hugging Face Upload / Download Notebook - Supports Private Repositories and Multi Commit as Well](https://www.patreon.com/posts/104672510)
-* If you are looking for convenient and fast way to save and download your files from Hugging Face, this notebook will do the job. 1-click easy
 
 ### May 21 - 2024
 [The Very Best Workflow For SDXL DreamBooth / Full Fine Tuning - Results Of 100+ Full Trainings](https://www.patreon.com/posts/very-best-for-of-89213064)
