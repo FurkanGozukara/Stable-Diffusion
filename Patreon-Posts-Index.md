@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### May 31 - 2024
+[Most Advanced 1-Click DeepFake / FaceSwap App Rope Installer for Windows and Massed Compute and Linux](https://www.patreon.com/posts/most-advanced-1-105123768)
+* The easiest and most powerful 1-click DeepFake / FaceSwap open source app Rope installers for Windows, Massed Compute, Linux and a lot of configurations and test results shared
+
 ### May 28 - 2024
 [SUPIR 1 Click Windows, RunPod / Massed Compute / Linux Installer & Free Kaggle Notebook](https://www.patreon.com/posts/99176057)
 * 1 Click Windows and RunPod / Massed Compute / Linux Installer and a free Kaggle Notebook For The New SOTA Image Upscaling and Enhancing Open Source SUPIR Model. Better than Magnify AI. SUPIR is the very best AI image upscaler at the moment.
