@@ -461,3 +461,33 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 [**Stable Cascade Full Tutorial for Cloud - Predecessor of SD3 - Massed Compute, RunPod & Kaggle**](https://youtu.be/PKDeMdEObNo)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/p-n15XxgryehpflMBTwSW.png)](https://youtu.be/PKDeMdEObNo)
+
+72.) Free All Platforms
+
+[**How to Download (wget) Models from CivitAI & Hugging Face (HF) & upload into HF including privates**](https://youtu.be/X5WVZ0NMaTg)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/mZcF0n-u58Gq_Em9qKMOE.png)](https://youtu.be/X5WVZ0NMaTg)
+
+72.) Free All Platforms
+
+[**How to Download (wget) Models from CivitAI & Hugging Face (HF) & upload into HF including privates**](https://youtu.be/X5WVZ0NMaTg)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/HkwTZbl4A024rF_rscjsT.png)](https://youtu.be/X5WVZ0NMaTg)
+
+73.) Free All Platforms
+
+[**Testing Stable Diffusion Inference Performance with Latest NVIDIA Driver including TensorRT ONNX**](https://youtu.be/TNR2HZRw74E)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/mZcF0n-u58Gq_Em9qKMOE.png)](https://youtu.be/TNR2HZRw74E)
+
+74.) Free - Local - PC
+
+[**Mind-Blowing Deepfake Tutorial: Turn Anyone into Your Fav Movie Star! Better than Roop & Face Fusion**](https://youtu.be/RdWKOUlenaY)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/xahkx8vJCo0lseUUzkVHK.png)](https://youtu.be/RdWKOUlenaY)
+
+75.) Massed Compute (Cloud)
+
+[**Best Deepfake Open Source App ROPE - So Easy To Use Full HD Feceswap DeepFace, No GPU Required Cloud**](https://youtu.be/HLWLSszHwEc)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/3QBgzati3JLKgqFED_34w.png)](https://youtu.be/HLWLSszHwEc)
