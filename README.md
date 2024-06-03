@@ -14,13 +14,13 @@ My Twitter : [**https://twitter.com/GozukaraFurkan**](https://twitter.com/Gozuka
 
 My Linktr : [**https://linktr.ee/FurkanGozukara**](https://linktr.ee/FurkanGozukara)
 
-**Our channel address (30,000+ subscribers) if you like to subscribe ⤵️**
+**Our channel address (35,000+ subscribers) if you like to subscribe ⤵️**
 [**https://www.youtube.com/@SECourses**](https://www.youtube.com/@SECourses)
 
-**Our discord (5,900+ members) to get more help ⤵️**
+**Our discord (7,300+ members) to get more help ⤵️**
 [**https://discord.com/servers/software-engineering-courses-secourses-772774097734074388**](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388)
 
-**Our 1,400+ Stars GitHub Stable Diffusion and other tutorials repo ⤵️**
+**Our 1,800+ Stars GitHub Stable Diffusion and other tutorials repo ⤵️**
 [**https://github.com/FurkanGozukara/Stable-Diffusion**](https://github.com/FurkanGozukara/Stable-Diffusion)
 
 I am keeping this list up-to-date. I got upcoming new awesome video ideas. Trying to find time to do that.
