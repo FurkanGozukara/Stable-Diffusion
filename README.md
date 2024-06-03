@@ -37,7 +37,7 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 1.) Automatic1111 Web UI - PC - Free
 
-[**How To Install Python, Setup Virtual Environment VENV, Set Default Python System Path & Install Git**](https://youtu.be/B5U7LJOvH6g)
+### [**How To Install Python, Setup Virtual Environment VENV, Set Default Python System Path & Install Git**](https://youtu.be/B5U7LJOvH6g)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/S4mKtVuWlCibihsTHL9TS.png)](https://youtu.be/B5U7LJOvH6g)
 
