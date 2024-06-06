@@ -491,3 +491,9 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**Best Deepfake Open Source App ROPE - So Easy To Use Full HD Feceswap DeepFace, No GPU Required Cloud**](https://youtu.be/HLWLSszHwEc)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/3QBgzati3JLKgqFED_34w.png)](https://youtu.be/HLWLSszHwEc)
+
+76.) Free - Local - PC
+
+### [**V-Express: 1-Click AI Avatar Talking Heads Video Animation Generator - D-ID Alike - Free Open Source**](https://youtu.be/xLqDTVWUSec)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/M6VWMKaWhBu9UE3wvNQ2f.png)](https://youtu.be/xLqDTVWUSec)
