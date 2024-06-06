@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### June 6 - 2024
+[Tencent AI Lab - V-Express Image to Animation Gradio Web APP and 1-Click Installers for Windows, Massed Compute, RunPod and Kaggle](https://www.patreon.com/posts/105251204)
+* 1-Click to turn your static image into a full animation talking video either by an input audio or video file via Tencent AI Lab - V-Express - Open Source D-ID and alikes
+
 ### May 31 - 2024
 [Most Advanced 1-Click DeepFake / FaceSwap App Rope Installer for Windows and Massed Compute and Linux](https://www.patreon.com/posts/most-advanced-1-105123768)
 * The easiest and most powerful 1-click DeepFake / FaceSwap open source app Rope installers for Windows, Massed Compute, Linux and a lot of configurations and test results shared
