@@ -26,6 +26,10 @@ Your Patreon support is tremendously important for me so thank you so much
 ## Patreon Exclusive Content 
 
 ### June 6 - 2024
+[Most Advanced 1-Click DeepFake / FaceSwap App Rope Installer for Windows and Massed Compute and Linux](https://www.patreon.com/posts/most-advanced-1-105123768)
+* The easiest and most powerful 1-click DeepFake / FaceSwap open source app Rope installers for Windows, Massed Compute, Linux and a lot of configurations and test results shared
+
+### June 6 - 2024
 [1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, TensorRT (RTX Accelerator) on Windows](https://www.patreon.com/posts/86307255)
 * Automatic Windows installer script for SDXL and Automatic1111 Web UI. Downloads latest SDXL base with fixed VAE and best SD 1.5 and SDXL models. Moreover it automatically installs and lets you download newest NVIDIA RTX Accelerator - TensorRT which brings 70%+ Speed Up. Moreover, it will automatically install ControlNet and download all available ControlNet models for you. Furthermore, it will auto install After Detailer (ADetailer) and Reactor extensions and latest Torch and xFormers. All these installations are optional and you can install any of them.
 
@@ -36,10 +40,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### June 6 - 2024
 [Tencent AI Lab - V-Express Image to Animation Gradio Web APP and 1-Click Installers for Windows, Massed Compute, RunPod and Kaggle](https://www.patreon.com/posts/105251204)
 * 1-Click to turn your static image into a full animation talking video either by an input audio or video file via Tencent AI Lab - V-Express - Open Source D-ID and alikes
-
-### May 31 - 2024
-[Most Advanced 1-Click DeepFake / FaceSwap App Rope Installer for Windows and Massed Compute and Linux](https://www.patreon.com/posts/most-advanced-1-105123768)
-* The easiest and most powerful 1-click DeepFake / FaceSwap open source app Rope installers for Windows, Massed Compute, Linux and a lot of configurations and test results shared
 
 ### May 28 - 2024
 [SUPIR 1 Click Windows, RunPod / Massed Compute / Linux Installer & Free Kaggle Notebook](https://www.patreon.com/posts/99176057)
