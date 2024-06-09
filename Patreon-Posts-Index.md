@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### June 9 - 2024
+[ComfyUI automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
+* 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto download best SDXL and SD 1.5 models and auto installs ComfyUI manager and Ip Adapter of ComfyUI. Also includes automatic downloader.py file to download all of the IP Adapter models for you.
+
 ### June 7 - 2024
 [Massed Compute Automatic1111 and Forge Web UI Installers for ADetailer, ControlNet, TensorRT, Reactor, FaceFusion](https://www.patreon.com/posts/105735932)
 * 1-Click installers for latest version of Automatic1111 Web UI, SD Forge Web UI, ControlNet, TensorRT, Reactor, FaceFusion, ADetailer. Moreover, the virtual machine comes by default with OneTrainer, Kohya, Pinokio AI APPs installed and also update them with 1-Click.
@@ -52,10 +56,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### May 28 - 2024
 [Hugging Face Upload / Download Notebook - Supports Private Repositories and Multi Commit as Well](https://www.patreon.com/posts/104672510)
 * If you are looking for convenient and fast way to save and download your files from Hugging Face, this notebook will do the job. 1-click easy
-
-### May 27 - 2024
-[ComfyUI automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
-* 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto download best SDXL and SD 1.5 models and auto installs ComfyUI manager and Ip Adapter of ComfyUI. 
 
 ### May 27 - 2024
 [IP-Adapter-FaceID-PlusV2 - 0 Shot Face Transfer - Auto Installer & Gradio App](https://www.patreon.com/posts/ip-adapter-0-app-95759342)
