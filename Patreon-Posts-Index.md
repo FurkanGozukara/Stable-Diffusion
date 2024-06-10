@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### June 11 - 2024
+[1-Click Installers for CodeFormer: Robust Face Restoration and Enhancement Network, Windows, RunPod, Massed Compute, Linux, Kaggle](https://www.patreon.com/posts/104691847)
+* 1-Click auto installers for CodeFormer standalone Gradio APP with advanced features. The installers includes Windows, Massed Compute, Linux, Kaggle and RunPod. You can use on a free Kaggle account as well with our Kaggle notebook. This app also has batch folder processing feature and works many times better than Automatic1111 SD Web UI
+  
 ### June 9 - 2024
 [ComfyUI automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
 * 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto download best SDXL and SD 1.5 models and auto installs ComfyUI manager and Ip Adapter of ComfyUI. Also includes automatic downloader.py file to download all of the IP Adapter models for you.
