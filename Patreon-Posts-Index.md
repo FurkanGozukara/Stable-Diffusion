@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### June 12 - 2024
+[Tencent AI Lab - V-Express Image to Animation Gradio Web APP and 1-Click Installers for Windows, Massed Compute, RunPod and Kaggle](https://www.patreon.com/posts/105251204)
+* 1-Click to turn your static image into a full animation talking video either by an input audio or video file via Tencent AI Lab - V-Express - Open Source D-ID and alikes
+
 ### June 11 - 2024
 [1-Click Installers for CodeFormer: Robust Face Restoration and Enhancement Network, Windows, RunPod, Massed Compute, Linux, Kaggle](https://www.patreon.com/posts/104691847)
 * 1-Click auto installers for CodeFormer standalone Gradio APP with advanced features. The installers includes Windows, Massed Compute, Linux, Kaggle and RunPod. You can use on a free Kaggle account as well with our Kaggle notebook. This app also has batch folder processing feature and works many times better than Automatic1111 SD Web UI
@@ -48,10 +52,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### June 6 - 2024
 [1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, TensorRT (RTX Accelerator) For RunPod / Any Linux System](https://www.patreon.com/posts/86438018)
 * Automatic RunPod (any Linux System) installer script for SDXL and Automatic1111 Web UI. Downloads latest SDXL base with fixed VAE and best SD 1.5 and SDXL models. Moreover it automatically installs and lets you download newest NVIDIA RTX Accelerator - TensorRT which brings 70%+ Speed Up. Moreover, it will automatically install ControlNet and download all available ControlNet models for you. Furthermore, it will auto install After Detailer (ADetailer) and Reactor extensions and latest Torch and xFormers. All these installations are optional and you can install any of them.
-
-### June 6 - 2024
-[Tencent AI Lab - V-Express Image to Animation Gradio Web APP and 1-Click Installers for Windows, Massed Compute, RunPod and Kaggle](https://www.patreon.com/posts/105251204)
-* 1-Click to turn your static image into a full animation talking video either by an input audio or video file via Tencent AI Lab - V-Express - Open Source D-ID and alikes
 
 ### May 28 - 2024
 [SUPIR 1 Click Windows, RunPod / Massed Compute / Linux Installer & Free Kaggle Notebook](https://www.patreon.com/posts/99176057)
