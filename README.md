@@ -497,3 +497,9 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**V-Express: 1-Click AI Avatar Talking Heads Video Animation Generator - D-ID Alike - Free Open Source**](https://youtu.be/xLqDTVWUSec)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/M6VWMKaWhBu9UE3wvNQ2f.png)](https://youtu.be/xLqDTVWUSec)
+
+77.) Free & Paid - Cloud - RunPod - Massed Compute - Kaggle
+
+### [**V-Express 1-Click AI Talking Avatar Generator - Like D-ID - Massed Compute, RunPod & Kaggle Guide**](https://youtu.be/GXBiqJOc9FE)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/O-GwtKjvYb3NyI5Lgpf8S.png)](https://youtu.be/GXBiqJOc9FE)
