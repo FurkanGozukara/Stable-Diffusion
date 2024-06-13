@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### June 14 - 2024
+[All Amazing Styles Of Fooocus For Automatic1111 SD Web UI and StableSwarmUI also necessary Scripts to generate them](https://www.patreon.com/posts/95143823)
+* 275 amazing Fooocus SDXL styles in format of Automatic1111 SD Web UI and also as a Preset for StableSwarmUI with thumbnail preview images. Moreover, full python scripts to generate and update these styles and presets files 
+  
 ### June 13 - 2024
 [Find And Move Duplicate or Very Similar Images By Using imagehash - Batch Processing Super Fast](https://www.patreon.com/posts/find-and-move-or-95143007)
 * If you want to find duplicate or near duplicate images very fast, this script is what you are looking for. It analyzes the content of images so works amazingly
