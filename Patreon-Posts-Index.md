@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### June 13 - 2024
+[Find And Move Duplicate or Very Similar Images By Using imagehash - Batch Processing Super Fast](https://www.patreon.com/posts/find-and-move-or-95143007)
+* If you want to find duplicate or near duplicate images very fast, this script is what you are looking for. It analyzes the content of images so works amazingly
+
 ### June 12 - 2024
 [Tencent AI Lab - V-Express Image to Animation Gradio Web APP and 1-Click Installers for Windows, Massed Compute, RunPod and Kaggle](https://www.patreon.com/posts/105251204)
 * 1-Click to turn your static image into a full animation talking video either by an input audio or video file via Tencent AI Lab - V-Express - Open Source D-ID and alikes
@@ -176,10 +180,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### December 23 - 2023
 [Batch Image Metadata Generator - Extremely Useful For Automatic1111 SD Web UI](https://www.patreon.com/posts/95176238)
 * If you want to batch generate Metadata of images with just one click, this is the script you are looking for. Extremely useful for SD Web UI
-
-### December 23 - 2023
-[Find And Move Duplicate or Very Similar Images By Using imagehash - Batch Processing Super Fast](https://www.patreon.com/posts/find-and-move-or-95143007)
-* If you want to find duplicate or near duplicate images very fast, this script is what you are looking for. It analyzes the content of images so works amazingly
 
 ### December 23 - 2023
 [All Amazing Styles Of Fooocus As Automatic1111 SD Web UI Styles File And Styles File Generator](https://www.patreon.com/posts/all-amazing-of-95143823)
