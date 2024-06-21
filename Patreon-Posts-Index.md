@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### June 21 - 2024
+[Tencent AI Lab - V-Express Image to Animation Gradio Web APP and 1-Click Installers for Windows, Massed Compute, RunPod and Kaggle](https://www.patreon.com/posts/105251204)
+* 1-Click to turn your static image into a full animation talking video either by an input audio or video file via Tencent AI Lab - V-Express - Open Source D-ID and alikes
+
 ### June 14 - 2024
 [All Amazing Styles Of Fooocus For Automatic1111 SD Web UI and StableSwarmUI also necessary Scripts to generate them](https://www.patreon.com/posts/95143823)
 * 275 amazing Fooocus SDXL styles in format of Automatic1111 SD Web UI and also as a Preset for StableSwarmUI with thumbnail preview images. Moreover, full python scripts to generate and update these styles and presets files 
@@ -32,10 +36,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### June 13 - 2024
 [Find And Move Duplicate or Very Similar Images By Using imagehash - Batch Processing Super Fast](https://www.patreon.com/posts/find-and-move-or-95143007)
 * If you want to find duplicate or near duplicate images very fast, this script is what you are looking for. It analyzes the content of images so works amazingly
-
-### June 12 - 2024
-[Tencent AI Lab - V-Express Image to Animation Gradio Web APP and 1-Click Installers for Windows, Massed Compute, RunPod and Kaggle](https://www.patreon.com/posts/105251204)
-* 1-Click to turn your static image into a full animation talking video either by an input audio or video file via Tencent AI Lab - V-Express - Open Source D-ID and alikes
 
 ### June 11 - 2024
 [1-Click Installers for CodeFormer: Robust Face Restoration and Enhancement Network, Windows, RunPod, Massed Compute, Linux, Kaggle](https://www.patreon.com/posts/104691847)
