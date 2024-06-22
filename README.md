@@ -503,3 +503,10 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**V-Express 1-Click AI Talking Avatar Generator - Like D-ID - Massed Compute, RunPod & Kaggle Guide**](https://youtu.be/GXBiqJOc9FE)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/O-GwtKjvYb3NyI5Lgpf8S.png)](https://youtu.be/GXBiqJOc9FE)
+
+78.) Free
+
+### [**Zero to Hero Stable Diffusion 3 Tutorial with Amazing SwarmUI SD Web UI that Utilizes ComfyUI**](https://youtu.be/HKX8_F1Er_w)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/Uy27VaFHHa4PGzoNAB3j2.png)](https://youtu.be/HKX8_F1Er_w)
+
