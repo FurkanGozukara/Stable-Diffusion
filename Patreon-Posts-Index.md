@@ -25,6 +25,14 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### June 22 - 2024
+[Free Kaggle Account Notebook for SwarmUI with Stable Diffusion 3 and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
+Use very advanced SwarmUI on a free Kaggle account for free with dual T4 GPU. Fully supports SD 1.5, SDXL, SD3 and Stable Cascade and more
+
+### June 22 - 2024
+[StableSwarmUI Master Tutorial - Use Stable Diffusion 3 (SD3) with Amazing Performance](https://www.patreon.com/posts/106135985)
+* In this tutorial post I will share all the necessary stuff regarding how to use Stable Diffusion 3 on your computer and also on the cloud.
+
 ### June 21 - 2024
 [Tencent AI Lab - V-Express Image to Animation Gradio Web APP and 1-Click Installers for Windows, Massed Compute, RunPod and Kaggle](https://www.patreon.com/posts/105251204)
 * 1-Click to turn your static image into a full animation talking video either by an input audio or video file via Tencent AI Lab - V-Express - Open Source D-ID and alikes
