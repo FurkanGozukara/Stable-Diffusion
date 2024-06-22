@@ -27,7 +27,7 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ### June 22 - 2024
 [Free Kaggle Account Notebook for SwarmUI with Stable Diffusion 3 and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
-Use very advanced SwarmUI on a free Kaggle account for free with dual T4 GPU. Fully supports SD 1.5, SDXL, SD3 and Stable Cascade and more
+* Use very advanced SwarmUI on a free Kaggle account for free with dual T4 GPU. Fully supports SD 1.5, SDXL, SD3 and Stable Cascade and more
 
 ### June 22 - 2024
 [StableSwarmUI Master Tutorial - Use Stable Diffusion 3 (SD3) with Amazing Performance](https://www.patreon.com/posts/106135985)
