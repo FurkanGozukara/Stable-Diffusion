@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### June 24 - 2024
+[Fooocus Stable Diffusion Web UI Kaggle NoteBook](https://www.patreon.com/posts/fooocus-stable-94269866)
+* Fooocus Stable Diffusion Web UI Free Kaggle Account Notebook. Use SDXL on Kaggle for free like Midjourney without even a computer. This is the way to use almost Midjourney for free.
+
 ### June 22 - 2024
 [Free Kaggle Account Notebook for SwarmUI with Stable Diffusion 3 and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
 * Use very advanced SwarmUI on a free Kaggle account for free with dual T4 GPU. Fully supports SD 1.5, SDXL, SD3 and Stable Cascade and more
@@ -144,10 +148,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### March 18 - 2024
 [1 Click Automatic Installer & A Very Advanced GUI For InstantId For Windows, RunPod, Linux & Kaggle Notebook](https://www.patreon.com/posts/1-click-very-gui-97769887)
 * Advanced Gradio Web UI & Automatic Installers For Windows, RunPod, Kaggle & Linux For InstantID: Zero-shot Identity-Preserving Generation in Seconds
-
-### March 12 - 2024
-[Fooocus Stable Diffusion Web UI Kaggle NoteBook](https://www.patreon.com/posts/fooocus-stable-94269866)
-* Fooocus Stable Diffusion Web UI Free Kaggle Account Notebook. Use SDXL on Kaggle for free like Midjourney without even a computer. This is the way to use almost Midjourney for free.
 
 ### Feburary 16 - 2024
 [1 Click Auto Roop (DeepFake - FaceSwap) Local Windows Installer Script](https://www.patreon.com/posts/1-click-auto-88234834)
