@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### June 26 - 2024
+[SOTA Image Captioning Scripts For Stable Diffusion: CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)](https://www.patreon.com/posts/sota-image-for-2-90744385)
+* State Of The Art - The Very Best > Image Captioning Scripts For Stable Diffusion: Kosmos-2, CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)
+
 ### June 24 - 2024
 [Fooocus Stable Diffusion Web UI Kaggle NoteBook](https://www.patreon.com/posts/fooocus-stable-94269866)
 * Fooocus Stable Diffusion Web UI Free Kaggle Account Notebook. Use SDXL on Kaggle for free like Midjourney without even a computer. This is the way to use almost Midjourney for free.
@@ -156,10 +160,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### Feburary 15 - 2024
 [1 Click Auto Windows Installer For Rerender A Video - 1 Click Video To Anime](https://www.patreon.com/posts/89457537)
 * Rerender is an amazing new Paper that allows you to turn videos into Anime with 1 click. Auto install scripts and instructions provided here
-
-### Feburary 12 - 2024
-[SOTA Image Captioning Scripts For Stable Diffusion: CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)](https://www.patreon.com/posts/sota-image-for-2-90744385)
-* State Of The Art - The Very Best > Image Captioning Scripts For Stable Diffusion: Kosmos-2, CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)
 
 ### Feburary 10 - 2024
 [Sort AI Generated Images By Their Similarity With DeepFace & RetinaFace](https://www.patreon.com/posts/sort-ai-images-82478694)
