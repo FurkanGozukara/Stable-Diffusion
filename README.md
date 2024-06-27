@@ -14,6 +14,8 @@ My Twitter : [**https://twitter.com/GozukaraFurkan**](https://twitter.com/Gozuka
 
 My Linktr : [**https://linktr.ee/FurkanGozukara**](https://linktr.ee/FurkanGozukara)
 
+My <a rel="me" href="https://mastodon.social/@furkangozukara">Mastodon</a> : https://mastodon.social/@furkangozukara
+
 **Our channel address (35,000+ subscribers) if you like to subscribe ⤵️**
 ### [**https://www.youtube.com/@SECourses**](https://www.youtube.com/@SECourses)
 
@@ -509,4 +511,5 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**Zero to Hero Stable Diffusion 3 Tutorial with Amazing SwarmUI SD Web UI that Utilizes ComfyUI**](https://youtu.be/HKX8_F1Er_w)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/Uy27VaFHHa4PGzoNAB3j2.png)](https://youtu.be/HKX8_F1Er_w)
+
 
