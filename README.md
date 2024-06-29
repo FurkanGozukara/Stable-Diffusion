@@ -512,4 +512,8 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/Uy27VaFHHa4PGzoNAB3j2.png)](https://youtu.be/HKX8_F1Er_w)
 
+79.) Free & Paid - Cloud - RunPod - Massed Compute - Kaggle
 
+### [**How to Use SwarmUI & Stable Diffusion 3 on Cloud Services Kaggle (free), Massed Compute & RunPod**](https://youtu.be/XFUZof6Skkw)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/qpjNGx-8UckXK0CuEzcv7.png)](https://youtu.be/XFUZof6Skkw)
