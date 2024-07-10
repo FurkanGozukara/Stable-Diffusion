@@ -517,3 +517,15 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**How to Use SwarmUI & Stable Diffusion 3 on Cloud Services Kaggle (free), Massed Compute & RunPod**](https://youtu.be/XFUZof6Skkw)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/qpjNGx-8UckXK0CuEzcv7.png)](https://youtu.be/XFUZof6Skkw)
+
+80.) Free
+
+### [**Animate Static Photos into Talking Videos with LivePortrait AI Compose Perfect Expressions Fast**](https://youtu.be/FPtpNrmuwXk)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/beNzm6ITK_5AnipzYt40Y.png)](https://youtu.be/FPtpNrmuwXk)
+
+81.) Free & Paid - Cloud - RunPod - Massed Compute - Kaggle
+
+### [**LivePortrait: No-GPU Cloud Tutorial - RunPod, MassedCompute & Free Kaggle Account - Animate Images**](https://youtu.be/wG7oPp01COg)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/fvWxGLUrIe5XWqP37OBfU.png)](https://youtu.be/wG7oPp01COg)
