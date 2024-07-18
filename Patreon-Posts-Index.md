@@ -25,6 +25,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### July 19 - 2024
+[Google Colab Notebook For Würstchen: Fast Diffusion for Image Generation](https://www.patreon.com/posts/google-colab-for-89280042)
+* Würstchen V2 model on a free Google Colab Notebook with instructions. Super quality Generative AI like Stable Diffusion XL (SDXL) but faster
+
 ### July 10 - 2024
 [1-Click Installers and Upgraded APP for LivePortrait - Blazing Fast Static Image to Talking and Moving Animation](https://www.patreon.com/posts/107609670)
 * State Of The Art - The Very Best > Image Captioning Scripts For Stable Diffusion: Kosmos-2, CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)
@@ -248,10 +252,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### October 5 - 2023
 [Amazing Prompt List For DreamBooth or LoRA Trained Stable Diffusion XL (SDXL) & SD 1.5 Based Models](https://www.patreon.com/posts/amazing-prompt-1-90346033)
 * Specially crafted very best Stable Diffusion XL (SDXL) + SD 1.5 based models prompt list for DreamBooth and LoRA trained models.
-
-### September 14 - 2023
-[Google Colab Notebook For Würstchen: Fast Diffusion for Image Generation](https://www.patreon.com/posts/google-colab-for-89280042)
-* Würstchen V2 model on a free Google Colab Notebook with instructions. Super quality Generative AI like Stable Diffusion XL (SDXL) but faster
 
 ### September 14 - 2023
 [Auto Windows Installer For Würstchen: Fast Diffusion for Image Generation](https://www.patreon.com/posts/auto-windows-for-89265135)
