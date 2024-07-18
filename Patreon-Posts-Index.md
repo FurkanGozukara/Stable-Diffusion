@@ -26,8 +26,8 @@ Your Patreon support is tremendously important for me so thank you so much
 ## Patreon Exclusive Content 
 
 ### July 19 - 2024
-[Google Colab Notebook For Würstchen: Fast Diffusion for Image Generation](https://www.patreon.com/posts/google-colab-for-89280042)
-* Würstchen V2 model on a free Google Colab Notebook with instructions. Super quality Generative AI like Stable Diffusion XL (SDXL) but faster
+[Auto Windows Installer For Würstchen: Fast Diffusion for Image Generation](https://www.patreon.com/posts/auto-windows-for-89265135)
+* Install latest Generative AI model Würstchen V2 to your computer with 1 click. Fixed file instead of broken Gradio demo hosted on Hugging Face
 
 ### July 10 - 2024
 [1-Click Installers and Upgraded APP for LivePortrait - Blazing Fast Static Image to Talking and Moving Animation](https://www.patreon.com/posts/107609670)
@@ -254,8 +254,8 @@ Your Patreon support is tremendously important for me so thank you so much
 * Specially crafted very best Stable Diffusion XL (SDXL) + SD 1.5 based models prompt list for DreamBooth and LoRA trained models.
 
 ### September 14 - 2023
-[Auto Windows Installer For Würstchen: Fast Diffusion for Image Generation](https://www.patreon.com/posts/auto-windows-for-89265135)
-* Install latest Generative AI model Würstchen V2 to your computer with 1 click. Fixed file instead of broken Gradio demo hosted on Hugging Face
+[Google Colab Notebook For Würstchen: Fast Diffusion for Image Generation](https://www.patreon.com/posts/google-colab-for-89280042)
+* Würstchen V2 model on a free Google Colab Notebook with instructions. Super quality Generative AI like Stable Diffusion XL (SDXL) but faster
 
 ### September 12 - 2023
 [How To Start Multiple Automatic1111 Web UI And Kohya Training On A Single Pod](https://www.patreon.com/posts/how-to-start-web-89150521)
