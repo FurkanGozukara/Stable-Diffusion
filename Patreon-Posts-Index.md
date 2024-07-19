@@ -18,6 +18,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Important Public Sharings
 
+### July 19 - 2024
+[How to Get Installation Logs and How to Change Hugging Face Cache Folder](https://www.patreon.com/posts/108419878)
+* Installation logs helps me to identify any problems that you encounter. It is mandatory for you to send me so I can see the cause of the error. Hugging Face cache folder is where the AI models automatically downloaded in some of the open source AI applications. It is very important since many AI projects uses the Hugging Face set cache folder.
+
 ### Feburary 18 - 2024
 [Full Workflow For Newbie Stable Diffusion Trainers For SD 1.5 Models & SDXL Models Training With DreamBooth & LoRA
 ](https://www.patreon.com/posts/full-workflow-sd-98620163)
