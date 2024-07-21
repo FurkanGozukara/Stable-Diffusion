@@ -35,11 +35,11 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ### July 10 - 2024
 [1-Click Installers and Upgraded APP for LivePortrait - Blazing Fast Static Image to Talking and Moving Animation](https://www.patreon.com/posts/107609670)
-* State Of The Art - The Very Best > Image Captioning Scripts For Stable Diffusion: Kosmos-2, CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)
+* 1-Click Installers and Upgraded Gradio app for Blazing Fast LivePortrait: Efficient Portrait Animation from Static Images to Talking Avatars.
 
 ### July 6 - 2024
 [SOTA Image Captioning Scripts For Stable Diffusion: CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)](https://www.patreon.com/posts/sota-image-for-2-90744385)
-* 1-Click Installers and Upgraded Gradio app for Blazing Fast LivePortrait: Efficient Portrait Animation from Static Images to Talking Avatars.
+* State Of The Art - The Very Best > Image Captioning Scripts For Stable Diffusion: Kosmos-2, CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models) 
 
 ### June 24 - 2024
 [Fooocus Stable Diffusion Web UI Kaggle NoteBook](https://www.patreon.com/posts/fooocus-stable-94269866)
