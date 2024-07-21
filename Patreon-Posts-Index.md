@@ -29,13 +29,13 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### July 21 - 2024
+[1-Click Installers and Upgraded APP for LivePortrait - Blazing Fast Static Image or Video to Video to Talking and Moving Animation](https://www.patreon.com/posts/107609670)
+* 1-Click Installers and Upgraded Gradio app for Blazing Fast LivePortrait: Turn Static Images or Video to Video into Talking Animation
+
 ### July 19 - 2024
 [Auto Windows Installer For Würstchen: Fast Diffusion for Image Generation](https://www.patreon.com/posts/auto-windows-for-89265135)
 * Install latest Generative AI model Würstchen V2 to your computer with 1 click. Fixed file instead of broken Gradio demo hosted on Hugging Face
-
-### July 10 - 2024
-[1-Click Installers and Upgraded APP for LivePortrait - Blazing Fast Static Image to Talking and Moving Animation](https://www.patreon.com/posts/107609670)
-* 1-Click Installers and Upgraded Gradio app for Blazing Fast LivePortrait: Efficient Portrait Animation from Static Images to Talking Avatars.
 
 ### July 6 - 2024
 [SOTA Image Captioning Scripts For Stable Diffusion: CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)](https://www.patreon.com/posts/sota-image-for-2-90744385)
