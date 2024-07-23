@@ -29,6 +29,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### July 24 - 2024
+[Most Advanced 1-Click DeepFake / FaceSwap App Rope Installer for Windows and Massed Compute and Linux](https://www.patreon.com/posts/most-advanced-1-105123768)
+* The easiest and most powerful 1-click DeepFake / FaceSwap open source app Rope installers for Windows, Massed Compute, Linux and a lot of configurations and test results shared
+
 ### July 21 - 2024
 [1-Click Installers and Upgraded APP for LivePortrait - Blazing Fast Static Image or Video to Video to Talking and Moving Animation](https://www.patreon.com/posts/107609670)
 * 1-Click Installers and Upgraded Gradio app for Blazing Fast LivePortrait: Turn Static Images or Video to Video into Talking Animation
@@ -76,10 +80,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### June 7 - 2024
 [Massed Compute Automatic1111 and Forge Web UI Installers for ADetailer, ControlNet, TensorRT, Reactor, FaceFusion](https://www.patreon.com/posts/105735932)
 * 1-Click installers for latest version of Automatic1111 Web UI, SD Forge Web UI, ControlNet, TensorRT, Reactor, FaceFusion, ADetailer. Moreover, the virtual machine comes by default with OneTrainer, Kohya, Pinokio AI APPs installed and also update them with 1-Click.
-
-### June 6 - 2024
-[Most Advanced 1-Click DeepFake / FaceSwap App Rope Installer for Windows and Massed Compute and Linux](https://www.patreon.com/posts/most-advanced-1-105123768)
-* The easiest and most powerful 1-click DeepFake / FaceSwap open source app Rope installers for Windows, Massed Compute, Linux and a lot of configurations and test results shared
 
 ### June 6 - 2024
 [1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, TensorRT (RTX Accelerator) on Windows](https://www.patreon.com/posts/86307255)
