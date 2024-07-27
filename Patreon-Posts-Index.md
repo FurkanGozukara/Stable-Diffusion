@@ -29,6 +29,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### July 27 - 2024
+[SOTA Image Captioning Scripts For Stable Diffusion: CogVLM, CogVLM V2, Kosmos-2, Qwen-VL, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)](https://www.patreon.com/posts/sota-image-for-2-90744385)
+* 1-Click installers for Windows and Cloud (RunPod & Massed Compute) collection for LLaVA, Kosmos-2, Blip 2, CLIP Vision, CogVLM V1, CogVLM V2,  Qwen-VL and CLIP Interrogator web APP. All APPs supports batch captioning as well. Amazing fast and easy to use with Gradio.
+
 ### July 24 - 2024
 [Most Advanced 1-Click DeepFake / FaceSwap App Rope Installer for Windows and Massed Compute and Linux](https://www.patreon.com/posts/most-advanced-1-105123768)
 * The easiest and most powerful 1-click DeepFake / FaceSwap open source app Rope installers for Windows, Massed Compute, Linux and a lot of configurations and test results shared
@@ -40,10 +44,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### July 19 - 2024
 [Auto Windows Installer For Würstchen: Fast Diffusion for Image Generation](https://www.patreon.com/posts/auto-windows-for-89265135)
 * Install latest Generative AI model Würstchen V2 to your computer with 1 click. Fixed file instead of broken Gradio demo hosted on Hugging Face
-
-### July 6 - 2024
-[SOTA Image Captioning Scripts For Stable Diffusion: CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)](https://www.patreon.com/posts/sota-image-for-2-90744385)
-* State Of The Art - The Very Best > Image Captioning Scripts For Stable Diffusion: Kosmos-2, CogVLM, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models) 
 
 ### June 24 - 2024
 [Fooocus Stable Diffusion Web UI Kaggle NoteBook](https://www.patreon.com/posts/fooocus-stable-94269866)
