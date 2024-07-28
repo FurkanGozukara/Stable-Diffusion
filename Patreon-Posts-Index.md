@@ -321,10 +321,6 @@ Your Patreon support is tremendously important for me so thank you so much
 [4K 2700 Real Class Images + Auto Cropping Script](https://www.patreon.com/posts/4k-2700-real-84053021)
 * 4K res 2700 Class / Reg raw images. Subject auto cropper script. Included 512, 640, 768, 960, 1024px prepared. Can be used for fine-tuning
 
-### May 30 - 2023
-[1 Click DeepFake Tutorial](https://www.patreon.com/posts/1-click-deepfake-83785289)
-* DeepFake Roop example video and face images attached. The links are in the post.
-
 ### May 28 - 2023
 [How To Generate Very Long Text To Speech For Free On Cloud, e.g. Audiobook](https://www.patreon.com/posts/how-to-generate-83649203)
 * Generate a very long text to speech with a single click on cloud for free. Example Audiobook  : https://www.youtube.com/watch?v=5dSiuBjVcdk
