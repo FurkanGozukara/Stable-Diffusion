@@ -29,6 +29,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### July 29 - 2024
+[Image Captioning Editor Gradio APP - Edit Your Captions Super Easy Including Batch Editing - For Windows, RunPod and Massed Compute](https://www.patreon.com/posts/108992085)
+* Extremely advanced and lots of features having image captioning Gradio APP developed by SECourses. 1-Click to install and run on Windows and also Cloud (RunPod &amp; Massed Compute). Use this application to edit and finalize your Stable Diffusion training dataset image captions.
+
 ### July 28 - 2024
 [1-Click Roop and Roop-Unleashed (DeepFake - FaceSwap) Windows, Massed Compute and RunPod Latest Version Installers](https://www.patreon.com/posts/88234834)
 * 1-Click Roop and Roop-Unleashed (DeepFake - FaceSwap) Windows (local), Massed Compute and RunPod Latest Version Installers. If you want to use the very best most advanced 0-shot Face Swapping / DeepFake Roop or Roop-Unleashed apps these scripts make it 1-Click install for you.
