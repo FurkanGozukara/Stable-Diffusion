@@ -29,6 +29,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### August 2 - 2024
+[Free Kaggle Account Notebook for SwarmUI with Stable Diffusion 3, FLUX, SD1.5, SDXL and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
+* Use very advanced SwarmUI on a free Kaggle account for free with dual T4 GPU. Fully supports SD 1.5, SDXL, SD3, FLUX (newest SOTA model), Stable Cascade and more
+
 ### July 29 - 2024
 [Image Captioning Editor Gradio APP - Edit Your Captions Super Easy Including Batch Editing - For Windows, RunPod and Massed Compute](https://www.patreon.com/posts/108992085)
 * Extremely advanced and lots of features having image captioning Gradio APP developed by SECourses. 1-Click to install and run on Windows and also Cloud (RunPod &amp; Massed Compute). Use this application to edit and finalize your Stable Diffusion training dataset image captions.
@@ -56,10 +60,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### June 24 - 2024
 [Fooocus Stable Diffusion Web UI Kaggle NoteBook](https://www.patreon.com/posts/fooocus-stable-94269866)
 * Fooocus Stable Diffusion Web UI Free Kaggle Account Notebook. Use SDXL on Kaggle for free like Midjourney without even a computer. This is the way to use almost Midjourney for free.
-
-### June 22 - 2024
-[Free Kaggle Account Notebook for SwarmUI with Stable Diffusion 3 and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
-* Use very advanced SwarmUI on a free Kaggle account for free with dual T4 GPU. Fully supports SD 1.5, SDXL, SD3 and Stable Cascade and more
 
 ### June 22 - 2024
 [StableSwarmUI Master Tutorial - Use Stable Diffusion 3 (SD3) with Amazing Performance](https://www.patreon.com/posts/106135985)
