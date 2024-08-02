@@ -30,6 +30,10 @@ Your Patreon support is tremendously important for me so thank you so much
 ## Patreon Exclusive Content 
 
 ### August 2 - 2024
+[StableSwarmUI Master Tutorial - Use Stable Diffusion 3 (SD3) and FLUX model with Amazing Performance](https://www.patreon.com/posts/106135985)
+* In this public tutorial post I will share all the necessary stuff regarding how to use SD 1.5, SDXL, Stable Diffusion 3 and FLUX (by Black Forest Labs new SOTA model) on your computer and also on the cloud.
+
+### August 2 - 2024
 [Free Kaggle Account Notebook for SwarmUI with Stable Diffusion 3, FLUX, SD1.5, SDXL and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
 * Use very advanced SwarmUI on a free Kaggle account for free with dual T4 GPU. Fully supports SD 1.5, SDXL, SD3, FLUX (newest SOTA model), Stable Cascade and more
 
@@ -60,10 +64,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### June 24 - 2024
 [Fooocus Stable Diffusion Web UI Kaggle NoteBook](https://www.patreon.com/posts/fooocus-stable-94269866)
 * Fooocus Stable Diffusion Web UI Free Kaggle Account Notebook. Use SDXL on Kaggle for free like Midjourney without even a computer. This is the way to use almost Midjourney for free.
-
-### June 22 - 2024
-[StableSwarmUI Master Tutorial - Use Stable Diffusion 3 (SD3) with Amazing Performance](https://www.patreon.com/posts/106135985)
-* In this tutorial post I will share all the necessary stuff regarding how to use Stable Diffusion 3 on your computer and also on the cloud.
 
 ### June 21 - 2024
 [Tencent AI Lab - V-Express Image to Animation Gradio Web APP and 1-Click Installers for Windows, Massed Compute, RunPod and Kaggle](https://www.patreon.com/posts/105251204)
