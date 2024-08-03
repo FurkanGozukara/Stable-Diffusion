@@ -29,9 +29,9 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
-### August 2 - 2024
-[StableSwarmUI Master Tutorial - Use Stable Diffusion 3 (SD3) and FLUX model with Amazing Performance](https://www.patreon.com/posts/106135985)
-* In this public tutorial post I will share all the necessary stuff regarding how to use SD 1.5, SDXL, Stable Diffusion 3 and FLUX (by Black Forest Labs new SOTA model) on your computer and also on the cloud.
+### August 3 - 2024
+[SwarmUI Master Tutorial - Use Stable Diffusion 3 (SD3) and FLUX model with Amazing Performance](https://www.patreon.com/posts/106135985)
+* In this public tutorial post I will share all the necessary stuff regarding how to use SD 1.5, SDXL, Stable Diffusion 3 and FLUX (by Black Forest Labs new SOTA model) on your computer and also on the cloud (Massed Compute, RunPod and a free Kaggle account).
 
 ### August 2 - 2024
 [Free Kaggle Account Notebook for SwarmUI with Stable Diffusion 3, FLUX, SD1.5, SDXL and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
