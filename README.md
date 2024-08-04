@@ -506,7 +506,7 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/O-GwtKjvYb3NyI5Lgpf8S.png)](https://youtu.be/GXBiqJOc9FE)
 
-78.) Free
+78.) Free - Local - PC
 
 ### [**Zero to Hero Stable Diffusion 3 Tutorial with Amazing SwarmUI SD Web UI that Utilizes ComfyUI**](https://youtu.be/HKX8_F1Er_w)
 
@@ -518,7 +518,7 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/qpjNGx-8UckXK0CuEzcv7.png)](https://youtu.be/XFUZof6Skkw)
 
-80.) Free
+80.) Free - Local - PC
 
 ### [**Animate Static Photos into Talking Videos with LivePortrait AI Compose Perfect Expressions Fast**](https://youtu.be/FPtpNrmuwXk)
 
@@ -530,8 +530,14 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/fvWxGLUrIe5XWqP37OBfU.png)](https://youtu.be/wG7oPp01COg)
 
+82.) Free & Paid - Cloud
+
+### [**Kling AI Video is FINALLY Public (All Countries), Free to Use and MIND BLOWING - Full Tutorial**](https://youtu.be/zcpqAxYV1_w)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/DPgXHOeVvSW1AdsMG_ywI.png)](https://youtu.be/zcpqAxYV1_w)
+
 83.) Free & Paid - Cloud - RunPod - Massed Compute - Kaggle
 
 ### [**FLUX: The First Ever Open Source txt2img Model Truly Beats Midjourney & Others - FLUX is Awaited SD3**](https://youtu.be/bupRePUOA18)
 
-[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/rRCqse9sB0-c5TYvMbMXB.png)](https://youtu.be/bupRePUOA18)
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/dguyYoaghc8IVdBrKMDkl.png)](https://youtu.be/bupRePUOA18)
