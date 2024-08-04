@@ -529,3 +529,9 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**LivePortrait: No-GPU Cloud Tutorial - RunPod, MassedCompute & Free Kaggle Account - Animate Images**](https://youtu.be/wG7oPp01COg)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/fvWxGLUrIe5XWqP37OBfU.png)](https://youtu.be/wG7oPp01COg)
+
+83.) Free & Paid - Cloud - RunPod - Massed Compute - Kaggle
+
+### [**FLUX: The First Ever Open Source txt2img Model Truly Beats Midjourney & Others - FLUX is Awaited SD3**](https://youtu.be/bupRePUOA18)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/rRCqse9sB0-c5TYvMbMXB.png)](https://youtu.be/bupRePUOA18)
