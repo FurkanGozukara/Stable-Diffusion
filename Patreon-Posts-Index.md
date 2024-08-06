@@ -29,6 +29,10 @@ Your Patreon support is tremendously important for me so thank you so much
 
 ## Patreon Exclusive Content 
 
+### August 6 - 2024
+[Virtual Try-on (IDM-VTON) 1 Click Installers - Try Any Clothing Immediately On Anyone](https://www.patreon.com/posts/86438018)
+* 1 Click installers (Windows, RunPod, Massed Compute, Linux, Kaggle Notebook) for IDM-VTON (Improving Diffusion Models for Authentic Virtual Try-on in the Wild). Click to install and start using
+
 ### August 3 - 2024
 [SwarmUI Master Tutorial - Use Stable Diffusion 3 (SD3) and FLUX model with Amazing Performance](https://www.patreon.com/posts/106135985)
 * In this public tutorial post I will share all the necessary stuff regarding how to use SD 1.5, SDXL, Stable Diffusion 3 and FLUX (by Black Forest Labs new SOTA model) on your computer and also on the cloud (Massed Compute, RunPod and a free Kaggle account).
@@ -108,10 +112,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### May 27 - 2024
 [IP-Adapter-FaceID-PlusV2 - 0 Shot Face Transfer - Auto Installer & Gradio App](https://www.patreon.com/posts/ip-adapter-0-app-95759342)
 * 1 Click Auto Install IP-Adapter-FaceID-PlusV2. Use it with an advanced standalone Gradio app. 0 Shot face transfer and generate images. 
-
-### May 27 - 2024
-[Virtual Try-on (IDM-VTON) 1 Click Installers - Try Any Clothing Immediately On Anyone](https://www.patreon.com/posts/86438018)
-* 1 Click installers (Windows, RunPod, Massed Compute, Linux, Kaggle Notebook) for IDM-VTON (Improving Diffusion Models for Authentic Virtual Try-on in the Wild). Click to install and start using
 
 ### May 25 - 2024
 [Run Automatic1111 SD Web UI On A Free Kaggle NoteBook Like In Your PC - Supports SDXL & ControlNet](https://www.patreon.com/posts/run-on-free-like-88714330)
