@@ -20,6 +20,13 @@ Your Patreon support is tremendously important for me so thank you so much
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Patreon-Posts-Index.md
 
+## Amazing Generative AI Scripts
+
+https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-AI-Scripts.md
+
+## Generative AI Updates & News
+
+
 ## Generative AI Updates & News
 
 ### 7 August 2024
