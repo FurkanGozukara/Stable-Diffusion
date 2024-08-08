@@ -32,7 +32,7 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 * If you ever need to compare different files in given 2 folders with also listing missing or extra files this script is amazing
 * I used Compare_2_Folders_Differences.py file inside LivePortrait installer zip to compare 2 different forks of LivePortrait repos
-* * URL : https://www.patreon.com/posts/107609670
+* URL : https://www.patreon.com/posts/107609670
 
 ## gcc and g++ Installer Script for Ubuntu in Massed Compute Installer for AI
 
