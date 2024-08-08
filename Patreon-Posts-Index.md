@@ -41,6 +41,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### August 9 - 2024
+[FaceFusion (Most Advanced 1-Click DeepFake) 1-Click Installer for Windows, RunPod, Massed Compute & Kaggle Notebook](https://www.patreon.com/posts/103765029)
+* FaceFusion Standalone version (Most Advanced 1-Click DeepFake) APP 1-Click Installer for Windows, RunPod, Massed Compute & free Kaggle account Notebook
+
 ### August 6 - 2024
 [Virtual Try-on (IDM-VTON) 1 Click Installers - Try Any Clothing Immediately On Anyone](https://www.patreon.com/posts/86438018)
 * 1 Click installers (Windows, RunPod, Massed Compute, Linux, Kaggle Notebook) for IDM-VTON (Improving Diffusion Models for Authentic Virtual Try-on in the Wild). Click to install and start using
@@ -140,10 +144,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### May 16 - 2024
 [Stable Cascade 1 Click Installer & Advanced Gradio APP For Windows, Massed Compute, RunPod, Linux & Kaggle](https://www.patreon.com/posts/stable-cascade-1-98410661)
 * 1 Click To Install Stable Cascade Model & Use On Your PC or On RunPod or On Massed Compute or Kaggle With Amazing Optimizations (Works on 5GB GPU) & Advanced GUI
-
-### May 7 - 2024
-[FaceFusion (Most Advanced 1-Click DeepFake) 1-Click Installer for Windows, RunPod, Massed Compute & Kaggle Notebook](https://www.patreon.com/posts/103765029)
-* FaceFusion (Most Advanced 1-Click DeepFake) APP 1-Click Installer for Windows, RunPod, Massed Compute & free Kaggle account Notebook
 
 ### April 28 - 2024
 [Fooocus SD Web UI RunPod & Massed Compute Auto Installer - 1 Click - Latest Version](https://www.patreon.com/posts/fooocus-sd-web-1-92759045)
