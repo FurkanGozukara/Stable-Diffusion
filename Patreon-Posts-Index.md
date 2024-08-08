@@ -16,15 +16,15 @@ Discord : https://discord.com/servers/software-engineering-courses-secourses-772
 
 Your Patreon support is tremendously important for me so thank you so much
 
-## Patreon Sharings Index
+### Patreon Sharings Index
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Patreon-Posts-Index.md
 
-## Amazing Generative AI Scripts
+### Amazing Generative AI Scripts
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-AI-Scripts.md
 
-## Generative AI Updates & News
+### Generative AI Updates & News
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
