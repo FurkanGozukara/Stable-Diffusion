@@ -30,6 +30,13 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Generative AI Updates & News
 
+### 9 August 2024
+
+* RunPod installer scripts and instructions added to the newest v3 zip file in the attachments for standalone FaceFusion
+* On RunPod only works with Gradio live share so it will be started on Gradio live share
+* Massed compute installers also added and working perfect both locally and on Gradio live share
+* Link : https://www.patreon.com/posts/103765029
+
 ### 8 August 2024
 
 * Updated to V5
