@@ -28,6 +28,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## Missing cuDNN CUDA DLLs Installer Code for Ubuntu
+
+* In Massed_Compute_Install.sh file there is necessary code to install missing cuDNN CUDA dll libraries that will solve ONNX library errors when using FaceFusion and such apps
+* URL : https://www.patreon.com/posts/103765029
+
 ## Comparing 2 Folder Differences Python Script with Excluded Folders and .gitginore Following
 
 * If you ever need to compare different files in given 2 folders with also listing missing or extra files this script is amazing
