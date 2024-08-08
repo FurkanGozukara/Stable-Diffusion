@@ -30,6 +30,13 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Generative AI Updates & News
 
+### 8 August 2024
+
+* Updated to V5
+* Animals Live animation added
+* All of the main repo changes and improvements added to our modified and improve app
+* Link : https://www.patreon.com/posts/107609670
+
 ### 7 August 2024
 
 * OneTrainer SDXL Best configs/presets tested with fresh trainings and verified that still working perfect
