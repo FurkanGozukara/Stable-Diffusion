@@ -41,6 +41,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### August 12 - 2024
+[BiRefNet State Of The Art Newest Very Best Background Batch Remover APP](https://www.patreon.com/posts/109913645)
+* BiRefNet Automatic Installers for Windows, RunPod, Massed Compute and Kaggle notebook. The very best SOTA background remover with Gradio APP
+
 ### August 9 - 2024
 [FaceFusion (Most Advanced 1-Click DeepFake) 1-Click Installer for Windows, RunPod, Massed Compute & Kaggle Notebook](https://www.patreon.com/posts/103765029)
 * FaceFusion Standalone version (Most Advanced 1-Click DeepFake) APP 1-Click Installer for Windows, RunPod, Massed Compute & free Kaggle account Notebook
