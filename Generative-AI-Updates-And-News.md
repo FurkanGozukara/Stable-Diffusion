@@ -30,6 +30,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Generative AI Updates & News
 
+### 12 August 2024
+
+* New SOTA background remover APP BiRefNet added to our Patreon scripts arsenal
+* URL : https://www.patreon.com/posts/109913645
+
 ### 9 August 2024
 
 * RunPod installer scripts and instructions added to the newest v3 zip file in the attachments for standalone FaceFusion
