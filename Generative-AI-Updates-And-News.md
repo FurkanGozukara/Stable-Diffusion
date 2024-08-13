@@ -30,6 +30,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Generative AI Updates & News
 
+### 14 August 2024
+
+* OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets got updated and improved
+* URL : https://www.patreon.com/posts/96028218
+
 ### 12 August 2024
 
 * New SOTA background remover APP BiRefNet added to our Patreon scripts arsenal
