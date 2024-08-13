@@ -41,6 +41,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### August 14- 2024
+[OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets](https://www.patreon.com/posts/96028218)
+* Nerogar OneTrainer very best Stable Diffusion XL (SDXL) full fine tuning presets. 10.3 GB GPU is very sufficient and fast
+
 ### August 12 - 2024
 [BiRefNet State Of The Art Newest Very Best Background Batch Remover APP](https://www.patreon.com/posts/109913645)
 * BiRefNet Automatic Installers for Windows, RunPod, Massed Compute and Kaggle notebook. The very best SOTA background remover with Gradio APP
@@ -160,10 +164,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### April 18 - 2024
 [For RunPod - Automatic Kohya SS LoRA Installer](https://www.patreon.com/posts/for-runpod-kohya-84898806)
 * This script will automatically install Kohya SS on RunPod. Additionally, I have added after Pod restart script which will fix installation.
-
-### March 30 - 2024
-[OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets](https://www.patreon.com/posts/96028218)
-* Nerogar OneTrainer very best Stable Diffusion XL (SDXL) full fine tuning presets. 14 GB GPU is very sufficient and fast
 
 ### March 22 - 2024
 [The Very Best OneTrainer Workflow & Config For SD 1.5 Based Models DreamBooth / Full Fine Tuning](https://www.patreon.com/posts/very-best-config-97381002)
