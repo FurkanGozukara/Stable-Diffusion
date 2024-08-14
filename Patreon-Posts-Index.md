@@ -41,7 +41,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
-### August 14- 2024
+### August 14 - 2024
+[Image Folders Merger For Easy Comparison - Merge Images Side by Side - Useful to Compare Upscaling and Such Effect](https://www.patreon.com/posts/110108419)
+* A Python script to upscale lower resolution image in folder A and B into higher resolution one without any upscale algorithm and merge them
+
+### August 14 - 2024
 [OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets](https://www.patreon.com/posts/96028218)
 * Nerogar OneTrainer very best Stable Diffusion XL (SDXL) full fine tuning presets. 10.3 GB GPU is very sufficient and fast
 
