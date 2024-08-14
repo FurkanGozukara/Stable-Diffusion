@@ -32,6 +32,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ### 14 August 2024
 
+* New amazing script : Image Folders Merger For Easy Comparison - Merge Images Side by Side - Useful to Compare Upscaling and Such Effect
+* URL : https://www.patreon.com/posts/110108419
+
+### 14 August 2024
+
 * New amazing public article : 20 New SDXL Fine Tuning Tests and Their Results (Better Workflow Obtained and Published)
 * URL : https://www.patreon.com/posts/20-new-sdxl-fine-110052137
 
