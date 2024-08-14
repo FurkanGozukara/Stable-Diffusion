@@ -42,6 +42,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ## Patreon Exclusive Content 
 
 ### August 14 - 2024
+[AuraSR GigaGAN 4x Upscaler Local (Windows), Cloud (RunPod, Massed Compute, Kaggle) 1-Click Installers and Batch Processing App](https://www.patreon.com/posts/110060645)
+* 1-Click to install and use locally (Windows) and also popular cloud services famous newest AuraSR GigaGAN 4x upscaler with batch upscaling
+
+### August 14 - 2024
 [Image Folders Merger For Easy Comparison - Merge Images Side by Side - Useful to Compare Upscaling and Such Effect](https://www.patreon.com/posts/110108419)
 * A Python script to upscale lower resolution image in folder A and B into higher resolution one without any upscale algorithm and merge them
 
