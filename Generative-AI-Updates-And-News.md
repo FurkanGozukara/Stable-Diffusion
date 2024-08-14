@@ -32,6 +32,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ### 14 August 2024
 
+* New amazing script : AuraSR GigaGAN 4x Upscaler Local (Windows), Cloud (RunPod, Massed Compute, Kaggle) 1-Click Installers and Batch Processing App
+* URL : https://www.patreon.com/posts/110060645
+
+### 14 August 2024
+
 * New amazing script : Image Folders Merger For Easy Comparison - Merge Images Side by Side - Useful to Compare Upscaling and Such Effect
 * URL : https://www.patreon.com/posts/110108419
 
