@@ -41,6 +41,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### August 15 - 2024
+[FaceFusion (Most Advanced 1-Click DeepFake) 1-Click Installer for Windows, RunPod, Massed Compute & Kaggle Notebook](https://www.patreon.com/posts/103765029)
+* FaceFusion Standalone version and FaceFusion Next branch (Most Advanced 1-Click DeepFake) APP 1-Click Installer for Windows (local), RunPod (private cloud) and Massed Compute (private cloud)
+
 ### August 14 - 2024
 [AuraSR GigaGAN 4x Upscaler Local (Windows), Cloud (RunPod, Massed Compute, Kaggle) 1-Click Installers and Batch Processing App](https://www.patreon.com/posts/110060645)
 * 1-Click to install and use locally (Windows) and also popular cloud services famous newest AuraSR GigaGAN 4x upscaler with batch upscaling
@@ -56,11 +60,7 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### August 12 - 2024
 [BiRefNet State Of The Art Newest Very Best Background Batch Remover APP](https://www.patreon.com/posts/109913645)
 * BiRefNet Automatic Installers for Windows, RunPod, Massed Compute and Kaggle notebook. The very best SOTA background remover with Gradio APP
-
-### August 9 - 2024
-[FaceFusion (Most Advanced 1-Click DeepFake) 1-Click Installer for Windows, RunPod, Massed Compute & Kaggle Notebook](https://www.patreon.com/posts/103765029)
-* FaceFusion Standalone version (Most Advanced 1-Click DeepFake) APP 1-Click Installer for Windows, RunPod, Massed Compute & free Kaggle account Notebook
-
+* 
 ### August 6 - 2024
 [Virtual Try-on (IDM-VTON) 1 Click Installers - Try Any Clothing Immediately On Anyone](https://www.patreon.com/posts/86438018)
 * 1 Click installers (Windows, RunPod, Massed Compute, Linux, Kaggle Notebook) for IDM-VTON (Improving Diffusion Models for Authentic Virtual Try-on in the Wild). Click to install and start using
