@@ -32,6 +32,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ### 15 August 2024
 
+* FaceFusion next branch installers added
+* URL : https://www.patreon.com/posts/103765029
+
+### 15 August 2024
+
 * OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets got updated and improved
 * URL : https://www.patreon.com/posts/96028218
 
