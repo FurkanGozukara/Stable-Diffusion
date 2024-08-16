@@ -41,6 +41,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### August 16 - 2024
+[OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets](https://www.patreon.com/posts/96028218)
+* Nerogar OneTrainer very best Stable Diffusion XL (SDXL) full fine tuning presets. 10.3 GB GPU is very sufficient and fast
+
 ### August 15 - 2024
 [FaceFusion (Most Advanced 1-Click DeepFake) 1-Click Installer for Windows, RunPod, Massed Compute & Kaggle Notebook](https://www.patreon.com/posts/103765029)
 * FaceFusion Standalone version and FaceFusion Next branch (Most Advanced 1-Click DeepFake) APP 1-Click Installer for Windows (local), RunPod (private cloud) and Massed Compute (private cloud)
@@ -52,10 +56,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### August 14 - 2024
 [Image Folders Merger For Easy Comparison - Merge Images Side by Side - Useful to Compare Upscaling and Such Effect](https://www.patreon.com/posts/110108419)
 * A Python script to upscale lower resolution image in folder A and B into higher resolution one without any upscale algorithm and merge them
-
-### August 14 - 2024
-[OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets](https://www.patreon.com/posts/96028218)
-* Nerogar OneTrainer very best Stable Diffusion XL (SDXL) full fine tuning presets. 10.3 GB GPU is very sufficient and fast
 
 ### August 12 - 2024
 [BiRefNet State Of The Art Newest Very Best Background Batch Remover APP](https://www.patreon.com/posts/109913645)
