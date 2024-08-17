@@ -30,6 +30,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Generative AI Updates & News
 
+### 17 August 2024
+
+* Kohya SS GUI Stable Diffusion XL (SDXL) DreamBooth / Fine Tuning Best Presets got updated and improved
+* URL : https://www.patreon.com/posts/89213064
+
 ### 16 August 2024
 
 * OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets got updated and improved
