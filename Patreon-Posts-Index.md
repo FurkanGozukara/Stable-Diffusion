@@ -35,11 +35,14 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 * Installation logs helps me to identify any problems that you encounter. It is mandatory for you to send me so I can see the cause of the error. Hugging Face cache folder is where the AI models automatically downloaded in some of the open source AI applications. It is very important since many AI projects uses the Hugging Face set cache folder.
 
 ### Feburary 18 - 2024
-[Full Workflow For Newbie Stable Diffusion Trainers For SD 1.5 Models & SDXL Models Training With DreamBooth & LoRA
-](https://www.patreon.com/posts/full-workflow-sd-98620163)
+[Full Workflow For Newbie Stable Diffusion Trainers For SD 1.5 Models & SDXL Models Training With DreamBooth & LoRA](https://www.patreon.com/posts/full-workflow-sd-98620163)
 * If you are new to Stable Diffusion and want to learn easily to train it with very best possible results, this article is prepared for this purpose with everything you need.
 
 ## Patreon Exclusive Content 
+
+### August 18 - 2024
+[Forge Web UI Latest Version RunPod Auto Installer and FLUX Auto Model Downloader for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/110323512)
+* 1-Click install Forge Web UI on RunPod with latest version and automatic download FLUX models for Forge on Windows, RunPod, Massed Compute
 
 ### August 17 - 2024
 [The Very Best Workflow For SDXL DreamBooth / Full Fine Tuning - Results Of 100+ Full Trainings](https://www.patreon.com/posts/very-best-for-of-89213064)
