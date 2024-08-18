@@ -28,9 +28,8 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
-## All Perfect Installer Scripts for RunPod, Massed Compute, Kaggle, Windows as a Base
+## Numpy Error on Kaggle Fixing Code Having Kaggle Notebook
 
-* Numpy error on Kaggle fixing code having Kaggle notebook
 * ResShift 1-Click Windows, RunPod, Massed Compute, Kaggle Installers with Amazing Gradio APP and Batch Image Processing
 * URL : https://www.patreon.com/posts/110331752
 
