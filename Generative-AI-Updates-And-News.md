@@ -30,6 +30,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Generative AI Updates & News
 
+### 19 August 2024
+
+* ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting (NeurIPS 2023, Spotlight) added to our scripts amazing
+* URL : https://www.patreon.com/posts/110331752
+
 ### 18 August 2024
 
 * Forge Web UI auto installer for RunPod published and FLUX models auto downloader for Forge Web UI for Windows, RunPod, Massed Compute published
