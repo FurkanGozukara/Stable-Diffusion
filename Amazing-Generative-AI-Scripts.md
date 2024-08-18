@@ -28,6 +28,18 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## All Perfect Installer Scripts for RunPod, Massed Compute, Kaggle, Windows as a Base
+
+* Numpy error on Kaggle fixing code having Kaggle notebook
+* ResShift 1-Click Windows, RunPod, Massed Compute, Kaggle Installers with Amazing Gradio APP and Batch Image Processing
+* URL : https://www.patreon.com/posts/110331752
+
+## All Perfect Installer Scripts for RunPod, Massed Compute, Kaggle, Windows as a Base
+
+* These ones can be used as a base template
+* ResShift 1-Click Windows, RunPod, Massed Compute, Kaggle Installers with Amazing Gradio APP and Batch Image Processing
+* URL : https://www.patreon.com/posts/110331752
+
 ## Missing cuDNN CUDA DLLs Installer Code for Ubuntu
 
 * In Massed_Compute_Install.sh file there is necessary code to install missing cuDNN CUDA dll libraries that will solve ONNX library errors when using FaceFusion and such apps
