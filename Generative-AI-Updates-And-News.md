@@ -30,6 +30,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Generative AI Updates & News
 
+### 18 August 2024
+
+* Forge Web UI auto installer for RunPod published and FLUX models auto downloader for Forge Web UI for Windows, RunPod, Massed Compute published
+* URL : https://www.patreon.com/posts/110323512
+
 ### 17 August 2024
 
 * Kohya SS GUI Stable Diffusion XL (SDXL) DreamBooth / Fine Tuning Best Presets got updated and improved
