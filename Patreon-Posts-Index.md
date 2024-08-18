@@ -40,6 +40,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### August 19 - 2024
+[ResShift 1-Click Windows, RunPod, Massed Compute, Kaggle Installers with Amazing Gradio APP and Batch Image Processing](https://www.patreon.com/posts/110331752)
+* 1-Click installer scripts for ResShift for Windows, RunPod, Massed Compute and Kaggle and a very advanced Gradio app with batch processing. ResShift is Efficient Diffusion Model for Image Super-resolution by Residual Shifting (NeurIPS 2023, Spotlight)
+
 ### August 18 - 2024
 [Forge Web UI Latest Version RunPod Auto Installer and FLUX Auto Model Downloader for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/110323512)
 * 1-Click install Forge Web UI on RunPod with latest version and automatic download FLUX models for Forge on Windows, RunPod, Massed Compute
