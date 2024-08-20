@@ -30,6 +30,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Generative AI Updates & News
 
+### 20 August 2024
+
+* Hugging Face Upload / Download Notebook improved
+* https://www.patreon.com/posts/104672510
+
 ### 19 August 2024
 
 * ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting (NeurIPS 2023, Spotlight) added to our scripts amazing
