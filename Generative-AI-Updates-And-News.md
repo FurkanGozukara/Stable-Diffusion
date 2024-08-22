@@ -30,6 +30,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Generative AI Updates & News
 
+### 23 August 2024
+
+* Scripts updated and errors fixed for : SOTA Subject Cropper and Face Focused Image Resizer Scripts Do Better Training
+* https://www.patreon.com/posts/88391247
+
 ### 20 August 2024
 
 * Hugging Face Upload / Download Notebook improved
