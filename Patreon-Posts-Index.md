@@ -41,6 +41,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ## Patreon Exclusive Content 
 
 ### August 23 - 2024
+[JoyCaption : Amazing Image Captioner - Batch Processing Included - Windows, RunPod, Massed Compute 1-Click Install](https://www.patreon.com/posts/110613301)
+* Ultra advanced Gradio app for JoyCaption with batch image captioning. 1-Click to install on Windows, RunPod and Massed Compute 
+
+### August 23 - 2024
 [SOTA Subject Cropper and Face Focused Image Resizer Scripts Do Better Training](https://www.patreon.com/posts/sota-subject-and-88391247)
 * State Of The Art (SOTA) Subject Cropper (Zoom Subject Without Quality Loss) and SOTA Image Downscaler To Get Perfect Desired Resolution. These scripts will significantly improve your training quality.
 
