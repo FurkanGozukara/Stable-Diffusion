@@ -28,6 +28,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## onnxruntime Errors Fixing C++ Tools Install Link
+
+* FaceFusion (Most Advanced 1-Click DeepFake) 1-Click Installer for Windows, RunPod and Massed Compute
+* https://www.patreon.com/posts/103765029
+
 ## Numpy Error on Kaggle Fixing Code Having Kaggle Notebook
 
 * ResShift 1-Click Windows, RunPod, Massed Compute, Kaggle Installers with Amazing Gradio APP and Batch Image Processing
