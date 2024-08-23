@@ -30,7 +30,7 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Generative AI Updates & News
 
-### August 23 - 2024
+### 23 August 2024
 
 * New amazing self developed script : Ultra advanced Gradio app for JoyCaption with batch image captioning. 1-Click to install on Windows, RunPod and Massed Compute
 * https://www.patreon.com/posts/110613301
