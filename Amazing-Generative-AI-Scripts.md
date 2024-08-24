@@ -28,6 +28,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## 4-bit LLM Loading via AutoModelForCausalLM and Huge Speed Up Requirements
+
+* JoyCaption : Amazing Image Captioner - Batch Processing Included - Windows, RunPod, Massed Compute 1-Click Install
+* https://www.patreon.com/posts/joycaption-image-110613301
+
 ## onnxruntime Errors Fixing C++ Tools Install Link
 
 * FaceFusion (Most Advanced 1-Click DeepFake) 1-Click Installer for Windows, RunPod and Massed Compute
