@@ -30,6 +30,16 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Generative AI Updates & News
 
+### 27 August 2024
+
+* All of the FLUX LoRA training configs updated and so many new info added
+* https://www.patreon.com/posts/110293257
+
+### 27 August 2024
+
+* Batch size processing and multi-GPU processing added to JoyCaption and multiple bugs fixed
+* https://www.patreon.com/posts/110613301  
+
 ### 23 August 2024
 
 * New amazing self developed script : Ultra advanced Gradio app for JoyCaption with batch image captioning. 1-Click to install on Windows, RunPod and Massed Compute
