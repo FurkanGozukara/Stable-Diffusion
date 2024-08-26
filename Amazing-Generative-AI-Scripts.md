@@ -28,6 +28,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## Truly Multi-GPU and Batch Size Having Amazing Caption Generator APP with AutoModelForCausalLM
+
+* JoyCaption : Amazing Image Captioner - Batch Processing Included - Windows, RunPod, Massed Compute 1-Click Install
+* https://www.patreon.com/posts/joycaption-image-110613301
+
 ## 4-bit LLM Loading via AutoModelForCausalLM and Huge Speed Up Requirements
 
 * JoyCaption : Amazing Image Captioner - Batch Processing Included - Windows, RunPod, Massed Compute 1-Click Install
