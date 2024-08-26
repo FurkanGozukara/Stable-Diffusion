@@ -40,7 +40,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
-### August 23 - 2024
+### August 27 - 2024
+[1-Click to install on Windows, RunPod and Massed Compute Kohya FLUX LoRA and Fine Tuning Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/110293257)
+* Full Research and Development and Configs and Workflows and Grids shared article for FLUX LoRA training. The article contains configs for 8GB, 10GB, 12GB, 16GB, 24GB and 48GB GPUs. The configs even includes 4x GPU setup as well 
+
+### August 27 - 2024
 [JoyCaption : Amazing Image Captioner - Batch Processing Included - Windows, RunPod, Massed Compute 1-Click Install](https://www.patreon.com/posts/110613301)
 * Ultra advanced Gradio app for JoyCaption with batch image captioning. 1-Click to install on Windows, RunPod and Massed Compute 
 
