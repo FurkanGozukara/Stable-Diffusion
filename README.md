@@ -541,3 +541,9 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**FLUX: The First Ever Open Source txt2img Model Truly Beats Midjourney & Others - FLUX is Awaited SD3**](https://youtu.be/bupRePUOA18)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/dguyYoaghc8IVdBrKMDkl.png)](https://youtu.be/bupRePUOA18)
+
+84.) Paid Cloud Service
+
+### [**SUPIR Online - Ultimate Image Upscaler by Official Developers - Full Tutorial - SUPIR 2 Incoming**](https://youtu.be/JajPVWMt2Lk)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/j4kEYi0jQ5Vsxa0-Qq4rC.png)](https://youtu.be/JajPVWMt2Lk)
