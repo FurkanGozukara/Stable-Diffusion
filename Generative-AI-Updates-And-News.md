@@ -32,6 +32,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ### 27 August 2024
 
+* Rope Live Updated to latest version with a much faster and better model downloader
+* https://www.patreon.com/posts/105123768
+
+### 27 August 2024
+
 * All of the FLUX LoRA training configs updated and so many new info added
 * https://www.patreon.com/posts/110293257
 
