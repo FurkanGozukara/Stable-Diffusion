@@ -28,6 +28,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## Utra Fast and Robust Hugging Face Upload and Download Notebook & Code
+
+* Hugging Face Upload / Download Notebook - Supports Private Repositories and Multi Commit as Well
+* https://www.patreon.com/posts/104672510
+
 ## Utra Fast and Robust and With Resume Capability Hugging Face Repo Downloader With snapshot_download Script
 
 * Most Advanced 1-Click DeepFake / FaceSwap App Rope Installer for Windows and Massed Compute and Linux
