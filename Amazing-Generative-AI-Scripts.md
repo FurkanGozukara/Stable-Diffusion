@@ -28,6 +28,12 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## Utra Fast and Robust and With Resume Capability Hugging Face Repo Downloader With snapshot_download Script
+
+* Most Advanced 1-Click DeepFake / FaceSwap App Rope Installer for Windows and Massed Compute and Linux
+* Rope Live has it
+* https://www.patreon.com/posts/105123768
+
 ## Truly Multi-GPU and Batch Size Having Amazing Caption Generator APP with AutoModelForCausalLM
 
 * JoyCaption : Amazing Image Captioner - Batch Processing Included - Windows, RunPod, Massed Compute 1-Click Install
