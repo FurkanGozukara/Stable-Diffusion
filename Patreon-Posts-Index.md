@@ -41,6 +41,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ## Patreon Exclusive Content 
 
 ### August 27 - 2024
+[Hugging Face Upload / Download Notebook - Supports Private Repositories and Multi Commit as Well](https://www.patreon.com/posts/104672510)
+* If you are looking for convenient and fast way to save and download your files from Hugging Face, this notebook will do the job. 1-click easy
+
+### August 27 - 2024
 [Most Advanced 1-Click DeepFake / FaceSwap App Rope Installer for Windows and Massed Compute and Linux](https://www.patreon.com/posts/most-advanced-1-105123768)
 * The easiest and most powerful 1-click DeepFake / FaceSwap open source app Rope installers for Windows, Massed Compute, Linux and a lot of configurations and test results shared
 
@@ -59,10 +63,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### August 23 - 2024
 [SOTA Subject Cropper and Face Focused Image Resizer Scripts Do Better Training](https://www.patreon.com/posts/sota-subject-and-88391247)
 * State Of The Art (SOTA) Subject Cropper (Zoom Subject Without Quality Loss) and SOTA Image Downscaler To Get Perfect Desired Resolution. These scripts will significantly improve your training quality.
-
-### August 20 - 2024
-[Hugging Face Upload / Download Notebook - Supports Private Repositories and Multi Commit as Well](https://www.patreon.com/posts/104672510)
-* If you are looking for convenient and fast way to save and download your files from Hugging Face, this notebook will do the job. 1-click easy
 
 ### August 19 - 2024
 [ResShift 1-Click Windows, RunPod, Massed Compute, Kaggle Installers with Amazing Gradio APP and Batch Image Processing](https://www.patreon.com/posts/110331752)
