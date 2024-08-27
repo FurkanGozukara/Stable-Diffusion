@@ -41,6 +41,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ## Patreon Exclusive Content 
 
 ### August 27 - 2024
+[FLUX Models 1-Click Auto Downloaders for SwarmUI for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/109289967)
+* Auto downloader for FP16, FP8 and quantized FLUX models for Windows, RunPod, Massed Compute with T5 Text Encoder and FLUX VAE
+
+### August 27 - 2024
 [1-Click to install on Windows, RunPod and Massed Compute Kohya FLUX LoRA and Fine Tuning Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/110293257)
 * Full Research and Development and Configs and Workflows and Grids shared article for FLUX LoRA training. The article contains configs for 8GB, 10GB, 12GB, 16GB, 24GB and 48GB GPUs. The configs even includes 4x GPU setup as well 
 
