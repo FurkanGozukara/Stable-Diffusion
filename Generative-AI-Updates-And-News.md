@@ -32,6 +32,12 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ### 27 August 2024
 
+* Notebook download model cells completely rewritten and hugely improved
+* Hugging Face Upload / Download Notebook - Supports Private Repositories and Multi Commit as Well
+* https://www.patreon.com/posts/104672510
+
+### 27 August 2024
+
 * Rope Live Updated to latest version with a much faster and better model downloader
 * https://www.patreon.com/posts/105123768
 
