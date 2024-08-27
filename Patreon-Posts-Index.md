@@ -41,6 +41,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ## Patreon Exclusive Content 
 
 ### August 27 - 2024
+[Kohya FLUX LoRA Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/110879657)
+* Step by step with perfect hyper parameters and configuration Kohya FLUX LoRA training tutorial with configs for 8GB, 10GB, 12GB, 16GB, 24GB and 48GB GPUs. It works perfect on all these GPUs both on Windows and on Linux. It covers Cloud services as RunPod and Massed Compute as well. This tutorial is research result of more than 64 full Kohya SS GUI used FLUX LoRA trainings
+
+### August 27 - 2024
 [Hugging Face Upload / Download Notebook - Supports Private Repositories and Multi Commit as Well](https://www.patreon.com/posts/104672510)
 * If you are looking for convenient and fast way to save and download your files from Hugging Face, this notebook will do the job. 1-click easy
 
