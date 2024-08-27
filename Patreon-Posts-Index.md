@@ -41,6 +41,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ## Patreon Exclusive Content 
 
 ### August 27 - 2024
+[Most Advanced 1-Click DeepFake / FaceSwap App Rope Installer for Windows and Massed Compute and Linux](https://www.patreon.com/posts/most-advanced-1-105123768)
+* The easiest and most powerful 1-click DeepFake / FaceSwap open source app Rope installers for Windows, Massed Compute, Linux and a lot of configurations and test results shared
+
+### August 27 - 2024
 [FLUX Models 1-Click Auto Downloaders for SwarmUI for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/109289967)
 * Auto downloader for FP16, FP8 and quantized FLUX models for Windows, RunPod, Massed Compute with T5 Text Encoder and FLUX VAE
 
@@ -116,9 +120,7 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 [SOTA Image Captioning Scripts For Stable Diffusion: CogVLM, CogVLM V2, Kosmos-2, Qwen-VL, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)](https://www.patreon.com/posts/sota-image-for-2-90744385)
 * 1-Click installers for Windows and Cloud (RunPod & Massed Compute) collection for LLaVA, Kosmos-2, Blip 2, CLIP Vision, CogVLM V1, CogVLM V2,  Qwen-VL and CLIP Interrogator web APP. All APPs supports batch captioning as well. Amazing fast and easy to use with Gradio.
 
-### July 24 - 2024
-[Most Advanced 1-Click DeepFake / FaceSwap App Rope Installer for Windows and Massed Compute and Linux](https://www.patreon.com/posts/most-advanced-1-105123768)
-* The easiest and most powerful 1-click DeepFake / FaceSwap open source app Rope installers for Windows, Massed Compute, Linux and a lot of configurations and test results shared
+
 
 ### July 21 - 2024
 [1-Click Installers and Upgraded APP for LivePortrait - Blazing Fast Static Image or Video to Video to Talking and Moving Animation](https://www.patreon.com/posts/107609670)
