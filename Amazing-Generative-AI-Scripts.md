@@ -28,6 +28,12 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## Solution For Error : OSError: WinError 126 The specified module could not be found. Error loading "venv\lib\site-packages\torch\lib\fbgemm.dll" or one of its dependencies
+
+* The solution for this error posted on below link
+* https://www.patreon.com/posts/109913645
+* Check the section **Windows Requirements**
+
 ## Utra Fast and Robust Hugging Face Upload and Download Notebook & Code
 
 * Hugging Face Upload / Download Notebook - Supports Private Repositories and Multi Commit as Well
