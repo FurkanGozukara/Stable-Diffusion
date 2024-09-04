@@ -547,3 +547,15 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**SUPIR Online - Ultimate Image Upscaler by Official Developers - Full Tutorial - SUPIR 2 Incoming**](https://youtu.be/JajPVWMt2Lk)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/j4kEYi0jQ5Vsxa0-Qq4rC.png)](https://youtu.be/JajPVWMt2Lk)
+
+85.) Free - Local - Windows
+
+### [**FLUX LoRA Training Simplified: From Zero to Hero with Kohya SS GUI (8GB GPU, Windows) Tutorial Guide**](https://youtu.be/nySGu12Y05k)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/5oeVl6mmaRyYZkxuXSShm.png)](https://youtu.be/nySGu12Y05k)
+
+86.) Paid - Cloud - RunPod - Massed Compute
+
+### [**Blazing Fast & Ultra Cheap FLUX LoRA Training on Massed Compute & RunPod Tutorial - No GPU Required!**](https://youtu.be/-uhL2nW7Ddw)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/hPBegzqT2A52hrveI7buf.png)](https://youtu.be/-uhL2nW7Ddw)
