@@ -41,6 +41,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ## Patreon Exclusive Content 
 
 ### September 5 - 2024
+[Most Advanced 1-Click DeepFake / FaceSwap App Rope Installer for Windows and Massed Compute and Linux](https://www.patreon.com/posts/most-advanced-1-105123768)
+* The easiest and most powerful 1-click DeepFake / FaceSwap open source app Rope installers for Windows, Massed Compute, Linux and a lot of configurations and test results shared
+
+### September 5 - 2024
 [Free Kaggle Account Notebook for SwarmUI with Stable Diffusion 3, FLUX, SD1.5, SDXL and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
 * Use very advanced SwarmUI on a free Kaggle account for free with dual T4 GPU. Fully supports SD 1.5, SDXL, SD3, FLUX (newest SOTA model), Stable Cascade and more
 
@@ -51,10 +55,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### August 27 - 2024
 [Hugging Face Upload / Download Notebook - Supports Private Repositories and Multi Commit as Well](https://www.patreon.com/posts/104672510)
 * If you are looking for convenient and fast way to save and download your files from Hugging Face, this notebook will do the job. 1-click easy
-
-### August 27 - 2024
-[Most Advanced 1-Click DeepFake / FaceSwap App Rope Installer for Windows and Massed Compute and Linux](https://www.patreon.com/posts/most-advanced-1-105123768)
-* The easiest and most powerful 1-click DeepFake / FaceSwap open source app Rope installers for Windows, Massed Compute, Linux and a lot of configurations and test results shared
 
 ### August 27 - 2024
 [FLUX Models 1-Click Auto Downloaders for SwarmUI for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/109289967)
