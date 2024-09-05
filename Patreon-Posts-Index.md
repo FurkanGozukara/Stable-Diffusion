@@ -40,6 +40,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### September 5 - 2024
+[Free Kaggle Account Notebook for SwarmUI with Stable Diffusion 3, FLUX, SD1.5, SDXL and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
+* Use very advanced SwarmUI on a free Kaggle account for free with dual T4 GPU. Fully supports SD 1.5, SDXL, SD3, FLUX (newest SOTA model), Stable Cascade and more
+
 ### August 27 - 2024
 [Kohya FLUX LoRA Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/110879657)
 * Step by step with perfect hyper parameters and configuration Kohya FLUX LoRA training tutorial with configs for 8GB, 10GB, 12GB, 16GB, 24GB and 48GB GPUs. It works perfect on all these GPUs both on Windows and on Linux. It covers Cloud services as RunPod and Massed Compute as well. This tutorial is research result of more than 64 full Kohya SS GUI used FLUX LoRA trainings
@@ -107,10 +111,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### August 3 - 2024
 [SwarmUI Master Tutorial - Use Stable Diffusion 3 (SD3) and FLUX model with Amazing Performance](https://www.patreon.com/posts/106135985)
 * In this public tutorial post I will share all the necessary stuff regarding how to use SD 1.5, SDXL, Stable Diffusion 3 and FLUX (by Black Forest Labs new SOTA model) on your computer and also on the cloud (Massed Compute, RunPod and a free Kaggle account).
-
-### August 2 - 2024
-[Free Kaggle Account Notebook for SwarmUI with Stable Diffusion 3, FLUX, SD1.5, SDXL and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
-* Use very advanced SwarmUI on a free Kaggle account for free with dual T4 GPU. Fully supports SD 1.5, SDXL, SD3, FLUX (newest SOTA model), Stable Cascade and more
 
 ### July 29 - 2024
 [Image Captioning Editor Gradio APP - Edit Your Captions Super Easy Including Batch Editing - For Windows, RunPod and Massed Compute](https://www.patreon.com/posts/108992085)
