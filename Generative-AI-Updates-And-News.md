@@ -33,12 +33,12 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### September 5 - 2024
 
 * Rope live on Massed Compute fixed
-* https://www.patreon.com/posts/106650931
+* https://www.patreon.com/posts/105123768
 
 ### September 5 - 2024
 
 * Updated errors fixed : Free Kaggle Account Notebook for SwarmUI with Stable Diffusion 3 and Dual T4 GPU support
-* https://www.patreon.com/posts/105123768
+* https://www.patreon.com/posts/106650931
 
 ### 27 August 2024
 
