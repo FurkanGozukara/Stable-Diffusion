@@ -30,6 +30,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Generative AI Updates & News
 
+### September 5 - 2024
+
+* Updated errors fixed : Free Kaggle Account Notebook for SwarmUI with Stable Diffusion 3 and Dual T4 GPU support
+* https://www.patreon.com/posts/106650931
+
 ### 27 August 2024
 
 * Notebook download model cells completely rewritten and hugely improved
