@@ -48,9 +48,9 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 [FaceFusion and FaceFusion NEXT (Most Advanced 1-Click DeepFake) 1-Click Installer for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/103765029)
 * FaceFusion Standalone version and FaceFusion Next branch (Most Advanced 1-Click DeepFake) APP 1-Click Installer for Windows (local), RunPod (private cloud) and Massed Compute (private cloud)
 
-### September 5 - 2024
-[Most Advanced 1-Click DeepFake / FaceSwap App Rope Installer for Windows and Massed Compute and Linux](https://www.patreon.com/posts/most-advanced-1-105123768)
-* The easiest and most powerful 1-click DeepFake / FaceSwap open source app Rope installers for Windows, Massed Compute, Linux and a lot of configurations and test results shared
+### September 7 - 2024
+[Most Advanced 1-Click DeepFake / FaceSwap App Rope, Rope Live and Rope NEXT Installers for Windows and Massed Compute and Linux](https://www.patreon.com/posts/105123768)
+* The easiest and most powerful 1-click DeepFake / FaceSwap open source app Rope, Rope Live and Rope NEXT installers for Windows, Massed Compute, Linux and a lot of configurations and test results shared
 
 ### September 5 - 2024
 [Free Kaggle Account Notebook for SwarmUI with Stable Diffusion 3, FLUX, SD1.5, SDXL and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
