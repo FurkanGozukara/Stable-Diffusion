@@ -45,7 +45,7 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ## Patreon Exclusive Content 
 
 ### September 7 - 2024
-[FaceFusion (Most Advanced 1-Click DeepFake) 1-Click Installer for Windows, RunPod, Massed Compute & Kaggle Notebook](https://www.patreon.com/posts/103765029)
+[FaceFusion and FaceFusion NEXT (Most Advanced 1-Click DeepFake) 1-Click Installer for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/103765029)
 * FaceFusion Standalone version and FaceFusion Next branch (Most Advanced 1-Click DeepFake) APP 1-Click Installer for Windows (local), RunPod (private cloud) and Massed Compute (private cloud)
 
 ### September 5 - 2024
