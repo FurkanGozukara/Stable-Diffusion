@@ -28,6 +28,13 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## How to Install CUDA 12.4 and cuDNN 9.4 on Linux / Ubuntu Systems and Set as Default 
+
+* Massed_Compute_Install.sh file has it with sudo
+* Runpod_Install.sh file has it without sudo
+* Patreon post : https://www.patreon.com/posts/103765029
+* Download zip file for FaceFusion NEXT they are inside it
+
 ## Solution For Error : OSError: WinError 126 The specified module could not be found. Error loading "venv\lib\site-packages\torch\lib\fbgemm.dll" or one of its dependencies
 
 * The solution for this error posted on below link
