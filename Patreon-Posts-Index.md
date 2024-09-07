@@ -44,6 +44,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### September 7 - 2024
+[FaceFusion (Most Advanced 1-Click DeepFake) 1-Click Installer for Windows, RunPod, Massed Compute & Kaggle Notebook](https://www.patreon.com/posts/103765029)
+* FaceFusion Standalone version and FaceFusion Next branch (Most Advanced 1-Click DeepFake) APP 1-Click Installer for Windows (local), RunPod (private cloud) and Massed Compute (private cloud)
+
 ### September 5 - 2024
 [Most Advanced 1-Click DeepFake / FaceSwap App Rope Installer for Windows and Massed Compute and Linux](https://www.patreon.com/posts/most-advanced-1-105123768)
 * The easiest and most powerful 1-click DeepFake / FaceSwap open source app Rope installers for Windows, Massed Compute, Linux and a lot of configurations and test results shared
@@ -91,10 +95,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### August 16 - 2024
 [OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets](https://www.patreon.com/posts/96028218)
 * Nerogar OneTrainer very best Stable Diffusion XL (SDXL) full fine tuning presets. 10.3 GB GPU is very sufficient and fast
-
-### August 15 - 2024
-[FaceFusion (Most Advanced 1-Click DeepFake) 1-Click Installer for Windows, RunPod, Massed Compute & Kaggle Notebook](https://www.patreon.com/posts/103765029)
-* FaceFusion Standalone version and FaceFusion Next branch (Most Advanced 1-Click DeepFake) APP 1-Click Installer for Windows (local), RunPod (private cloud) and Massed Compute (private cloud)
 
 ### August 14 - 2024
 [AuraSR GigaGAN 4x Upscaler Local (Windows), Cloud (RunPod, Massed Compute, Kaggle) 1-Click Installers and Batch Processing App](https://www.patreon.com/posts/110060645)
