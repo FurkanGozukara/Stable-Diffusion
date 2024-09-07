@@ -30,6 +30,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Generative AI Updates & News
 
+### September 7 - 2024
+
+* FaceFusion and FaceFusion NEXT fully updated
+* https://www.patreon.com/posts/103765029
+
 ### September 5 - 2024
 
 * Rope live on Massed Compute fixed
