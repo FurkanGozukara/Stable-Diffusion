@@ -44,6 +44,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### September 13 - 2024
+[Training a FLUX LoRA with 256 Images Experiments - Full Workflow and Conclusions](https://www.patreon.com/posts/111891669)
+* Training a perfect FLUX LoRA that learns even broken teeth details, full body details, full expressions with 256 images experiments
+
 ### September 7 - 2024
 [FaceFusion and FaceFusion NEXT (Most Advanced 1-Click DeepFake) 1-Click Installer for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/103765029)
 * FaceFusion Standalone version and FaceFusion Next branch (Most Advanced 1-Click DeepFake) APP 1-Click Installer for Windows (local), RunPod (private cloud) and Massed Compute (private cloud)
