@@ -28,6 +28,16 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## How to Use Yolo Models in A Batch Processing Application Fully Re-useable Code - Yolo V10 and V9
+
+* Both Windows and Ubuntu 1-click installation
+* Fully batch processing
+* 79 Classes of Yolo V10 available
+* Auto zooming in target and cropping target without cropping any part of the target
+* Full automatic focus face auto resizing
+* Ultimate Batch Image Pre-Processing Gradio APP for Windows and Cloud (RunPod , Massed Compute) With Yolo Models - 1-Click To Install And Use
+* https://www.patreon.com/posts/112126955
+
 ## How to Install CUDA 12.4 and cuDNN 9.4 on Linux / Ubuntu Systems and Set as Default 
 
 * Massed_Compute_Install.sh file has it with sudo
