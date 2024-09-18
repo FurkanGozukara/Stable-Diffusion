@@ -15,6 +15,9 @@
 * [Essential AI Tools and Libraries: A Guide to Python, Git, C++ Compile Tools, FFmpeg, CUDA, PyTorch](https://www.youtube.com/watch?v=-NjNy7afOQ0)
 * https://www.youtube.com/watch?v=-NjNy7afOQ0
 
+## Must Follow New Resource (18 September 2024) : Solving CUDA and C++ Tools Compiling Errors Once and For All for Python AI Applications
+### Link > https://www.patreon.com/posts/111553210
+
 ## Resources
 
 ### Python 3.10.x
