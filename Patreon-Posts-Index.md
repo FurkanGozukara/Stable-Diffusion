@@ -45,6 +45,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ## Patreon Exclusive Content 
 
 ### September 17 - 2024
+[IC-Light (Most Advanced 1-Click Relight / Re-Light) 1-Click Installer for Windows, RunPod, Massed Compute & Kaggle Notebook](https://www.patreon.com/posts/103894969)
+* 1-click auto installer scripts for IC-Light (Re-Light / Relight any image) for Windows, Massed Compute, RunPod, Linux and a free Kaggle Notebook
+
+### September 17 - 2024
 [Kohya FLUX Fine Tuning (Full Checkpoints) Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/112099700)
 * Fully researched and optimized very best full FLUX Fine tuning configurations and workflows that works way better than FLUX LoRA training. Perfectly trainable on 24 and 16 GB GPUs, but we have configs for 48 GB GPUs or Multi-GPU as well.
 
