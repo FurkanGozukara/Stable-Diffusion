@@ -47,6 +47,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### September 19 - 2024
+[JoyCaption : Amazing Image Captioner - Batch Processing Included - Windows, RunPod, Massed Compute 1-Click Install](https://www.patreon.com/posts/110613301)
+* Ultra advanced Gradio app for JoyCaption with batch image captioning. 1-Click to install on Windows, RunPod and Massed Compute 
+
 ### September 17 - 2024
 [IC-Light (Most Advanced 1-Click Relight / Re-Light) 1-Click Installer for Windows, RunPod, Massed Compute & Kaggle Notebook](https://www.patreon.com/posts/103894969)
 * 1-click auto installer scripts for IC-Light (Re-Light / Relight any image) for Windows, Massed Compute, RunPod, Linux and a free Kaggle Notebook
@@ -94,10 +98,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### August 27 - 2024
 [1-Click to install on Windows, RunPod and Massed Compute Kohya FLUX LoRA and Fine Tuning Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/110293257)
 * Full Research and Development and Configs and Workflows and Grids shared article for FLUX LoRA training. The article contains configs for 8GB, 10GB, 12GB, 16GB, 24GB and 48GB GPUs. The configs even includes 4x GPU setup as well 
-
-### August 27 - 2024
-[JoyCaption : Amazing Image Captioner - Batch Processing Included - Windows, RunPod, Massed Compute 1-Click Install](https://www.patreon.com/posts/110613301)
-* Ultra advanced Gradio app for JoyCaption with batch image captioning. 1-Click to install on Windows, RunPod and Massed Compute 
 
 ### August 23 - 2024
 [SOTA Subject Cropper and Face Focused Image Resizer Scripts Do Better Training](https://www.patreon.com/posts/sota-subject-and-88391247)
