@@ -47,6 +47,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### September 20 - 2024
+[Image Captioning Editor Gradio APP - Edit Your Captions Super Easy Including Batch Editing - For Windows, RunPod and Massed Compute](https://www.patreon.com/posts/108992085)
+* Extremely advanced and lots of features having image captioning Gradio APP developed by SECourses. 1-Click to install and run on Windows and also Cloud (RunPod &amp; Massed Compute). Use this application to edit and finalize your Stable Diffusion training dataset image captions.
+
 ### September 19 - 2024
 [JoyCaption : Amazing Image Captioner - Batch Processing Included - Windows, RunPod, Massed Compute 1-Click Install](https://www.patreon.com/posts/110613301)
 * Ultra advanced Gradio app for JoyCaption with batch image captioning. 1-Click to install on Windows, RunPod and Massed Compute 
@@ -138,10 +142,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### August 3 - 2024
 [SwarmUI Master Tutorial - Use Stable Diffusion 3 (SD3) and FLUX model with Amazing Performance](https://www.patreon.com/posts/106135985)
 * In this public tutorial post I will share all the necessary stuff regarding how to use SD 1.5, SDXL, Stable Diffusion 3 and FLUX (by Black Forest Labs new SOTA model) on your computer and also on the cloud (Massed Compute, RunPod and a free Kaggle account).
-
-### July 29 - 2024
-[Image Captioning Editor Gradio APP - Edit Your Captions Super Easy Including Batch Editing - For Windows, RunPod and Massed Compute](https://www.patreon.com/posts/108992085)
-* Extremely advanced and lots of features having image captioning Gradio APP developed by SECourses. 1-Click to install and run on Windows and also Cloud (RunPod &amp; Massed Compute). Use this application to edit and finalize your Stable Diffusion training dataset image captions.
 
 ### July 28 - 2024
 [1-Click Roop and Roop-Unleashed (DeepFake - FaceSwap) Windows, Massed Compute and RunPod Latest Version Installers](https://www.patreon.com/posts/88234834)
