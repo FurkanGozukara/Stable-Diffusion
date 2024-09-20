@@ -28,9 +28,7 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
-## Important Public Sharings
-
-### 19 September - 2024
+## SUper Amazing and Ultra Important Public Articles
 
 * [Single Block / Layer FLUX LoRA Training Research Results and LoRA Network Alpha Change Impact With LoRA Network Rank Dimension](https://www.patreon.com/posts/110879657)
 
