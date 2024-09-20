@@ -45,6 +45,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### September 21 - 2024
+[FaceFusion V3 (Most Advanced 1-Click DeepFake) 1-Click Installers for Windows, RunPod and Massed Compute - Use locally and cloud](https://www.patreon.com/posts/103765029)
+* FaceFusion 3 Windows (local), RunPod and Massed Compute (Cloud) 1-Click installers. Install and run with easiness. The best DeepFake APP
+
 ### September 20 - 2024
 [Image Captioning Editor Gradio APP - Edit Your Captions Super Easy Including Batch Editing - For Windows, RunPod and Massed Compute](https://www.patreon.com/posts/108992085)
 * Extremely advanced and lots of features having image captioning Gradio APP developed by SECourses. 1-Click to install and run on Windows and also Cloud (RunPod &amp; Massed Compute). Use this application to edit and finalize your Stable Diffusion training dataset image captions.
@@ -80,10 +84,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### September 13 - 2024
 [Training a FLUX LoRA with 256 Images Experiments - Full Workflow and Conclusions](https://www.patreon.com/posts/111891669)
 * Training a perfect FLUX LoRA that learns even broken teeth details, full body details, full expressions with 256 images experiments
-
-### September 7 - 2024
-[FaceFusion and FaceFusion NEXT (Most Advanced 1-Click DeepFake) 1-Click Installer for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/103765029)
-* FaceFusion Standalone version and FaceFusion Next branch (Most Advanced 1-Click DeepFake) APP 1-Click Installer for Windows (local), RunPod (private cloud) and Massed Compute (private cloud)
 
 ### September 7 - 2024
 [Most Advanced 1-Click DeepFake / FaceSwap App Rope, Rope Live and Rope NEXT Installers for Windows and Massed Compute and Linux](https://www.patreon.com/posts/105123768)
