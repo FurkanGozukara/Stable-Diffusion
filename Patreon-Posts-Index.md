@@ -31,19 +31,19 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ## Important Public Sharings
 
 ### 19 September - 2024
-[How to Extract LoRA from FLUX Fine Tuning / DreamBooth Training Full Tutorial and Comparison Between Fine Tuning vs Extraction vs LoRA Training](https://www.patreon.com/posts/112335162)
 
-### 6 September - 2024
-[Solving CUDA and C++ Tools Compiling Errors Once and For All for Python AI Applications](https://www.patreon.com/posts/111553210)
-* If you are using AI applications and installed software like InsightFace, XPose which you need to compile on your PC, you know that accurate CUDA and C++ tools is a nightmare. This post will help you to understand the fundamental concepts and fix your issues.
+* [Single Block / Layer FLUX LoRA Training Research Results and LoRA Network Alpha Change Impact With LoRA Network Rank Dimension](https://www.patreon.com/posts/110879657)
 
-### July 19 - 2024
-[How to Get Installation Logs and How to Change Hugging Face Cache Folder](https://www.patreon.com/posts/108419878)
-* Installation logs helps me to identify any problems that you encounter. It is mandatory for you to send me so I can see the cause of the error. Hugging Face cache folder is where the AI models automatically downloaded in some of the open source AI applications. It is very important since many AI projects uses the Hugging Face set cache folder.
+* [How to Extract LoRA from FLUX Fine Tuning / DreamBooth Training Full Tutorial and Comparison Between Fine Tuning vs Extraction vs LoRA Training](https://www.patreon.com/posts/112335162)
 
-### Feburary 18 - 2024
-[Full Workflow For Newbie Stable Diffusion Trainers For SD 1.5 Models & SDXL Models Training With DreamBooth & LoRA](https://www.patreon.com/posts/full-workflow-sd-98620163)
-* If you are new to Stable Diffusion and want to learn easily to train it with very best possible results, this article is prepared for this purpose with everything you need.
+* [Solving CUDA and C++ Tools Compiling Errors Once and For All for Python AI Applications](https://www.patreon.com/posts/111553210)
+* * If you are using AI applications and installed software like InsightFace, XPose which you need to compile on your PC, you know that accurate CUDA and C++ tools is a nightmare. This post will help you to understand the fundamental concepts and fix your issues.
+ 
+* [How to Get Installation Logs and How to Change Hugging Face Cache Folder](https://www.patreon.com/posts/108419878)
+* * Installation logs helps me to identify any problems that you encounter. It is mandatory for you to send me so I can see the cause of the error. Hugging Face cache folder is where the AI models automatically downloaded in some of the open source AI applications. It is very important since many AI projects uses the Hugging Face set cache folder.
+
+* [Full Workflow For Newbie Stable Diffusion Trainers For SD 1.5 Models & SDXL Models Training With DreamBooth & LoRA](https://www.patreon.com/posts/full-workflow-sd-98620163)
+* * If you are new to Stable Diffusion and want to learn easily to train it with very best possible results, this article is prepared for this purpose with everything you need.
 
 ## Patreon Exclusive Content 
 
