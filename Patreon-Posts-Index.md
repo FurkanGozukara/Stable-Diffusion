@@ -30,6 +30,8 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## SUper Amazing and Ultra Important Public Articles
 
+* [Multi-GPU FLUX Full Fine Tuning Experiments and Requirements on RunPod and Conclusions - Used 2x A100 - 80 GB GPUs](https://www.patreon.com/posts/112494682)
+
 * [Single Block / Layer FLUX LoRA Training Research Results and LoRA Network Alpha Change Impact With LoRA Network Rank Dimension](https://www.patreon.com/posts/110879657)
 
 * [How to Extract LoRA from FLUX Fine Tuning / DreamBooth Training Full Tutorial and Comparison Between Fine Tuning vs Extraction vs LoRA Training](https://www.patreon.com/posts/112335162)
