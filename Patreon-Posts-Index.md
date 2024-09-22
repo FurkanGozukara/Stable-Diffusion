@@ -48,6 +48,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ## Patreon Exclusive Content 
 
 ### September 23 - 2024
+[JoyCaption : Amazing Image Captioner - Batch Processing and Multi-GPU - Windows, RunPod, Massed Compute 1-Click Installers](https://www.patreon.com/posts/110613301)
+* Ultra advanced Gradio app for JoyCaption Pre-Alpha and Alpha One with batch image captioning in addition to Multi-GPU support. 1-Click to install on Windows, RunPod and Massed Compute 
+
+### September 23 - 2024
 [ComfyUI, FaceID, IP-Adapter, InsightFace Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
 * 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto download best SDXL and SD 1.5 models and auto installs ComfyUI manager, FaceID, InsightFace and Ip Adapter of ComfyUI. Also includes automatic downloader.py file to download all of the IP Adapter, InsightFace and FaceID models for you.
 
@@ -58,10 +62,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### September 20 - 2024
 [Image Captioning Editor Gradio APP - Edit Your Captions Super Easy Including Batch Editing - For Windows, RunPod and Massed Compute](https://www.patreon.com/posts/108992085)
 * Extremely advanced and lots of features having image captioning Gradio APP developed by SECourses. 1-Click to install and run on Windows and also Cloud (RunPod &amp; Massed Compute). Use this application to edit and finalize your Stable Diffusion training dataset image captions.
-
-### September 19 - 2024
-[JoyCaption : Amazing Image Captioner - Batch Processing Included - Windows, RunPod, Massed Compute 1-Click Install](https://www.patreon.com/posts/110613301)
-* Ultra advanced Gradio app for JoyCaption with batch image captioning. 1-Click to install on Windows, RunPod and Massed Compute 
 
 ### September 17 - 2024
 [IC-Light (Most Advanced 1-Click Relight / Re-Light) 1-Click Installer for Windows, RunPod, Massed Compute & Kaggle Notebook](https://www.patreon.com/posts/103894969)
