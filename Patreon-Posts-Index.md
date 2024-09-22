@@ -47,6 +47,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### September 23 - 2024
+[ComfyUI, FaceID, IP-Adapter, InsightFace Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
+* 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto download best SDXL and SD 1.5 models and auto installs ComfyUI manager, FaceID, InsightFace and Ip Adapter of ComfyUI. Also includes automatic downloader.py file to download all of the IP Adapter, InsightFace and FaceID models for you.
+
 ### September 21 - 2024
 [FaceFusion V3 (Most Advanced 1-Click DeepFake) 1-Click Installers for Windows, RunPod and Massed Compute - Use locally and cloud](https://www.patreon.com/posts/103765029)
 * FaceFusion 3 Windows (local), RunPod and Massed Compute (Cloud) 1-Click installers. Install and run with easiness. The best DeepFake APP
@@ -178,10 +182,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### June 11 - 2024
 [1-Click Installers for CodeFormer: Robust Face Restoration and Enhancement Network, Windows, RunPod, Massed Compute, Linux, Kaggle](https://www.patreon.com/posts/104691847)
 * 1-Click auto installers for CodeFormer standalone Gradio APP with advanced features. The installers includes Windows, Massed Compute, Linux, Kaggle and RunPod. You can use on a free Kaggle account as well with our Kaggle notebook. This app also has batch folder processing feature and works many times better than Automatic1111 SD Web UI
-  
-### June 9 - 2024
-[ComfyUI automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
-* 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto download best SDXL and SD 1.5 models and auto installs ComfyUI manager and Ip Adapter of ComfyUI. Also includes automatic downloader.py file to download all of the IP Adapter models for you.
 
 ### June 7 - 2024
 [Massed Compute Automatic1111 and Forge Web UI Installers for ADetailer, ControlNet, TensorRT, Reactor, FaceFusion](https://www.patreon.com/posts/105735932)
