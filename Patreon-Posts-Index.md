@@ -47,6 +47,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### September 27 - 2024
+[1-Click CogVideoX-5b Image to Video Installers For Windows, RunPod, Massed Compute - SOTA Open Source Model](https://www.patreon.com/posts/112848192)
+* 1-Click to install and use CogVideoX-5B SOTA image to guided video generation model on your PC locally or on RunPod and Massed Compute
+
 ### September 23 - 2024
 [JoyCaption : Amazing Image Captioner - Batch Processing and Multi-GPU - Windows, RunPod, Massed Compute 1-Click Installers](https://www.patreon.com/posts/110613301)
 * Ultra advanced Gradio app for JoyCaption Pre-Alpha and Alpha One with batch image captioning in addition to Multi-GPU support. 1-Click to install on Windows, RunPod and Massed Compute 
