@@ -47,6 +47,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### September 28 - 2024
+[Invoke AI Latest Version Windows, RunPod and Massed Compute 1-Click Installers](https://www.patreon.com/posts/112912425)
+* 1-Click to install latest version of InvokeAI on your Windows computer, on RunPod and on Massed Compute with a super detailed and easy Tutorial video and written scripts. This zip file also has instructions to use the Invoke AI on your Windows Computer browser while running on Massed Compute securely by using PowerShell commands.
+
 ### September 27 - 2024
 [1-Click CogVideoX-5b Image to Video Installers For Windows, RunPod, Massed Compute - SOTA Open Source Model](https://www.patreon.com/posts/112848192)
 * 1-Click to install and use CogVideoX-5B SOTA image to guided video generation model on your PC locally or on RunPod and Massed Compute
