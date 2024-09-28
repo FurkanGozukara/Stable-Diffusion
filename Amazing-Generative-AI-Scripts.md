@@ -28,6 +28,12 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## Access Massed Compute Running APPs on Your Windows Computer Browser via Powershell
+
+* The included zip file has Massed Compute instructions that explains step by step
+* The instructions can be used for any Ubuntu Machine with IP
+* https://www.patreon.com/posts/112912425
+
 ## How to Use Yolo Models in A Batch Processing Application Fully Re-useable Code - Yolo V10 and V9
 
 * Both Windows and Ubuntu 1-click installation
