@@ -28,6 +28,13 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## How to Install cuDNN 9.4 Files Directly via Pip Install
+
+* This method can be used to install any cuDNN files directly into venv
+* Tested on famous FaceFusion 3 - works perfect
+* The code is inside Windows_Install.bat file
+* https://www.patreon.com/posts/103765029
+
 ## Access Massed Compute Running APPs on Your Windows Computer Browser via Powershell
 
 * The included zip file has Massed Compute instructions that explains step by step
