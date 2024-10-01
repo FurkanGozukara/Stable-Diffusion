@@ -148,7 +148,7 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 * BiRefNet Automatic Installers for Windows, RunPod, Massed Compute and Kaggle notebook. The very best SOTA background remover with Gradio APP
 * 
 ### August 6 - 2024
-[Virtual Try-on (IDM-VTON) 1 Click Installers - Try Any Clothing Immediately On Anyone](https://www.patreon.com/posts/86438018)
+[Virtual Try-on (IDM-VTON) 1 Click Installers - Try Any Clothing Immediately On Anyone](https://www.patreon.com/posts/103022942)
 * 1 Click installers (Windows, RunPod, Massed Compute, Linux, Kaggle Notebook) for IDM-VTON (Improving Diffusion Models for Authentic Virtual Try-on in the Wild). Click to install and start using
 
 ### August 3 - 2024
