@@ -559,3 +559,15 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**Blazing Fast & Ultra Cheap FLUX LoRA Training on Massed Compute & RunPod Tutorial - No GPU Required!**](https://youtu.be/-uhL2nW7Ddw)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/hPBegzqT2A52hrveI7buf.png)](https://youtu.be/-uhL2nW7Ddw)
+
+87.) Free - Windows - Paid - Cloud - RunPod - Massed Compute
+
+### [**Invoke AI Full Install and Run Tutorial for Windows, RunPod and Massed Compute - 1-Click Easy Guide**](https://youtu.be/BuxFBYAUGIY)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/tWhmpzXqNY-dwQeJZUozb.png)](https://youtu.be/BuxFBYAUGIY)
+
+88.) Free - Windows
+
+### [**How to Install Python, CUDA, cuDNN, C++ Build Tools, FFMPEG & Git Tutorial for AI Applications**](https://youtu.be/DrhUHnYfwC0)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/hchc2xHcOkF2VX-wBh0tW.png)](https://youtu.be/DrhUHnYfwC0)
