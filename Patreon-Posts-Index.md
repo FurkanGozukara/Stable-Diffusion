@@ -47,6 +47,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### October 3 - 2024
+[ComfyUI, FaceID, IP-Adapter, InsightFace Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
+* 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto download best SDXL and SD 1.5 models and auto installs ComfyUI manager, FaceID, InsightFace and Ip Adapter of ComfyUI. Also includes automatic downloader.py file to download all of the IP Adapter, InsightFace and FaceID models for you.
+
 ### October 2 - 2024
 [SOTA Image Captioning Scripts For Stable Diffusion: CogVLM, CogVLM V2, Kosmos-2, Qwen-VL, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)](https://www.patreon.com/posts/sota-image-for-2-90744385)
 * 1-Click installers for Windows and Cloud (RunPod & Massed Compute) collection for LLaVA, Kosmos-2, Blip 2, CLIP Vision, CogVLM V1, CogVLM V2,  Qwen-VL and CLIP Interrogator web APP. All APPs supports batch captioning as well. Amazing fast and easy to use with Gradio.
@@ -62,10 +66,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### September 23 - 2024
 [JoyCaption : Amazing Image Captioner - Batch Processing and Multi-GPU - Windows, RunPod, Massed Compute 1-Click Installers](https://www.patreon.com/posts/110613301)
 * Ultra advanced Gradio app for JoyCaption Pre-Alpha and Alpha One with batch image captioning in addition to Multi-GPU support. 1-Click to install on Windows, RunPod and Massed Compute 
-
-### September 23 - 2024
-[ComfyUI, FaceID, IP-Adapter, InsightFace Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
-* 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto download best SDXL and SD 1.5 models and auto installs ComfyUI manager, FaceID, InsightFace and Ip Adapter of ComfyUI. Also includes automatic downloader.py file to download all of the IP Adapter, InsightFace and FaceID models for you.
 
 ### September 21 - 2024
 [FaceFusion V3 (Most Advanced 1-Click DeepFake) 1-Click Installers for Windows, RunPod and Massed Compute - Use locally and cloud](https://www.patreon.com/posts/103765029)
