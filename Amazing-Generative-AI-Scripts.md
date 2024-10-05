@@ -28,6 +28,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## How to Set Both System Path Variable and User Path Variable Via .bat File Automatically
+
+* Windows_Fix_cuDNN_Errors_Run_As_Administrator.bat does that so it is an example code
+* https://www.patreon.com/posts/103765029
+
 ## How to Install cuDNN 9.4 Files Directly via Pip Install
 
 * This method can be used to install any cuDNN files directly into venv
