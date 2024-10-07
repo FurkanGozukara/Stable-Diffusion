@@ -47,6 +47,14 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### October 7 - 2024
+[Kohya FLUX Fine Tuning (Full Checkpoints) Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/112099700)
+* Fully researched and optimized very best full FLUX Fine tuning configurations and workflows that works way better than FLUX LoRA training. Perfectly trainable on 6 GB, 8 GB, 10 GB, 12 GB, 16 GB, 24 GB and 48 GB GPUs. 48 GB GPU config and 6 GB GPU config yields exactly same quality only speed is different.
+
+### October 7 - 2024
+[Kohya FLUX LoRA Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/110879657)
+* Step by step with perfect hyper parameters and configuration Kohya FLUX LoRA training tutorial with configs for 8GB, 10GB, 12GB, 16GB, 24GB and 48GB GPUs. It works perfect on all these GPUs both on Windows and on Linux. It covers Cloud services as RunPod and Massed Compute as well. This tutorial is research result of more than 64 full Kohya SS GUI used FLUX LoRA trainings
+
 ### October 5 - 2024
 [FaceFusion V3 (Most Advanced 1-Click DeepFake) 1-Click Installers for Windows, RunPod and Massed Compute - Use locally and cloud](https://www.patreon.com/posts/103765029)
 * FaceFusion 3 Windows (local), RunPod and Massed Compute (Cloud) 1-Click installers. Install and run with easiness. The best DeepFake APP
@@ -78,14 +86,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### September 17 - 2024
 [IC-Light (Most Advanced 1-Click Relight / Re-Light) 1-Click Installer for Windows, RunPod, Massed Compute & Kaggle Notebook](https://www.patreon.com/posts/103894969)
 * 1-click auto installer scripts for IC-Light (Re-Light / Relight any image) for Windows, Massed Compute, RunPod, Linux and a free Kaggle Notebook
-
-### September 17 - 2024
-[Kohya FLUX Fine Tuning (Full Checkpoints) Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/112099700)
-* Fully researched and optimized very best full FLUX Fine tuning configurations and workflows that works way better than FLUX LoRA training. Perfectly trainable on 24 and 16 GB GPUs, but we have configs for 48 GB GPUs or Multi-GPU as well.
-
-### September 17 - 2024
-[Kohya FLUX LoRA Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/110879657)
-* Step by step with perfect hyper parameters and configuration Kohya FLUX LoRA training tutorial with configs for 8GB, 10GB, 12GB, 16GB, 24GB and 48GB GPUs. It works perfect on all these GPUs both on Windows and on Linux. It covers Cloud services as RunPod and Massed Compute as well. This tutorial is research result of more than 64 full Kohya SS GUI used FLUX LoRA trainings
 
 ### September 16 - 2024
 [Ultimate Batch Image Pre-Processing Gradio APP for Windows and Cloud (RunPod , Massed Compute) With Yolo Models - 1-Click To Install And Use](https://www.patreon.com/posts/112126955)
