@@ -47,6 +47,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### October 23 - 2024
+[SwarmUI Easy Ultra Fast and Robust Unified Downloader for Stable Diffusion 3.5, FLUX, SDXL and SD 1.5](https://www.patreon.com/posts/114517862)
+* Download the very best Stable Diffusion Large 3.5, FLUX, SDXL and SD 1.5 models into the accurate SwarmUI folders with 1-click and ultra fast and robustness.
+
 ### October 17 - 2024
 [Ultimate Batch Image Pre-Processing Gradio APP for Windows and Cloud (RunPod , Massed Compute) With Yolo Models - 1-Click To Install And Use](https://www.patreon.com/posts/112126955)
 * If you want to batch pre-process your training images, like auto zoom subject and resize perfectly into exact resolution, this is the script you need. 1-Click to install and use on Windows, RunPod and Massed Compute. The app is a Gradio APP and uses very best Yolo V10 and Yolo V9 face models
