@@ -48,6 +48,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ## Patreon Exclusive Content 
 
 ### October 26 - 2024
+[Invoke AI Latest Version Windows, RunPod and Massed Compute 1-Click Installers](https://www.patreon.com/posts/112912425)
+* 1-Click to install latest version of InvokeAI on your Windows computer, on RunPod and on Massed Compute with a super detailed and easy Tutorial video and written scripts. This zip file also has instructions to use the Invoke AI on your Windows Computer browser while running on Massed Compute securely by using PowerShell commands.
+
+### October 26 - 2024
 [Free Kaggle Account Notebook for SwarmUI with FLUX, SD 1.5, SDXL & Stable Diffusion 3.5 Large and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
 * Use very advanced SwarmUI on a free Kaggle account for free with dual T4 GPU. Fully supports SD 1.5, SDXL, SD3, FLUX, Stable Diffusion 3.5 Large, Stable Cascade and more
 
@@ -78,10 +82,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### October 2 - 2024
 [SOTA Image Captioning Scripts For Stable Diffusion: CogVLM, CogVLM V2, Kosmos-2, Qwen-VL, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)](https://www.patreon.com/posts/sota-image-for-2-90744385)
 * 1-Click installers for Windows and Cloud (RunPod & Massed Compute) collection for LLaVA, Kosmos-2, Blip 2, CLIP Vision, CogVLM V1, CogVLM V2,  Qwen-VL and CLIP Interrogator web APP. All APPs supports batch captioning as well. Amazing fast and easy to use with Gradio.
-
-### September 28 - 2024
-[Invoke AI Latest Version Windows, RunPod and Massed Compute 1-Click Installers](https://www.patreon.com/posts/112912425)
-* 1-Click to install latest version of InvokeAI on your Windows computer, on RunPod and on Massed Compute with a super detailed and easy Tutorial video and written scripts. This zip file also has instructions to use the Invoke AI on your Windows Computer browser while running on Massed Compute securely by using PowerShell commands.
 
 ### September 27 - 2024
 [1-Click CogVideoX-5b Image to Video Installers For Windows, RunPod, Massed Compute - SOTA Open Source Model](https://www.patreon.com/posts/112848192)
