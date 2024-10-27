@@ -28,6 +28,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## How to Install CUDA 12.4 and set as default - easy - also installs cuDNN latest and works with LivePortrait XPose/models/UniPose local building
+
+* Massed_Compute_Install.sh file has it with sudo
+* Patreon post : https://www.patreon.com/posts/107609670
+
 ## How to Set Both System Path Variable and User Path Variable Via .bat File Automatically
 
 * Windows_Fix_cuDNN_Errors_Run_As_Administrator.bat does that so it is an example code
