@@ -48,7 +48,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ## Patreon Exclusive Content 
 
 ### October 30 - 2024
-[Perfect Quality Example Model Training Images Dataset - Can Be Used On FLUX, Stable Diffusion 3.5, 3, SDXL, SD 1.5 and Such](https://www.patreon.com/posts/105123768)
+[FLUX De-Distilled and Anti-Bleeding Fine-Tuning / DreamBooth & LoRA Training Experiments - Also Testing CFG Impact for Stylized Images](https://www.patreon.com/posts/114969137)
+* Research for fixing FLUX bleeding / mixing problem. Training multiple concepts / subjects. Searching and Testing FLUX De-Distilled models. Aim is preventing model turning entirely into you or training multiple styles, objects, person, items, products at once without getting mixed / bled. 
+
+### October 30 - 2024
+[Perfect Quality Example Model Training Images Dataset - Can Be Used On FLUX, Stable Diffusion 3.5, 3, SDXL, SD 1.5 and Such](https://www.patreon.com/posts/114972274)
 * If you are looking for an example model training dataset that is properly prepared, to learn how to prepare and test, this is the dataset! You can use this dataset to train your SD 1.5, SDXL, FLUX, Stable Diffusion 3, Stable Diffusion 3.5 Large models and see how it performs. You can analze this dataset and read the post to understand how to generate your perfect dataset for not only training a person but also a style, an item, and object and such.
 
 ### October 29 - 2024
