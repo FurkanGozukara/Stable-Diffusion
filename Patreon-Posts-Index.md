@@ -47,6 +47,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### October 31 - 2024
+[SwarmUI Easy Ultra Fast and Robust Unified Downloader for Stable Diffusion 3.5, FLUX, SDXL and SD 1.5](https://www.patreon.com/posts/114517862)
+* Download the very best Stable Diffusion Large 3.5, FLUX, SDXL and SD 1.5 models into the accurate SwarmUI folders with 1-click and ultra fast and robustness.
+
 ### October 30 - 2024
 [FLUX De-Distilled and Anti-Bleeding Fine-Tuning / DreamBooth & LoRA Training Experiments - Also Testing CFG Impact for Stylized Images](https://www.patreon.com/posts/114969137)
 * Research for fixing FLUX bleeding / mixing problem. Training multiple concepts / subjects. Searching and Testing FLUX De-Distilled models. Aim is preventing model turning entirely into you or training multiple styles, objects, person, items, products at once without getting mixed / bled. 
@@ -74,10 +78,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### October 26 - 2024
 [Free Kaggle Account Notebook for SwarmUI with FLUX, SD 1.5, SDXL & Stable Diffusion 3.5 Large and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
 * Use very advanced SwarmUI on a free Kaggle account for free with dual T4 GPU. Fully supports SD 1.5, SDXL, SD3, FLUX, Stable Diffusion 3.5 Large, Stable Cascade and more
-
-### October 23 - 2024
-[SwarmUI Easy Ultra Fast and Robust Unified Downloader for Stable Diffusion 3.5, FLUX, SDXL and SD 1.5](https://www.patreon.com/posts/114517862)
-* Download the very best Stable Diffusion Large 3.5, FLUX, SDXL and SD 1.5 models into the accurate SwarmUI folders with 1-click and ultra fast and robustness.
 
 ### October 17 - 2024
 [Ultimate Batch Image Pre-Processing Gradio APP for Windows and Cloud (RunPod , Massed Compute) With Yolo Models - 1-Click To Install And Use](https://www.patreon.com/posts/112126955)
