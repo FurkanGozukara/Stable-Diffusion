@@ -47,7 +47,15 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
-### October 1 - 2024
+### November 3 - 2024
+[OmniGen 1-Click Automatic Installers for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/115233922)
+* 1-Click Python venv installers for OmniGen. The installers support Windows (use locally), RunPod and Massed Compute (use on cloud). OmniGen is a unified image generation model that can generate a wide range of images from multi-modal prompts. It is designed to be simple, flexible, and easy to use
+
+### November 3 - 2024
+[Ultimate Batch Image Pre-Processing Gradio APP for Windows and Cloud (RunPod , Massed Compute) With Yolo Models - 1-Click To Install And Use](https://www.patreon.com/posts/112126955)
+* If you want to batch pre-process your training images, like auto zoom subject and resize perfectly into exact resolution, this is the script you need. 1-Click to install and use on Windows, RunPod and Massed Compute. The app is a Gradio APP and uses very best Yolo V10 and Yolo V9 face models
+
+### November 1 - 2024
 [Perfect Quality Example Model Training Images Dataset - Can Be Used On FLUX, Stable Diffusion 3.5, 3, SDXL, SD 1.5 and Such](https://www.patreon.com/posts/114972274)
 * If you are looking for an example model training dataset that is properly prepared, to learn how to prepare and test, this is the dataset! You can use this dataset to train your SD 1.5, SDXL, FLUX, Stable Diffusion 3, Stable Diffusion 3.5 Large models and see how it performs. You can analze this dataset and read the post to understand how to generate your perfect dataset for not only training a person but also a style, an item, and object and such.
 
@@ -86,10 +94,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### October 26 - 2024
 [Free Kaggle Account Notebook for SwarmUI with FLUX, SD 1.5, SDXL & Stable Diffusion 3.5 Large and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
 * Use very advanced SwarmUI on a free Kaggle account for free with dual T4 GPU. Fully supports SD 1.5, SDXL, SD3, FLUX, Stable Diffusion 3.5 Large, Stable Cascade and more
-
-### October 17 - 2024
-[Ultimate Batch Image Pre-Processing Gradio APP for Windows and Cloud (RunPod , Massed Compute) With Yolo Models - 1-Click To Install And Use](https://www.patreon.com/posts/112126955)
-* If you want to batch pre-process your training images, like auto zoom subject and resize perfectly into exact resolution, this is the script you need. 1-Click to install and use on Windows, RunPod and Massed Compute. The app is a Gradio APP and uses very best Yolo V10 and Yolo V9 face models
 
 ### October 14 - 2024
 [Kohya FLUX Fine Tuning (Full Checkpoints) Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/112099700)
