@@ -36,6 +36,8 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 * [How to Extract LoRA from FLUX Fine Tuning / DreamBooth Training Full Tutorial and Comparison Between Fine Tuning vs Extraction vs LoRA Training](https://www.patreon.com/posts/112335162)
 
+* [How to Convert Your Trained FLUX, Stable Diffusion 3.5, SDXL and Other LoRAs Into FP8 and FP16 to Save Huge Space With Kohya GUI](https://www.patreon.com/posts/115376830)
+
 * [Solving CUDA and C++ Tools Compiling Errors Once and For All for Python AI Applications](https://www.patreon.com/posts/111553210)
 * * If you are using AI applications and installed software like InsightFace, XPose which you need to compile on your PC, you know that accurate CUDA and C++ tools is a nightmare. This post will help you to understand the fundamental concepts and fix your issues.
  
