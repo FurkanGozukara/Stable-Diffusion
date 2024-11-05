@@ -49,6 +49,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### November 6 - 2024
+[1-Click Automatic Installers for Hunyuan3D-1 Text to 3D and Image to 3D SOTA Model, Install on Windows, RunPod and Massed Compute](https://www.patreon.com/posts/115412205)
+* 1-Click Python venv installers for Hunyuan3D-1.0. The installers support Windows (use locally - works on 24 GB GPUs super fast tested on RTX 3090), RunPod and Massed Compute (use on cloud). Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generationr : https://github.com/tencent/Hunyuan3D-1
+
 ### November 3 - 2024
 [OmniGen 1-Click Automatic Installers for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/115233922)
 * 1-Click Python venv installers for OmniGen. The installers support Windows (use locally), RunPod and Massed Compute (use on cloud). OmniGen is a unified image generation model that can generate a wide range of images from multi-modal prompts. It is designed to be simple, flexible, and easy to use
