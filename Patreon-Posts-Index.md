@@ -49,6 +49,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### November 7 - 2024
+[SwarmUI Easy Ultra Fast and Robust Unified Downloader for Stable Diffusion 3.5, FLUX, Mochi 1, SDXL and SD 1.5](https://www.patreon.com/posts/114517862)
+* Download the very best Stable Diffusion Large 3.5, FLUX, SDXL, Mochi 1 (SOTA text-to-video) and SD 1.5 models into the accurate SwarmUI folders with 1-click and ultra fast and robustness.
+
 ### November 6 - 2024
 [1-Click Automatic Installers for Hunyuan3D-1 Text to 3D and Image to 3D SOTA Model, Install on Windows, RunPod and Massed Compute](https://www.patreon.com/posts/115412205)
 * 1-Click Python venv installers for Hunyuan3D-1.0. The installers support Windows (use locally - works on 24 GB GPUs super fast tested on RTX 3090), RunPod and Massed Compute (use on cloud). Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generationr : https://github.com/tencent/Hunyuan3D-1
@@ -76,10 +80,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### October 31 - 2024
 [Virtual Try-on (IDM-VTON) 1 Click Installers - Try Any Clothing Immediately On Anyone](https://www.patreon.com/posts/103022942)
 * 1 Click installers (Windows, RunPod, Massed Compute, Linux, Kaggle Notebook) for IDM-VTON (Improving Diffusion Models for Authentic Virtual Try-on in the Wild). Click to install and start using
-
-### October 31 - 2024
-[SwarmUI Easy Ultra Fast and Robust Unified Downloader for Stable Diffusion 3.5, FLUX, SDXL and SD 1.5](https://www.patreon.com/posts/114517862)
-* Download the very best Stable Diffusion Large 3.5, FLUX, SDXL and SD 1.5 models into the accurate SwarmUI folders with 1-click and ultra fast and robustness.
 
 ### October 29 - 2024
 [Most Advanced 1-Click DeepFake / FaceSwap App Rope, Rope Live and Rope NEXT Installers for Windows and Massed Compute and Linux](https://www.patreon.com/posts/105123768)
