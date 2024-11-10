@@ -590,3 +590,8 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/n_k1iX-Aa4nliLe_wGwhB.png)](https://youtu.be/FvpWy1x5etM)
 
+92.) Free - Windows and Cloud
+
+### [**Stable Diffusion 3.5 Large How To Use Tutorial With Best Configuration and Comparison With FLUX DEV**](https://youtu.be/-zOKhoO9a5s)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/tQthJqElQ4AsBmCFFnh57.png)](https://youtu.be/-zOKhoO9a5s)
