@@ -595,3 +595,9 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**Stable Diffusion 3.5 Large How To Use Tutorial With Best Configuration and Comparison With FLUX DEV**](https://youtu.be/-zOKhoO9a5s)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/tQthJqElQ4AsBmCFFnh57.png)](https://youtu.be/-zOKhoO9a5s)
+
+93.) Free - Windows and Cloud
+
+### [**How To Use Mochi 1 Open Source Video Generation Model On Your Windows PC, RunPod and Massed Compute**](https://youtu.be/iqBV7bCbDJY)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/_n6EeRn1P_HoBhwXhuP_E.png)](https://youtu.be/iqBV7bCbDJY)
