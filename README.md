@@ -583,3 +583,10 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**How To Enable VPN For Only A Single APP With Cloudflare Zero Trust Free Warp VPN - Split Tunneling**](https://youtu.be/0RSaYlmmblc)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/iKA3jnK8_jXZPD800OlB6.png)](https://youtu.be/0RSaYlmmblc)
+
+91.) Free - Windows and Cloud
+
+### [**FLUX Full Fine-Tuning / DreamBooth Training Master Tutorial for Windows, RunPod & Massed Compute**](https://youtu.be/FvpWy1x5etM)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/n_k1iX-Aa4nliLe_wGwhB.png)](https://youtu.be/FvpWy1x5etM)
+
