@@ -571,3 +571,9 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**How to Install Python, CUDA, cuDNN, C++ Build Tools, FFMPEG & Git Tutorial for AI Applications**](https://youtu.be/DrhUHnYfwC0)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/hchc2xHcOkF2VX-wBh0tW.png)](https://youtu.be/DrhUHnYfwC0)
+
+89.) Paid - Cloud
+
+### [**How to Use MimicPC Full Tutorial - Run Best AI APPs in Your Browser Through MimicPC Servers**](https://youtu.be/URnOHbmuKWs)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/JmXaFHnVYr3GsykKz8xlB.png)](https://youtu.be/URnOHbmuKWs)
