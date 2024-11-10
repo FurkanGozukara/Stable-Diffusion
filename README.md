@@ -577,3 +577,9 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**How to Use MimicPC Full Tutorial - Run Best AI APPs in Your Browser Through MimicPC Servers**](https://youtu.be/URnOHbmuKWs)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/JmXaFHnVYr3GsykKz8xlB.png)](https://youtu.be/URnOHbmuKWs)
+
+90.) Free - All Platforms
+
+### [**How To Enable VPN For Only A Single APP With Cloudflare Zero Trust Free Warp VPN - Split Tunneling**](https://youtu.be/0RSaYlmmblc)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/iKA3jnK8_jXZPD800OlB6.png)](https://youtu.be/0RSaYlmmblc)
