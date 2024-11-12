@@ -28,6 +28,13 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## Uber Fast Hugging Face Repo Model Downloading Scripts - Single File Unlimited Speed
+
+* Normally downloads from Hugging Face repos are limited to 40 MB per second
+* With the strategy used in download models script in the below post attached zip file, you can download model from Hugging Face Ultra fast without any speed limitation
+* Kohya FLUX Fine Tuning (Full Checkpoints) Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute
+* Patreon post : https://www.patreon.com/posts/112099700
+
 ## WGET Alternative Very Fast Downloader Scripts Single Line - Multiple Connection wget
 
 * The attached Kaggle notebook is using this special strategy to download models uber fast on Kaggle
