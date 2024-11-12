@@ -49,6 +49,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### November 11 - 2024
+[Free Kaggle Account Notebook for SwarmUI with FLUX, SD 1.5, SDXL & Stable Diffusion 3.5 Large and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
+* Use very advanced SwarmUI on a free Kaggle account for free with dual T4 GPU. Fully supports SD 1.5, SDXL, SD3, FLUX, Stable Diffusion 3.5 Large, Stable Cascade and more
+
 ### November 8 - 2024
 [A Kaggle Notebook to Train Stable Diffusion 1.5 and XL (SDXL) on a Free Kaggle Account with 2x Dual T4 GPU for free by using Kohya GUI](https://www.patreon.com/posts/88397937)
 * A Kaggle NoteBook to do Stable Diffusion 1.5 and XL (SDXL) training. Fully supports 2x T4 dual GPU to speed up training. Kohya GUI is used to do DreamBooth / Fine-Tuning and LoRA Trainings.
@@ -100,10 +104,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### October 26 - 2024
 [Invoke AI Latest Version Windows, RunPod and Massed Compute 1-Click Installers](https://www.patreon.com/posts/112912425)
 * 1-Click to install latest version of InvokeAI on your Windows computer, on RunPod and on Massed Compute with a super detailed and easy Tutorial video and written scripts. This zip file also has instructions to use the Invoke AI on your Windows Computer browser while running on Massed Compute securely by using PowerShell commands.
-
-### October 26 - 2024
-[Free Kaggle Account Notebook for SwarmUI with FLUX, SD 1.5, SDXL & Stable Diffusion 3.5 Large and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
-* Use very advanced SwarmUI on a free Kaggle account for free with dual T4 GPU. Fully supports SD 1.5, SDXL, SD3, FLUX, Stable Diffusion 3.5 Large, Stable Cascade and more
 
 ### October 14 - 2024
 [Kohya FLUX Fine Tuning (Full Checkpoints) Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/112099700)
