@@ -28,6 +28,13 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## WGET Alternative Very Fast Downloader Scripts Single Line - Multiple Connection WGET
+
+* The attached Kaggle notebook is using this special strategy to download models uber fast on Kaggle
+* Would work on every platform
+* Free Kaggle Account Notebook for SwarmUI with FLUX, SD 1.5, SDXL & Stable Diffusion 3.5 Large and Dual T4 GPU support
+* Patreon post : https://www.patreon.com/posts/106650931
+
 ## How to Install CUDA 12.4 and set as default - easy - also installs cuDNN latest and works with LivePortrait XPose/models/UniPose local building
 
 * Massed_Compute_Install.sh file has it with sudo
