@@ -28,7 +28,7 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
-## WGET Alternative Very Fast Downloader Scripts Single Line - Multiple Connection WGET
+## WGET Alternative Very Fast Downloader Scripts Single Line - Multiple Connection wget
 
 * The attached Kaggle notebook is using this special strategy to download models uber fast on Kaggle
 * Would work on every platform
