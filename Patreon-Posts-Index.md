@@ -49,6 +49,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### November 16 - 2024
+[1-Click Windows, RunPod, Massed Compute and Kaggle Installers For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/89914747)
+* 1-Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On Your Computer With SDXL. We have 1-Click installers for Windows, RunPod, Massed Compute and a ready to run Kaggle Notebook with super model downloading improvement technique as well.
+
 ### November 13 - 2024
 [EasyAnimate 1-Click Install Windows, RunPod and Massed Compuıte, Newest SOTA Local Open Source Image-to-Video, Text-to-Video and More](https://www.patreon.com/posts/106650931)
 * 1-Click Installers for EasyAnimate. It is literally Runway but Open Source and FREE, Text-to-Video, Image-to-Video (both beginning and ending frame), Video-to-Video, Works on 24 GB GPUs on Windows, supports 960px resolution, supports very long videos with Overlap. Install on Windows, RunPod and Massed Compute
@@ -260,14 +264,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### March 22 - 2024
 [The Very Best OneTrainer Workflow & Config For SD 1.5 Based Models DreamBooth / Full Fine Tuning](https://www.patreon.com/posts/very-best-config-97381002)
 * Download the very best training configuration and learn the workflow for the OneTraine GUI Stable Diffusion trainer & obtain amazing quality. The workflow is discovered after 70 empricial model trainings.
-
-### March 20 - 2024
-[Auto RunPod Installer For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/auto-runpod-for-89919157)
-* 1 Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On RunPod With SDXL
-
-### March 20 - 2024
-[Auto Windows Installer & Free Kaggle Notebook For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/auto-windows-for-89914747)
-* 1 Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On Your Computer With SDXL and also Kaggle Notebook to use it on Kaggle for free
 
 ### March 20 - 2024
 [Bit-By-Bit Disk & File Verification Software In C#, Fully Multi-Threaded, With Full Source Code - Verify Disk Clone](https://www.patreon.com/posts/76398813)
