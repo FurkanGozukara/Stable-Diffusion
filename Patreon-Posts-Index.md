@@ -50,6 +50,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ## Patreon Exclusive Content 
 
 ### November 17 - 2024
+[Kohya FLUX Fine Tuning (Full Checkpoints) Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/112099700)
+* Fully researched and optimized very best full FLUX Fine tuning configurations and workflows that works way better than FLUX LoRA training. Perfectly trainable on 6 GB, 8 GB, 10 GB, 12 GB, 16 GB, 24 GB and 48 GB GPUs. 48 GB GPU config and 6 GB GPU config yields exactly same quality only speed is different.
+
+### November 17 - 2024
 [Kohya FLUX LoRA Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/110879657)
 * Step by step with perfect hyper parameters and configuration Kohya FLUX LoRA training tutorial with configs for 8GB, 10GB, 12GB, 16GB, 24GB and 48GB GPUs. It works perfect on all these GPUs both on Windows and on Linux. It covers Cloud services as RunPod and Massed Compute as well. This tutorial is research result of more than 64 full Kohya SS GUI used FLUX LoRA trainings
 
@@ -116,10 +120,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### October 26 - 2024
 [Invoke AI Latest Version Windows, RunPod and Massed Compute 1-Click Installers](https://www.patreon.com/posts/112912425)
 * 1-Click to install latest version of InvokeAI on your Windows computer, on RunPod and on Massed Compute with a super detailed and easy Tutorial video and written scripts. This zip file also has instructions to use the Invoke AI on your Windows Computer browser while running on Massed Compute securely by using PowerShell commands.
-
-### October 14 - 2024
-[Kohya FLUX Fine Tuning (Full Checkpoints) Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/112099700)
-* Fully researched and optimized very best full FLUX Fine tuning configurations and workflows that works way better than FLUX LoRA training. Perfectly trainable on 6 GB, 8 GB, 10 GB, 12 GB, 16 GB, 24 GB and 48 GB GPUs. 48 GB GPU config and 6 GB GPU config yields exactly same quality only speed is different.
 
 ### October 5 - 2024
 [FaceFusion V3 (Most Advanced 1-Click DeepFake) 1-Click Installers for Windows, RunPod and Massed Compute - Use locally and cloud](https://www.patreon.com/posts/103765029)
