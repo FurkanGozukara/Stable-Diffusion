@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### November 25 - 2024
+[FaceFusion V3 (Most Advanced 1-Click DeepFake) 1-Click Installers for Windows, RunPod and Massed Compute - Use locally and cloud](https://www.patreon.com/posts/103765029)
+* FaceFusion 3 Windows (local), RunPod and Massed Compute (Cloud) 1-Click installers. Install and run with easiness. The best DeepFake APP
+
 ### November 22 - 2024
 [From NVIDIA Labs SANA Text-to-Image Model 1-Click Installers for Windows, RunPod, Massed Compute and Free Kaggle Account](https://www.patreon.com/posts/116474081)
 * 1-Click installers for NVIDIA Labs SANA (Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer) model with an amazing Gradio APP developed by SECourses. Windows, RunPod, Massed Compute and Kaggle. Pretty lighweight and fast model to use.
@@ -126,10 +130,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### October 26 - 2024
 [Invoke AI Latest Version Windows, RunPod and Massed Compute 1-Click Installers](https://www.patreon.com/posts/112912425)
 * 1-Click to install latest version of InvokeAI on your Windows computer, on RunPod and on Massed Compute with a super detailed and easy Tutorial video and written scripts. This zip file also has instructions to use the Invoke AI on your Windows Computer browser while running on Massed Compute securely by using PowerShell commands.
-
-### October 5 - 2024
-[FaceFusion V3 (Most Advanced 1-Click DeepFake) 1-Click Installers for Windows, RunPod and Massed Compute - Use locally and cloud](https://www.patreon.com/posts/103765029)
-* FaceFusion 3 Windows (local), RunPod and Massed Compute (Cloud) 1-Click installers. Install and run with easiness. The best DeepFake APP
 
 ### October 3 - 2024
 [ComfyUI, FaceID, IP-Adapter, InsightFace Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
