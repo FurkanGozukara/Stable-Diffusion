@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### November 28 - 2024
+[JoyCaption : Amazing Image Captioner - Batch Processing and Multi-GPU - Windows, RunPod, Massed Compute 1-Click Installers](https://www.patreon.com/posts/110613301)
+* Ultra advanced Gradio app for JoyCaption Pre-Alpha and Alpha One with batch image captioning in addition to Multi-GPU support. 1-Click to install on Windows, RunPod and Massed Compute 
+
 ### November 26 - 2024
 [Free Kaggle Account Notebook for SwarmUI with FLUX, SD 1.5, SDXL & Stable Diffusion 3.5 Large and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
 * Use very advanced SwarmUI on a free Kaggle account for free with dual T4 GPU. Fully supports SD 1.5, SDXL, SD3, FLUX, FLUX Tools (Redux, Canny, Depth, Inpainting), Stable Diffusion 3.5 Large, Stable Cascade and more
@@ -142,10 +146,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### September 27 - 2024
 [1-Click CogVideoX-5b Image to Video Installers For Windows, RunPod, Massed Compute - SOTA Open Source Model](https://www.patreon.com/posts/112848192)
 * 1-Click to install and use CogVideoX-5B SOTA image to guided video generation model on your PC locally or on RunPod and Massed Compute
-
-### September 23 - 2024
-[JoyCaption : Amazing Image Captioner - Batch Processing and Multi-GPU - Windows, RunPod, Massed Compute 1-Click Installers](https://www.patreon.com/posts/110613301)
-* Ultra advanced Gradio app for JoyCaption Pre-Alpha and Alpha One with batch image captioning in addition to Multi-GPU support. 1-Click to install on Windows, RunPod and Massed Compute 
 
 ### September 20 - 2024
 [Image Captioning Editor Gradio APP - Edit Your Captions Super Easy Including Batch Editing - For Windows, RunPod and Massed Compute](https://www.patreon.com/posts/108992085)
