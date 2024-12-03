@@ -601,3 +601,9 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**How To Use Mochi 1 Open Source Video Generation Model On Your Windows PC, RunPod and Massed Compute**](https://youtu.be/iqBV7bCbDJY)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/_n6EeRn1P_HoBhwXhuP_E.png)](https://youtu.be/iqBV7bCbDJY)
+
+94.) Free - Windows and Cloud
+
+### [**FLUX Tools Outpainting, Inpainting (Fill), Redux, Depth & Canny Ultimate Tutorial Guide with SwarmUI**](https://youtu.be/hewDdVJEqOQ)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/uktfY8N6AKf1RDF7ydP_f.png)](https://youtu.be/hewDdVJEqOQ)
