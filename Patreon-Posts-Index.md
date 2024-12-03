@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### December 4 - 2024
+[SwarmUI Master Tutorial - Use Stable Diffusion 3.5 Large and FLUX model with Amazing Performance and more](https://www.patreon.com/posts/106135985)
+* In this public tutorial post I will share all the necessary stuff regarding how to use SD 1.5, SDXL, Stable Diffusion 3, Stable Diffusion 3.5 Large and FLUX (by Black Forest Labs new SOTA model) on your computer and also on the cloud (Massed Compute, RunPod and a free Kaggle account).
+
 ### November 29 - 2024
 [From NVIDIA Labs SANA Text-to-Image Model 1-Click Installers for Windows, RunPod, Massed Compute and Free Kaggle Account](https://www.patreon.com/posts/116474081)
 * 1-Click installers for NVIDIA Labs SANA (Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer) model with an amazing Gradio APP developed by SECourses. Windows, RunPod, Massed Compute and Kaggle. Pretty lighweight and fast model to use.
@@ -130,10 +134,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### October 27 - 2024
 [1-Click Installers and Upgraded APP for LivePortrait - Blazing Fast Static Image or Video to Video to Talking and Moving Animation](https://www.patreon.com/posts/107609670)
 * 1-Click Installers and Upgraded Gradio app for Blazing Fast LivePortrait: Turn Static Images or Video to Video into Talking Animation
-
-### October 26 - 2024
-[SwarmUI Master Tutorial - Use Stable Diffusion 3.5 Large and FLUX model with Amazing Performance and more](https://www.patreon.com/posts/106135985)
-* In this public tutorial post I will share all the necessary stuff regarding how to use SD 1.5, SDXL, Stable Diffusion 3, Stable Diffusion 3.5 Large and FLUX (by Black Forest Labs new SOTA model) on your computer and also on the cloud (Massed Compute, RunPod and a free Kaggle account).
 
 ### October 26 - 2024
 [Invoke AI Latest Version Windows, RunPod and Massed Compute 1-Click Installers](https://www.patreon.com/posts/112912425)
