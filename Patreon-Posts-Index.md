@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### December 5 - 2024
+[Hugging Face Upload / Download Notebook - Supports Private Repositories and Multi Commit as Well](https://www.patreon.com/posts/104672510)
+* If you are looking for convenient and fast way to save and download your files from Hugging Face, this notebook will do the job. 1-click easy
+
 ### December 4 - 2024
 [SwarmUI Master Tutorial - Use Stable Diffusion 3.5 Large and FLUX model with Amazing Performance and more](https://www.patreon.com/posts/106135985)
 * In this public tutorial post I will share all the necessary stuff regarding how to use SD 1.5, SDXL, Stable Diffusion 3, Stable Diffusion 3.5 Large and FLUX (by Black Forest Labs new SOTA model) on your computer and also on the cloud (Massed Compute, RunPod and a free Kaggle account).
@@ -162,10 +166,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### September 13 - 2024
 [Training a FLUX LoRA with 256 Images Experiments - Full Workflow and Conclusions](https://www.patreon.com/posts/111891669)
 * Training a perfect FLUX LoRA that learns even broken teeth details, full body details, full expressions with 256 images experiments
-
-### August 27 - 2024
-[Hugging Face Upload / Download Notebook - Supports Private Repositories and Multi Commit as Well](https://www.patreon.com/posts/104672510)
-* If you are looking for convenient and fast way to save and download your files from Hugging Face, this notebook will do the job. 1-click easy
 
 ### August 27 - 2024
 [FLUX Models 1-Click Auto Downloaders for SwarmUI for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/109289967)
