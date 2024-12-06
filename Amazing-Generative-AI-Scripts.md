@@ -28,6 +28,13 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## Run Any Browser Accessible APP via Cloudflared 
+
+* With Cloudflared, for free, you can access any app that is running on a remote PC via your browser in your PC, Phone, Tablet, TV etc
+* Look at the Massed_Compute_Instructions_READ.txt and Massed_Compute_Install.sh to learn how to use Cloudflared amazing tunneling feature
+* Way better than ngrok and it is for free no bandwith limit 
+* Patreon post : https://www.patreon.com/posts/117326651
+
 ## Uber Fast Hugging Face Repo Model Downloading Scripts - Single File Unlimited Speed
 
 * Normally downloads from Hugging Face repos are limited to 40 MB per second
