@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### December 6 - 2024
+[MagicQuill 1-Click Installers for Windows, RunPod and Massed Compute - Amazing and Ultra Fast Inpaint Model](https://www.patreon.com/posts/117326651)
+* 1-Click Installer files for MagicQuill app to install on Windows, RunPod and Massed Compute : https://github.com/magic-quill/MagicQuill
+
 ### December 5 - 2024
 [Hugging Face Upload / Download Notebook - Supports Private Repositories and Multi Commit as Well](https://www.patreon.com/posts/104672510)
 * If you are looking for convenient and fast way to save and download your files from Hugging Face, this notebook will do the job. 1-click easy
