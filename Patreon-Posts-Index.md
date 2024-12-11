@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### December 11 - 2024
+[1-Click Automatic Installers for Hunyuan3D-1 Text to 3D and Image to 3D SOTA Model, Install on Windows, RunPod and Massed Compute](https://www.patreon.com/posts/115412205)
+* 1-Click Python venv installers for Hunyuan3D-1.0. The installers support Windows (use locally - works on 24 GB GPUs super fast tested on RTX 3090), RunPod and Massed Compute (use on cloud). Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generationr : https://github.com/tencent/Hunyuan3D-1
+
 ### December 9 - 2024
 [Ultimate Batch Image Pre-Processing Gradio APP for Windows and Cloud (RunPod , Massed Compute) With Yolo Models - 1-Click To Install And Use](https://www.patreon.com/posts/112126955)
 * If you want to batch pre-process your training images, like auto zoom subject and resize perfectly into exact resolution, this is the script you need. 1-Click to install and use on Windows, RunPod and Massed Compute. The app is a Gradio APP and uses very best Yolo V10 and Yolo V9 face models
@@ -110,10 +114,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### November 8 - 2024
 [A Kaggle Notebook to Train Stable Diffusion 1.5 and XL (SDXL) on a Free Kaggle Account with 2x Dual T4 GPU for free by using Kohya GUI](https://www.patreon.com/posts/88397937)
 * A Kaggle NoteBook to do Stable Diffusion 1.5 and XL (SDXL) training. Fully supports 2x T4 dual GPU to speed up training. Kohya GUI is used to do DreamBooth / Fine-Tuning and LoRA Trainings.
-
-### November 6 - 2024
-[1-Click Automatic Installers for Hunyuan3D-1 Text to 3D and Image to 3D SOTA Model, Install on Windows, RunPod and Massed Compute](https://www.patreon.com/posts/115412205)
-* 1-Click Python venv installers for Hunyuan3D-1.0. The installers support Windows (use locally - works on 24 GB GPUs super fast tested on RTX 3090), RunPod and Massed Compute (use on cloud). Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generationr : https://github.com/tencent/Hunyuan3D-1
 
 ### November 3 - 2024
 [OmniGen 1-Click Automatic Installers for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/115233922)
