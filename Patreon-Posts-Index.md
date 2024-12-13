@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### December 14 - 2024
+[ComfyUI, FaceID, IP-Adapter, InsightFace Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
+* 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto download best SDXL and SD 1.5 models and auto installs ComfyUI manager, FaceID, InsightFace and Ip Adapter of ComfyUI. Also includes automatic downloader.py file to download all of the IP Adapter, InsightFace and FaceID models for you.
+
 ### December 11 - 2024
 [1-Click Automatic Installers for Hunyuan3D-1 Text to 3D and Image to 3D SOTA Model, Install on Windows, RunPod and Massed Compute](https://www.patreon.com/posts/115412205)
 * 1-Click Python venv installers for Hunyuan3D-1.0. The installers support Windows (use locally - works on 24 GB GPUs super fast tested on RTX 3090), RunPod and Massed Compute (use on cloud). Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generationr : https://github.com/tencent/Hunyuan3D-1
@@ -146,10 +150,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### October 26 - 2024
 [Invoke AI Latest Version Windows, RunPod and Massed Compute 1-Click Installers](https://www.patreon.com/posts/112912425)
 * 1-Click to install latest version of InvokeAI on your Windows computer, on RunPod and on Massed Compute with a super detailed and easy Tutorial video and written scripts. This zip file also has instructions to use the Invoke AI on your Windows Computer browser while running on Massed Compute securely by using PowerShell commands.
-
-### October 3 - 2024
-[ComfyUI, FaceID, IP-Adapter, InsightFace Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
-* 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto download best SDXL and SD 1.5 models and auto installs ComfyUI manager, FaceID, InsightFace and Ip Adapter of ComfyUI. Also includes automatic downloader.py file to download all of the IP Adapter, InsightFace and FaceID models for you.
 
 ### October 2 - 2024
 [SOTA Image Captioning Scripts For Stable Diffusion: CogVLM, CogVLM V2, Kosmos-2, Qwen-VL, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)](https://www.patreon.com/posts/sota-image-for-2-90744385)
