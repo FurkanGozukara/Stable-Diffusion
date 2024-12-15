@@ -28,6 +28,13 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## TorchAudio compatiable FFmpeg and FFmpeg Tools Automatic Installer for Python VENVs on Windows
+* If you are having errors related torio package this is the scripts you need
+* This script has automatic downloaders and accurate folder installers for missing FFmpeg DLL files
+* This script solves the following errors
+* * ImportError: Failed to intialize FFmpeg extension. Tried versions: ['6', '5', '4', ''].
+* * File "venv\lib\site-packages\torio\_extension\utils.py", line 122, in _find_ffmpeg_extension
+
 ## Run Any Browser Accessible APP via Cloudflared 
 
 * With Cloudflared, for free, you can access any app that is running on a remote PC via your browser in your PC, Phone, Tablet, TV etc
