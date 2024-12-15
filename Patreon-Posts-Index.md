@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### December 15 - 2024
+[MMAudio 1-Click Installers for Windows, RunPod and Massed Compute - Generate Audio for Any Video - Amazing for AI Generated Videos](https://www.patreon.com/posts/117990364)
+* 1-Click installers to install MMAudio. This app is so lightweight and fast. Pretty much should work on every GPUs. I have also improved the official published Gradio app and added more features. MMAudio generates synchronized audio given video and/or text inputs. Our key innovation is multimodal joint training which allows training on a wide range of audio-visual and audio-text datasets. Moreover, a synchronization module aligns the generated audio with the video frames.
+
 ### December 14 - 2024
 [ComfyUI, FaceID, IP-Adapter, InsightFace Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
 * 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto download best SDXL and SD 1.5 models and auto installs ComfyUI manager, FaceID, InsightFace and Ip Adapter of ComfyUI. Also includes automatic downloader.py file to download all of the IP Adapter, InsightFace and FaceID models for you.
