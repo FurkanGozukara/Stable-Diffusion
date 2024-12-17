@@ -67,6 +67,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 [Ultimate Batch Image Pre-Processing Gradio APP for Windows and Cloud (RunPod , Massed Compute) With Yolo Models - 1-Click To Install And Use](https://www.patreon.com/posts/112126955)
 * If you want to batch pre-process your training images, like auto zoom subject and resize perfectly into exact resolution, this is the script you need. 1-Click to install and use on Windows, RunPod and Massed Compute. The app is a Gradio APP and uses very best Yolo V10 and Yolo V9 face models
 
+### December 7 - 2024
+[TRELLIS 1-Click Installers for Windows, RunPod, Massed Compute, New SOTA Image-to-3D Full Model - Mind Blowing](https://www.patreon.com/posts/117470976)
+* 1-Click installers to install TRELLIS on Windows, RunPod and Massed Compute. https://github.com/microsoft/TRELLIS. This is the SOTA model for image to full 3D generation and it is blazing fast
+
 ### December 6 - 2024
 [MagicQuill 1-Click Installers for Windows, RunPod and Massed Compute - Amazing and Ultra Fast Inpaint Model](https://www.patreon.com/posts/117326651)
 * 1-Click Installer files for MagicQuill app to install on Windows, RunPod and Massed Compute : https://github.com/magic-quill/MagicQuill
