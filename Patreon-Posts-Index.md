@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### December 20 - 2024
+[SUPIR 1 Click Windows, RunPod / Massed Compute / Linux Installer & Free Kaggle Notebook](https://www.patreon.com/posts/99176057)
+* 1 Click Windows and RunPod / Massed Compute / Linux Installer and a free Kaggle Notebook For The New SOTA Image Upscaling and Enhancing Open Source SUPIR Model. Better than Magnify AI. SUPIR is the very best AI image upscaler at the moment.
+
 ### December 15 - 2024
 [MMAudio 1-Click Installers for Windows, RunPod and Massed Compute - Generate Audio for Any Video - Amazing for AI Generated Videos](https://www.patreon.com/posts/117990364)
 * 1-Click installers to install MMAudio. This app is so lightweight and fast. Pretty much should work on every GPUs. I have also improved the official published Gradio app and added more features. MMAudio generates synchronized audio given video and/or text inputs. Our key innovation is multimodal joint training which allows training on a wide range of audio-visual and audio-text datasets. Moreover, a synchronization module aligns the generated audio with the video frames.
@@ -134,10 +138,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### November 1 - 2024
 [Perfect Quality Example Model Training Images Dataset - Can Be Used On FLUX, Stable Diffusion 3.5, 3, SDXL, SD 1.5 and Such](https://www.patreon.com/posts/114972274)
 * If you are looking for an example model training dataset that is properly prepared, to learn how to prepare and test, this is the dataset! You can use this dataset to train your SD 1.5, SDXL, FLUX, Stable Diffusion 3, Stable Diffusion 3.5 Large models and see how it performs. You can analze this dataset and read the post to understand how to generate your perfect dataset for not only training a person but also a style, an item, and object and such.
-
-### October 31 - 2024
-[SUPIR 1 Click Windows, RunPod / Massed Compute / Linux Installer & Free Kaggle Notebook](https://www.patreon.com/posts/99176057)
-* 1 Click Windows and RunPod / Massed Compute / Linux Installer and a free Kaggle Notebook For The New SOTA Image Upscaling and Enhancing Open Source SUPIR Model. Better than Magnify AI. SUPIR is the very best AI image upscaler at the moment.
 
 ### October 31 - 2024
 [FLUX De-Distilled and Anti-Bleeding Fine-Tuning / DreamBooth & LoRA Training Experiments - Also Testing CFG Impact for Stylized Images](https://www.patreon.com/posts/114969137)
