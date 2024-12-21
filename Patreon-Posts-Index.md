@@ -51,7 +51,7 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
-### August 22 - 2024
+### December 22 - 2024
 [Blazing Fast SD Forge Web UI Latest Version Windows, RunPod and Massed Compute Automatic Installers and Unified Model Downloaders for SD 1.5, SDXL, FLUX and More Newer Models](https://www.patreon.com/posts/118442039)
 * 1-Click to install latest SD Forge Web UI on Windows, RunPod and Massed Compute and download all of the amazing FLUX, SD 1.5, SDXL and SD3.5 and many more. Our installers and downloader scripts are super optmized that you will see even 1000 MB per second download speeds if your internet speed is sufficient.
 
