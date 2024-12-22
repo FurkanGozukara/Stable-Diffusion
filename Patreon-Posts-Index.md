@@ -52,6 +52,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ## Patreon Exclusive Content 
 
 ### December 22 - 2024
+[Ultra Advanced InstantID Gradio APP - Automatic Installers for Windows, RunPod and Massed Compute and Free Kaggle - Using the Very Best ControlNet Xinsir Models](https://www.patreon.com/posts/118469722)
+* Ultra advanced InstantID Gradio APP : 0-shot Identity-Preserving Generation in Seconds Gradio APP with latest best Xinsir ControlNet models. We have so many extra features compared to official InstantID APP plus we have 1-click very easy install on Windows, RunPod, Massed Compute and a free Kaggle Account notebook that works perfect
+
+### December 22 - 2024
 [Blazing Fast SD Forge Web UI Latest Version Windows, RunPod and Massed Compute Automatic Installers and Unified Model Downloaders for SD 1.5, SDXL, FLUX and More Newer Models](https://www.patreon.com/posts/118442039)
 * 1-Click to install latest SD Forge Web UI on Windows, RunPod and Massed Compute and download all of the amazing FLUX, SD 1.5, SDXL and SD3.5 and many more. Our installers and downloader scripts are super optmized that you will see even 1000 MB per second download speeds if your internet speed is sufficient.
 
@@ -286,10 +290,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### March 20 - 2024
 [Bit-By-Bit Disk & File Verification Software In C#, Fully Multi-Threaded, With Full Source Code - Verify Disk Clone](https://www.patreon.com/posts/76398813)
 * This in C# developed application is extremely efficient to verify every bit of cloned disks. It can be also used for file migration/backup verification. Full source code available with pre-compiled exe file. It is fully multi-threaded. 
-
-### March 18 - 2024
-[1 Click Automatic Installer & A Very Advanced GUI For InstantId For Windows, RunPod, Linux & Kaggle Notebook](https://www.patreon.com/posts/1-click-very-gui-97769887)
-* Advanced Gradio Web UI & Automatic Installers For Windows, RunPod, Kaggle & Linux For InstantID: Zero-shot Identity-Preserving Generation in Seconds
 
 ### Feburary 15 - 2024
 [1 Click Auto Windows Installer For Rerender A Video - 1 Click Video To Anime](https://www.patreon.com/posts/89457537)
