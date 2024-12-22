@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### November 23 - 2024
+[SwarmUI Easy Ultra Fast and Robust Unified Downloader for Stable Diffusion 3.5, FLUX, Mochi 1, SDXL and SD 1.5](https://www.patreon.com/posts/114517862)
+* Download the very best Stable Diffusion Large 3.5, FLUX, SDXL, Mochi 1 (SOTA text-to-video), FLUX Tools (Inpainting, Outpainting, Canny, Depth, Redux), Latent Upscaler Models like ESGRAN, Improved new Clip-l that works better and SD 1.5 models into the accurate SwarmUI folders with 1-click and ultra fast and robustness.
+
 ### December 22 - 2024
 [Ultra Advanced InstantID Gradio APP - Automatic Installers for Windows, RunPod and Massed Compute and Free Kaggle - Using the Very Best ControlNet Xinsir Models](https://www.patreon.com/posts/118469722)
 * Ultra advanced InstantID Gradio APP : 0-shot Identity-Preserving Generation in Seconds Gradio APP with latest best Xinsir ControlNet models. We have so many extra features compared to official InstantID APP plus we have 1-click very easy install on Windows, RunPod, Massed Compute and a free Kaggle Account notebook that works perfect
@@ -110,10 +114,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### November 26 - 2024
 [Free Kaggle Account Notebook for SwarmUI with FLUX, SD 1.5, SDXL & Stable Diffusion 3.5 Large and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
 * Use very advanced SwarmUI on a free Kaggle account for free with dual T4 GPU. Fully supports SD 1.5, SDXL, SD3, FLUX, FLUX Tools (Redux, Canny, Depth, Inpainting), Stable Diffusion 3.5 Large, Stable Cascade and more
-
-### November 25 - 2024
-[SwarmUI Easy Ultra Fast and Robust Unified Downloader for Stable Diffusion 3.5, FLUX, Mochi 1, SDXL and SD 1.5](https://www.patreon.com/posts/114517862)
-* Download the very best Stable Diffusion Large 3.5, FLUX, SDXL, Mochi 1 (SOTA text-to-video), FLUX Tools (Inpainting, Outpainting, Canny, Depth, Redux) and SD 1.5 models into the accurate SwarmUI folders with 1-click and ultra fast and robustness.
 
 ### November 25 - 2024
 [FaceFusion V3 (Most Advanced 1-Click DeepFake) 1-Click Installers for Windows, RunPod and Massed Compute - Use locally and cloud](https://www.patreon.com/posts/103765029)
