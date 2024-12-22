@@ -51,17 +51,17 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
-### November 23 - 2024
+### December 23 - 2024
+[Blazing Fast SD Forge Web UI Latest Version Windows, RunPod and Massed Compute Automatic Installers and Unified Model Downloaders for SD 1.5, SDXL, FLUX and More Newer Models](https://www.patreon.com/posts/118442039)
+* 1-Click to install latest SD Forge Web UI on Windows, RunPod and Massed Compute and download all of the amazing FLUX, SD 1.5, SDXL and SD3.5 and many more. Our installers and downloader scripts are super optmized that you will see even 1000 MB per second download speeds if your internet speed is sufficient.
+
+### December 23 - 2024
 [SwarmUI Easy Ultra Fast and Robust Unified Downloader for Stable Diffusion 3.5, FLUX, Mochi 1, SDXL and SD 1.5](https://www.patreon.com/posts/114517862)
 * Download the very best Stable Diffusion Large 3.5, FLUX, SDXL, Mochi 1 (SOTA text-to-video), FLUX Tools (Inpainting, Outpainting, Canny, Depth, Redux), Latent Upscaler Models like ESGRAN, Improved new Clip-l that works better and SD 1.5 models into the accurate SwarmUI folders with 1-click and ultra fast and robustness.
 
 ### December 22 - 2024
 [Ultra Advanced InstantID Gradio APP - Automatic Installers for Windows, RunPod and Massed Compute and Free Kaggle - Using the Very Best ControlNet Xinsir Models](https://www.patreon.com/posts/118469722)
 * Ultra advanced InstantID Gradio APP : 0-shot Identity-Preserving Generation in Seconds Gradio APP with latest best Xinsir ControlNet models. We have so many extra features compared to official InstantID APP plus we have 1-click very easy install on Windows, RunPod, Massed Compute and a free Kaggle Account notebook that works perfect
-
-### December 22 - 2024
-[Blazing Fast SD Forge Web UI Latest Version Windows, RunPod and Massed Compute Automatic Installers and Unified Model Downloaders for SD 1.5, SDXL, FLUX and More Newer Models](https://www.patreon.com/posts/118442039)
-* 1-Click to install latest SD Forge Web UI on Windows, RunPod and Massed Compute and download all of the amazing FLUX, SD 1.5, SDXL and SD3.5 and many more. Our installers and downloader scripts are super optmized that you will see even 1000 MB per second download speeds if your internet speed is sufficient.
 
 ### December 20 - 2024
 [SUPIR 1 Click Windows, RunPod / Massed Compute / Linux Installer & Free Kaggle Notebook](https://www.patreon.com/posts/99176057)
