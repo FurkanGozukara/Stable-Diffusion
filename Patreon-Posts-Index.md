@@ -52,6 +52,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ## Patreon Exclusive Content 
 
 ### December 23 - 2024
+[Most Advanced 1-Click DeepFake / FaceSwap App Rope, Rope Live, Rope Alucard and Rope NEXT Installers for Windows and Massed Compute and Linux](https://www.patreon.com/posts/105123768)
+* The easiest and most powerful 1-click DeepFake / FaceSwap open source app Rope, Rope Live, Rope Alucard and Rope NEXT installers for Windows, Massed Compute (Cloud), Linux and a lot of configurations and test results shared
+
+### December 23 - 2024
 [Blazing Fast SD Forge Web UI Latest Version Windows, RunPod and Massed Compute Automatic Installers and Unified Model Downloaders for SD 1.5, SDXL, FLUX and More Newer Models](https://www.patreon.com/posts/118442039)
 * 1-Click to install latest SD Forge Web UI on Windows, RunPod and Massed Compute and download all of the amazing FLUX, SD 1.5, SDXL and SD3.5 and many more. Our installers and downloader scripts are super optmized that you will see even 1000 MB per second download speeds if your internet speed is sufficient.
 
@@ -154,10 +158,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### October 31 - 2024
 [Virtual Try-on (IDM-VTON) 1 Click Installers - Try Any Clothing Immediately On Anyone](https://www.patreon.com/posts/103022942)
 * 1 Click installers (Windows, RunPod, Massed Compute, Linux, Kaggle Notebook) for IDM-VTON (Improving Diffusion Models for Authentic Virtual Try-on in the Wild). Click to install and start using
-
-### October 29 - 2024
-[Most Advanced 1-Click DeepFake / FaceSwap App Rope, Rope Live and Rope NEXT Installers for Windows and Massed Compute and Linux](https://www.patreon.com/posts/105123768)
-* The easiest and most powerful 1-click DeepFake / FaceSwap open source app Rope, Rope Live and Rope NEXT installers for Windows, Massed Compute, Linux and a lot of configurations and test results shared
 
 ### October 27 - 2024
 [1-Click Installers and Upgraded APP for LivePortrait - Blazing Fast Static Image or Video to Video to Talking and Moving Animation](https://www.patreon.com/posts/107609670)
