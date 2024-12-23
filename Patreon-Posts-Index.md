@@ -52,6 +52,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ## Patreon Exclusive Content 
 
 ### December 23 - 2024
+[Virtual Try-on (IDM-VTON) 1 Click Installers - Try Any Clothing Immediately On Anyone - Windows - RunPod - Massed Compute - Kaggle](https://www.patreon.com/posts/103022942)
+* 1 Click installers for IDM-VTON (the one of the very best virtual try on clothing and anything) for Windows, RunPod, Massed Compute and a free Kaggle account. Our app also has extra features compared to official IDVM-VTON lease.
+
+### December 23 - 2024
 [FaceFusion V3 (Most Advanced 1-Click DeepFake) 1-Click Installers for Windows, RunPod and Massed Compute - Use locally and cloud](https://www.patreon.com/posts/103765029)
 * FaceFusion 3 Windows (local), RunPod and Massed Compute (Cloud) 1-Click installers. Install and run with easiness. The best DeepFake APP
 
@@ -154,10 +158,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### October 31 - 2024
 [FLUX De-Distilled and Anti-Bleeding Fine-Tuning / DreamBooth & LoRA Training Experiments - Also Testing CFG Impact for Stylized Images](https://www.patreon.com/posts/114969137)
 * Research for fixing FLUX bleeding / mixing problem. Training multiple concepts / subjects. Searching and Testing FLUX De-Distilled models. Aim is preventing model turning entirely into you or training multiple styles, objects, person, items, products at once without getting mixed / bled. 
-
-### October 31 - 2024
-[Virtual Try-on (IDM-VTON) 1 Click Installers - Try Any Clothing Immediately On Anyone](https://www.patreon.com/posts/103022942)
-* 1 Click installers (Windows, RunPod, Massed Compute, Linux, Kaggle Notebook) for IDM-VTON (Improving Diffusion Models for Authentic Virtual Try-on in the Wild). Click to install and start using
 
 ### October 27 - 2024
 [1-Click Installers and Upgraded APP for LivePortrait - Blazing Fast Static Image or Video to Video to Talking and Moving Animation](https://www.patreon.com/posts/107609670)
