@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### December 24 - 2024
+[1-Click Roop and Roop-Unleashed (DeepFake - FaceSwap) Windows, Massed Compute and RunPod Latest Version Installers](https://www.patreon.com/posts/88234834)
+* 1-Click Roop and Roop-Unleashed (DeepFake - FaceSwap) Windows (local), Massed Compute and RunPod Latest Version Installers. If you want to use the very best most advanced 0-shot Face Swapping / DeepFake Roop or Roop-Unleashed apps these scripts make it 1-Click install for you.
+
 ### December 23 - 2024
 [Virtual Try-on (IDM-VTON) 1 Click Installers - Try Any Clothing Immediately On Anyone - Windows - RunPod - Massed Compute - Kaggle](https://www.patreon.com/posts/103022942)
 * 1 Click installers for IDM-VTON (the one of the very best virtual try on clothing and anything) for Windows, RunPod, Massed Compute and a free Kaggle account. Our app also has extra features compared to official IDVM-VTON lease.
@@ -114,10 +118,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### November 29 - 2024
 [From NVIDIA Labs SANA Text-to-Image Model 1-Click Installers for Windows, RunPod, Massed Compute and Free Kaggle Account](https://www.patreon.com/posts/116474081)
 * 1-Click installers for NVIDIA Labs SANA (Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer) model with an amazing Gradio APP developed by SECourses. Windows, RunPod, Massed Compute and Kaggle. Pretty lighweight and fast model to use.
-
-### November 29 - 2024
-[1-Click Roop and Roop-Unleashed (DeepFake - FaceSwap) Windows, Massed Compute and RunPod Latest Version Installers](https://www.patreon.com/posts/88234834)
-* 1-Click Roop and Roop-Unleashed (DeepFake - FaceSwap) Windows (local), Massed Compute and RunPod Latest Version Installers. If you want to use the very best most advanced 0-shot Face Swapping / DeepFake Roop or Roop-Unleashed apps these scripts make it 1-Click install for you.
 
 ### November 28 - 2024
 [JoyCaption : Amazing Image Captioner - Batch Processing and Multi-GPU - Windows, RunPod, Massed Compute 1-Click Installers](https://www.patreon.com/posts/110613301)
