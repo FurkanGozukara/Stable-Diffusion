@@ -607,3 +607,9 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**FLUX Tools Outpainting, Inpainting (Fill), Redux, Depth & Canny Ultimate Tutorial Guide with SwarmUI**](https://youtu.be/hewDdVJEqOQ)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/uktfY8N6AKf1RDF7ydP_f.png)](https://youtu.be/hewDdVJEqOQ)
+
+95.) Free - Windows and Cloud
+
+### [**Best Open Source Image to Video Generator CogVideoX1.5-5B-I2V Step by Step Windows & Cloud Tutorial**](https://youtu.be/5UCkMzP2VLE)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/LtAkbiSxvMxczuglFhg7F.png)](https://youtu.be/5UCkMzP2VLE)
