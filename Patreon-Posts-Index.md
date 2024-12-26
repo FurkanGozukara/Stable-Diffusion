@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### December 27 - 2024
+[From NVIDIA Labs SANA Text-to-Image Model 1-Click Installers for Windows, RunPod, Massed Compute and Free Kaggle Account](https://www.patreon.com/posts/116474081)
+* 1-Click installers for NVIDIA Labs SANA (Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer) model with an amazing Gradio APP developed by SECourses. Windows, RunPod, Massed Compute and Kaggle. Pretty lighweight and fast model to use.
+
 ### December 24 - 2024
 [1-Click Roop and Roop-Unleashed (DeepFake - FaceSwap) Windows, Massed Compute and RunPod Latest Version Installers](https://www.patreon.com/posts/88234834)
 * 1-Click Roop and Roop-Unleashed (DeepFake - FaceSwap) Windows (local), Massed Compute and RunPod Latest Version Installers. If you want to use the very best most advanced 0-shot Face Swapping / DeepFake Roop or Roop-Unleashed apps these scripts make it 1-Click install for you.
@@ -114,10 +118,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### December 4 - 2024
 [SwarmUI Master Tutorial - Use Stable Diffusion 3.5 Large and FLUX model with Amazing Performance and more](https://www.patreon.com/posts/106135985)
 * In this public tutorial post I will share all the necessary stuff regarding how to use SD 1.5, SDXL, Stable Diffusion 3, Stable Diffusion 3.5 Large and FLUX (by Black Forest Labs new SOTA model) on your computer and also on the cloud (Massed Compute, RunPod and a free Kaggle account).
-
-### November 29 - 2024
-[From NVIDIA Labs SANA Text-to-Image Model 1-Click Installers for Windows, RunPod, Massed Compute and Free Kaggle Account](https://www.patreon.com/posts/116474081)
-* 1-Click installers for NVIDIA Labs SANA (Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer) model with an amazing Gradio APP developed by SECourses. Windows, RunPod, Massed Compute and Kaggle. Pretty lighweight and fast model to use.
 
 ### November 28 - 2024
 [JoyCaption : Amazing Image Captioner - Batch Processing and Multi-GPU - Windows, RunPod, Massed Compute 1-Click Installers](https://www.patreon.com/posts/110613301)
