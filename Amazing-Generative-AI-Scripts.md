@@ -28,7 +28,7 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
-## How to 1-Copy Paste Install cuDNN 9.6 on Linux / Ubuntu and Set as System Wide
+## How to 1-Copy Paste Install cuDNN 9.6 on Linux / Ubuntu and Set as System Wide Default
 * If you are having problem with ONNX GPU Runtime due to cuDNN mismatch here the solution
 * The RunPod installer script (RunPod_Install.sh) in below post has accurate install instructions and commands to install cuDNN and set as default
 * https://www.patreon.com/posts/119081500
