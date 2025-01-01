@@ -28,8 +28,15 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## How to 1-Copy Paste Install cuDNN 9.6 on Linux / Ubuntu and Set as System Wide
+* If you are having problem with ONNX GPU Runtime due to cuDNN mismatch here the solution
+* The RunPod installer script (RunPod_Install.sh) in below post has accurate install instructions and commands to install cuDNN and set as default
+* https://www.patreon.com/posts/119081500
+* Tested on Roop Unleashed on RunPod
+
 ## TorchAudio compatiable FFmpeg and FFmpeg Tools Automatic Installer for Python VENVs on Windows
 * If you are having errors related torio package this is the scripts you need
+* Script link : https://www.patreon.com/posts/117990364
 * This script has automatic downloaders and accurate folder installers for missing FFmpeg DLL files
 * This script solves the following errors
 * * ImportError: Failed to intialize FFmpeg extension. Tried versions: ['6', '5', '4', ''].
