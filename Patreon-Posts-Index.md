@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### January 4 - 2025
+[LivePortrait Upgraded Latest Version Human and Animal Version 1-Click Installers for Windows, RunPod, Massed Compute and a Free Kaggle Account Notebook - Blazing Fast Static Image or Video to Video to Talking and Moving Animation](https://www.patreon.com/posts/119254105)
+* 1-Click installers for Latest and improved version of LivePortrait for Windows, RunPod, Massed Compute and a Free Kaggle Account notebook. It supports latest LivePortrait animal v1.1 version.
+
 ### January 1 - 2025
 [1-Click Installers for One of the Best Face Swap / Easy DeepFake APPs Roop Unleashed for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/119081500)
 * 1-Click installers for one of the very best Deep Fake / Face Swap app Roop Unleashed for Windows, RunPod and Massed Compute. This app uses Gradio interface and supports live Web Cam replace as well for streams like Google Meeting.
@@ -158,10 +162,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### October 31 - 2024
 [FLUX De-Distilled and Anti-Bleeding Fine-Tuning / DreamBooth & LoRA Training Experiments - Also Testing CFG Impact for Stylized Images](https://www.patreon.com/posts/114969137)
 * Research for fixing FLUX bleeding / mixing problem. Training multiple concepts / subjects. Searching and Testing FLUX De-Distilled models. Aim is preventing model turning entirely into you or training multiple styles, objects, person, items, products at once without getting mixed / bled. 
-
-### October 27 - 2024
-[1-Click Installers and Upgraded APP for LivePortrait - Blazing Fast Static Image or Video to Video to Talking and Moving Animation](https://www.patreon.com/posts/107609670)
-* 1-Click Installers and Upgraded Gradio app for Blazing Fast LivePortrait: Turn Static Images or Video to Video into Talking Animation
 
 ### October 26 - 2024
 [Invoke AI Latest Version Windows, RunPod and Massed Compute 1-Click Installers](https://www.patreon.com/posts/112912425)
