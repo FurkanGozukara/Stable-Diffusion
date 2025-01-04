@@ -613,3 +613,9 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**Best Open Source Image to Video Generator CogVideoX1.5-5B-I2V Step by Step Windows & Cloud Tutorial**](https://youtu.be/5UCkMzP2VLE)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/LtAkbiSxvMxczuglFhg7F.png)](https://youtu.be/5UCkMzP2VLE)
+
+96.) Free - Windows and Cloud
+
+### [**SANA: Ultra HD Fast Text to Image Model from NVIDIA Step by Step Tutorial on Windows, Cloud & Kaggle**](https://youtu.be/KW-MHmoNcqo)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/WrLfe0J8P5vsNVL2mpOhX.png)](https://youtu.be/KW-MHmoNcqo)
