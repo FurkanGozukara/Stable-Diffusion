@@ -28,6 +28,13 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## How to do Multiprocessing Statistics
+* Let's say you are starting a batch multi-process processing in a Python app
+* Having synchronized data transfer and statistics between processes is too hard
+* This below Joy_Caption_Alpha_Two.py starts multiple batch captioning on each given GPU and has necessary code and custom class Statistics to ensure proper data synchronization between multiple started processes
+* https://www.patreon.com/posts/118827960
+* Tested on Windows and works great - should work perfectly on Linux as well
+
 ## How to 1-Copy Paste Install cuDNN 9.6 on Linux / Ubuntu and Set as System Wide Default
 * If you are having problem with ONNX GPU Runtime due to cuDNN mismatch here the solution
 * The RunPod installer script (RunPod_Install.sh) in below post has accurate install instructions and commands to install cuDNN and set as default
