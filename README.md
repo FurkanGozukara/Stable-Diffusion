@@ -619,3 +619,9 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**SANA: Ultra HD Fast Text to Image Model from NVIDIA Step by Step Tutorial on Windows, Cloud & Kaggle**](https://youtu.be/KW-MHmoNcqo)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/WrLfe0J8P5vsNVL2mpOhX.png)](https://youtu.be/KW-MHmoNcqo)
+
+97.) Free - Windows and Cloud
+
+### [**NVIDIA SANA 4K: Mind-Blowing 16MP Text-to-Image AI Model Runs on 8GB GPUs | Game-Changing Tech**](https://youtu.be/GjENQfHF4W8)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/zJ8D25j96YeqQe8OFn1By.png)](https://youtu.be/GjENQfHF4W8)
