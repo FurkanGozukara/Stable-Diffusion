@@ -28,6 +28,15 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## Python 3.10 and 3.11 Pre-Compiled Wheel for insightface
+* I have pre-compiled insightface both for Python 3.10 and 3.11 for Windows systems with CUDA 12.4+
+* When you download attached zip file from below post check out
+* Windows_Install.bat for Python 3.10 and
+* Windows_Install_Python_3_11.bat for Python 3.11
+* Just use any word editor to see their content
+* Zip file : https://www.patreon.com/posts/105023709
+* This zip file contains Python venv installers for ComfyUI, FaceID, IP-Adapter, InsightFace Automatic Installers for Windows, RunPod, Massed Compute, Linux
+
 ## Python 3.10 Windows Pre-Compiled Wheel for MultiScaleDeformableAttention 
 * We are using pre-compiled MultiScaleDeformableAttention wheel for Live Portrait installer
 * Download zip file and edit Windows_Start_app.bat file and you will see how to use
