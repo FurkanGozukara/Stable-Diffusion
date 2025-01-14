@@ -28,6 +28,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## Python 3.10 Windows Pre-Compiled Wheel for MultiScaleDeformableAttention 
+* We are using pre-compiled MultiScaleDeformableAttention wheel for Live Portrait installer
+* Download zip file and edit Windows_Start_app.bat file and you will see how to use
+* The zip file shared in following link : https://www.patreon.com/posts/119254105
+
 ## How to do Multiprocessing Statistics
 * Let's say you are starting a batch multi-process processing in a Python app
 * Having synchronized data transfer and statistics between processes is too hard
