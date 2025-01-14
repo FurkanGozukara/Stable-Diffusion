@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### January 14 - 2025
+[LivePortrait Upgraded Latest Version Human and Animal Version 1-Click Installers for Windows, RunPod, Massed Compute and a Free Kaggle Account Notebook - Blazing Fast Static Image or Video to Video to Talking and Moving Animation](https://www.patreon.com/posts/119254105)
+* 1-Click installers for Latest and improved version of LivePortrait for Windows, RunPod, Massed Compute and a Free Kaggle Account notebook. It supports latest LivePortrait animal v1.1 version.
+
 ### January 13 - 2025
 [From NVIDIA Labs SANA Text-to-Image Model 1-Click Installers for Windows, RunPod, Massed Compute and Free Kaggle Account](https://www.patreon.com/posts/116474081)
 * 1-Click installers for NVIDIA Labs SANA (Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer) model with an amazing Gradio APP developed by SECourses. Windows, RunPod, Massed Compute and Kaggle. Pretty lighweight and fast model to use. 1K (1024x1024) : 4 GB GPUs. 2K (2048x2048) : 6 GB GPUs. 4K (4096x4096) : 8 GB GPUs
@@ -66,10 +70,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### January 4 - 2025
 [Very Advanced Joy Caption APPs, Supports Batch Processing and Multi-GPU Captioning, Supports Joy Caption Pre Alpha, Alpha One, Alpha Two, 1-Click installers](https://www.patreon.com/posts/118827960)
 * Ultra advanced Gradio app for JoyCaption Pre-Alpha, Alpha One and Alpha Two with batch image captioning in addition to Multi-GPU support. 1-Click to install on Windows, RunPod and Massed Compute 
-
-### January 4 - 2025
-[LivePortrait Upgraded Latest Version Human and Animal Version 1-Click Installers for Windows, RunPod, Massed Compute and a Free Kaggle Account Notebook - Blazing Fast Static Image or Video to Video to Talking and Moving Animation](https://www.patreon.com/posts/119254105)
-* 1-Click installers for Latest and improved version of LivePortrait for Windows, RunPod, Massed Compute and a Free Kaggle Account notebook. It supports latest LivePortrait animal v1.1 version.
 
 ### January 1 - 2025
 [1-Click Installers for One of the Best Face Swap / Easy DeepFake APPs Roop Unleashed for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/119081500)
