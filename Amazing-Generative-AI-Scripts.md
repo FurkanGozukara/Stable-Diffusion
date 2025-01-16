@@ -28,6 +28,14 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## Python 3.10 Pre-Compiled Wheel for diffoctreerast and diff-gaussian-rasterization
+* I have pre-compiled diffoctreerast and diff_gaussian_rasterization for Python 3.10
+* When you download attached zip file from below post check out
+* Windows_Install.bat for Python 3.10
+* Just use any word editor to see their content
+* Zip file : https://www.patreon.com/posts/117470976
+* This zip file contains Python venv installers for TRELLIS from Microsoft to generate 3D assets from Images as GLB file and also Gaussian Splatting ply
+
 ## Python 3.10 and 3.11 Pre-Compiled Wheel for insightface
 * I have pre-compiled insightface both for Python 3.10 and 3.11 for Windows systems with CUDA 12.4+
 * When you download attached zip file from below post check out
