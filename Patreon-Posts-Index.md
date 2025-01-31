@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### January 31 - 2025
+[EasyAnimate 1-Click Install Windows, RunPod and Massed Compuıte, Newest SOTA Local Open Source Image-to-Video, Text-to-Video and More](https://www.patreon.com/posts/115888558)
+* 1-Click Installers for EasyAnimate. It is literally Runway but Open Source and FREE, Text-to-Video, Image-to-Video (both beginning and ending frame), Video-to-Video, Works on 24 GB GPUs on Windows, supports 960px resolution, supports very long videos with Overlap. Install on Windows, RunPod and Massed Compute
+
 ### January 20 - 2025
 [Ultimate Image Processing APP : Batch Cropping, Zooming In, Resizing, Duplicate Image Removing, Face Extraction, SAM 2 and Yolo Segmentation, Masking for Windows, RunPod, Massed Compute and Free Kaggle Account](https://www.patreon.com/posts/120352012)
 * If you want to batch pre-process your training images, like auto zoom subject and resize perfectly into exact resolution, this is the script you need. 1-Click to install and use on Windows, RunPod and Massed Comput and even Kaggle. It supports YOLO V11 and SAM 2. Moreover it has even duplicate image removing as well. You can see all features in this public post : https://www.patreon.com/posts/120353641
@@ -150,10 +154,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### November 16 - 2024
 [1-Click Windows, RunPod, Massed Compute and Kaggle Installers For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/89914747)
 * 1-Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On Your Computer With SDXL. We have 1-Click installers for Windows, RunPod, Massed Compute and a ready to run Kaggle Notebook with super model downloading improvement technique as well.
-
-### November 13 - 2024
-[EasyAnimate 1-Click Install Windows, RunPod and Massed Compuıte, Newest SOTA Local Open Source Image-to-Video, Text-to-Video and More](https://www.patreon.com/posts/115888558)
-* 1-Click Installers for EasyAnimate. It is literally Runway but Open Source and FREE, Text-to-Video, Image-to-Video (both beginning and ending frame), Video-to-Video, Works on 24 GB GPUs on Windows, supports 960px resolution, supports very long videos with Overlap. Install on Windows, RunPod and Massed Compute
 
 ### November 8 - 2024
 [A Kaggle Notebook to Train Stable Diffusion 1.5 and XL (SDXL) on a Free Kaggle Account with 2x Dual T4 GPU for free by using Kohya GUI](https://www.patreon.com/posts/88397937)
