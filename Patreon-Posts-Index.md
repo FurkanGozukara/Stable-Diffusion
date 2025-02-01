@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### Feburary 1 - 2025
+[1-Click Installers for Paints-UNDO Advanced Gradio APP, Windows, RunPod, Massed Compute and Kaggle Installers](https://www.patreon.com/posts/121228327)
+* 1-Click Installers for Paints-UNDO from lllyasviel. 1-Click Install on Windows, RunPod, Massed Compute and a free Kaggle Notebook. Official repo here but our APP is improved version : https://github.com/lllyasviel/Paints-UNDO
+
 ### January 31 - 2025
 [EasyAnimate 1-Click Install Windows, RunPod and Massed Compuıte, Newest SOTA Local Open Source Image-to-Video, Text-to-Video and More](https://www.patreon.com/posts/115888558)
 * 1-Click Installers for EasyAnimate. It is literally Runway but Open Source and FREE, Text-to-Video, Image-to-Video (both beginning and ending frame), Video-to-Video, Works on 24 GB GPUs on Windows, supports 960px resolution, supports very long videos with Overlap. Install on Windows, RunPod and Massed Compute
