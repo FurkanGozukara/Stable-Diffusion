@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### Feburary 2 - 2025
+[DeepFace Based Batch Face Similarity Sorting Gradio APP For Windows, RunPod and Massed Compute - 1-Click to Install - Uses TensorFlow GPU - Very Fast](https://www.patreon.com/posts/121335747)
+* With DeepFace & RetinaFace libraries you can sort AI images or basically any images based on their similarity to the given single or multiple images (average taken). We have developed a batch processing Gradio APP for this task that installs libraries into a Python 3.10 VENV and works perfect on Windows. Also we have 1-click installers for RunPod and Massed Compute as well. The APP is fully multi-threaded.
+
 ### Feburary 1 - 2025
 [1-Click Installers for Paints-UNDO Advanced Gradio APP, Windows, RunPod, Massed Compute and Kaggle Installers](https://www.patreon.com/posts/121228327)
 * 1-Click Installers for Paints-UNDO from lllyasviel. 1-Click Install on Windows (Python 3.10 isolated VENV), RunPod, Massed Compute and a free Kaggle Notebook. Official repo here but our APP is improved version : https://github.com/lllyasviel/Paints-UNDO
@@ -302,10 +306,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### Feburary 15 - 2024
 [1 Click Auto Windows Installer For Rerender A Video - 1 Click Video To Anime](https://www.patreon.com/posts/89457537)
 * Rerender is an amazing new Paper that allows you to turn videos into Anime with 1 click. Auto install scripts and instructions provided here
-
-### Feburary 10 - 2024
-[Sort AI Generated Images By Their Similarity With DeepFace & RetinaFace](https://www.patreon.com/posts/sort-ai-images-82478694)
-* With DeepFace & RetinaFace libraries we will sort AI generated images with best accuracy to your original. Thus, you can find best ones easy
 
 ### Feburary 5 - 2024
 [1 Click Auto RunPod Installer For Rerender A Video - 1 Click Video To Anime](https://www.patreon.com/posts/1-click-auto-for-91039997)
