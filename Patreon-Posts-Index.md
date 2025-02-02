@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### Feburary 3 - 2025
+[ComfyUI, FaceID, IP-Adapter, InsightFace, Reactor, Triton, DeepSpeed Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
+* 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto download best SDXL and SD 1.5 models and auto installs ComfyUI manager, FaceID, InsightFace, Triton, DeepSpeed and Ip Adapter of ComfyUI. Also includes automatic downloader.py file to download all of the IP Adapter, InsightFace and FaceID models for you. Moreover we have 1-Click installer for Reactor extension with its all dependencies and auto download of necessary models. 
+
 ### Feburary 2 - 2025
 [DeepFace Based Batch Face Similarity Sorting Gradio APP For Windows, RunPod and Massed Compute - 1-Click to Install - Uses TensorFlow GPU - Very Fast](https://www.patreon.com/posts/121335747)
 * With DeepFace & RetinaFace libraries you can sort AI images or basically any images based on their similarity to the given single or multiple images (average taken). We have developed a batch processing Gradio APP for this task that installs libraries into a Python 3.10 VENV and works perfect on Windows. Also we have 1-click installers for RunPod and Massed Compute as well. The APP is fully multi-threaded.
@@ -126,10 +130,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### December 15 - 2024
 [MMAudio 1-Click Installers for Windows, RunPod and Massed Compute - Generate Audio for Any Video - Amazing for AI Generated Videos](https://www.patreon.com/posts/117990364)
 * 1-Click installers to install MMAudio. This app is so lightweight and fast. Pretty much should work on every GPUs. I have also improved the official published Gradio app and added more features. MMAudio generates synchronized audio given video and/or text inputs. Our key innovation is multimodal joint training which allows training on a wide range of audio-visual and audio-text datasets. Moreover, a synchronization module aligns the generated audio with the video frames.
-
-### December 14 - 2024
-[ComfyUI, FaceID, IP-Adapter, InsightFace Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
-* 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto download best SDXL and SD 1.5 models and auto installs ComfyUI manager, FaceID, InsightFace and Ip Adapter of ComfyUI. Also includes automatic downloader.py file to download all of the IP Adapter, InsightFace and FaceID models for you.
 
 ### December 11 - 2024
 [1-Click Automatic Installers for Hunyuan3D-1 Text to 3D and Image to 3D SOTA Model, Install on Windows, RunPod and Massed Compute](https://www.patreon.com/posts/115412205)
