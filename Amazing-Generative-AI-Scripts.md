@@ -28,6 +28,13 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## cuDNN 9.7 Install Command on Linux System and How To Make APPs Use It
+* Download the zip file in below post
+* Massed_Compute_Install.sh file has cuDNN install code
+* Massed_Compute_Instructions_READ.txt shows how to set its installed path to be used by the python APP
+* Zip file : https://www.patreon.com/posts/121570322
+* This above post has installer for VisoMaster app
+
 ## Python 3.10 Pre-Compiled Wheel for diffoctreerast and diff-gaussian-rasterization
 * I have pre-compiled diffoctreerast and diff_gaussian_rasterization for Python 3.10
 * When you download attached zip file from below post check out
