@@ -51,6 +51,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+
+### Feburary 9 - 2025
+[LivePortrait Upgraded Latest Version Human and Animal Version 1-Click Installers for Windows, RunPod, Massed Compute and a Free Kaggle Account Notebook - Blazing Fast Static Image or Video to Video to Talking and Moving Animation](https://www.patreon.com/posts/119254105)
+* 1-Click installers for Latest and improved version of LivePortrait for Windows, RunPod, Massed Compute and a Free Kaggle Account notebook. It supports latest LivePortrait animal v1.1 version.
+
 ### Feburary 7 - 2025
 [BiRefNet HR (High Resolution) Gradio APP and 1-Click Installers for Windows, RunPod, Massed Compute and a Free Kaggle Account Notebook](https://www.patreon.com/posts/121679760)
 * BiRefNet HR Version Automatic Installers for Windows, RunPod, Massed Compute and a free Kaggle notebook. The very best SOTA background remover with Gradio APP. It is updated to newest High Resolution model and it supports batch processing fully with new half precision lower VRAM feature.
@@ -86,10 +91,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### January 16 - 2025
 [TRELLIS 1-Click Installers for Windows, RunPod, Massed Compute, New SOTA Image-to-3D Full Model - Mind Blowing](https://www.patreon.com/posts/117470976)
 * 1-Click installers to install TRELLIS on Windows, RunPod and Massed Compute. https://github.com/microsoft/TRELLIS. This is the SOTA model for image to full 3D generation and it is blazing fast
-
-### January 14 - 2025
-[LivePortrait Upgraded Latest Version Human and Animal Version 1-Click Installers for Windows, RunPod, Massed Compute and a Free Kaggle Account Notebook - Blazing Fast Static Image or Video to Video to Talking and Moving Animation](https://www.patreon.com/posts/119254105)
-* 1-Click installers for Latest and improved version of LivePortrait for Windows, RunPod, Massed Compute and a Free Kaggle Account notebook. It supports latest LivePortrait animal v1.1 version.
 
 ### January 13 - 2025
 [From NVIDIA Labs SANA Text-to-Image Model 1-Click Installers for Windows, RunPod, Massed Compute and Free Kaggle Account](https://www.patreon.com/posts/116474081)
