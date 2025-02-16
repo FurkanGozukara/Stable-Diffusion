@@ -28,6 +28,13 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## Example code that sets up proper CUDA (12+) and cuDNN (9+) on Kaggle notebook
+* Download the zip file in below post
+* Load Kaggle notebook into any editor
+* You will see how it downloads and sets CUDA and cuDNN
+* Zip file : https://www.patreon.com/posts/119254105
+* This above post has installer for LivePortrait APP for Windows, RunPod, Massed Compute and Kaggle
+
 ## cuDNN 9.7 Install Command on Linux System and How To Make APPs Use It
 * Download the zip file in below post
 * Massed_Compute_Install.sh file has cuDNN install code
