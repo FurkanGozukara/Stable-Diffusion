@@ -53,7 +53,7 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ### Feburary 20 - 2025
 [Virtual Try-on (IDM-VTON) 1 Click Installers - Try Any Clothing Immediately On Anyone - Windows - RunPod - Massed Compute - Kaggle - Works even on Object Transfer](https://www.patreon.com/posts/122718239)
-* 1 Click installers for IDM-VTON (the one of the very best virtual try on clothing and anything) for Windows, RunPod, Massed Compute and a free Kaggle account. Our app also has extra features compared to official IDVM-VTON. It automatically crops and paste back images and supports quantization and CPU offloading. 
+* 1 Click installers for IDM-VTON (the one of the very best virtual try on clothing and anything) for Windows, RunPod, Massed Compute and a free Kaggle account. Our app also has extra features compared to official IDVM-VTON. It automatically crops and paste back images and supports quantization and CPU offloading. Public post for more info : https://www.patreon.com/posts/122721073
 
 ### Feburary 12 - 2025
 [SwarmUI Easy Ultra Fast and Robust Unified Downloader for Stable Diffusion 3.5, FLUX, Mochi 1, SDXL and SD 1.5](https://www.patreon.com/posts/114517862)
