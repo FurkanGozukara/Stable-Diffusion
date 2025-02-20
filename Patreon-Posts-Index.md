@@ -51,7 +51,7 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
-### December 20 - 2024
+### Feburary 20 - 2025
 [Virtual Try-on (IDM-VTON) 1 Click Installers - Try Any Clothing Immediately On Anyone - Windows - RunPod - Massed Compute - Kaggle - Works even on Object Transfer](https://www.patreon.com/posts/122718239)
 * 1 Click installers for IDM-VTON (the one of the very best virtual try on clothing and anything) for Windows, RunPod, Massed Compute and a free Kaggle account. Our app also has extra features compared to official IDVM-VTON. It automatically crops and paste back images and supports quantization and CPU offloading. 
 
