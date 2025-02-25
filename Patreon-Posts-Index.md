@@ -51,6 +51,14 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### Feburary 25 - 2025
+[Gradio APP for Deterministic Text and Graphs Having Images Upscaling based on ImageMagick - Windows, RunPod, Massed Compute](https://www.patreon.com/posts/123071348)
+* If you need to upscale images with 100% accurate text preservation this APP is what you need. A Gradio based multi-threaded batch upscaler APP that utilizes ImageMagick with amazing upscale presets. Public Post to see APP features : https://www.patreon.com/posts/123073046
+
+### Feburary 25 - 2025
+[AuraSR GigaGAN 4x Upscaler Gradio APP, Installers for Windows, RunPod, Massed Compute and free Kaggle Account with Seams Fix and Batch Processing](https://www.patreon.com/posts/121441873)
+* 1-Click to install and use locally (Windows) and also popular cloud services famous newest AuraSR GigaGAN 4x upscaler with batch upscaling
+
 ### Feburary 22 - 2025
 [Free Kaggle Account Notebook for SwarmUI with FLUX, SD 1.5, SDXL & Stable Diffusion 3.5 Large, FLUX, Hunyuan and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
 * Use very advanced SwarmUI on a free Kaggle account for free with dual T4 GPU. Fully supports SD 1.5, SDXL, SD3, FLUX, FLUX Tools (Redux, Canny, Depth, Inpainting), Stable Diffusion 3.5 Large, Stable Cascade, Hunyuan, SkyReels, Mochi 1 and more
@@ -230,10 +238,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### August 16 - 2024
 [OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets](https://www.patreon.com/posts/96028218)
 * Nerogar OneTrainer very best Stable Diffusion XL (SDXL) full fine tuning presets. 10.3 GB GPU is very sufficient and fast
-
-### August 14 - 2024
-[AuraSR GigaGAN 4x Upscaler Local (Windows), Cloud (RunPod, Massed Compute, Kaggle) 1-Click Installers and Batch Processing App](https://www.patreon.com/posts/110060645)
-* 1-Click to install and use locally (Windows) and also popular cloud services famous newest AuraSR GigaGAN 4x upscaler with batch upscaling
 
 ### August 14 - 2024
 [Image Folders Merger For Easy Comparison - Merge Images Side by Side - Useful to Compare Upscaling and Such Effect](https://www.patreon.com/posts/110108419)
