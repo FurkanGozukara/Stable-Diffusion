@@ -28,6 +28,15 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## Windows AI APPs Installer for RTX 5000 Series like RTX 5070, RTX 5080, RTX 5090 etc
+* Download the zip file and look for Windows_Install_RTX_5000_Series.bat
+* It has pre-compiled wheels installers for RTX 5000 Series for
+* Torch 2.7 and Torchvision for CU128 
+* Flash Attention 2.7.4 for CU128 - pre-compiled
+* Triton and DeepSpeed
+* Zip file : https://www.patreon.com/posts/123105403
+* This above post has installer for Wan 2.1 AI Video Model APP for Windows, RunPod, Massed Compute and Kaggle
+
 ## Example code that sets up proper CUDA (12+) and cuDNN (9+) on Kaggle notebook
 * Download the zip file in below post
 * Load Kaggle notebook into any editor
