@@ -28,6 +28,14 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## Python APPs, Libraries Monkey-Patch Example
+* Download the zip file and install Windows_Install_ALL_GPUs.bat
+* It will install Practical-RIFE
+* Look Practical-RIFE folder and look for inference_video.py
+* You will see there we monkey-patch (monkey patch) numpy to work older library with newer numpy version
+* Zip file : https://www.patreon.com/posts/123105403
+* This above post has installer for Wan 2.1 Ultra Advanced Gradio APP for - Works as low as 4GB VRAM - 1-Click Installers for Windows, RunPod, Massed Compute - Batch Processing - T2V - I2V - V2V
+
 ## Windows AI APPs Installer for RTX 5000 Series like RTX 5070, RTX 5080, RTX 5090 etc
 * Download the zip file and look for Windows_Install_RTX_5000_Series.bat
 * It has pre-compiled wheels installers for RTX 5000 Series for
