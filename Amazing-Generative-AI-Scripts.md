@@ -28,7 +28,7 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
-## Python APPs, Libraries Monkey-Patch Example
+## Monkey Patch Example for Python APPs and Libraries
 * Download the zip file and install Windows_Install_ALL_GPUs.bat
 * It will install Practical-RIFE
 * Look Practical-RIFE folder and look for inference_video.py
