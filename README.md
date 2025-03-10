@@ -643,3 +643,9 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**SwarmUI free Kaggle Account Notebook Full Tutorial - SD 1.5, SDXL, SD 3.5, FLUX, Hunyuan, SkyReels**](https://youtu.be/VR1s7LxK5ZU)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/ejoLl2N6xb8uZ9gw71pbu.png)](https://youtu.be/VR1s7LxK5ZU)
+
+101.) Free - Windows and Cloud
+
+### [**How ChatGPT (LLMs) Works - Excellent Graphical Illustration Video**](https://youtu.be/cigddCCLJRI)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/9A_FjstrKpLOwCXrtVOuh.png)](https://youtu.be/cigddCCLJRI)
