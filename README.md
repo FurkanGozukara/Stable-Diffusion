@@ -625,3 +625,9 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**NVIDIA SANA 4K: Mind-Blowing 16MP Text-to-Image AI Model Runs on 8GB GPUs | Game-Changing Tech**](https://youtu.be/GjENQfHF4W8)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/zJ8D25j96YeqQe8OFn1By.png)](https://youtu.be/GjENQfHF4W8)
+
+98.) Free - Windows and Cloud
+
+### [**MSI RTX 5090 TRIO FurMark Benchmarking + Overclocking + Noise Testing and Comparing with RTX 3090 TI**](https://youtu.be/uV3oqdILOmA)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/WSuaQABKlDr4X7DH4d7UA.png)](https://youtu.be/uV3oqdILOmA)
