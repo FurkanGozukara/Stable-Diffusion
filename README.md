@@ -631,3 +631,9 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**MSI RTX 5090 TRIO FurMark Benchmarking + Overclocking + Noise Testing and Comparing with RTX 3090 TI**](https://youtu.be/uV3oqdILOmA)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/WSuaQABKlDr4X7DH4d7UA.png)](https://youtu.be/uV3oqdILOmA)
+
+99.) Free - Windows and Cloud
+
+### [**RTX 5090 Tested Against FLUX DEV, SD 3.5 Large, SD 3.5 Medium, SDXL, SD 1.5, AMD 9950X + RTX 3090 TI**](https://youtu.be/jHlGzaDLkto)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/udletUqkCuFxxB0zzLb4H.png)](https://youtu.be/jHlGzaDLkto)
