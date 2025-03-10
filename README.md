@@ -637,3 +637,9 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**RTX 5090 Tested Against FLUX DEV, SD 3.5 Large, SD 3.5 Medium, SDXL, SD 1.5, AMD 9950X + RTX 3090 TI**](https://youtu.be/jHlGzaDLkto)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/udletUqkCuFxxB0zzLb4H.png)](https://youtu.be/jHlGzaDLkto)
+
+100.) Free - Cloud - Kaggle
+
+### [**SwarmUI free Kaggle Account Notebook Full Tutorial - SD 1.5, SDXL, SD 3.5, FLUX, Hunyuan, SkyReels**](https://youtu.be/VR1s7LxK5ZU)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/ejoLl2N6xb8uZ9gw71pbu.png)](https://youtu.be/VR1s7LxK5ZU)
