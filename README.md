@@ -649,3 +649,15 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**How ChatGPT (LLMs) Works - Excellent Graphical Illustration Video**](https://youtu.be/cigddCCLJRI)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/9A_FjstrKpLOwCXrtVOuh.png)](https://youtu.be/cigddCCLJRI)
+
+102.) Free - Windows and Cloud
+
+### [**Wan 2.1 AI Video Model: Ultimate Step-by-Step Tutorial for Windows & Affordable Private Cloud Setup**](https://youtu.be/hnAhveNy-8s)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/tYRYsP_yPPPhT5A7l5gGm.png)](https://youtu.be/hnAhveNy-8s)
+
+103.) Free - Windows and Cloud
+
+### [**Ultra Advanced Wan 2.1 App Updates & Famous Squish Effect to Generate Squishing Videos Locally**](https://youtu.be/ueMrzmbdWBg)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/fKY99Lbu0videyyOd-6Kn.png)](https://youtu.be/ueMrzmbdWBg)
