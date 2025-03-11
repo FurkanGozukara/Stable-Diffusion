@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### March 12 - 2025
+[AuraSR GigaGAN 4x Upscaler Gradio APP, Installers for Windows, RunPod, Massed Compute and free Kaggle Account with Seams Fix and Batch Processing](https://www.patreon.com/posts/121441873)
+* 1-Click to install and use locally (Windows) and also popular cloud services famous newest AuraSR GigaGAN 4x upscaler with batch upscaling
+
 ### March 11 - 2025
 [SwarmUI Easy Ultra Fast and Robust Unified Downloader for Stable Diffusion 3.5, FLUX, Mochi 1, SDXL and SD 1.5](https://www.patreon.com/posts/114517862)
 * Download the very best Stable Diffusion Large 3.5, FLUX, SDXL, Mochi 1 (SOTA text-to-video), FLUX Tools (Inpainting, Outpainting, Canny, Depth, Redux), Latent Upscaler Models like ESGRAN, Improved new Clip-l that works better and SD 1.5 models into the accurate SwarmUI folders with 1-click and ultra fast and robustness.
@@ -74,10 +78,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### Feburary 25 - 2025
 [Gradio APP for Deterministic Text and Graphs Having Images Upscaling based on ImageMagick - Windows, RunPod, Massed Compute](https://www.patreon.com/posts/123071348)
 * If you need to upscale images with 100% accurate text preservation this APP is what you need. A Gradio based multi-threaded batch upscaler APP that utilizes ImageMagick with amazing upscale presets. Public Post to see APP features : https://www.patreon.com/posts/123073046
-
-### Feburary 25 - 2025
-[AuraSR GigaGAN 4x Upscaler Gradio APP, Installers for Windows, RunPod, Massed Compute and free Kaggle Account with Seams Fix and Batch Processing](https://www.patreon.com/posts/121441873)
-* 1-Click to install and use locally (Windows) and also popular cloud services famous newest AuraSR GigaGAN 4x upscaler with batch upscaling
 
 ### Feburary 22 - 2025
 [Free Kaggle Account Notebook for SwarmUI with FLUX, SD 1.5, SDXL & Stable Diffusion 3.5 Large, FLUX, Hunyuan and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
