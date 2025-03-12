@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### March 13 - 2025
+[Virtual Try-on (IDM-VTON) 1 Click Installers - Try Any Clothing Immediately On Anyone - Windows - RunPod - Massed Compute - Kaggle - Works even on Object Transfer](https://www.patreon.com/posts/122718239)
+* 1 Click installers for IDM-VTON (the one of the very best virtual try on clothing and anything) for Windows, RunPod, Massed Compute and a free Kaggle account. Our app also has extra features compared to official IDVM-VTON. It automatically crops and paste back images and supports quantization and CPU offloading. Public post for more info : https://www.patreon.com/posts/122721073
+
 ### March 12 - 2025
 [AuraSR GigaGAN 4x Upscaler Gradio APP, Installers for Windows, RunPod, Massed Compute and free Kaggle Account with Seams Fix and Batch Processing](https://www.patreon.com/posts/121441873)
 * 1-Click to install and use locally (Windows) and also popular cloud services famous newest AuraSR GigaGAN 4x upscaler with batch upscaling
@@ -82,10 +86,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### Feburary 22 - 2025
 [Free Kaggle Account Notebook for SwarmUI with FLUX, SD 1.5, SDXL & Stable Diffusion 3.5 Large, FLUX, Hunyuan and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
 * Use very advanced SwarmUI on a free Kaggle account for free with dual T4 GPU. Fully supports SD 1.5, SDXL, SD3, FLUX, FLUX Tools (Redux, Canny, Depth, Inpainting), Stable Diffusion 3.5 Large, Stable Cascade, Hunyuan, SkyReels, Mochi 1 and more
-
-### Feburary 20 - 2025
-[Virtual Try-on (IDM-VTON) 1 Click Installers - Try Any Clothing Immediately On Anyone - Windows - RunPod - Massed Compute - Kaggle - Works even on Object Transfer](https://www.patreon.com/posts/122718239)
-* 1 Click installers for IDM-VTON (the one of the very best virtual try on clothing and anything) for Windows, RunPod, Massed Compute and a free Kaggle account. Our app also has extra features compared to official IDVM-VTON. It automatically crops and paste back images and supports quantization and CPU offloading. Public post for more info : https://www.patreon.com/posts/122721073
 
 ### Feburary 9 - 2025
 [LivePortrait Upgraded Latest Version Human and Animal Version 1-Click Installers for Windows, RunPod, Massed Compute and a Free Kaggle Account Notebook - Blazing Fast Static Image or Video to Video to Talking and Moving Animation](https://www.patreon.com/posts/119254105)
