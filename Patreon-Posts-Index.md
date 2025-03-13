@@ -52,6 +52,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ## Patreon Exclusive Content 
 
 ### March 13 - 2025
+[A Kaggle Notebook to Train Stable Diffusion 1.5 and XL (SDXL) on a Free Kaggle Account with 2x Dual T4 GPU for free by using Kohya GUI](https://www.patreon.com/posts/88397937)
+* A Kaggle NoteBook to do Stable Diffusion 1.5 and XL (SDXL) training. Fully supports 2x T4 dual GPU to speed up training. Kohya GUI is used to do DreamBooth / Fine-Tuning and LoRA Trainings.
+
+### March 13 - 2025
 [Hugging Face Upload / Download Notebook - Supports Private Repositories and Multi Commit as Well](https://www.patreon.com/posts/104672510)
 * If you are looking for convenient and fast way to save and download your files from Hugging Face, this notebook will do the job. 1-click easy
 
@@ -187,10 +191,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### November 16 - 2024
 [1-Click Windows, RunPod, Massed Compute and Kaggle Installers For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/89914747)
 * 1-Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On Your Computer With SDXL. We have 1-Click installers for Windows, RunPod, Massed Compute and a ready to run Kaggle Notebook with super model downloading improvement technique as well.
-
-### November 8 - 2024
-[A Kaggle Notebook to Train Stable Diffusion 1.5 and XL (SDXL) on a Free Kaggle Account with 2x Dual T4 GPU for free by using Kohya GUI](https://www.patreon.com/posts/88397937)
-* A Kaggle NoteBook to do Stable Diffusion 1.5 and XL (SDXL) training. Fully supports 2x T4 dual GPU to speed up training. Kohya GUI is used to do DreamBooth / Fine-Tuning and LoRA Trainings.
 
 ### November 3 - 2024
 [OmniGen 1-Click Automatic Installers for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/115233922)
