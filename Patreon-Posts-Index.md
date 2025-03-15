@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### March 16 - 2025
+[LivePortrait Upgraded Latest Version Human and Animal Version 1-Click Installers for Windows, RunPod, Massed Compute and a Free Kaggle Account Notebook - Blazing Fast Static Image or Video to Video to Talking and Moving Animation](https://www.patreon.com/posts/119254105)
+* 1-Click installers for Latest and improved version of LivePortrait for Windows, RunPod, Massed Compute and a Free Kaggle Account notebook. It supports latest LivePortrait animal v1.1 version.
+
 ### March 15 - 2025
 [Most Advanced 1-Click DeepFake / FaceSwap App Rope, Rope Live, Rope Alucard and Rope NEXT Installers for Windows and Massed Compute and Linux](https://www.patreon.com/posts/105123768)
 * The easiest and most powerful 1-click DeepFake / FaceSwap open source app Rope, Rope Live, Rope Alucard and Rope NEXT installers for Windows, Massed Compute (Cloud), Linux and a lot of configurations and test results shared
@@ -98,10 +102,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### Feburary 22 - 2025
 [Free Kaggle Account Notebook for SwarmUI with FLUX, SD 1.5, SDXL & Stable Diffusion 3.5 Large, FLUX, Hunyuan and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
 * Use very advanced SwarmUI on a free Kaggle account for free with dual T4 GPU. Fully supports SD 1.5, SDXL, SD3, FLUX, FLUX Tools (Redux, Canny, Depth, Inpainting), Stable Diffusion 3.5 Large, Stable Cascade, Hunyuan, SkyReels, Mochi 1 and more
-
-### Feburary 9 - 2025
-[LivePortrait Upgraded Latest Version Human and Animal Version 1-Click Installers for Windows, RunPod, Massed Compute and a Free Kaggle Account Notebook - Blazing Fast Static Image or Video to Video to Talking and Moving Animation](https://www.patreon.com/posts/119254105)
-* 1-Click installers for Latest and improved version of LivePortrait for Windows, RunPod, Massed Compute and a Free Kaggle Account notebook. It supports latest LivePortrait animal v1.1 version.
 
 ### Feburary 7 - 2025
 [BiRefNet HR (High Resolution) Gradio APP and 1-Click Installers for Windows, RunPod, Massed Compute and a Free Kaggle Account Notebook](https://www.patreon.com/posts/121679760)
