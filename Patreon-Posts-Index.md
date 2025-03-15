@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### March 15 - 2025
+[Most Advanced 1-Click DeepFake / FaceSwap App Rope, Rope Live, Rope Alucard and Rope NEXT Installers for Windows and Massed Compute and Linux](https://www.patreon.com/posts/105123768)
+* The easiest and most powerful 1-click DeepFake / FaceSwap open source app Rope, Rope Live, Rope Alucard and Rope NEXT installers for Windows, Massed Compute (Cloud), Linux and a lot of configurations and test results shared
+
 ### March 13 - 2025
 [A Kaggle Notebook to Train Stable Diffusion 1.5 and XL (SDXL) on a Free Kaggle Account with 2x Dual T4 GPU for free by using Kohya GUI](https://www.patreon.com/posts/88397937)
 * A Kaggle NoteBook to do Stable Diffusion 1.5 and XL (SDXL) training. Fully supports 2x T4 dual GPU to speed up training. Kohya GUI is used to do DreamBooth / Fine-Tuning and LoRA Trainings.
@@ -107,7 +111,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 [VisoMaster Automatic Installer - The Most Advanced 0-Shot Face Swap / Deep Fake APP - State of the Art - Windows and Massed Compute](https://www.patreon.com/posts/121570322)
 * 1-Click to install VisoMaster on Windows and also on Massed Compute (for GPU poor). VisoMaster is a powerful yet easy-to-use tool for face swapping (FaceSwap/DeepFake) and editing in images and videos. It utilizes AI to produce natural-looking results with minimal effort, making it ideal for both casual users and professionals.
 
-
 ### Feburary 2 - 2025
 [DeepFace Based Batch Face Similarity Sorting Gradio APP For Windows, RunPod and Massed Compute - 1-Click to Install - Uses TensorFlow GPU - Very Fast](https://www.patreon.com/posts/121335747)
 * With DeepFace & RetinaFace libraries you can sort AI images or basically any images based on their similarity to the given single or multiple images (average taken). We have developed a batch processing Gradio APP for this task that installs libraries into a Python 3.10 VENV and works perfect on Windows. Also we have 1-click installers for RunPod and Massed Compute as well. The APP is fully multi-threaded.
@@ -155,10 +158,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### December 23 - 2024
 [FaceFusion V3 (Most Advanced 1-Click DeepFake) 1-Click Installers for Windows, RunPod and Massed Compute - Use locally and cloud](https://www.patreon.com/posts/103765029)
 * FaceFusion 3 Windows (local), RunPod and Massed Compute (Cloud) 1-Click installers. Install and run with easiness. The best DeepFake APP
-
-### December 23 - 2024
-[Most Advanced 1-Click DeepFake / FaceSwap App Rope, Rope Live, Rope Alucard and Rope NEXT Installers for Windows and Massed Compute and Linux](https://www.patreon.com/posts/105123768)
-* The easiest and most powerful 1-click DeepFake / FaceSwap open source app Rope, Rope Live, Rope Alucard and Rope NEXT installers for Windows, Massed Compute (Cloud), Linux and a lot of configurations and test results shared
 
 ### December 20 - 2024
 [SUPIR 1 Click Windows, RunPod / Massed Compute / Linux Installer & Free Kaggle Notebook](https://www.patreon.com/posts/99176057)
