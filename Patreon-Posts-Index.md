@@ -52,6 +52,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ## Patreon Exclusive Content 
 
 ### March 16 - 2025
+[Wan 2.1 Ultra Advanced Gradio APP for - Works as low as 4GB VRAM - 1-Click Installers for Windows, RunPod, Massed Compute - Batch Processing - T2V - I2V - V2V](https://www.patreon.com/posts/123105403)
+* 1-Click to install and use the most powerful ever released Image to Video, Text to Video and Video to Video Wan 2.1 Open source model. Public Post to see APP features : https://www.patreon.com/posts/123114193
+
+### March 16 - 2025
 [LivePortrait Upgraded Latest Version Human and Animal Version 1-Click Installers for Windows, RunPod, Massed Compute and a Free Kaggle Account Notebook - Blazing Fast Static Image or Video to Video to Talking and Moving Animation](https://www.patreon.com/posts/119254105)
 * 1-Click installers for Latest and improved version of LivePortrait for Windows, RunPod, Massed Compute and a Free Kaggle Account notebook. It supports latest LivePortrait animal v1.1 version.
 
@@ -78,10 +82,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### March 11 - 2025
 [SwarmUI Easy Ultra Fast and Robust Unified Downloader for Stable Diffusion 3.5, FLUX, Mochi 1, SDXL and SD 1.5](https://www.patreon.com/posts/114517862)
 * Download the very best Stable Diffusion Large 3.5, FLUX, SDXL, Mochi 1 (SOTA text-to-video), FLUX Tools (Inpainting, Outpainting, Canny, Depth, Redux), Latent Upscaler Models like ESGRAN, Improved new Clip-l that works better and SD 1.5 models into the accurate SwarmUI folders with 1-click and ultra fast and robustness.
-
-### March 10 - 2025
-[Wan 2.1 Ultra Advanced Gradio APP for - Works as low as 4GB VRAM - 1-Click Installers for Windows, RunPod, Massed Compute - Batch Processing - T2V - I2V - V2V](https://www.patreon.com/posts/123105403)
-* 1-Click to install and use the most powerful ever released Image to Video, Text to Video and Video to Video Wan 2.1 Open source model. Public Post to see APP features : https://www.patreon.com/posts/123114193
 
 ### March 10 - 2025
 [ComfyUI, FaceID, IP-Adapter, InsightFace, Reactor, Triton, DeepSpeed Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
