@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### March 18 - 2025
+[Invoke AI Latest Version Windows, RunPod and Massed Compute 1-Click Installers](https://www.patreon.com/posts/112912425)
+* 1-Click to install latest version of InvokeAI on your Windows computer, on RunPod and on Massed Compute with a super detailed and easy Tutorial video and written scripts. This zip file also has instructions to use the Invoke AI on your Windows Computer browser while running on Massed Compute securely by using PowerShell commands.
+
 ### March 16 - 2025
 [Wan 2.1 Ultra Advanced Gradio APP for - Works as low as 4GB VRAM - 1-Click Installers for Windows, RunPod, Massed Compute - Batch Processing - T2V - I2V - V2V](https://www.patreon.com/posts/123105403)
 * 1-Click to install and use the most powerful ever released Image to Video, Text to Video and Video to Video Wan 2.1 Open source model. Public Post to see APP features : https://www.patreon.com/posts/123114193
@@ -202,10 +206,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### October 31 - 2024
 [FLUX De-Distilled and Anti-Bleeding Fine-Tuning / DreamBooth & LoRA Training Experiments - Also Testing CFG Impact for Stylized Images](https://www.patreon.com/posts/114969137)
 * Research for fixing FLUX bleeding / mixing problem. Training multiple concepts / subjects. Searching and Testing FLUX De-Distilled models. Aim is preventing model turning entirely into you or training multiple styles, objects, person, items, products at once without getting mixed / bled. 
-
-### October 26 - 2024
-[Invoke AI Latest Version Windows, RunPod and Massed Compute 1-Click Installers](https://www.patreon.com/posts/112912425)
-* 1-Click to install latest version of InvokeAI on your Windows computer, on RunPod and on Massed Compute with a super detailed and easy Tutorial video and written scripts. This zip file also has instructions to use the Invoke AI on your Windows Computer browser while running on Massed Compute securely by using PowerShell commands.
 
 ### October 2 - 2024
 [SOTA Image Captioning Scripts For Stable Diffusion: CogVLM, CogVLM V2, Kosmos-2, Qwen-VL, LLaVA, BLIP-2, Clip-Interrogator (115 Clip Vision Models + 5 Caption Models)](https://www.patreon.com/posts/sota-image-for-2-90744385)
