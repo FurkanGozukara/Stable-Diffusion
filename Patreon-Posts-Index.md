@@ -52,6 +52,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ## Patreon Exclusive Content 
 
 ### March 20 - 2025
+[MagicQuill 1-Click Installers for Windows, RunPod and Massed Compute - Amazing and Ultra Fast Inpaint Model](https://www.patreon.com/posts/117326651)
+* 1-Click Installer files for MagicQuill app to install on Windows, RunPod and Massed Compute : https://github.com/magic-quill/MagicQuill
+
+### March 20 - 2025
 [VisoMaster Automatic Installer - The Most Advanced 0-Shot Face Swap / Deep Fake APP - State of the Art - Windows and Massed Compute](https://www.patreon.com/posts/121570322)
 * 1-Click to install VisoMaster on Windows and also on Massed Compute (for GPU poor). VisoMaster is a powerful yet easy-to-use tool for face swapping (FaceSwap/DeepFake) and editing in images and videos. It utilizes AI to produce natural-looking results with minimal effort, making it ideal for both casual users and professionals.
 
@@ -174,10 +178,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### December 11 - 2024
 [1-Click Automatic Installers for Hunyuan3D-1 Text to 3D and Image to 3D SOTA Model, Install on Windows, RunPod and Massed Compute](https://www.patreon.com/posts/115412205)
 * 1-Click Python venv installers for Hunyuan3D-1.0. The installers support Windows (use locally - works on 24 GB GPUs super fast tested on RTX 3090), RunPod and Massed Compute (use on cloud). Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generationr : https://github.com/tencent/Hunyuan3D-1
-
-### December 6 - 2024
-[MagicQuill 1-Click Installers for Windows, RunPod and Massed Compute - Amazing and Ultra Fast Inpaint Model](https://www.patreon.com/posts/117326651)
-* 1-Click Installer files for MagicQuill app to install on Windows, RunPod and Massed Compute : https://github.com/magic-quill/MagicQuill
 
 ### December 4 - 2024
 [SwarmUI Master Tutorial - Use Stable Diffusion 3.5 Large and FLUX model with Amazing Performance and more](https://www.patreon.com/posts/106135985)
