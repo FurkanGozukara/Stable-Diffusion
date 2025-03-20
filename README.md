@@ -661,3 +661,9 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**Ultra Advanced Wan 2.1 App Updates & Famous Squish Effect to Generate Squishing Videos Locally**](https://youtu.be/ueMrzmbdWBg)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/fKY99Lbu0videyyOd-6Kn.png)](https://youtu.be/ueMrzmbdWBg)
+
+104.) Free - Windows and Cloud
+
+### [**MMAudio from Sony AI Full Tutorial - Open Source AI Audio Generator for Videos, Images and Text**](https://youtu.be/504f8S4MLTw)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/yGmbVbY0SkJ6IjPPWu_9f.png)](https://youtu.be/504f8S4MLTw)
