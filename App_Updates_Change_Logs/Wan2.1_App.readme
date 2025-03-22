@@ -1,0 +1,86 @@
+# 19 March 2025 Update V45
+
+- All models are uploaded as zip files that you can download from browser or with any app and extract. After extracting move models folder into your Wan 2.1 installation: https://huggingface.co/OwlMaster/wan21/tree/main
+- This is only necessary if your model download fails - which happens rarely
+- Model loading and reloading significantly improved after doing huge work on that
+- So when you switch between models or generate consequent videos, your RAM shouldn2T get full and cause computer freeze, etc
+- New amazing feature Extend Video Factor (1× = No Extension) added
+- This feature is still not fully tested yet but you can try
+- Click Extension Feature Info to see its info
+- This new feature took huge time to make work. There can be still errors as i said please report back
+- A new button Apply Fast Preset updated to be more robust
+  - Now: Enables Teacache, set Teacache to 0.15, set step counts to 20 and set Sigma Shift to 10
+- FP8 causes color changes in some cases, i will research it
+- Windows_Update.bat should work, if fails make a fresh install and move models folder
+- Hopefully many more features coming soon such as
+- Adding 20+ LoRAs to auto download with their trigger word
+- Having LoRA trigger word save load system
+- Loading LoRAs from prompts
+
+![](https://c10.patreonusercontent.com/4/patreon-media/p/post/123105403/dd45fa070e434c3bb04a006325b86e4b/eyJ3Ijo4MjB9/1.png?token-time=1743897600&token-hash=3oIPmtxVdLy2WjXvPxd9WUMaG-dzhSBrKgUb-CZUTRE%3D)
+
+### 19 March 2025 Update V43
+
+- Cancel button will cancel videos now immediately as soon as next step completed (not waiting all steps like before)
+- Cancel batch processing button will do the same as above
+- I had to modify pipeline myself to add this feature
+  - I also made a pull request of this https://github.com/modelscope/DiffSynth-Studio/pull/463
+- Prompt enhance button taken to the top after requested
+- Windows_Update.bat should be sufficient but if fails make a fresh install and move model files
+
+
+### 18 March 2025 Update V40
+
+- It was not saving used CFG Scale and Sigma Shift to generated prompt files, now it will be, this error fixed
+- A new button Apply Fast Preset added which does the following
+- Enables Teacache, set Teacache to 0.15, set step counts to 20 and set Sigma Shift to 10
+- I believe these settings are really good + really fast
+- I have made a lot of comparisons here I am sharing links below
+  - 1: [Simple prompt vs Detailed Prompt](https://www.reddit.com/r/SECourses/comments/1jdo4uu/left_one_is_50_steps_simple_prompt_right_one_is/)
+  - 2: [Sigma Shift 6 vs Sigma Shift 10](https://www.reddit.com/r/SECourses/comments/1jdq3js/left_sigma_shift_6_and_right_one_sigma_shift_10/)
+  - 3: [CFG 5 vs CFG 6](https://www.reddit.com/r/SECourses/comments/1jdqmgx/wan_21_cfg_5_vs_cfg_6/)
+  - 4: [Teacache 0.15 vs 0.20](https://www.reddit.com/r/SECourses/comments/1jdqxog/wan21_teacache_015_vs_020/)
+  - 5: [Teacache 0.15 (20 steps) vs 0.20 (20 steps) vs 0.25 (50 steps)](https://www.reddit.com/r/SECourses/comments/1jdrso5/wan21_teacache_015_20_steps_vs_020_20_steps_vs/)
+  - 6: [Teacache 0.15 vs 0.25](https://www.reddit.com/r/SECourses/comments/1jdscqn/wan_21_teacache_015_vs_025_50_steps_720x1280_81/)
+- Just running Windows updater should be sufficient from previous version
+
+
+### 16 March 2025 Update V39
+
+- An important bug regarding image to video models fixed
+- We were supposed to load following model as FP32 but we were loading as BF16: models_clip_open-clip-xlm-roberta-large-vit-huge-14.pth
+- Therefore, image to video models could have produced lower quality in some cases
+- Moreover, it was preventing FP8 working on image to video models and now it is working perfect
+  - FP8 LoRA fixed as well
+- VRAM usage optimized and presets are all updated for the following VRAM GPUs for both FP8 (torch.float8_e4m3fn) and BF16 (torch.bfloat16) weights: 4, 6, 8, 10, 12, 16, 24, 48 and 80 GB
+- You can see amazing chart regarding this here: https://www.reddit.com/r/SECourses/comments/1jcse0z/wan_21_vram_usages_very_detailed_chart_for_4_8_10/
+  - Zip file also has this table image
+  - When you change either model, or GPU preset or Dtype (FP8 vs BF16), the app will automatically set Number of Persistent Parameters In Dit (VRAM) for all GPUs and models
+- Upgrading from V33: just run Windows_Update.bat
+  - If fails, make a fresh install and move models folder
+- Now, if you set a static seed like 200 and generate 5 images seeds will be like: 200, 201, 202, 203, 204
+
+
+### 16 March 2025 Update V35
+
+- New random prompt feature implemented
+  - It is working like this <random:x,y,z> will pick randomly x,y,z words
+    - .e.g: A <random: green, yellow, red, etc> car
+      - A green car
+      - A yellow car
+      - A red car
+    - It will trim the leading and ending space characters
+- Auto Scale was not properly working
+  - Now when Auto Scale selected it will automatically set target width and height resolution
+- When batch processing it was not able to read and process images with accurate orientation in some cases like exif data
+  - Now it will work if broken let me know
+- Aspect ratio button change and GPU preset change was broken and now fixed
+- Upgrading from V32: just run Windows_Update.bat
+
+
+### 15 March 2025 Update V32
+
+- A lot of errors regarding pipeline fixed and official Teacache arrived
+- Now negative prompts load, save should work
+  - Your older configs may need re-save / re-make
+- New official Teacache brought amazing speed improvement with minimal quality
