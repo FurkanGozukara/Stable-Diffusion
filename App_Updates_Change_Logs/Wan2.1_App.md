@@ -1,3 +1,8 @@
+# Official SECourses Wan 2.1 Ultra Advanced Gradio App : https://www.patreon.com/posts/123105403
+## 1-Click to install on Windows, RunPod and Massed Compute
+## Supports RTX 5000 series and RIFE 2x, 4x FPS and video extending and batch video processing and all Wan 2.1 Models with fast LoRA loading and many more
+
+
 # 19 March 2025 Update V45
 
 - All models are uploaded as zip files that you can download from browser or with any app and extract. After extracting move models folder into your Wan 2.1 installation: https://huggingface.co/OwlMaster/wan21/tree/main
