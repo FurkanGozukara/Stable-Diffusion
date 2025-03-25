@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### March 25 - 2025
+[ComfyUI Auto Installer with FaceID, IP-Adapter, InsightFace, Reactor, Triton, DeepSpeed, Flash Attention, Sage Attention Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
+* 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto download best SDXL and SD 1.5 models and auto installs ComfyUI manager, FaceID, InsightFace, Triton, DeepSpeed, Flash Attention, Sage Attention and Ip Adapter of ComfyUI on Windows Python VENV (not WSL). Also includes automatic downloader.py file to download all of the IP Adapter, InsightFace and FaceID models for you. Moreover we have 1-Click installer for Reactor extension with its all dependencies and auto download of necessary models. 
+
 ### March 20 - 2025
 [MMAudio 1-Click Installers for Windows, RunPod and Massed Compute - Generate Audio for Any Video - Amazing for AI Generated Videos](https://www.patreon.com/posts/117990364)
 * 1-Click installers to install MMAudio. This app is so lightweight and fast. Pretty much should work on every GPUs. I have also improved the official published Gradio app and added more features. MMAudio generates synchronized audio given video and/or text inputs. Our key innovation is multimodal joint training which allows training on a wide range of audio-visual and audio-text datasets. Moreover, a synchronization module aligns the generated audio with the video frames.
@@ -98,10 +102,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### March 11 - 2025
 [SwarmUI Easy Ultra Fast and Robust Unified Downloader for Stable Diffusion 3.5, FLUX, Mochi 1, SDXL and SD 1.5](https://www.patreon.com/posts/114517862)
 * Download the very best Stable Diffusion Large 3.5, FLUX, SDXL, Mochi 1 (SOTA text-to-video), FLUX Tools (Inpainting, Outpainting, Canny, Depth, Redux), Latent Upscaler Models like ESGRAN, Improved new Clip-l that works better and SD 1.5 models into the accurate SwarmUI folders with 1-click and ultra fast and robustness.
-
-### March 10 - 2025
-[ComfyUI, FaceID, IP-Adapter, InsightFace, Reactor, Triton, DeepSpeed Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
-* 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto download best SDXL and SD 1.5 models and auto installs ComfyUI manager, FaceID, InsightFace, Triton, DeepSpeed, Flash Attention and Ip Adapter of ComfyUI on Windows Python VENV (not WSL). Also includes automatic downloader.py file to download all of the IP Adapter, InsightFace and FaceID models for you. Moreover we have 1-Click installer for Reactor extension with its all dependencies and auto download of necessary models. 
 
 ### March 5 - 2025
 [Blazing Fast SD Forge Web UI Latest Version Windows, RunPod and Massed Compute Automatic Installers and Unified Model Downloaders for SD 1.5, SDXL, FLUX and More Newer Models](https://www.patreon.com/posts/118442039)
