@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### April 3 - 2025
+[Deep Live Cam Automatic Windows Installer With RTX 5000 Series Support - The Viral App for Live Web Cam Face Swap](https://www.patreon.com/posts/125826778)
+* 1-Click Windows installers for famous Deep Live Cam Face Swap / Deep Fake app that became viral and famous. Public non-members post : https://www.patreon.com/posts/125826989
+
 ### April 1 - 2025
 [BiRefNet HR (High Resolution) Gradio APP and 1-Click Installers for Windows, RunPod, Massed Compute and a Free Kaggle Account Notebook](https://www.patreon.com/posts/121679760)
 * BiRefNet HR Version Automatic Installers for Windows, RunPod, Massed Compute and a free Kaggle notebook. The very best SOTA background remover with Gradio APP. It is updated to newest High Resolution model and it supports batch processing fully with new half precision lower VRAM feature.
