@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### April 6 - 2025
+[Blazing Fast SD Forge Web UI Latest Version Windows, RunPod and Massed Compute Automatic Installers and Unified Model Downloaders for SD 1.5, SDXL, FLUX and More Newer Models](https://www.patreon.com/posts/118442039)
+* 1-Click to install latest SD Forge Web UI on Windows, RunPod and Massed Compute and download all of the amazing FLUX, SD 1.5, SDXL and SD3.5 and many more. Our installers and downloader scripts are super optmized that you will see even 1000 MB per second download speeds if your internet speed is sufficient.
+
 ### April 3 - 2025
 [Deep Live Cam Automatic Windows Installer With RTX 5000 Series Support - The Viral App for Live Web Cam Face Swap](https://www.patreon.com/posts/125826778)
 * 1-Click Windows installers for famous Deep Live Cam Face Swap / Deep Fake app that became viral and famous. Public non-members post : https://www.patreon.com/posts/125826989
@@ -110,10 +114,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### March 11 - 2025
 [SwarmUI Easy Ultra Fast and Robust Unified Downloader for Stable Diffusion 3.5, FLUX, Mochi 1, SDXL and SD 1.5](https://www.patreon.com/posts/114517862)
 * Download the very best Stable Diffusion Large 3.5, FLUX, SDXL, Mochi 1 (SOTA text-to-video), FLUX Tools (Inpainting, Outpainting, Canny, Depth, Redux), Latent Upscaler Models like ESGRAN, Improved new Clip-l that works better and SD 1.5 models into the accurate SwarmUI folders with 1-click and ultra fast and robustness.
-
-### March 5 - 2025
-[Blazing Fast SD Forge Web UI Latest Version Windows, RunPod and Massed Compute Automatic Installers and Unified Model Downloaders for SD 1.5, SDXL, FLUX and More Newer Models](https://www.patreon.com/posts/118442039)
-* 1-Click to install latest SD Forge Web UI on Windows, RunPod and Massed Compute and download all of the amazing FLUX, SD 1.5, SDXL and SD3.5 and many more. Our installers and downloader scripts are super optmized that you will see even 1000 MB per second download speeds if your internet speed is sufficient.
 
 ### March 5 - 2025
 [1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, TensorRT (RTX Accelerator) on Windows](https://www.patreon.com/posts/86307255)
