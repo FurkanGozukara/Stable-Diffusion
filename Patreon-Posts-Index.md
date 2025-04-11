@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### April 11 - 2025
+[1-Click Installers for Paints-UNDO Advanced Gradio APP, Windows, RunPod, Massed Compute and Kaggle Installers](https://www.patreon.com/posts/121228327)
+* 1-Click Installers for Paints-UNDO from lllyasviel. 1-Click Install on Windows (Python 3.10 isolated VENV), RunPod, Massed Compute and a free Kaggle Notebook. Official repo here but our APP is improved version : https://github.com/lllyasviel/Paints-UNDO
+
 ### April 6 - 2025
 [Blazing Fast SD Forge Web UI Latest Version Windows, RunPod and Massed Compute Automatic Installers and Unified Model Downloaders for SD 1.5, SDXL, FLUX and More Newer Models](https://www.patreon.com/posts/118442039)
 * 1-Click to install latest SD Forge Web UI on Windows, RunPod and Massed Compute and download all of the amazing FLUX, SD 1.5, SDXL and SD3.5 and many more. Our installers and downloader scripts are super optmized that you will see even 1000 MB per second download speeds if your internet speed is sufficient.
@@ -130,10 +134,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### Feburary 2 - 2025
 [DeepFace Based Batch Face Similarity Sorting Gradio APP For Windows, RunPod and Massed Compute - 1-Click to Install - Uses TensorFlow GPU - Very Fast](https://www.patreon.com/posts/121335747)
 * With DeepFace & RetinaFace libraries you can sort AI images or basically any images based on their similarity to the given single or multiple images (average taken). We have developed a batch processing Gradio APP for this task that installs libraries into a Python 3.10 VENV and works perfect on Windows. Also we have 1-click installers for RunPod and Massed Compute as well. The APP is fully multi-threaded.
-
-### Feburary 1 - 2025
-[1-Click Installers for Paints-UNDO Advanced Gradio APP, Windows, RunPod, Massed Compute and Kaggle Installers](https://www.patreon.com/posts/121228327)
-* 1-Click Installers for Paints-UNDO from lllyasviel. 1-Click Install on Windows (Python 3.10 isolated VENV), RunPod, Massed Compute and a free Kaggle Notebook. Official repo here but our APP is improved version : https://github.com/lllyasviel/Paints-UNDO
 
 ### January 31 - 2025
 [EasyAnimate 1-Click Install Windows, RunPod and Massed Compuıte, Newest SOTA Local Open Source Image-to-Video, Text-to-Video and More](https://www.patreon.com/posts/115888558)
