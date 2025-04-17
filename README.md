@@ -667,3 +667,9 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**MMAudio from Sony AI Full Tutorial - Open Source AI Audio Generator for Videos, Images and Text**](https://youtu.be/504f8S4MLTw)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/yGmbVbY0SkJ6IjPPWu_9f.png)](https://youtu.be/504f8S4MLTw)
+
+105.) Free - Windows and Cloud
+
+### [**FramePack Full Tutorial: 1-Click to Install on Windows - Up to 120 Second Image-to-Videos with 6GB**](https://youtu.be/HwMngohRmHg)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/1dE0swD0LUieRMjGLcd2J.png)](https://youtu.be/HwMngohRmHg)
