@@ -51,6 +51,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## Patreon Exclusive Content 
 
+### April 17 - 2025
+[SUPIR 1 Click Windows, RunPod / Massed Compute / Linux Installer & Free Kaggle Notebook](https://www.patreon.com/posts/99176057)
+* 1 Click Windows and RunPod / Massed Compute / Linux Installer and a free Kaggle Notebook For The New SOTA Image Upscaling and Enhancing Open Source SUPIR Model. Better than Magnify AI. SUPIR is the very best AI image upscaler at the moment.
+
 ### April 11 - 2025
 [1-Click Installers for Paints-UNDO Advanced Gradio APP, Windows, RunPod, Massed Compute and Kaggle Installers](https://www.patreon.com/posts/121228327)
 * 1-Click Installers for Paints-UNDO from lllyasviel. 1-Click Install on Windows (Python 3.10 isolated VENV), RunPod, Massed Compute and a free Kaggle Notebook. Official repo here but our APP is improved version : https://github.com/lllyasviel/Paints-UNDO
@@ -174,10 +178,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 ### December 23 - 2024
 [FaceFusion V3 (Most Advanced 1-Click DeepFake) 1-Click Installers for Windows, RunPod and Massed Compute - Use locally and cloud](https://www.patreon.com/posts/103765029)
 * FaceFusion 3 Windows (local), RunPod and Massed Compute (Cloud) 1-Click installers. Install and run with easiness. The best DeepFake APP
-
-### December 20 - 2024
-[SUPIR 1 Click Windows, RunPod / Massed Compute / Linux Installer & Free Kaggle Notebook](https://www.patreon.com/posts/99176057)
-* 1 Click Windows and RunPod / Massed Compute / Linux Installer and a free Kaggle Notebook For The New SOTA Image Upscaling and Enhancing Open Source SUPIR Model. Better than Magnify AI. SUPIR is the very best AI image upscaler at the moment.
 
 ### December 11 - 2024
 [1-Click Automatic Installers for Hunyuan3D-1 Text to 3D and Image to 3D SOTA Model, Install on Windows, RunPod and Massed Compute](https://www.patreon.com/posts/115412205)
