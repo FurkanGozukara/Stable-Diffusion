@@ -30,6 +30,8 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updat
 
 ## SUper Amazing and Ultra Important Public Articles
 
+* [Solving Invalid credentials in Authorization header error when downloading models from Hugging Face](https://www.patreon.com/posts/126964686)
+
 * [Multi-GPU FLUX Full Fine Tuning Experiments and Requirements on RunPod and Conclusions - Used 2x A100 - 80 GB GPUs](https://www.patreon.com/posts/112494682)
 
 * [Single Block / Layer FLUX LoRA Training Research Results and LoRA Network Alpha Change Impact With LoRA Network Rank Dimension](https://www.patreon.com/posts/110879657)
