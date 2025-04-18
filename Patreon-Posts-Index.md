@@ -24,10 +24,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Patreon-Posts-Index
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-AI-Scripts.md
 
-### Generative AI Updates & News
-
-https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
-
 ## Patreon Exclusive Content 
 
 ### April 17 - 2025
