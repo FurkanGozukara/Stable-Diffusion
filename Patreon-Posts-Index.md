@@ -26,6 +26,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### April 19 - 2025
+[Tencent InstantCharacter 1-Click Installers for Windows, RunPod and Massed Compute, Supports RTX 5000 series as well](https://www.patreon.com/posts/126995127)
+* 1-Click to install Tencent InstantCharacter on Windows, RunPod and Massed Compute with more advanced Gradio App. Public post to see what it is : https://www.patreon.com/posts/127007174
+
 ### April 17 - 2025
 [FramePack 1-Click Installers for Windows, RunPod and Massed Compute, Image-to-Video with as Low as 6 GB VRAM and can Generate Up to 120 seconds videos](https://www.patreon.com/posts/126855226)
 * 1-Click installers for SOTA image-to-video framework / app FramePack. Install on Windows and use locally or install on RunPod or Massed Compute and scale your speed. The app is more advanced and i keep adding more features. You can see full tutorial here : https://youtu.be/HwMngohRmHg 
