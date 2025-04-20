@@ -26,6 +26,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+
+### April 20 - 2025
+[From NVIDIA Labs SANA Text-to-Image Model 1-Click Installers for Windows, RunPod, Massed Compute and Free Kaggle Account](https://www.patreon.com/posts/116474081)
+* 1-Click installers for NVIDIA Labs SANA (Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer) model with an amazing Gradio APP developed by SECourses. Windows, RunPod, Massed Compute and Kaggle. Pretty lighweight and fast model to use. 1K (1024x1024) : 4 GB GPUs. 2K (2048x2048) : 6 GB GPUs. 4K (4096x4096) : 8 GB GPUs
+
 ### April 20 - 2025
 [FramePack 1-Click Installers for Windows, RunPod and Massed Compute, Image-to-Video with as Low as 6 GB VRAM and can Generate Up to 120 seconds videos](https://www.patreon.com/posts/126855226)
 * 1-Click installers for SOTA image-to-video framework / app FramePack. Install on Windows and use locally or install on RunPod or Massed Compute and scale your speed. The app is more advanced and i keep adding more features. You can see full tutorial here : https://youtu.be/HwMngohRmHg 
@@ -137,10 +142,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### January 16 - 2025
 [TRELLIS 1-Click Installers for Windows, RunPod, Massed Compute, New SOTA Image-to-3D Full Model - Mind Blowing](https://www.patreon.com/posts/117470976)
 * 1-Click installers to install TRELLIS on Windows, RunPod and Massed Compute. https://github.com/microsoft/TRELLIS. This is the SOTA model for image to full 3D generation and it is blazing fast
-
-### January 13 - 2025
-[From NVIDIA Labs SANA Text-to-Image Model 1-Click Installers for Windows, RunPod, Massed Compute and Free Kaggle Account](https://www.patreon.com/posts/116474081)
-* 1-Click installers for NVIDIA Labs SANA (Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer) model with an amazing Gradio APP developed by SECourses. Windows, RunPod, Massed Compute and Kaggle. Pretty lighweight and fast model to use. 1K (1024x1024) : 4 GB GPUs. 2K (2048x2048) : 6 GB GPUs. 4K (4096x4096) : 8 GB GPUs
 
 ### January 10 - 2025
 [Ultra Advanced InstantID Gradio APP - Automatic Installers for Windows, RunPod and Massed Compute and Free Kaggle - Using the Very Best ControlNet Xinsir Models](https://www.patreon.com/posts/118469722)
