@@ -26,6 +26,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### April 24 - 2025
+[1-Click Windows, RunPod, Massed Compute and Kaggle Installers For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/89914747)
+* 1-Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On Your Computer With SDXL. We have 1-Click installers for Windows, RunPod, Massed Compute and a ready to run Kaggle Notebook with super model downloading improvement technique as well.
+
 ### April 23 - 2025
 [IC-Light (Most Advanced 1-Click Relight / Re-Light) 1-Click Installer for Windows, RunPod, Massed Compute & Kaggle Notebook](https://www.patreon.com/posts/119566071)
 * 1-click auto installer scripts for IC-Light (Re-Light / Relight any image) for Windows, Massed Compute, RunPod, Linux and a free Kaggle Notebook
@@ -177,10 +181,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### November 20 - 2024
 [Kohya FLUX LoRA Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/110879657)
 * Step by step with perfect hyper parameters and configuration Kohya FLUX LoRA training tutorial with configs for 8GB, 10GB, 12GB, 16GB, 24GB and 48GB GPUs. It works perfect on all these GPUs both on Windows and on Linux. It covers Cloud services as RunPod and Massed Compute as well. This tutorial is research result of more than 64 full Kohya SS GUI used FLUX LoRA trainings
-
-### November 16 - 2024
-[1-Click Windows, RunPod, Massed Compute and Kaggle Installers For SDXL Background Replacement for Product Images - Make Amazing Product Ads For Shopify](https://www.patreon.com/posts/89914747)
-* 1-Click Install Shopify Product Background Replacer (Open Source) And Make Amazing Ads Pictures For Your Products On Your Computer With SDXL. We have 1-Click installers for Windows, RunPod, Massed Compute and a ready to run Kaggle Notebook with super model downloading improvement technique as well.
 
 ### November 3 - 2024
 [OmniGen 1-Click Automatic Installers for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/115233922)
