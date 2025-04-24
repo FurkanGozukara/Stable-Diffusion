@@ -28,6 +28,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## RTX 5000 Series supporting pre-compiled GroundingDINO with Torch 2.7 official version
+* Download the zip file
+* Check content of Windows_Install.bat with any text editor
+* https://www.patreon.com/posts/120352012
+
 ## RTX 5000 Series Official Torch 2.7 and pre-compiled xFormers and Triton installers - latest
 * Download the zip file
 * Check content of Windows_Install.bat with any text editor
