@@ -28,6 +28,11 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
 
+## RTX 5000 Series Official Torch 2.7 and pre-compiled xFormers and Triton installers - latest
+* Download the zip file
+* Check content of Windows_Install.bat with any text editor
+* https://www.patreon.com/posts/121228327
+
 ## Monkey Patch Example for Python APPs and Libraries
 * Download the zip file and install Windows_Install_ALL_GPUs.bat
 * It will install Practical-RIFE
