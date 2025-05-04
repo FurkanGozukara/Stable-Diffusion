@@ -673,3 +673,9 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**FramePack Full Tutorial: 1-Click to Install on Windows - Up to 120 Second Image-to-Videos with 6GB**](https://youtu.be/HwMngohRmHg)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/1dE0swD0LUieRMjGLcd2J.png)](https://youtu.be/HwMngohRmHg)
+
+106.) Free - Windows
+
+### [**Master Local AI Art & Video Generation with SwarmUI (ComfyUI Backend): The Ultimate 2025 Tutorial**](https://youtu.be/fTzlQ0tjxj0)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/tAXCtoTTMsPHcGUdg7Ff1.png)](https://youtu.be/fTzlQ0tjxj0)
