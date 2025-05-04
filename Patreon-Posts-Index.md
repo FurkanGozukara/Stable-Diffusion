@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### May 4 - 2025
+[SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation ](https://www.patreon.com/posts/114517862)
+* 1-Click to install SwarmUI and an amazing app that lets you download the very best Image and Video Generation models 1-click. Full public tutorial here : https://youtu.be/fTzlQ0tjxj0
+
 ### May 1 - 2025
 [1-Click Installers for FantasyTalking: Realistic Talking Portrait Generation SECourses App for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/127855145)
 * 1-Click installers for ultra advanced FantasyTalking: Realistic Talking Portrait Generation SECourses App for Windows, RunPod, Massed Compute
@@ -121,10 +125,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### March 12 - 2025
 [AuraSR GigaGAN 4x Upscaler Gradio APP, Installers for Windows, RunPod, Massed Compute and free Kaggle Account with Seams Fix and Batch Processing](https://www.patreon.com/posts/121441873)
 * 1-Click to install and use locally (Windows) and also popular cloud services famous newest AuraSR GigaGAN 4x upscaler with batch upscaling
-
-### March 11 - 2025
-[SwarmUI Easy Ultra Fast and Robust Unified Downloader for Stable Diffusion 3.5, FLUX, Mochi 1, SDXL and SD 1.5](https://www.patreon.com/posts/114517862)
-* Download the very best Stable Diffusion Large 3.5, FLUX, SDXL, Mochi 1 (SOTA text-to-video), FLUX Tools (Inpainting, Outpainting, Canny, Depth, Redux), Latent Upscaler Models like ESGRAN, Improved new Clip-l that works better and SD 1.5 models into the accurate SwarmUI folders with 1-click and ultra fast and robustness.
 
 ### March 5 - 2025
 [1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, TensorRT (RTX Accelerator) on Windows](https://www.patreon.com/posts/86307255)
