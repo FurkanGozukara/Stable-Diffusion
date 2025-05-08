@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### May 8 - 2025
+[FramePack Studio Automatic Installer for Windows, RunPod and Massed Compute - Including RTX 5000 Series Support With Pre-Compiled Libraries](https://www.patreon.com/posts/128472621)
+* 1 Click auto installers for popular FramePack Studio repo. Install into your local Windows PC or RunPod or Massed Compute 100% automatically. My installers supports RTX 5000 series GPUs as well including older ones like RTX 3000 and 4000 series. All installed into a Python 3.10 VENV 100% isolated.
+
 ### May 4 - 2025
 [ComfyUI Auto Installer with FaceID, IP-Adapter, InsightFace, Reactor, Triton, DeepSpeed, Flash Attention, Sage Attention Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
 * 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto installs ComfyUI manager, FaceID, InsightFace, Triton, DeepSpeed, Flash Attention, Sage Attention and Ip Adapter of ComfyUI on Windows Python VENV (not WSL). Also includes automatic downloader.py file to download all of the IP Adapter, InsightFace and FaceID models for you. Moreover we have 1-Click installer for Reactor extension with its all dependencies and auto download of necessary models. Full public tutorial here : https://youtu.be/fTzlQ0tjxj0  
