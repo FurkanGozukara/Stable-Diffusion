@@ -679,3 +679,9 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**Master Local AI Art & Video Generation with SwarmUI (ComfyUI Backend): The Ultimate 2025 Tutorial**](https://youtu.be/fTzlQ0tjxj0)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/tAXCtoTTMsPHcGUdg7Ff1.png)](https://youtu.be/fTzlQ0tjxj0)
+
+107.) Free - Windows
+
+### [**Step by Step TRELLIS Tutorial to Generate Amazing High-Quality 3D Assets from Static Images Locally**](https://youtu.be/EhU7Jil9WAk)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/eh7Pqn_v4Lg2ow4wxFlND.png)](https://youtu.be/EhU7Jil9WAk)
