@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### May 13 - 2025
+[FaceFusion V3.2 (Most Advanced 1-Click DeepFake) 1-Click Installers for Windows, RunPod and Massed Compute - Use locally and cloud](https://www.patreon.com/posts/103765029)
+* FaceFusion 3.2 Windows (local), RunPod and Massed Compute (Cloud) 1-Click installers. Install and run with easiness. The best DeepFake APP. The installation literally 1-click supports RTX 5000 series and older GPUs with CUDA and also TensorRT. 
+
 ### May 8 - 2025
 [FramePack Studio Automatic Installer for Windows, RunPod and Massed Compute - Including RTX 5000 Series Support With Pre-Compiled Libraries](https://www.patreon.com/posts/128472621)
 * 1 Click auto installers for popular FramePack Studio repo. Install into your local Windows PC or RunPod or Massed Compute 100% automatically. My installers supports RTX 5000 series GPUs as well including older ones like RTX 3000 and 4000 series. All installed into a Python 3.10 VENV 100% isolated.
@@ -165,10 +169,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### January 1 - 2025
 [1-Click Installers for One of the Best Face Swap / Easy DeepFake APPs Roop Unleashed for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/119081500)
 * 1-Click installers for one of the very best Deep Fake / Face Swap app Roop Unleashed for Windows, RunPod and Massed Compute. This app uses Gradio interface and supports live Web Cam replace as well for streams like Google Meeting.
-
-### December 23 - 2024
-[FaceFusion V3 (Most Advanced 1-Click DeepFake) 1-Click Installers for Windows, RunPod and Massed Compute - Use locally and cloud](https://www.patreon.com/posts/103765029)
-* FaceFusion 3 Windows (local), RunPod and Massed Compute (Cloud) 1-Click installers. Install and run with easiness. The best DeepFake APP
 
 ### December 11 - 2024
 [1-Click Automatic Installers for Hunyuan3D-1 Text to 3D and Image to 3D SOTA Model, Install on Windows, RunPod and Massed Compute](https://www.patreon.com/posts/115412205)
