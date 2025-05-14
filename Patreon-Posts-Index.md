@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### May 14 - 2025
+[Tencent InstantCharacter 1-Click Installers for Windows, RunPod and Massed Compute, Supports RTX 5000 series as well](https://www.patreon.com/posts/126995127)
+* 1-Click to install Tencent InstantCharacter on Windows, RunPod and Massed Compute with more advanced Gradio App. Public post to see what it is : https://www.patreon.com/posts/127007174
+
 ### May 13 - 2025
 [FaceFusion V3.2 (Most Advanced 1-Click DeepFake) 1-Click Installers for Windows, RunPod and Massed Compute - Use locally and cloud](https://www.patreon.com/posts/103765029)
 * FaceFusion 3.2 Windows (local), RunPod and Massed Compute (Cloud) 1-Click installers. Install and run with easiness. The best DeepFake APP. The installation literally 1-click supports RTX 5000 series and older GPUs with CUDA and also TensorRT. 
@@ -73,10 +77,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### April 20 - 2025
 [Free Kaggle Account Notebook for SwarmUI with FLUX, SD 1.5, SDXL & Stable Diffusion 3.5 Large, FLUX, Hunyuan and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
 * Use very advanced SwarmUI on a free Kaggle account for free with dual T4 GPU. Fully supports SD 1.5, SDXL, SD3, FLUX, FLUX Tools (Redux, Canny, Depth, Inpainting), Stable Diffusion 3.5 Large, Stable Cascade, Hunyuan, SkyReels, Mochi 1 and more
-
-### April 19 - 2025
-[Tencent InstantCharacter 1-Click Installers for Windows, RunPod and Massed Compute, Supports RTX 5000 series as well](https://www.patreon.com/posts/126995127)
-* 1-Click to install Tencent InstantCharacter on Windows, RunPod and Massed Compute with more advanced Gradio App. Public post to see what it is : https://www.patreon.com/posts/127007174
 
 ### April 17 - 2025
 [SUPIR 1 Click Windows, RunPod / Massed Compute / Linux Installer & Free Kaggle Notebook](https://www.patreon.com/posts/99176057)
