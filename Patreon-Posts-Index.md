@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### May 15 - 2025
+[TRELLIS 1-Click Installers for Windows, RunPod, Massed Compute, New SOTA Image-to-3D Full Model - Mind Blowing](https://www.patreon.com/posts/117470976)
+* 1-Click installers to install TRELLIS on Windows, RunPod and Massed Compute. https://github.com/microsoft/TRELLIS. This is the SOTA model for image to full 3D generation and it is blazing fast
+
 ### May 14 - 2025
 [Tencent InstantCharacter 1-Click Installers for Windows, RunPod and Massed Compute, Supports RTX 5000 series as well](https://www.patreon.com/posts/126995127)
 * 1-Click to install Tencent InstantCharacter on Windows, RunPod and Massed Compute with more advanced Gradio App. Public post to see what it is : https://www.patreon.com/posts/127007174
@@ -154,9 +158,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 [1-Click Installers for Most Powerful Vision Model CogVLM V2 and Batch Captioning Images, Install on Windows, RunPod and Massed Compute](https://www.patreon.com/posts/120193330)
 * CogVLM 2 is an open source vision model that is par with GPT-4 of OpenAI. This post has 1-Click installers for CogVLM 2 Gradio APP. It installs into Python 3.10 VENV and fully supports Triton and 4-bit quantization. Works amazing and perfect. Has batch processing and many other features. For features, screenshot and more information check this public post : https://www.patreon.com/posts/120195496
 
-### January 16 - 2025
-[TRELLIS 1-Click Installers for Windows, RunPod, Massed Compute, New SOTA Image-to-3D Full Model - Mind Blowing](https://www.patreon.com/posts/117470976)
-* 1-Click installers to install TRELLIS on Windows, RunPod and Massed Compute. https://github.com/microsoft/TRELLIS. This is the SOTA model for image to full 3D generation and it is blazing fast
 
 ### January 10 - 2025
 [Ultra Advanced InstantID Gradio APP - Automatic Installers for Windows, RunPod and Massed Compute and Free Kaggle - Using the Very Best ControlNet Xinsir Models](https://www.patreon.com/posts/118469722)
