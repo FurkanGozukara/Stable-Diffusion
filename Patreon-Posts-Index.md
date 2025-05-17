@@ -23,6 +23,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### May 17 - 2025
+[Very Advanced Joy Caption APPs, Supports Batch Processing and Multi-GPU Captioning, Supports Joy Caption Pre Alpha, Alpha One, Alpha Two, 1-Click installers](https://www.patreon.com/posts/118827960)
+* Ultra advanced Gradio app for JoyCaption Pre-Alpha, Alpha One and Alpha Two with batch image captioning in addition to Multi-GPU support. 1-Click to install on Windows, RunPod and Massed Compute 
+
+### May 17 - 2025
 [FramePack 1-Click Installers for Windows, RunPod and Massed Compute, Image-to-Video with as Low as 6 GB VRAM and can Generate Up to 120 seconds videos](https://www.patreon.com/posts/126855226)
 * 1-Click installers for SOTA image-to-video framework / app FramePack. Install on Windows and use locally or install on RunPod or Massed Compute and scale your speed. The app is more advanced and i keep adding more features. You can see full tutorial here : https://youtu.be/HwMngohRmHg 
 
@@ -162,10 +166,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### January 10 - 2025
 [Ultra Advanced InstantID Gradio APP - Automatic Installers for Windows, RunPod and Massed Compute and Free Kaggle - Using the Very Best ControlNet Xinsir Models](https://www.patreon.com/posts/118469722)
 * Ultra advanced InstantID Gradio APP : 0-shot Identity-Preserving Generation in Seconds Gradio APP with latest best Xinsir ControlNet models. We have so many extra features compared to official InstantID APP plus we have 1-click very easy install on Windows, RunPod, Massed Compute and a free Kaggle Account notebook that works perfect
-
-### January 4 - 2025
-[Very Advanced Joy Caption APPs, Supports Batch Processing and Multi-GPU Captioning, Supports Joy Caption Pre Alpha, Alpha One, Alpha Two, 1-Click installers](https://www.patreon.com/posts/118827960)
-* Ultra advanced Gradio app for JoyCaption Pre-Alpha, Alpha One and Alpha Two with batch image captioning in addition to Multi-GPU support. 1-Click to install on Windows, RunPod and Massed Compute 
 
 ### January 1 - 2025
 [1-Click Installers for One of the Best Face Swap / Easy DeepFake APPs Roop Unleashed for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/119081500)
