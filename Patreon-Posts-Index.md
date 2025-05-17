@@ -23,8 +23,8 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### May 17 - 2025
-[Very Advanced Joy Caption APPs, Supports Batch Processing and Multi-GPU Captioning, Supports Joy Caption Pre Alpha, Alpha One, Alpha Two, 1-Click installers](https://www.patreon.com/posts/118827960)
-* Ultra advanced Gradio app for JoyCaption Pre-Alpha, Alpha One and Alpha Two with batch image captioning in addition to Multi-GPU support. 1-Click to install on Windows, RunPod and Massed Compute 
+[All Joy Captions (JoyCaption) Apps 1-Click Installers for Windows, RunPod, Massed Compute With Improved Gradio Apps - All Supporting Batch Processing, JoyCaption Pre-Alpha, Alpha One, Alpha Two and Joy Caption Beta One](https://www.patreon.com/posts/118827960)
+* This is the ultimate image captioning arsenal that supports all of the Joy Caption versions from pre-alpha to beta-one with more features like multi-gpu and batch folder processing
 
 ### May 17 - 2025
 [FramePack 1-Click Installers for Windows, RunPod and Massed Compute, Image-to-Video with as Low as 6 GB VRAM and can Generate Up to 120 seconds videos](https://www.patreon.com/posts/126855226)
