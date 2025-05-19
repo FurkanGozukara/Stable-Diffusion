@@ -685,3 +685,15 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**Step by Step TRELLIS Tutorial to Generate Amazing High-Quality 3D Assets from Static Images Locally**](https://youtu.be/EhU7Jil9WAk)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/eh7Pqn_v4Lg2ow4wxFlND.png)](https://youtu.be/EhU7Jil9WAk)
+
+108.) Free - Windows
+
+### [**Transfer Any Clothing Into A New Person & Turn Any Person Into A 3D Figure - ComfyUI Tutorial**](https://youtu.be/ZzYnhKeaJBs)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/xt7jkAia6pQPkXQj_6hmg.png)](https://youtu.be/ZzYnhKeaJBs)
+
+109.) Free - Windows
+
+### [**Wan 2.1 Text-to-Video T2V & Image-to-Video I2V Tutorial for SwarmUI with CausVid LoRA Extreme Speed**](https://youtu.be/XNcn845UXdw)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/lmic_VU9aRYf3Q7Rrkh2H.png)](https://youtu.be/XNcn845UXdw)
