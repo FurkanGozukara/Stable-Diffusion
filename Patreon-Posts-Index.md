@@ -23,6 +23,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### May 19 - 2025
+[VAST-AI TripoSF 1-Click Windows, RunPod and Massed Compute Installer for a Very Advanced Gradio App - 3D Shape](https://www.patreon.com/posts/126707772)
+* 1-Click to installers for VAST-AI-Research TripoSF into your computer and use locally or RunPod or Massed Compute with advanced Gradio App
+
+### May 19 - 2025
 [SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation ](https://www.patreon.com/posts/114517862)
 * 1-Click to install SwarmUI and an amazing app that lets you download the very best Image and Video Generation models 1-click. Full public tutorial here : https://youtu.be/fTzlQ0tjxj0
 
