@@ -23,6 +23,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### May 27 - 2025
+[1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, TensorRT (RTX Accelerator) and RTX 5000 SUPPORT on Windows](https://www.patreon.com/posts/86307255)
+* Automatic Windows installer script for SDXL and Automatic1111 Web UI. Downloads latest SDXL base with fixed VAE and best SD 1.5 and SDXL models. Moreover it automatically installs and lets you download newest NVIDIA RTX Accelerator - TensorRT which brings 70%+ Speed Up. Moreover, it will automatically install ControlNet and download all available ControlNet models for you. Furthermore, it will auto install After Detailer (ADetailer) and Reactor extensions and latest Torch and xFormers. All these installations are optional and you can install any of them.
+
+### May 27 - 2025
 [FramePack 1-Click Installers for Windows, RunPod and Massed Compute, Image-to-Video with as Low as 6 GB VRAM and can Generate Up to 120 seconds videos](https://www.patreon.com/posts/126855226)
 * 1-Click installers for SOTA image-to-video framework / app FramePack. Install on Windows and use locally or install on RunPod or Massed Compute and scale your speed. The app is more advanced and i keep adding more features. You can see full tutorial here : https://youtu.be/HwMngohRmHg 
 
@@ -145,10 +149,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### March 12 - 2025
 [AuraSR GigaGAN 4x Upscaler Gradio APP, Installers for Windows, RunPod, Massed Compute and free Kaggle Account with Seams Fix and Batch Processing](https://www.patreon.com/posts/121441873)
 * 1-Click to install and use locally (Windows) and also popular cloud services famous newest AuraSR GigaGAN 4x upscaler with batch upscaling
-
-### March 5 - 2025
-[1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, TensorRT (RTX Accelerator) on Windows](https://www.patreon.com/posts/86307255)
-* Automatic Windows installer script for SDXL and Automatic1111 Web UI. Downloads latest SDXL base with fixed VAE and best SD 1.5 and SDXL models. Moreover it automatically installs and lets you download newest NVIDIA RTX Accelerator - TensorRT which brings 70%+ Speed Up. Moreover, it will automatically install ControlNet and download all available ControlNet models for you. Furthermore, it will auto install After Detailer (ADetailer) and Reactor extensions and latest Torch and xFormers. All these installations are optional and you can install any of them.
 
 ### Feburary 25 - 2025
 [Gradio APP for Deterministic Text and Graphs Having Images Upscaling based on ImageMagick - Windows, RunPod, Massed Compute](https://www.patreon.com/posts/123071348)
