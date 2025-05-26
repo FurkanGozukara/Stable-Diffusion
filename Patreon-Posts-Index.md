@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### May 27 - 2025
+[FramePack 1-Click Installers for Windows, RunPod and Massed Compute, Image-to-Video with as Low as 6 GB VRAM and can Generate Up to 120 seconds videos](https://www.patreon.com/posts/126855226)
+* 1-Click installers for SOTA image-to-video framework / app FramePack. Install on Windows and use locally or install on RunPod or Massed Compute and scale your speed. The app is more advanced and i keep adding more features. You can see full tutorial here : https://youtu.be/HwMngohRmHg 
+
 ### May 24 - 2025
 [A Kaggle Notebook to Train Stable Diffusion 1.5 and XL (SDXL) on a Free Kaggle Account with 2x Dual T4 GPU for free by using Kohya GUI](https://www.patreon.com/posts/88397937)
 * A Kaggle NoteBook to do Stable Diffusion 1.5 and XL (SDXL) training. Fully supports 2x T4 dual GPU to speed up training. Kohya GUI is used to do DreamBooth / Fine-Tuning and LoRA Trainings.
@@ -45,10 +49,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### May 17 - 2025
 [All Joy Captions (JoyCaption) Apps 1-Click Installers for Windows, RunPod, Massed Compute With Improved Gradio Apps - All Supporting Batch Processing, JoyCaption Pre-Alpha, Alpha One, Alpha Two and Joy Caption Beta One](https://www.patreon.com/posts/118827960)
 * This is the ultimate image captioning arsenal that supports all of the Joy Caption versions from pre-alpha to beta-one with more features like multi-gpu and batch folder processing
-
-### May 17 - 2025
-[FramePack 1-Click Installers for Windows, RunPod and Massed Compute, Image-to-Video with as Low as 6 GB VRAM and can Generate Up to 120 seconds videos](https://www.patreon.com/posts/126855226)
-* 1-Click installers for SOTA image-to-video framework / app FramePack. Install on Windows and use locally or install on RunPod or Massed Compute and scale your speed. The app is more advanced and i keep adding more features. You can see full tutorial here : https://youtu.be/HwMngohRmHg 
 
 ### May 15 - 2025
 [Virtual Try-on (IDM-VTON) 1 Click Installers - Try Any Clothing Immediately On Anyone - Windows - RunPod - Massed Compute - Kaggle - Works even on Object Transfer](https://www.patreon.com/posts/122718239)
