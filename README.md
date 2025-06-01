@@ -697,3 +697,23 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**Wan 2.1 Text-to-Video T2V & Image-to-Video I2V Tutorial for SwarmUI with CausVid LoRA Extreme Speed**](https://youtu.be/XNcn845UXdw)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/lmic_VU9aRYf3Q7Rrkh2H.png)](https://youtu.be/XNcn845UXdw)
+
+110.) Free - Windows
+
+### [**SwarmUI Teacache Full Tutorial With Very Best Wan 2.1 I2V & T2V Presets - ComfyUI Used as Backend**](https://youtu.be/r38eWyNoXHo)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/3MTVj0j_LQJSEySCKyg0H.png)](https://youtu.be/r38eWyNoXHo)
+
+111.) Paid - No Platform
+
+### [**VEO 3 FLOW Full Tutorial - How To Use VEO3 in FLOW Guide**](https://youtu.be/AoEmQPU2gtg)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/kixvVmPdVY-Ao58hwXAag.png)](https://youtu.be/AoEmQPU2gtg)
+
+112.) Free - Windows
+
+### [**CausVid LoRA V2 of Wan 2.1 Brings Massive Quality Improvements, Better Colors and Saturation**](https://youtu.be/1rAwZv0hEcU)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/_s2R5_VYS6u2Cd0GwGFN7.png)](https://youtu.be/1rAwZv0hEcU)
+
+
