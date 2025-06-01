@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### June 1 - 2025
+[SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation ](https://www.patreon.com/posts/114517862)
+* 1-Click to install SwarmUI and an amazing app that lets you download the very best Image and Video Generation models 1-click. Full public tutorial here : https://youtu.be/fTzlQ0tjxj0
+
 ### May 27 - 2025
 [1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, TensorRT (RTX Accelerator) and RTX 5000 SUPPORT on Windows](https://www.patreon.com/posts/86307255)
 * Automatic Windows installer script for SDXL and Automatic1111 Web UI. Downloads latest SDXL base with fixed VAE and best SD 1.5 and SDXL models. Moreover it automatically installs and lets you download newest NVIDIA RTX Accelerator - TensorRT which brings 70%+ Speed Up. Moreover, it will automatically install ControlNet and download all available ControlNet models for you. Furthermore, it will auto install After Detailer (ADetailer) and Reactor extensions and latest Torch and xFormers. All these installations are optional and you can install any of them.
@@ -45,10 +49,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### May 19 - 2025
 [VAST-AI TripoSF 1-Click Windows, RunPod and Massed Compute Installer for a Very Advanced Gradio App - 3D Shape](https://www.patreon.com/posts/126707772)
 * 1-Click to installers for VAST-AI-Research TripoSF into your computer and use locally or RunPod or Massed Compute with advanced Gradio App
-
-### May 19 - 2025
-[SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation ](https://www.patreon.com/posts/114517862)
-* 1-Click to install SwarmUI and an amazing app that lets you download the very best Image and Video Generation models 1-click. Full public tutorial here : https://youtu.be/fTzlQ0tjxj0
 
 ### May 17 - 2025
 [All Joy Captions (JoyCaption) Apps 1-Click Installers for Windows, RunPod, Massed Compute With Improved Gradio Apps - All Supporting Batch Processing, JoyCaption Pre-Alpha, Alpha One, Alpha Two and Joy Caption Beta One](https://www.patreon.com/posts/118827960)
