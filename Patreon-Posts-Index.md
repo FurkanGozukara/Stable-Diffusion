@@ -22,15 +22,15 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
-### June 5- 2025
+### June 5 - 2025
 [Hi3DGen Image to 3D Mesh Generator (SOTA) Ultra Advanced App - 1-Click to Install on Windows, RunPod, Massed Compute + Batch Processing, Better than Trellis, Hunyuan3D-2.0, TripoSG](https://www.patreon.com/posts/130766890)
-* 1-Click Windows, RunPod and Massed Compute installers for Hi3DGen + SECourses developed ultra advanced App that supports batch processing + RTX 5000 series. Our installer and app utilizes Flash Attention as well and works on all GPUs especially tested on RTX 3000 and above. Moreover, our app is ultra VRAM optimized
+* 1-Click Windows, RunPod and Massed Compute installers for Hi3DGen + SECourses developed ultra advanced App that supports batch processing + RTX 5000 series. Our installer and app utilizes Flash Attention as well and works on all GPUs especially tested on RTX 3000 and above. Moreover, our app is ultra VRAM optimizedç Hi3DGen is the SOTA app for image to 3D mesh generation at the moment better than Trellis, Hunyuan3D-2.0 and TripoSG.
 
-### June 2- 2025
+### June 2 - 2025
 [Ultimate Image Processing APP : Batch Cropping, Zooming In, Resizing, Duplicate Image Removing, Face Extraction, SAM 2 and Yolo Segmentation, Masking for Windows, RunPod, Massed Compute and Free Kaggle Account](https://www.patreon.com/posts/120352012)
 * If you want to batch pre-process your training images, like auto zoom subject and resize perfectly into exact resolution, this is the script you need. 1-Click to install and use on Windows, RunPod and Massed Comput and even Kaggle. It supports YOLO V11 and SAM 2. Moreover it has even duplicate image removing as well. You can see all features in this public post : https://www.patreon.com/posts/120353641
 
-### June 2- 2025
+### June 2 - 2025
 [Wan 2.1 Ultra Advanced Gradio APP for - Works as low as 4GB VRAM - 1-Click Installers for Windows, RunPod, Massed Compute - Batch Processing - T2V - I2V - V2V](https://www.patreon.com/posts/123105403)
 * 1-Click to install and use the most powerful ever released Image to Video, Text to Video and Video to Video Wan 2.1 Open source model. Public Post to see APP features : https://www.patreon.com/posts/123114193
 
