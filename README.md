@@ -716,4 +716,9 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/_s2R5_VYS6u2Cd0GwGFN7.png)](https://youtu.be/1rAwZv0hEcU)
 
+113.) Free - Windows - Cloud
+
+### [**Hi3DGen Full Tutorial With Ultra Advanced App to Generate the Very Best 3D Meshes from Static Images**](https://youtu.be/HjbD20B2C1g)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/EzyVg24MA6gwEObcXG4yj.png)](https://youtu.be/HjbD20B2C1g)
 
