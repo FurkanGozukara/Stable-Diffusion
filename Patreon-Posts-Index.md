@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### June 11 - 2025
+[FramePack Studio Automatic Installer for Windows, RunPod and Massed Compute - Including RTX 5000 Series Support With Pre-Compiled Libraries](https://www.patreon.com/posts/128472621)
+* 1 Click auto installers for popular FramePack Studio repo. Install into your local Windows PC or RunPod or Massed Compute 100% automatically. My installers supports RTX 5000 series GPUs as well including older ones like RTX 3000 and 4000 series. All installed into a Python 3.10 VENV 100% isolated.
+
 ### June 5 - 2025
 [Hi3DGen Image to 3D Mesh Generator (SOTA) Ultra Advanced App - 1-Click to Install on Windows, RunPod, Massed Compute + Batch Processing, Better than Trellis, Hunyuan3D-2.0, TripoSG](https://www.patreon.com/posts/130766890)
 * 1-Click Windows, RunPod and Massed Compute installers for Hi3DGen + SECourses developed ultra advanced App that supports batch processing + RTX 5000 series. Our installer and app utilizes Flash Attention as well and works on all GPUs especially tested on RTX 3000 and above. Moreover, our app is ultra VRAM optimizedç Hi3DGen is the SOTA app for image to 3D mesh generation at the moment better than Trellis, Hunyuan3D-2.0 and TripoSG.
@@ -77,10 +81,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### May 14 - 2025
 [Tencent InstantCharacter 1-Click Installers for Windows, RunPod and Massed Compute, Supports RTX 5000 series as well](https://www.patreon.com/posts/126995127)
 * 1-Click to install Tencent InstantCharacter on Windows, RunPod and Massed Compute with more advanced Gradio App. Public post to see what it is : https://www.patreon.com/posts/127007174
-
-### May 8 - 2025
-[FramePack Studio Automatic Installer for Windows, RunPod and Massed Compute - Including RTX 5000 Series Support With Pre-Compiled Libraries](https://www.patreon.com/posts/128472621)
-* 1 Click auto installers for popular FramePack Studio repo. Install into your local Windows PC or RunPod or Massed Compute 100% automatically. My installers supports RTX 5000 series GPUs as well including older ones like RTX 3000 and 4000 series. All installed into a Python 3.10 VENV 100% isolated.
 
 ### May 4 - 2025
 [ComfyUI Auto Installer with FaceID, IP-Adapter, InsightFace, Reactor, Triton, DeepSpeed, Flash Attention, Sage Attention Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
