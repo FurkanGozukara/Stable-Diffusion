@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### June 15 - 2025
+[AuraSR GigaGAN 4x Upscaler Gradio APP, Installers for Windows, RunPod, Massed Compute and free Kaggle Account with Seams Fix and Batch Processing](https://www.patreon.com/posts/121441873)
+* 1-Click to install and use locally (Windows) and also popular cloud services famous newest AuraSR GigaGAN 4x upscaler with batch upscaling
+
 ### June 13 - 2025
 [1-Click Installers for One of the Best Face Swap / Easy DeepFake APPs Roop Unleashed for Windows, RunPod and Massed Compute - Support RTX 5000 Series GPUs Too](https://www.patreon.com/posts/119081500)
 * 1-Click installers for one of the very best Deep Fake / Face Swap app Roop Unleashed for Windows, RunPod and Massed Compute. This app uses Gradio interface and supports live Web Cam replace as well for streams like Google Meeting.
@@ -153,10 +157,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### March 13 - 2025
 [Hugging Face Upload / Download Notebook - Supports Private Repositories and Multi Commit as Well](https://www.patreon.com/posts/104672510)
 * If you are looking for convenient and fast way to save and download your files from Hugging Face, this notebook will do the job. 1-click easy
-
-### March 12 - 2025
-[AuraSR GigaGAN 4x Upscaler Gradio APP, Installers for Windows, RunPod, Massed Compute and free Kaggle Account with Seams Fix and Batch Processing](https://www.patreon.com/posts/121441873)
-* 1-Click to install and use locally (Windows) and also popular cloud services famous newest AuraSR GigaGAN 4x upscaler with batch upscaling
 
 ### Feburary 25 - 2025
 [Gradio APP for Deterministic Text and Graphs Having Images Upscaling based on ImageMagick - Windows, RunPod, Massed Compute](https://www.patreon.com/posts/123071348)
