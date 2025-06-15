@@ -23,6 +23,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### June 15 - 2025
+[ComfyUI Auto Installer with FaceID, IP-Adapter, InsightFace, Reactor, Triton, DeepSpeed, Flash Attention, Sage Attention Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
+* 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto installs ComfyUI manager, FaceID, InsightFace, Triton, DeepSpeed, Flash Attention, Sage Attention and Ip Adapter of ComfyUI on Windows Python VENV (not WSL). Also includes automatic downloader.py file to download all of the IP Adapter, InsightFace and FaceID models for you. Moreover we have 1-Click installer for Reactor extension with its all dependencies and auto download of necessary models. Full public tutorial here : https://youtu.be/fTzlQ0tjxj0  
+
+### June 15 - 2025
 [AuraSR GigaGAN 4x Upscaler Gradio APP, Installers for Windows, RunPod, Massed Compute and free Kaggle Account with Seams Fix and Batch Processing](https://www.patreon.com/posts/121441873)
 * 1-Click to install and use locally (Windows) and also popular cloud services famous newest AuraSR GigaGAN 4x upscaler with batch upscaling
 
@@ -89,10 +93,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### May 14 - 2025
 [Tencent InstantCharacter 1-Click Installers for Windows, RunPod and Massed Compute, Supports RTX 5000 series as well](https://www.patreon.com/posts/126995127)
 * 1-Click to install Tencent InstantCharacter on Windows, RunPod and Massed Compute with more advanced Gradio App. Public post to see what it is : https://www.patreon.com/posts/127007174
-
-### May 4 - 2025
-[ComfyUI Auto Installer with FaceID, IP-Adapter, InsightFace, Reactor, Triton, DeepSpeed, Flash Attention, Sage Attention Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
-* 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto installs ComfyUI manager, FaceID, InsightFace, Triton, DeepSpeed, Flash Attention, Sage Attention and Ip Adapter of ComfyUI on Windows Python VENV (not WSL). Also includes automatic downloader.py file to download all of the IP Adapter, InsightFace and FaceID models for you. Moreover we have 1-Click installer for Reactor extension with its all dependencies and auto download of necessary models. Full public tutorial here : https://youtu.be/fTzlQ0tjxj0  
 
 ### May 1 - 2025
 [1-Click Installers for FantasyTalking: Realistic Talking Portrait Generation SECourses App for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/127855145)
