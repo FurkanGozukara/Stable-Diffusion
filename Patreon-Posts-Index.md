@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### June 16 - 2025
+[DeepFace Based Batch Face Similarity Sorting Gradio APP For Windows, RunPod and Massed Compute - 1-Click to Install - Uses TensorFlow GPU - Very Fast](https://www.patreon.com/posts/121335747)
+* With DeepFace & RetinaFace libraries you can sort AI images or basically any images based on their similarity to the given single or multiple images (average taken). We have developed a batch processing Gradio APP for this task that installs libraries into a Python 3.10 VENV and works perfect on Windows. Also we have 1-click installers for RunPod and Massed Compute as well. The APP is fully multi-threaded.
+
 ### June 15 - 2025
 [ComfyUI Auto Installer with FaceID, IP-Adapter, InsightFace, Reactor, Triton, DeepSpeed, Flash Attention, Sage Attention Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
 * 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto installs ComfyUI manager, FaceID, InsightFace, Triton, DeepSpeed, Flash Attention, Sage Attention and Ip Adapter of ComfyUI on Windows Python VENV (not WSL). Also includes automatic downloader.py file to download all of the IP Adapter, InsightFace and FaceID models for you. Moreover we have 1-Click installer for Reactor extension with its all dependencies and auto download of necessary models. Full public tutorial here : https://youtu.be/fTzlQ0tjxj0  
@@ -161,10 +165,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### Feburary 25 - 2025
 [Gradio APP for Deterministic Text and Graphs Having Images Upscaling based on ImageMagick - Windows, RunPod, Massed Compute](https://www.patreon.com/posts/123071348)
 * If you need to upscale images with 100% accurate text preservation this APP is what you need. A Gradio based multi-threaded batch upscaler APP that utilizes ImageMagick with amazing upscale presets. Public Post to see APP features : https://www.patreon.com/posts/123073046
-
-### Feburary 2 - 2025
-[DeepFace Based Batch Face Similarity Sorting Gradio APP For Windows, RunPod and Massed Compute - 1-Click to Install - Uses TensorFlow GPU - Very Fast](https://www.patreon.com/posts/121335747)
-* With DeepFace & RetinaFace libraries you can sort AI images or basically any images based on their similarity to the given single or multiple images (average taken). We have developed a batch processing Gradio APP for this task that installs libraries into a Python 3.10 VENV and works perfect on Windows. Also we have 1-click installers for RunPod and Massed Compute as well. The APP is fully multi-threaded.
 
 ### January 31 - 2025
 [EasyAnimate 1-Click Install Windows, RunPod and Massed Compuıte, Newest SOTA Local Open Source Image-to-Video, Text-to-Video and More](https://www.patreon.com/posts/115888558)
