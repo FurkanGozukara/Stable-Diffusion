@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### June 20 - 2025
+[OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets](https://www.patreon.com/posts/96028218)
+* Nerogar OneTrainer very best Stable Diffusion XL (SDXL) full fine tuning presets. 8.5 GB GPU is very sufficient and fast. Installers and presets and configs are all updated 20 June 2025. Full step by step tutorial here : https://www.youtube.com/watch?v=0t5l6CP9eBg
+
 ### June 19 - 2025
 [SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation ](https://www.patreon.com/posts/114517862)
 * 1-Click to install SwarmUI and an amazing app that lets you download the very best Image and Video Generation models 1-click. Full public tutorial here : https://youtu.be/fTzlQ0tjxj0
@@ -242,10 +246,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### August 17 - 2024
 [The Very Best Workflow For SDXL DreamBooth / Full Fine Tuning - Results Of 100+ Full Trainings](https://www.patreon.com/posts/very-best-for-of-89213064)
 * Updated the very best hyper training parameters / configuration and training workflow for Kohya SS GUI for Stable Diffusion XL (SDXL)
-
-### August 16 - 2024
-[OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets](https://www.patreon.com/posts/96028218)
-* Nerogar OneTrainer very best Stable Diffusion XL (SDXL) full fine tuning presets. 10.3 GB GPU is very sufficient and fast
 
 ### August 14 - 2024
 [Image Folders Merger For Easy Comparison - Merge Images Side by Side - Useful to Compare Upscaling and Such Effect](https://www.patreon.com/posts/110108419)
