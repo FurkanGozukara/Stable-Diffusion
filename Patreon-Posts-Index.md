@@ -23,6 +23,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### July 11 - 2025
+[ComfyUI Auto Installer with FaceID, IP-Adapter, InsightFace, Reactor, Triton, DeepSpeed, Flash Attention, Sage Attention Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
+* 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto installs ComfyUI manager, FaceID, InsightFace, Triton, DeepSpeed, Flash Attention, Sage Attention and Ip Adapter of ComfyUI on Windows Python VENV (not WSL). Also includes automatic downloader.py file to download all of the IP Adapter, InsightFace and FaceID models for you. Moreover we have 1-Click installer for Reactor extension with its all dependencies and auto download of necessary models. Full public tutorial here : https://youtu.be/fTzlQ0tjxj0  
+
+### July 11 - 2025
 [Ultimate Image Processing APP : Batch Cropping, Zooming In, Resizing, Duplicate Image Removing, Face Extraction, SAM 2 and Yolo Segmentation, Masking for Windows, RunPod, Massed Compute and Free Kaggle Account](https://www.patreon.com/posts/120352012)
 * If you want to batch pre-process your training images, like auto zoom subject and resize perfectly into exact resolution, this is the script you need. 1-Click to install and use on Windows, RunPod and Massed Comput and even Kaggle. It supports YOLO V11 and SAM 2. Moreover it has even duplicate image removing as well. You can see all features in this public post : https://www.patreon.com/posts/120353641
 
@@ -37,10 +41,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### June 16 - 2025
 [DeepFace Based Batch Face Similarity Sorting Gradio APP For Windows, RunPod and Massed Compute - 1-Click to Install - Uses TensorFlow GPU - Very Fast](https://www.patreon.com/posts/121335747)
 * With DeepFace & RetinaFace libraries you can sort AI images or basically any images based on their similarity to the given single or multiple images (average taken). We have developed a batch processing Gradio APP for this task that installs libraries into a Python 3.10 VENV and works perfect on Windows. Also we have 1-click installers for RunPod and Massed Compute as well. The APP is fully multi-threaded.
-
-### June 15 - 2025
-[ComfyUI Auto Installer with FaceID, IP-Adapter, InsightFace, Reactor, Triton, DeepSpeed, Flash Attention, Sage Attention Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
-* 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto installs ComfyUI manager, FaceID, InsightFace, Triton, DeepSpeed, Flash Attention, Sage Attention and Ip Adapter of ComfyUI on Windows Python VENV (not WSL). Also includes automatic downloader.py file to download all of the IP Adapter, InsightFace and FaceID models for you. Moreover we have 1-Click installer for Reactor extension with its all dependencies and auto download of necessary models. Full public tutorial here : https://youtu.be/fTzlQ0tjxj0  
 
 ### June 15 - 2025
 [AuraSR GigaGAN 4x Upscaler Gradio APP, Installers for Windows, RunPod, Massed Compute and free Kaggle Account with Seams Fix and Batch Processing](https://www.patreon.com/posts/121441873)
