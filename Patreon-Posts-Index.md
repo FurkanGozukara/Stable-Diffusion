@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### July 11 - 2025
+[Ultimate Image Processing APP : Batch Cropping, Zooming In, Resizing, Duplicate Image Removing, Face Extraction, SAM 2 and Yolo Segmentation, Masking for Windows, RunPod, Massed Compute and Free Kaggle Account](https://www.patreon.com/posts/120352012)
+* If you want to batch pre-process your training images, like auto zoom subject and resize perfectly into exact resolution, this is the script you need. 1-Click to install and use on Windows, RunPod and Massed Comput and even Kaggle. It supports YOLO V11 and SAM 2. Moreover it has even duplicate image removing as well. You can see all features in this public post : https://www.patreon.com/posts/120353641
+
 ### June 20 - 2025
 [OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets](https://www.patreon.com/posts/96028218)
 * Nerogar OneTrainer very best Stable Diffusion XL (SDXL) full fine tuning presets. 8.5 GB GPU is very sufficient and fast. Installers and presets and configs are all updated 20 June 2025. Full step by step tutorial here : https://www.youtube.com/watch?v=0t5l6CP9eBg
@@ -54,9 +58,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 [Hi3DGen Image to 3D Mesh Generator (SOTA) Ultra Advanced App - 1-Click to Install on Windows, RunPod, Massed Compute + Batch Processing, Better than Trellis, Hunyuan3D-2.0, TripoSG](https://www.patreon.com/posts/130766890)
 * 1-Click Windows, RunPod and Massed Compute installers for Hi3DGen + SECourses developed ultra advanced App that supports batch processing + RTX 5000 series. Our installer and app utilizes Flash Attention as well and works on all GPUs especially tested on RTX 3000 and above. Moreover, our app is ultra VRAM optimizedç Hi3DGen is the SOTA app for image to 3D mesh generation at the moment better than Trellis, Hunyuan3D-2.0 and TripoSG.
 
-### June 2 - 2025
-[Ultimate Image Processing APP : Batch Cropping, Zooming In, Resizing, Duplicate Image Removing, Face Extraction, SAM 2 and Yolo Segmentation, Masking for Windows, RunPod, Massed Compute and Free Kaggle Account](https://www.patreon.com/posts/120352012)
-* If you want to batch pre-process your training images, like auto zoom subject and resize perfectly into exact resolution, this is the script you need. 1-Click to install and use on Windows, RunPod and Massed Comput and even Kaggle. It supports YOLO V11 and SAM 2. Moreover it has even duplicate image removing as well. You can see all features in this public post : https://www.patreon.com/posts/120353641
 
 ### June 2 - 2025
 [Wan 2.1 Ultra Advanced Gradio APP for - Works as low as 4GB VRAM - 1-Click Installers for Windows, RunPod, Massed Compute - Batch Processing - T2V - I2V - V2V](https://www.patreon.com/posts/123105403)
