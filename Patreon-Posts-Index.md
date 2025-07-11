@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### July 12 - 2025
+[EasyAnimate 1-Click Install Windows, RunPod and Massed Compuıte, Newest SOTA Local Open Source Image-to-Video, Text-to-Video and More](https://www.patreon.com/posts/115888558)
+* 1-Click Installers for EasyAnimate. It is literally Runway but Open Source and FREE, Text-to-Video, Image-to-Video (both beginning and ending frame), Video-to-Video, Works on 24 GB GPUs on Windows, supports 960px resolution, supports very long videos with Overlap. Install on Windows, RunPod and Massed Compute
+
 ### July 11 - 2025
 [ComfyUI Auto Installer with FaceID, IP-Adapter, InsightFace, Reactor, Triton, DeepSpeed, Flash Attention, Sage Attention Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
 * 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto installs ComfyUI manager, FaceID, InsightFace, Triton, DeepSpeed, Flash Attention, Sage Attention and Ip Adapter of ComfyUI on Windows Python VENV (not WSL). Also includes automatic downloader.py file to download all of the IP Adapter, InsightFace and FaceID models for you. Moreover we have 1-Click installer for Reactor extension with its all dependencies and auto download of necessary models. Full public tutorial here : https://youtu.be/fTzlQ0tjxj0  
@@ -170,10 +174,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### Feburary 25 - 2025
 [Gradio APP for Deterministic Text and Graphs Having Images Upscaling based on ImageMagick - Windows, RunPod, Massed Compute](https://www.patreon.com/posts/123071348)
 * If you need to upscale images with 100% accurate text preservation this APP is what you need. A Gradio based multi-threaded batch upscaler APP that utilizes ImageMagick with amazing upscale presets. Public Post to see APP features : https://www.patreon.com/posts/123073046
-
-### January 31 - 2025
-[EasyAnimate 1-Click Install Windows, RunPod and Massed Compuıte, Newest SOTA Local Open Source Image-to-Video, Text-to-Video and More](https://www.patreon.com/posts/115888558)
-* 1-Click Installers for EasyAnimate. It is literally Runway but Open Source and FREE, Text-to-Video, Image-to-Video (both beginning and ending frame), Video-to-Video, Works on 24 GB GPUs on Windows, supports 960px resolution, supports very long videos with Overlap. Install on Windows, RunPod and Massed Compute
 
 ### January 17 - 2025
 [1-Click Installers for Most Powerful Vision Model CogVLM V2 and Batch Captioning Images, Install on Windows, RunPod and Massed Compute](https://www.patreon.com/posts/120193330)
