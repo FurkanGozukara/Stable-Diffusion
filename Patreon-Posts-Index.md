@@ -23,8 +23,8 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### July 12 - 2025
-[Video Comparison Slider App With Zoom In Feature - Extremely Lightweight Locally Use](https://www.patreon.com/posts/133935178)
-* Amazing video comparison slider app with zoom in feature. So you can compare your generated, upscaled, modified videos to see difference.
+[Video and Image Comparison Slider Apps With Batch Upload, Live Change and Zoom In Feature - Extremely Lightweight Locally Use](https://www.patreon.com/posts/133935178)
+* Amazing video and image comparison slider app with zoom in and batch upload and live change features. Comparing images and videos ultra easy. Batch upload videos and change and see difference. Batch upload images and change and compare. Better than imgsli. 
 
 ### July 12 - 2025
 [EasyAnimate 1-Click Install Windows, RunPod and Massed Compuıte, Newest SOTA Local Open Source Image-to-Video, Text-to-Video and More](https://www.patreon.com/posts/115888558)
