@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### July 13 - 2025
+[SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation ](https://www.patreon.com/posts/114517862)
+* 1-Click to install SwarmUI and an amazing app that lets you download the very best Image and Video Generation models 1-click. Full public tutorial here : https://youtu.be/fTzlQ0tjxj0
+
 ### July 12 - 2025
 [Video and Image Comparison Slider Apps With Batch Upload, Live Change and Zoom In Feature - Extremely Lightweight Locally Use](https://www.patreon.com/posts/133935178)
 * Amazing video and image comparison slider app with zoom in and batch upload and live change features. Comparing images and videos ultra easy. Batch upload videos and change and see difference. Batch upload images and change and compare. Better than imgsli. 
@@ -41,10 +45,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### June 20 - 2025
 [OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets](https://www.patreon.com/posts/96028218)
 * Nerogar OneTrainer very best Stable Diffusion XL (SDXL) full fine tuning presets. 8.5 GB GPU is very sufficient and fast. Installers and presets and configs are all updated 20 June 2025. Full step by step tutorial here : https://www.youtube.com/watch?v=0t5l6CP9eBg
-
-### June 19 - 2025
-[SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation ](https://www.patreon.com/posts/114517862)
-* 1-Click to install SwarmUI and an amazing app that lets you download the very best Image and Video Generation models 1-click. Full public tutorial here : https://youtu.be/fTzlQ0tjxj0
 
 ### June 16 - 2025
 [DeepFace Based Batch Face Similarity Sorting Gradio APP For Windows, RunPod and Massed Compute - 1-Click to Install - Uses TensorFlow GPU - Very Fast](https://www.patreon.com/posts/121335747)
