@@ -23,6 +23,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### July 12 - 2025
+[Video Comparison Slider App With Zoom In Feature - Extremely Lightweight Locally Use](https://www.patreon.com/posts/133935178)
+* Amazing video comparison slider app with zoom in feature. So you can compare your generated, upscaled, modified videos to see difference.
+
+### July 12 - 2025
 [EasyAnimate 1-Click Install Windows, RunPod and Massed Compuıte, Newest SOTA Local Open Source Image-to-Video, Text-to-Video and More](https://www.patreon.com/posts/115888558)
 * 1-Click Installers for EasyAnimate. It is literally Runway but Open Source and FREE, Text-to-Video, Image-to-Video (both beginning and ending frame), Video-to-Video, Works on 24 GB GPUs on Windows, supports 960px resolution, supports very long videos with Overlap. Install on Windows, RunPod and Massed Compute
 
