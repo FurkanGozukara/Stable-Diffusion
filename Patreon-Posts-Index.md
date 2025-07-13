@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### July 14 - 2025
+[Tencent AI Lab - V-Express Image to Animation Gradio Web APP and 1-Click Installers for Windows, Massed Compute, RunPod and Kaggle](https://www.patreon.com/posts/105251204)
+* 1-Click to turn your static image into a full animation talking video either by an input audio or video file via Tencent AI Lab - V-Express - Open Source D-ID and alikes
+
 ### July 13 - 2025
 [SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation ](https://www.patreon.com/posts/114517862)
 * 1-Click to install SwarmUI and an amazing app that lets you download the very best Image and Video Generation models 1-click. Full public tutorial here : https://youtu.be/fTzlQ0tjxj0
@@ -263,10 +267,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### June 24 - 2024
 [Fooocus Stable Diffusion Web UI Kaggle NoteBook](https://www.patreon.com/posts/fooocus-stable-94269866)
 * Fooocus Stable Diffusion Web UI Free Kaggle Account Notebook. Use SDXL on Kaggle for free like Midjourney without even a computer. This is the way to use almost Midjourney for free.
-
-### June 21 - 2024
-[Tencent AI Lab - V-Express Image to Animation Gradio Web APP and 1-Click Installers for Windows, Massed Compute, RunPod and Kaggle](https://www.patreon.com/posts/105251204)
-* 1-Click to turn your static image into a full animation talking video either by an input audio or video file via Tencent AI Lab - V-Express - Open Source D-ID and alikes
 
 ### June 14 - 2024
 [All Amazing Styles Of Fooocus For Automatic1111 SD Web UI and StableSwarmUI also necessary Scripts to generate them](https://www.patreon.com/posts/95143823)
