@@ -23,6 +23,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### July 14 - 2025
+[From NVIDIA Labs SANA Text-to-Image Model 1-Click Installers for Windows, RunPod, Massed Compute and Free Kaggle Account](https://www.patreon.com/posts/116474081)
+* 1-Click installers for NVIDIA Labs SANA (Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer) model with an amazing Gradio APP developed by SECourses. Windows, RunPod, Massed Compute and Kaggle. Pretty lighweight and fast model to use. 1K (1024x1024) : 4 GB GPUs. 2K (2048x2048) : 6 GB GPUs. 4K (4096x4096) : 8 GB GPUs
+
+### July 14 - 2025
 [Tencent AI Lab - V-Express Image to Animation Gradio Web APP and 1-Click Installers for Windows, Massed Compute, RunPod and Kaggle](https://www.patreon.com/posts/105251204)
 * 1-Click to turn your static image into a full animation talking video either by an input audio or video file via Tencent AI Lab - V-Express - Open Source D-ID and alikes
 
@@ -134,10 +138,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### April 23 - 2025
 [IC-Light (Most Advanced 1-Click Relight / Re-Light) 1-Click Installer for Windows, RunPod, Massed Compute & Kaggle Notebook](https://www.patreon.com/posts/119566071)
 * 1-click auto installer scripts for IC-Light (Re-Light / Relight any image) for Windows, Massed Compute, RunPod, Linux and a free Kaggle Notebook
-
-### April 20 - 2025
-[From NVIDIA Labs SANA Text-to-Image Model 1-Click Installers for Windows, RunPod, Massed Compute and Free Kaggle Account](https://www.patreon.com/posts/116474081)
-* 1-Click installers for NVIDIA Labs SANA (Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer) model with an amazing Gradio APP developed by SECourses. Windows, RunPod, Massed Compute and Kaggle. Pretty lighweight and fast model to use. 1K (1024x1024) : 4 GB GPUs. 2K (2048x2048) : 6 GB GPUs. 4K (4096x4096) : 8 GB GPUs
 
 ### April 20 - 2025
 [Free Kaggle Account Notebook for SwarmUI with FLUX, SD 1.5, SDXL & Stable Diffusion 3.5 Large, FLUX, Hunyuan and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
