@@ -22,10 +22,9 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
-### July 16 - 2025
+### July 18 - 2025
 [SECourses Video and Image Upscaler Pro - STAR - SeedVR2 - Image Upscalers (e.g. 4xUltraSharp, RealESRGAN) - Industry Level Automatic Scene Based Movie Restoration](https://www.patreon.com/posts/134405610)
 * This app designed as an industry level video upscaling and restoration mindset, you will see as you use. Entire movies can be upscaled / restored with just 1 click fully automatically. Our image based upscalers supports full batch-size processing which means you can increase processing speed significantly. : https://youtu.be/fTzlQ0tjxj0
-
 
 ### July 16 - 2025
 [SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation ](https://www.patreon.com/posts/114517862)
