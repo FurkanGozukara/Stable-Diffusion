@@ -26,15 +26,14 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 [SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation ](https://www.patreon.com/posts/114517862)
 * 1-Click to install SwarmUI and an amazing app that lets you download the very best Image and Video Generation models 1-click. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
 
+### July 31 - 2025
+[ComfyUI Auto Installer with FaceID, IP-Adapter, InsightFace, Reactor, Triton, DeepSpeed, Flash Attention, Sage Attention Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
+* 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto installs ComfyUI manager, FaceID, InsightFace, Triton, DeepSpeed, Flash Attention, Sage Attention and Ip Adapter of ComfyUI on Windows Python VENV (not WSL). Also includes automatic downloader.py file to download all of the IP Adapter, InsightFace and FaceID models for you. Moreover we have 1-Click installer for Reactor extension with its all dependencies and auto download of necessary models. Full public tutorial here : https://youtu.be/fTzlQ0tjxj0  
+
+
 ### July 26 - 2025
 [SECourses Video and Image Upscaler Pro - STAR - SeedVR2 - Image Upscalers (e.g. 4xUltraSharp, RealESRGAN) - Industry Level Automatic Scene Based Movie Restoration](https://www.patreon.com/posts/134405610)
 * This app designed as an industry level video upscaling and restoration mindset, you will see as you use. Entire movies can be upscaled / restored with just 1 click fully automatically. Our image based upscalers supports full batch-size processing which means you can increase processing speed significantly. : https://youtu.be/fTzlQ0tjxj0
-
-
-
-### July 16 - 2025
-[ComfyUI Auto Installer with FaceID, IP-Adapter, InsightFace, Reactor, Triton, DeepSpeed, Flash Attention, Sage Attention Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
-* 1 Click auto installers for ComfyUI latest version for Windows, Massed Compute and RunPod. Installs latest version of ComfyUI into an isolated Python venv. Auto installs ComfyUI manager, FaceID, InsightFace, Triton, DeepSpeed, Flash Attention, Sage Attention and Ip Adapter of ComfyUI on Windows Python VENV (not WSL). Also includes automatic downloader.py file to download all of the IP Adapter, InsightFace and FaceID models for you. Moreover we have 1-Click installer for Reactor extension with its all dependencies and auto download of necessary models. Full public tutorial here : https://youtu.be/fTzlQ0tjxj0  
 
 ### July 14 - 2025
 [Ultra Advanced InstantID Gradio APP - Automatic Installers for Windows, RunPod and Massed Compute and Free Kaggle - Using the Very Best ControlNet Xinsir Models](https://www.patreon.com/posts/118469722)
