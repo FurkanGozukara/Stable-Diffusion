@@ -23,16 +23,16 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### August 2 - 2025
+[SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation ](https://www.patreon.com/posts/114517862)
+* 1-Click to install SwarmUI and an amazing app that lets you download the very best Image and Video Generation models 1-click. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
+
+### August 2 - 2025
 [All Joy Captions (JoyCaption) Apps 1-Click Installers for Windows, RunPod, Massed Compute With Improved Gradio Apps - All Supporting Batch Processing, JoyCaption Pre-Alpha, Alpha One, Alpha Two and Joy Caption Beta One](https://www.patreon.com/posts/118827960)
 * This is the ultimate image captioning arsenal that supports all of the Joy Caption versions from pre-alpha to beta-one with more features like multi-gpu and batch folder processing
 
 ### August 2 - 2025
 [1-Click Installers for One of the Best Face Swap / Easy DeepFake APPs Roop Unleashed for Windows, RunPod and Massed Compute - Support RTX 5000 Series GPUs Too](https://www.patreon.com/posts/119081500)
 * 1-Click installers for one of the very best Deep Fake / Face Swap app Roop Unleashed for Windows, RunPod and Massed Compute. This app uses Gradio interface and supports live Web Cam replace as well for streams like Google Meeting.
-
-### July 31 - 2025
-[SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation ](https://www.patreon.com/posts/114517862)
-* 1-Click to install SwarmUI and an amazing app that lets you download the very best Image and Video Generation models 1-click. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
 
 ### July 31 - 2025
 [ComfyUI Auto Installer with FaceID, IP-Adapter, InsightFace, Reactor, Triton, DeepSpeed, Flash Attention, Sage Attention Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
