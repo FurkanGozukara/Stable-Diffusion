@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### August 2 - 2025
+[1-Click Installers for One of the Best Face Swap / Easy DeepFake APPs Roop Unleashed for Windows, RunPod and Massed Compute - Support RTX 5000 Series GPUs Too](https://www.patreon.com/posts/119081500)
+* 1-Click installers for one of the very best Deep Fake / Face Swap app Roop Unleashed for Windows, RunPod and Massed Compute. This app uses Gradio interface and supports live Web Cam replace as well for streams like Google Meeting.
+
 ### July 31 - 2025
 [SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation ](https://www.patreon.com/posts/114517862)
 * 1-Click to install SwarmUI and an amazing app that lets you download the very best Image and Video Generation models 1-click. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
@@ -70,10 +74,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### June 15 - 2025
 [AuraSR GigaGAN 4x Upscaler Gradio APP, Installers for Windows, RunPod, Massed Compute and free Kaggle Account with Seams Fix and Batch Processing](https://www.patreon.com/posts/121441873)
 * 1-Click to install and use locally (Windows) and also popular cloud services famous newest AuraSR GigaGAN 4x upscaler with batch upscaling
-
-### June 13 - 2025
-[1-Click Installers for One of the Best Face Swap / Easy DeepFake APPs Roop Unleashed for Windows, RunPod and Massed Compute - Support RTX 5000 Series GPUs Too](https://www.patreon.com/posts/119081500)
-* 1-Click installers for one of the very best Deep Fake / Face Swap app Roop Unleashed for Windows, RunPod and Massed Compute. This app uses Gradio interface and supports live Web Cam replace as well for streams like Google Meeting.
 
 ### June 11 - 2025
 [FramePack Studio Automatic Installer for Windows, RunPod and Massed Compute - Including RTX 5000 Series Support With Pre-Compiled Libraries](https://www.patreon.com/posts/128472621)
