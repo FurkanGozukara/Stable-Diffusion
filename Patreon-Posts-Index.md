@@ -22,13 +22,17 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### August 8 - 2025
+[Blazing Fast SD Forge Web UI Latest Version Windows, RunPod and Massed Compute Automatic Installers with RTX 5000 series GPUs support + Flash Attention + Sage Attention + xFormers](https://www.patreon.com/posts/118442039)
+* 1-Click to install latest SD Forge Web UI on Windows, RunPod and Massed Compute and supports RTX 5000 series GPUs too with accurate Torch version and pre compiled xFormers, Sage Attention and Flash Attention
+
+### August 8 - 2025
+[SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation](https://www.patreon.com/posts/114517862)
+* 1-Click to install SwarmUI and Unified AI Models Downloader for SwarmUI, ComfyUI, Automatic1111 and Forge Web UI - Supports SD 1.5, SDXL, FLUX, Wan 2.1, Wan 2.2, Qwen Image, SwarmUI presets to generate images and videos with FLUX, Qwen Image, SDXL and Wan 2.1, Wan 2.2 Models and more. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
+
 ### August 5 - 2025
 [Video and Image Comparison Slider Apps With Batch Upload, Live Change and Zoom In Feature - Extremely Lightweight Locally Use](https://www.patreon.com/posts/133935178)
 * Amazing video and image comparison slider app with zoom in and batch upload and live change features. Comparing images and videos ultra easy. Batch upload videos and change and see difference. Batch upload images and change and compare. Better than imgsli. 
-
-### August 2 - 2025
-[SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation ](https://www.patreon.com/posts/114517862)
-* 1-Click to install SwarmUI and an amazing app that lets you download the very best Image and Video Generation models 1-click. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
 
 ### August 2 - 2025
 [All Joy Captions (JoyCaption) Apps 1-Click Installers for Windows, RunPod, Massed Compute With Improved Gradio Apps - All Supporting Batch Processing, JoyCaption Pre-Alpha, Alpha One, Alpha Two and Joy Caption Beta One](https://www.patreon.com/posts/118827960)
@@ -87,7 +91,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 [Hi3DGen Image to 3D Mesh Generator (SOTA) Ultra Advanced App - 1-Click to Install on Windows, RunPod, Massed Compute + Batch Processing, Better than Trellis, Hunyuan3D-2.0, TripoSG](https://www.patreon.com/posts/130766890)
 * 1-Click Windows, RunPod and Massed Compute installers for Hi3DGen + SECourses developed ultra advanced App that supports batch processing + RTX 5000 series. Our installer and app utilizes Flash Attention as well and works on all GPUs especially tested on RTX 3000 and above. Moreover, our app is ultra VRAM optimizedç Hi3DGen is the SOTA app for image to 3D mesh generation at the moment better than Trellis, Hunyuan3D-2.0 and TripoSG.
 
-
 ### June 2 - 2025
 [Wan 2.1 Ultra Advanced Gradio APP for - Works as low as 4GB VRAM - 1-Click Installers for Windows, RunPod, Massed Compute - Batch Processing - T2V - I2V - V2V](https://www.patreon.com/posts/123105403)
 * 1-Click to install and use the most powerful ever released Image to Video, Text to Video and Video to Video Wan 2.1 Open source model. Public Post to see APP features : https://www.patreon.com/posts/123114193
@@ -131,10 +134,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### May 1 - 2025
 [1-Click Installers for FantasyTalking: Realistic Talking Portrait Generation SECourses App for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/127855145)
 * 1-Click installers for ultra advanced FantasyTalking: Realistic Talking Portrait Generation SECourses App for Windows, RunPod, Massed Compute
-
-### April 26 - 2025
-[Blazing Fast SD Forge Web UI Latest Version Windows, RunPod and Massed Compute Automatic Installers and Unified Model Downloaders for SD 1.5, SDXL, FLUX and More Newer Models](https://www.patreon.com/posts/118442039)
-* 1-Click to install latest SD Forge Web UI on Windows, RunPod and Massed Compute and download all of the amazing FLUX, SD 1.5, SDXL and SD3.5 and many more. Our installers and downloader scripts are super optmized that you will see even 1000 MB per second download speeds if your internet speed is sufficient.
 
 ### April 24 - 2025
 [1-Click Installers for Paints-UNDO Advanced Gradio APP, Windows, RunPod, Massed Compute and Kaggle Installers](https://www.patreon.com/posts/121228327)
