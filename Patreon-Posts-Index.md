@@ -22,13 +22,13 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### August 13 - 2025
+[SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation](https://www.patreon.com/posts/114517862)
+* 1-Click to install SwarmUI and Unified AI Models Downloader for SwarmUI, ComfyUI, Automatic1111 and Forge Web UI - Supports SD 1.5, SDXL, FLUX, Wan 2.1, Wan 2.2, Qwen Image, SwarmUI presets to generate images and videos with FLUX, Qwen Image, SDXL and Wan 2.1, Wan 2.2 Models and more. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
+
 ### August 8 - 2025
 [Blazing Fast SD Forge Web UI Latest Version Windows, RunPod and Massed Compute Automatic Installers with RTX 5000 series GPUs support + Flash Attention + Sage Attention + xFormers](https://www.patreon.com/posts/118442039)
 * 1-Click to install latest SD Forge Web UI on Windows, RunPod and Massed Compute and supports RTX 5000 series GPUs too with accurate Torch version and pre compiled xFormers, Sage Attention and Flash Attention
-
-### August 8 - 2025
-[SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation](https://www.patreon.com/posts/114517862)
-* 1-Click to install SwarmUI and Unified AI Models Downloader for SwarmUI, ComfyUI, Automatic1111 and Forge Web UI - Supports SD 1.5, SDXL, FLUX, Wan 2.1, Wan 2.2, Qwen Image, SwarmUI presets to generate images and videos with FLUX, Qwen Image, SDXL and Wan 2.1, Wan 2.2 Models and more. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
 
 ### August 5 - 2025
 [Video and Image Comparison Slider Apps With Batch Upload, Live Change and Zoom In Feature - Extremely Lightweight Locally Use](https://www.patreon.com/posts/133935178)
