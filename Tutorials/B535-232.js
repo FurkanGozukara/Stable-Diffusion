@@ -12,6 +12,9 @@ javascript:(function(){
     let updateInterval = null;
     let signalHistory = [];
     let bandPerformance = {};
+    let performanceScoreHistory = [];
+    let currentPerformanceScore = 0;
+    let ajaxRequestCount = 0;
     let darkMode = false;
     let has5GCard = false; // Track 5G card state to prevent flickering
     let lastKnown5GStatus = false;
@@ -653,11 +656,18 @@ javascript:(function(){
                     <div class="em-card">
                         <div class="em-card-header">
                             <div class="em-card-title">⚡ Performance Score</div>
-                            <div class="em-card-icon">📈</div>
+                            <div class="em-card-icon">📈 <span id="update-indicator" style="color: #10b981;">●</span></div>
                         </div>
                         <div style="text-align: center; padding: 20px;">
                             <div style="font-size: 48px; font-weight: bold; color: #10b981;" id="perf-score">--</div>
                             <div style="color: #6b7280; margin-top: 10px;" id="perf-label">Calculating...</div>
+                            <div style="color: #6b7280; margin-top: 10px; font-size: 14px;">
+                                Average: <span id="perf-average" style="font-weight: bold;">--</span>
+                            </div>
+                            <div style="color: #6b7280; margin-top: 5px; font-size: 12px;">
+                                Last update: <span id="perf-timestamp">--</span>
+                            </div>
+                            <button id="reset-perf-btn" style="margin-top: 10px; padding: 5px 15px; background: #ef4444; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 12px;" onclick="window.emFunctions.resetPerformanceHistory()">Reset</button>
                         </div>
                         <div class="em-recommendation">
                             <div class="em-recommendation-title">💡 Recommendation</div>
@@ -845,14 +855,14 @@ javascript:(function(){
                             </div>
                             <div class="em-setting-row" style="padding: 15px 0; border-bottom: 1px solid #e5e7eb;">
                                 <span class="em-setting-label">Update Interval (ms)</span>
-                                <input type="number" id="update-interval" value="2500" min="1000" max="10000" step="500" style="width: 100px;">
+                                <input type="number" id="update-interval" value="500" min="50" max="10000" step="50" style="width: 100px;">
                                 <button class="em-btn" onclick="window.emFunctions.updateInterval()">Apply</button>
                             </div>
                             <div style="margin-top: 20px;">
                                 <h4>Debug Information</h4>
                                 <div id="debug-info" style="font-family: monospace; background: #f3f4f6; padding: 10px; border-radius: 6px; margin-top: 10px;">
                                     <div>Version: ${VERSION}</div>
-                                    <div>Update Interval: <span id="debug-interval">2500ms</span></div>
+                                    <div>Update Interval: <span id="debug-interval">500ms</span></div>
                                     <div>Signals Collected: <span id="debug-signals">0</span></div>
                                     <div>5G Status: <span id="debug-5g">Not detected</span></div>
                                     <div>Last Update: <span id="debug-last-update">Never</span></div>
@@ -966,6 +976,9 @@ javascript:(function(){
     function monitorSignals() {
         if (suspend) return;
         
+        ajaxRequestCount++;
+        console.log(`AJAX Request #${ajaxRequestCount} at ${new Date().toLocaleTimeString()}`);
+        
         $.ajax({
             dataType: "text",
             type: "GET",
@@ -1040,11 +1053,15 @@ javascript:(function(){
                     });
                 }
                 
-                // Get additional info
-                getNetworkMode();
-                getAntennaStatus();
-                getCellInfo(signalData);
-                getNetworkStatus();
+                // Get additional info (throttled to avoid performance issues)
+                const now = Date.now();
+                if (!window.lastAdditionalInfoUpdate || (now - window.lastAdditionalInfoUpdate) > 1000) {
+                    getNetworkMode();
+                    getAntennaStatus();
+                    getCellInfo(signalData);
+                    getNetworkStatus();
+                    window.lastAdditionalInfoUpdate = now;
+                }
             }
         });
     }
@@ -1151,7 +1168,27 @@ javascript:(function(){
             score += sinrScore;
         }
         
+        // Store current score and calculate average
+        currentPerformanceScore = score;
+        performanceScoreHistory.push(score);
+        
+        // Keep only last 1000 scores for average (about 50 seconds at 50ms interval)
+        if (performanceScoreHistory.length > 1000) {
+            performanceScoreHistory.shift();
+        }
+        
+        // Calculate average
+        const averageScore = performanceScoreHistory.reduce((sum, s) => sum + s, 0) / performanceScoreHistory.length;
+        
         $("#perf-score").text(Math.round(score));
+        $("#perf-average").text(Math.round(averageScore));
+        $("#perf-timestamp").text(new Date().toLocaleTimeString());
+        
+        // Flash update indicator
+        $("#update-indicator").css("color", "#ef4444").text("●");
+        setTimeout(() => {
+            $("#update-indicator").css("color", "#10b981").text("●");
+        }, 100);
         
         let label = "";
         let color = "#ef4444";
@@ -1196,6 +1233,14 @@ javascript:(function(){
         }
         
         $("#recommendation-text").text(recommendation);
+    }
+    
+    // Reset performance history
+    function resetPerformanceHistory() {
+        performanceScoreHistory = [];
+        currentPerformanceScore = 0;
+        $("#perf-average").text("--");
+        showNotification("Performance history reset", "success");
     }
     
     // Get network mode
@@ -1312,9 +1357,39 @@ javascript:(function(){
                 }
             }
             
-            // Show available bands count
+            // Show available bands count and update UI
             if (availableBands.length > 0) {
                 console.log(`Available bands: ${availableBands.join(", ")}`);
+                
+                // Update Available Bands tab with real-time data
+                $("#detection-status").text(`${availableBands.length} bands detected`).css("color", "#10b981");
+                $("#available-bands-content").show();
+                $("#no-bands-message").hide();
+                
+                // Update the available bands table
+                const tableBody = $("#available-bands-table tbody");
+                if (tableBody.length === 0) {
+                    // If table doesn't exist, create it
+                    const table = $("#available-bands-content").find("table tbody");
+                    if (table.length > 0) {
+                        table.empty();
+                        availableBands.forEach(band => {
+                            const bandInfo = BAND_INFO[band] || {};
+                            table.append(`
+                                <tr>
+                                    <td style="padding: 8px; border-bottom: 1px solid #e5e7eb;">B${band}</td>
+                                    <td style="padding: 8px; border-bottom: 1px solid #e5e7eb;">${bandInfo.freq || '--'}</td>
+                                    <td style="padding: 8px; border-bottom: 1px solid #e5e7eb;">LTE</td>
+                                    <td style="padding: 8px; border-bottom: 1px solid #e5e7eb;">${bandInfo.type || '--'}</td>
+                                    <td style="padding: 8px; border-bottom: 1px solid #e5e7eb;">${bandInfo.bandwidth || '--'} MHz</td>
+                                    <td style="padding: 8px; border-bottom: 1px solid #e5e7eb;">${bandInfo.usage || '--'}</td>
+                                </tr>
+                            `);
+                        });
+                    }
+                }
+            } else {
+                $("#detection-status").text("No bands detected").css("color", "#ef4444");
             }
         } catch (e) {
             console.error("Error highlighting bands:", e);
@@ -2039,7 +2114,7 @@ javascript:(function(){
             $("#auto-refresh-text").text("▶️ Resume");
             showNotification("Auto-refresh paused", "warning");
         } else {
-            const interval = parseInt($("#update-interval").val()) || 2500;
+            const interval = parseInt($("#update-interval").val()) || 500;
             updateInterval = setInterval(monitorSignals, interval);
             $("#auto-refresh-text").text("⏸ Pause");
             showNotification("Auto-refresh resumed", "success");
@@ -2049,7 +2124,7 @@ javascript:(function(){
     // Update interval setting
     function updateIntervalSetting() {
         const newInterval = parseInt($("#update-interval").val());
-        if (newInterval >= 1000 && newInterval <= 10000) {
+        if (newInterval >= 50 && newInterval <= 10000) {
             if (updateInterval) {
                 clearInterval(updateInterval);
                 updateInterval = setInterval(monitorSignals, newInterval);
@@ -2057,14 +2132,64 @@ javascript:(function(){
             $("#debug-interval").text(`${newInterval}ms`);
             showNotification(`Update interval set to ${newInterval}ms`, "success");
         } else {
-            showNotification("Invalid interval. Must be between 1000-10000ms", "error");
+            showNotification("Invalid interval. Must be between 50-10000ms", "error");
         }
     }
     
     // Toggle Force 4G
     function toggleForce4G() {
         const isChecked = $("#force4g-checkbox").is(":checked");
-        showNotification(`Force 4G ${isChecked ? "enabled" : "disabled"}`, "info");
+        
+        // Get CSRF token first
+        $.ajax({
+            type: "GET",
+            url: "/",
+            success: function(response) {
+                let token = "";
+                try {
+                    const tokenMatch = response.match(/name="csrf_token"\s+content="([^"]+)"/);
+                    if (tokenMatch) {
+                        token = tokenMatch[1];
+                    } else {
+                        // Try alternative pattern
+                        const parts = response.split('name="csrf_token" content="');
+                        if (parts.length > 1) {
+                            token = parts[1].split('"')[0];
+                        }
+                    }
+                } catch (e) {
+                    console.error("Token extraction error:", e);
+                }
+                
+                if (!token) {
+                    showNotification("Failed to get CSRF token", "error");
+                    $("#force4g-checkbox").prop("checked", !isChecked); // Revert checkbox
+                    return;
+                }
+                
+                // Set network mode: 03 = LTE only, 00 = Auto
+                const networkMode = isChecked ? "03" : "00";
+                
+                $.ajax({
+                    type: "POST",
+                    url: "/api/net/net-mode",
+                    headers: { __RequestVerificationToken: token },
+                    contentType: "application/xml",
+                    data: `<?xml version="1.0" encoding="UTF-8"?><request><NetworkMode>${networkMode}</NetworkMode><NetworkBand>3FFFFFFF</NetworkBand><LTEBand>7FFFFFFFFFFFFFFF</LTEBand></request>`,
+                    success: function() {
+                        showNotification(`Force 4G ${isChecked ? "enabled" : "disabled"} - please wait for reconnection`, "success");
+                    },
+                    error: function() {
+                        showNotification("Failed to change network mode", "error");
+                        $("#force4g-checkbox").prop("checked", !isChecked); // Revert checkbox
+                    }
+                });
+            },
+            error: function() {
+                showNotification("Failed to get CSRF token", "error");
+                $("#force4g-checkbox").prop("checked", !isChecked); // Revert checkbox
+            }
+        });
     }
     
     // Switch tabs
@@ -2397,7 +2522,8 @@ javascript:(function(){
         updateInterval: updateIntervalSetting,
         selectBandInfo: showBandInfo,
         applyPreset,
-        detectRegionBands
+        detectRegionBands,
+        resetPerformanceHistory
     };
     
     // Initialize everything
@@ -2405,7 +2531,7 @@ javascript:(function(){
     monitorSignals();
     
     // Start monitoring interval
-    updateInterval = setInterval(monitorSignals, 2500);
+    updateInterval = setInterval(monitorSignals, 500);
     
     // Log initialization
     console.log(`Enhanced Modem Monitor v${VERSION} initialized successfully!`);
