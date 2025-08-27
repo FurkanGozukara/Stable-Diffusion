@@ -681,211 +681,281 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/qpjNGx-8UckXK0CuEzcv7.png)](https://youtu.be/XFUZof6Skkw)
 
-80.) Free - Local - PC
+---
+
+81.) Free - Local - PC
 
 ### [**Animate Static Photos into Talking Videos with LivePortrait AI Compose Perfect Expressions Fast**](https://youtu.be/FPtpNrmuwXk)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/beNzm6ITK_5AnipzYt40Y.png)](https://youtu.be/FPtpNrmuwXk)
 
-81.) Free & Paid - Cloud - RunPod - Massed Compute - Kaggle
+---
+
+82.) Free & Paid - Cloud - RunPod - Massed Compute - Kaggle
 
 ### [**LivePortrait: No-GPU Cloud Tutorial - RunPod, MassedCompute & Free Kaggle Account - Animate Images**](https://youtu.be/wG7oPp01COg)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/fvWxGLUrIe5XWqP37OBfU.png)](https://youtu.be/wG7oPp01COg)
 
-82.) Free & Paid - Cloud
+---
+
+83.) Free & Paid - Cloud
 
 ### [**Kling AI Video is FINALLY Public (All Countries), Free to Use and MIND BLOWING - Full Tutorial**](https://youtu.be/zcpqAxYV1_w)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/DPgXHOeVvSW1AdsMG_ywI.png)](https://youtu.be/zcpqAxYV1_w)
 
-83.) Free & Paid - Cloud - RunPod - Massed Compute - Kaggle
+---
+
+84.) Free & Paid - Cloud - RunPod - Massed Compute - Kaggle
 
 ### [**FLUX: The First Ever Open Source txt2img Model Truly Beats Midjourney & Others - FLUX is Awaited SD3**](https://youtu.be/bupRePUOA18)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/dguyYoaghc8IVdBrKMDkl.png)](https://youtu.be/bupRePUOA18)
 
-84.) Paid Cloud Service
+---
+
+85.) Paid Cloud Service
 
 ### [**SUPIR Online - Ultimate Image Upscaler by Official Developers - Full Tutorial - SUPIR 2 Incoming**](https://youtu.be/JajPVWMt2Lk)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/j4kEYi0jQ5Vsxa0-Qq4rC.png)](https://youtu.be/JajPVWMt2Lk)
 
-85.) Free - Local - Windows
+---
+
+86.) Free - Local - Windows
 
 ### [**FLUX LoRA Training Simplified: From Zero to Hero with Kohya SS GUI (8GB GPU, Windows) Tutorial Guide**](https://youtu.be/nySGu12Y05k)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/5oeVl6mmaRyYZkxuXSShm.png)](https://youtu.be/nySGu12Y05k)
 
-86.) Paid - Cloud - RunPod - Massed Compute
+---
+
+87.) Paid - Cloud - RunPod - Massed Compute
 
 ### [**Blazing Fast & Ultra Cheap FLUX LoRA Training on Massed Compute & RunPod Tutorial - No GPU Required!**](https://youtu.be/-uhL2nW7Ddw)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/hPBegzqT2A52hrveI7buf.png)](https://youtu.be/-uhL2nW7Ddw)
 
-87.) Free - Windows - Paid - Cloud - RunPod - Massed Compute
+---
+
+88.) Free - Windows - Paid - Cloud - RunPod - Massed Compute
 
 ### [**Invoke AI Full Install and Run Tutorial for Windows, RunPod and Massed Compute - 1-Click Easy Guide**](https://youtu.be/BuxFBYAUGIY)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/tWhmpzXqNY-dwQeJZUozb.png)](https://youtu.be/BuxFBYAUGIY)
 
-88.) Free - Windows
+---
+
+89.) Free - Windows
 
 ### [**How to Install Python, CUDA, cuDNN, C++ Build Tools, FFMPEG & Git Tutorial for AI Applications**](https://youtu.be/DrhUHnYfwC0)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/hchc2xHcOkF2VX-wBh0tW.png)](https://youtu.be/DrhUHnYfwC0)
 
-89.) Paid - Cloud
+---
+
+90.) Paid - Cloud
 
 ### [**How to Use MimicPC Full Tutorial - Run Best AI APPs in Your Browser Through MimicPC Servers**](https://youtu.be/URnOHbmuKWs)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/JmXaFHnVYr3GsykKz8xlB.png)](https://youtu.be/URnOHbmuKWs)
 
-90.) Free - All Platforms
+---
+
+91.) Free - All Platforms
 
 ### [**How To Enable VPN For Only A Single APP With Cloudflare Zero Trust Free Warp VPN - Split Tunneling**](https://youtu.be/0RSaYlmmblc)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/iKA3jnK8_jXZPD800OlB6.png)](https://youtu.be/0RSaYlmmblc)
 
-91.) Free - Windows and Cloud
+---
+
+92.) Free - Windows and Cloud
 
 ### [**FLUX Full Fine-Tuning / DreamBooth Training Master Tutorial for Windows, RunPod & Massed Compute**](https://youtu.be/FvpWy1x5etM)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/n_k1iX-Aa4nliLe_wGwhB.png)](https://youtu.be/FvpWy1x5etM)
 
-92.) Free - Windows and Cloud
+---
+
+93.) Free - Windows and Cloud
 
 ### [**Stable Diffusion 3.5 Large How To Use Tutorial With Best Configuration and Comparison With FLUX DEV**](https://youtu.be/-zOKhoO9a5s)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/tQthJqElQ4AsBmCFFnh57.png)](https://youtu.be/-zOKhoO9a5s)
 
-93.) Free - Windows and Cloud
+---
+
+94.) Free - Windows and Cloud
 
 ### [**How To Use Mochi 1 Open Source Video Generation Model On Your Windows PC, RunPod and Massed Compute**](https://youtu.be/iqBV7bCbDJY)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/_n6EeRn1P_HoBhwXhuP_E.png)](https://youtu.be/iqBV7bCbDJY)
 
-94.) Free - Windows and Cloud
+---
+
+95.) Free - Windows and Cloud
 
 ### [**FLUX Tools Outpainting, Inpainting (Fill), Redux, Depth & Canny Ultimate Tutorial Guide with SwarmUI**](https://youtu.be/hewDdVJEqOQ)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/uktfY8N6AKf1RDF7ydP_f.png)](https://youtu.be/hewDdVJEqOQ)
 
-95.) Free - Windows and Cloud
+---
+
+96.) Free - Windows and Cloud
 
 ### [**Best Open Source Image to Video Generator CogVideoX1.5-5B-I2V Step by Step Windows & Cloud Tutorial**](https://youtu.be/5UCkMzP2VLE)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/LtAkbiSxvMxczuglFhg7F.png)](https://youtu.be/5UCkMzP2VLE)
 
-96.) Free - Windows and Cloud
+---
+
+97.) Free - Windows and Cloud
 
 ### [**SANA: Ultra HD Fast Text to Image Model from NVIDIA Step by Step Tutorial on Windows, Cloud & Kaggle**](https://youtu.be/KW-MHmoNcqo)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/WrLfe0J8P5vsNVL2mpOhX.png)](https://youtu.be/KW-MHmoNcqo)
 
-97.) Free - Windows and Cloud
+---
+
+98.) Free - Windows and Cloud
 
 ### [**NVIDIA SANA 4K: Mind-Blowing 16MP Text-to-Image AI Model Runs on 8GB GPUs | Game-Changing Tech**](https://youtu.be/GjENQfHF4W8)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/zJ8D25j96YeqQe8OFn1By.png)](https://youtu.be/GjENQfHF4W8)
 
-98.) Free - Windows and Cloud
+---
+
+99.) Free - Windows and Cloud
 
 ### [**MSI RTX 5090 TRIO FurMark Benchmarking + Overclocking + Noise Testing and Comparing with RTX 3090 TI**](https://youtu.be/uV3oqdILOmA)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/WSuaQABKlDr4X7DH4d7UA.png)](https://youtu.be/uV3oqdILOmA)
 
-99.) Free - Windows and Cloud
+---
+
+100.) Free - Windows and Cloud
 
 ### [**RTX 5090 Tested Against FLUX DEV, SD 3.5 Large, SD 3.5 Medium, SDXL, SD 1.5, AMD 9950X + RTX 3090 TI**](https://youtu.be/jHlGzaDLkto)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/udletUqkCuFxxB0zzLb4H.png)](https://youtu.be/jHlGzaDLkto)
 
-100.) Free - Cloud - Kaggle
+---
+
+101.) Free - Cloud - Kaggle
 
 ### [**SwarmUI free Kaggle Account Notebook Full Tutorial - SD 1.5, SDXL, SD 3.5, FLUX, Hunyuan, SkyReels**](https://youtu.be/VR1s7LxK5ZU)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/ejoLl2N6xb8uZ9gw71pbu.png)](https://youtu.be/VR1s7LxK5ZU)
 
-101.) Free - Windows and Cloud
+---
+
+102.) Free - Windows and Cloud
 
 ### [**How ChatGPT (LLMs) Works - Excellent Graphical Illustration Video**](https://youtu.be/cigddCCLJRI)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/9A_FjstrKpLOwCXrtVOuh.png)](https://youtu.be/cigddCCLJRI)
 
-102.) Free - Windows and Cloud
+---
+
+103.) Free - Windows and Cloud
 
 ### [**Wan 2.1 AI Video Model: Ultimate Step-by-Step Tutorial for Windows & Affordable Private Cloud Setup**](https://youtu.be/hnAhveNy-8s)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/tYRYsP_yPPPhT5A7l5gGm.png)](https://youtu.be/hnAhveNy-8s)
 
-103.) Free - Windows and Cloud
+---
+
+104.) Free - Windows and Cloud
 
 ### [**Ultra Advanced Wan 2.1 App Updates & Famous Squish Effect to Generate Squishing Videos Locally**](https://youtu.be/ueMrzmbdWBg)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/fKY99Lbu0videyyOd-6Kn.png)](https://youtu.be/ueMrzmbdWBg)
 
-104.) Free - Windows and Cloud
+---
+
+105.) Free - Windows and Cloud
 
 ### [**MMAudio from Sony AI Full Tutorial - Open Source AI Audio Generator for Videos, Images and Text**](https://youtu.be/504f8S4MLTw)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/yGmbVbY0SkJ6IjPPWu_9f.png)](https://youtu.be/504f8S4MLTw)
 
-105.) Free - Windows and Cloud
+---
+
+106.) Free - Windows and Cloud
 
 ### [**FramePack Full Tutorial: 1-Click to Install on Windows - Up to 120 Second Image-to-Videos with 6GB**](https://youtu.be/HwMngohRmHg)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/1dE0swD0LUieRMjGLcd2J.png)](https://youtu.be/HwMngohRmHg)
 
-106.) Free - Windows
+---
+
+107.) Free - Windows
 
 ### [**Master Local AI Art & Video Generation with SwarmUI (ComfyUI Backend): The Ultimate 2025 Tutorial**](https://youtu.be/fTzlQ0tjxj0)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/tAXCtoTTMsPHcGUdg7Ff1.png)](https://youtu.be/fTzlQ0tjxj0)
 
-107.) Free - Windows
+---
+
+108.) Free - Windows
 
 ### [**Step by Step TRELLIS Tutorial to Generate Amazing High-Quality 3D Assets from Static Images Locally**](https://youtu.be/EhU7Jil9WAk)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/eh7Pqn_v4Lg2ow4wxFlND.png)](https://youtu.be/EhU7Jil9WAk)
 
-108.) Free - Windows
+---
+
+109.) Free - Windows
 
 ### [**Transfer Any Clothing Into A New Person & Turn Any Person Into A 3D Figure - ComfyUI Tutorial**](https://youtu.be/ZzYnhKeaJBs)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/xt7jkAia6pQPkXQj_6hmg.png)](https://youtu.be/ZzYnhKeaJBs)
 
-109.) Free - Windows
+---
+
+110.) Free - Windows
 
 ### [**Wan 2.1 Text-to-Video T2V & Image-to-Video I2V Tutorial for SwarmUI with CausVid LoRA Extreme Speed**](https://youtu.be/XNcn845UXdw)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/lmic_VU9aRYf3Q7Rrkh2H.png)](https://youtu.be/XNcn845UXdw)
 
-110.) Free - Windows
+---
+
+111.) Free - Windows
 
 ### [**SwarmUI Teacache Full Tutorial With Very Best Wan 2.1 I2V & T2V Presets - ComfyUI Used as Backend**](https://youtu.be/r38eWyNoXHo)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/3MTVj0j_LQJSEySCKyg0H.png)](https://youtu.be/r38eWyNoXHo)
 
-111.) Paid - No Platform
+---
+
+112.) Paid - No Platform
 
 ### [**VEO 3 FLOW Full Tutorial - How To Use VEO3 in FLOW Guide**](https://youtu.be/AoEmQPU2gtg)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/kixvVmPdVY-Ao58hwXAag.png)](https://youtu.be/AoEmQPU2gtg)
 
-112.) Free - Windows
+---
+
+113.) Free - Windows
 
 ### [**CausVid LoRA V2 of Wan 2.1 Brings Massive Quality Improvements, Better Colors and Saturation**](https://youtu.be/1rAwZv0hEcU)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/_s2R5_VYS6u2Cd0GwGFN7.png)](https://youtu.be/1rAwZv0hEcU)
 
-113.) Free - Windows - Cloud
+---
+
+114.) Free - Windows - Cloud
 
 ### [**Hi3DGen Full Tutorial With Ultra Advanced App to Generate the Very Best 3D Meshes from Static Images**](https://youtu.be/HjbD20B2C1g)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/EzyVg24MA6gwEObcXG4yj.png)](https://youtu.be/HjbD20B2C1g)
 
-114.) Paid - Cloud
+---
+
+115.) Paid - Cloud
 
 ### [**Ultimate ComfyUI & SwarmUI on RunPod Tutorial with Addition RTX 5000 Series GPUs & 1-Click to Setup**](https://youtu.be/R02kPf9Y3_w)
 
