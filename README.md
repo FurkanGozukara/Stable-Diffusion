@@ -23,7 +23,7 @@ My <a rel="me" href="https://mastodon.social/@furkangozukara">Mastodon</a> : htt
 **Our discord (10,000+ members) to get more help ⤵️**
 ### [**https://discord.com/servers/software-engineering-courses-secourses-772774097734074388**](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388)
 
-**Our 2,400+ Stars GitHub Stable Diffusion and other tutorials repo ⤵️**
+**Our 2,500+ Stars GitHub Stable Diffusion and other tutorials repo ⤵️**
 ### [**https://github.com/FurkanGozukara/Stable-Diffusion**](https://github.com/FurkanGozukara/Stable-Diffusion)
 
 I am keeping this list up-to-date. I got upcoming new awesome video ideas. Trying to find time to do that.
