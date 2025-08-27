@@ -41,7 +41,7 @@ I am keeping this list up-to-date. I got upcoming new awesome video ideas. Tryin
 
 Since my profession is teaching, I usually do not skip any of the important parts. Therefore, you may find my videos a little bit longer.
 
-Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web UI & Google Colab Guides, DreamBooth, Textual Inversion / Embedding, LoRA, AI Upscaling, Video to Anime**](https://www.youtube.com/watch?v=mnCY8uM7E50&list=PL_pbwdIyffsmclLl0O144nQRnezKlNdx3)
+Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & Google Colab Guides, DreamBooth, Textual Inversion / Embedding, LoRA, AI Upscaling, Video to Anime**](https://www.youtube.com/watch?v=mnCY8uM7E50&list=PL_pbwdIyffsmclLl0O144nQRnezKlNdx3)
 
 ## Tutorial Videos
 
