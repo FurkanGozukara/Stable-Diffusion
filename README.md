@@ -101,7 +101,7 @@ The duplicates have been removed, the category headers are gone, and the list ha
 ---
 | | |
 | :---: | :---: |
-| **33. [Mind-Blowing Deepfake Tutorial: Turn Anyone into Your Favorite Movie Star! PC & Google Colab - roop](https://youtu.be/OI1LEN-SgLM)**<br>[](https://youtu.be/OI1LEN-SgLM) | **34. [Stable Diffusion Now Has The Photoshop Generative Fill Feature With ControlNet Extension - Tutorial](https://youtu.be/ot5GkaxHPzk)**<br>[](https://youtu.be/ot5GkaxHPzk) |
+| **33. [Mind-Blowing Deepfake Tutorial: Turn Anyone into Your Favorite Movie Star! PC & Google Colab - roop](https://youtu.be/OI1LEN-SgLM)**<br>[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/kav3GrWLuUheBCepl3P5t.png)](https://youtu.be/OI1LEN-SgLM) | **34. [Stable Diffusion Now Has The Photoshop Generative Fill Feature With ControlNet Extension - Tutorial](https://youtu.be/ot5GkaxHPzk)**<br>[](https://youtu.be/ot5GkaxHPzk) |
 | **35. [Human Cropping Script & 4K+ Resolution Class / Reg Images For Stable Diffusion DreamBooth / LoRA](https://youtu.be/QTYX0tgA5ho)**<br>[](https://youtu.be/QTYX0tgA5ho) | **36. [Stable Diffusion 2 NEW Image Post Processing Scripts And Best Class / Regularization Images Datasets](https://youtu.be/olX1mySE8HA)**<br>[](https://youtu.be/olX1mySE8HA) |
 
 ---
