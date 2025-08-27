@@ -961,3 +961,11 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/1672Cod9hE7ZLZMsFo4JW.png)](https://youtu.be/R02kPf9Y3_w)
 
+---
+
+116.) All Platforms Free
+
+### [**WAN 2.1 FusionX is the New Best of Local Video Generation with Only 8 Steps + FLUX Upscaling Guide**](https://youtu.be/Xbn93GRQKsQ)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/8ky-JaZeauPLackMETaLk.png)](https://youtu.be/Xbn93GRQKsQ)
+
