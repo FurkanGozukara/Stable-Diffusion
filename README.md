@@ -9,15 +9,15 @@
 
 ## Our Platform Links
 
-#### 1️⃣ SECourses YouTube (48,000+ subscribers) a must follow one** ⤵️
+#### 1️⃣ SECourses YouTube (48,000+ subscribers) a must follow one ⤵️
 #### 1️⃣ [https://www.youtube.com/@SECourses](https://www.youtube.com/@SECourses)
-
-2️⃣ #### SECourses Patreon (25,000+ subscribers) a must follow one ⤵️
-2️⃣ #### [https://www.patreon.com/c/SECourses](https://www.patreon.com/c/SECourses)
-
-#### SECourses Discord (10,000+ members) a must join one ⤵️
-#### [**https://discord.com/servers/software-engineering-courses-secourses-772774097734074388**](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388)
-
+---
+#### 2️⃣ SECourses Patreon (25,000+ subscribers) a must follow one ⤵️
+#### 2️⃣ [https://www.patreon.com/c/SECourses](https://www.patreon.com/c/SECourses)
+---
+#### 3️⃣ SECourses Discord (10,000+ members) a must join one ⤵️
+#### 3️⃣ [https://discord.com/servers/software-engineering-courses-secourses-772774097734074388](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388)
+---
 #### LinkedIn : [**https://www.linkedin.com/in/furkangozukara**](https://www.linkedin.com/in/furkangozukara/)
 
 #### Twitter : [**https://twitter.com/GozukaraFurkan**](https://twitter.com/GozukaraFurkan)
@@ -27,10 +27,10 @@
 #### Google Scholar : https://scholar.google.com/citations?user=_2_KAUsAAAAJ&hl=en
 
 #### Mastodon : https://mastodon.social/@furkangozukara
-
+---
 #### Our 2,500+ Stars GitHub Stable Diffusion and other tutorials repo ⤵️
 #### [https://github.com/FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion)
-
+---
 ### Regarding This Repository
 
 I am keeping this list up-to-date. I got upcoming new awesome video ideas. Trying to find time to do that.
