@@ -1,4 +1,4 @@
-[![image](https://img.shields.io/discord/772774097734074388?label=Discord&logo=discord)](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388) [![Hits](https://hits.sh/github.com/FurkanGozukara/Stable-Diffusion.svg?style=plastic&label=Hits%20Since%2025.08.27&labelColor=007ec6&logo=SECourses)](https://hits.sh/github.com/FurkanGozukara/Stable-Diffusion/)
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/6748fcb1-c529-4754-be3a-66d36a002d17" />[![image](https://img.shields.io/discord/772774097734074388?label=Discord&logo=discord)](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388) [![Hits](https://hits.sh/github.com/FurkanGozukara/Stable-Diffusion.svg?style=plastic&label=Hits%20Since%2025.08.27&labelColor=007ec6&logo=SECourses)](https://hits.sh/github.com/FurkanGozukara/Stable-Diffusion/)
 [![Patreon](https://img.shields.io/badge/Patreon-Support%20Me-F2EB0E?style=for-the-badge&logo=patreon)](https://www.patreon.com/c/SECourses) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/DrFurkan) [![Furkan Gözükara Medium](https://img.shields.io/badge/Medium-Follow%20Me-800080?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@furkangozukara) [![Codio](https://img.shields.io/static/v1?style=for-the-badge&message=Articles&color=4574E0&logo=Codio&logoColor=FFFFFF&label=CivitAI)](https://civitai.com/user/SECourses/articles) [![Furkan Gözükara Medium](https://img.shields.io/badge/DeviantArt-Follow%20Me-990000?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/monstermmorpg)
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-SECourses-C50C0C?style=for-the-badge&logo=youtube)](https://www.youtube.com/SECourses)  [![Furkan Gözükara LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkangozukara/)   [![Udemy](https://img.shields.io/static/v1?style=for-the-badge&message=Stable%20Diffusion%20Course&color=A435F0&logo=Udemy&logoColor=FFFFFF&label=Udemy)](https://www.udemy.com/course/stable-diffusion-dreambooth-lora-zero-to-hero/?referralCode=E327407C9BDF0CEA8156) [![Twitter Follow Furkan Gözükara](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GozukaraFurkan)
@@ -1008,4 +1008,37 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 ### [**Wan 2.2 & FLUX Krea Full Tutorial - Automated Install - Ready Perfect Presets - SwarmUI with ComfyUI**](https://youtu.be/8MvvuX4YPeo)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/nPBUmGKFpw1903b1S16jR.png)](https://youtu.be/8MvvuX4YPeo)
+
+---
+
+122.) All Platforms Free
+
+### [**Qwen Image Dominates Text-to-Image: 700+ Tests Reveal Why It's Better Than FLUX - Presets Published**](https://youtu.be/R6h02YY6gUs)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/GipONloEGp6P2tpxMRFm4.png)](https://youtu.be/R6h02YY6gUs)
+
+---
+
+123.) All Platforms Free
+
+### [**Wan 2.2, FLUX & Qwen Image Upgraded: Ultimate Tutorial for Open Source SOTA Image & Video Gen Models**](https://youtu.be/3BFDcO2Ysu4)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/s3OyItRra4UT0H91vdWra.png)](https://youtu.be/3BFDcO2Ysu4)
+
+---
+
+124.) All Platforms Free
+
+### [**Qwen Image Edit Full Tutorial: 26 Different Demo Cases, Prompts & Images, Pwns FLUX Kontext Dev**](https://youtu.be/gLCMhbsICEQ)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/xMotDtPQ2a63H_s8ol6C3.png)](https://youtu.be/gLCMhbsICEQ)
+
+---
+
+125.) Qwen Is Free and Nano Banana is Free On Google AI Studio
+
+### [**Nano Banana (Gemini 2.5 Flash Image) Full Tutorial - 27 Unique Cases vs Qwen Image Edit - Free 2 Use**](https://youtu.be/qPUreQxB8zQ)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/mS2YPA9T2ISK0FZS2s_Sg.png)](https://youtu.be/qPUreQxB8zQ)
+
 
