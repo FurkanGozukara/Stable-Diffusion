@@ -9,6 +9,15 @@
 
 ## Our Platform Links
 
+#### SECourses YouTube (48,000+ subscribers) a must follow one ⤵️
+#### [https://www.youtube.com/@SECourses](https://www.youtube.com/@SECourses)
+
+#### SECourses Patreon (25,000+ subscribers) a must follow one ⤵️
+#### [**https://www.patreon.com/c/SECourses**](https://www.patreon.com/c/SECourses)
+
+#### SECourses Discord (10,000+ members) a must join one ⤵️
+#### [**https://discord.com/servers/software-engineering-courses-secourses-772774097734074388**](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388)
+
 #### LinkedIn : [**https://www.linkedin.com/in/furkangozukara**](https://www.linkedin.com/in/furkangozukara/)
 
 #### Twitter : [**https://twitter.com/GozukaraFurkan**](https://twitter.com/GozukaraFurkan)
@@ -19,17 +28,8 @@
 
 #### Mastodon : https://mastodon.social/@furkangozukara
 
-#### Our YouTube (48,000+ subscribers) if you like to subscribe ⤵️
-##### [https://www.youtube.com/@SECourses](https://www.youtube.com/@SECourses)
-
-**Our Patreon (25,000+ subscribers) if you like to subscribe ⤵️**
-### [**https://www.patreon.com/c/SECourses**](https://www.patreon.com/c/SECourses)
-
-**Our discord (10,000+ members) to get more help ⤵️**
-### [**https://discord.com/servers/software-engineering-courses-secourses-772774097734074388**](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388)
-
-**Our 2,500+ Stars GitHub Stable Diffusion and other tutorials repo ⤵️**
-### [**https://github.com/FurkanGozukara/Stable-Diffusion**](https://github.com/FurkanGozukara/Stable-Diffusion)
+#### Our 2,500+ Stars GitHub Stable Diffusion and other tutorials repo ⤵️
+#### [https://github.com/FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion)
 
 I am keeping this list up-to-date. I got upcoming new awesome video ideas. Trying to find time to do that.
 
