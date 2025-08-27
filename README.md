@@ -9,11 +9,11 @@
 
 ## Our Platform Links
 
-- **SECourses YouTube (48,000+ subscribers) a must follow one** ⤵️
-- - [**https://www.youtube.com/@SECourses**](https://www.youtube.com/@SECourses)
+#### [x] SECourses YouTube (48,000+ subscribers) a must follow one** ⤵️
+#### [https://www.youtube.com/@SECourses](https://www.youtube.com/@SECourses)
 
-- #### SECourses Patreon (25,000+ subscribers) a must follow one ⤵️
-- - #### [**https://www.patreon.com/c/SECourses**](https://www.patreon.com/c/SECourses)
+#### SECourses Patreon (25,000+ subscribers) a must follow one ⤵️
+#### [https://www.patreon.com/c/SECourses](https://www.patreon.com/c/SECourses)
 
 #### SECourses Discord (10,000+ members) a must join one ⤵️
 #### [**https://discord.com/servers/software-engineering-courses-secourses-772774097734074388**](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388)
