@@ -50,6 +50,7 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 ### [**How To Install Python, Setup Virtual Environment VENV, Set Default Python System Path & Install Git**](https://youtu.be/B5U7LJOvH6g)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/S4mKtVuWlCibihsTHL9TS.png)](https://youtu.be/B5U7LJOvH6g)
+
 ---
 2.) Automatic1111 Web UI - PC - Free
 
@@ -62,103 +63,103 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 ### [**How to use Stable Diffusion V2.1 and Different Models in the Web UI - SD 1.5 vs 2.1 vs Anything V3**](https://www.youtube.com/watch?v=aAyvsX-EpG4)
 
 [![image](https://user-images.githubusercontent.com/19240467/218344276-af8f2fa2-4fdb-4454-9c8f-bd3ef4d2c92a.png)](https://www.youtube.com/watch?v=aAyvsX-EpG4)
-
+---
 4.) Automatic1111 Web UI - PC - Free
 
 ### [**Zero To Hero Stable Diffusion DreamBooth Tutorial By Using Automatic1111 Web UI - Ultra Detailed**](https://www.youtube.com/watch?v=Bdl-jWR3Ukc)
 
 [![image](https://user-images.githubusercontent.com/19240467/218344301-04f91cf4-fa35-4975-8c3d-9951c765839a.png)](https://www.youtube.com/watch?v=Bdl-jWR3Ukc)
-
+---
 5.) Automatic1111 Web UI - PC - Free
 
 ### [**DreamBooth Got Buffed - 22 January Update - Much Better Success Train Stable Diffusion Models Web UI**](https://www.youtube.com/watch?v=KwxNcGhHuLY)
 
 [![image](https://user-images.githubusercontent.com/19240467/218344369-97b68dd7-732d-4ca3-9acc-a87984ebe0f0.png)](https://www.youtube.com/watch?v=KwxNcGhHuLY)
-
+---
 6.) Automatic1111 Web UI - PC - Free
 
 ### [**How to Inject Your Trained Subject e.g. Your Face Into Any Custom Stable Diffusion Model By Web UI**](https://www.youtube.com/watch?v=s25hcW4zq4M)
 
 [![image](https://user-images.githubusercontent.com/19240467/218344509-01d70965-aeea-4096-bc29-7a005b4d47a6.png)](https://www.youtube.com/watch?v=s25hcW4zq4M)
- 
+--- 
 7.) Automatic1111 Web UI - PC - Free
 
 ### [**How To Do Stable Diffusion LORA Training By Using Web UI On Different Models - Tested SD 1.5, SD 2.1**](https://www.youtube.com/watch?v=mfaqqL5yOO4)
 
 [![image](https://user-images.githubusercontent.com/19240467/218344459-bd4554b0-b57b-4079-aaea-ed93d8be95ed.png)](https://www.youtube.com/watch?v=mfaqqL5yOO4)
-
+---
 8.) Automatic1111 Web UI - PC - Free
 
 ### [**8 GB LoRA Training - Fix CUDA & xformers For DreamBooth and Textual Inversion in Automatic1111 SD UI**](https://www.youtube.com/watch?v=O01BrQwOd-Q)
 
 [![image](https://user-images.githubusercontent.com/19240467/218344491-52ac51d8-6556-4abc-b2fb-d640a46c48a2.png)](https://www.youtube.com/watch?v=O01BrQwOd-Q)
-
+---
 9.) Automatic1111 Web UI - PC - Free
 
 ### [**How To Do Stable Diffusion Textual Inversion (TI) / Text Embeddings By Automatic1111 Web UI Tutorial**](https://www.youtube.com/watch?v=dNOpWt-epdQ)
 
 [![image](https://user-images.githubusercontent.com/19240467/218344538-d5f0329d-b0e9-44ed-aaf0-5e4bb134afb7.png)](https://www.youtube.com/watch?v=dNOpWt-epdQ)
-
+---
 10.) Automatic1111 Web UI - PC - Free
 
 ### [**How To Generate Stunning Epic Text By Stable Diffusion AI - No Photoshop - For Free - Depth-To-Image**](https://www.youtube.com/watch?v=TBq1bhY8BOc)
 
 [![image](https://user-images.githubusercontent.com/19240467/218344579-fda1e9b8-a810-48af-9dcb-f47e87afee9e.png)](https://www.youtube.com/watch?v=TBq1bhY8BOc)
-
+---
 11.) Python Code - Hugging Face Diffusers Script - PC - Free
 
 ### [**How to Run and Convert Stable Diffusion Diffusers (.bin Weights) & Dreambooth Models to CKPT File**](https://www.youtube.com/watch?v=-6CA18MS0pY)
 
 [![image](https://user-images.githubusercontent.com/19240467/218344677-3f812cf3-db37-4ccb-8f81-99b8a1d5ef00.png)](https://www.youtube.com/watch?v=-6CA18MS0pY)
-
+---
 12.) NMKD Stable Diffusion GUI - Open Source - PC - Free
 
 ### [**Forget Photoshop - How To Transform Images With Text Prompts using InstructPix2Pix Model in NMKD GUI**](https://www.youtube.com/watch?v=EPRa8EZl9Os)
 
 [![image](https://user-images.githubusercontent.com/19240467/218344868-3232f875-b2c5-4caa-b59b-9d0fd683c06b.png)](https://www.youtube.com/watch?v=EPRa8EZl9Os)
-
+---
 13.) Google Colab Free - Cloud - No PC Is Required
 
 ### [**Transform Your Selfie into a Stunning AI Avatar with Stable Diffusion - Better than Lensa for Free**](https://www.youtube.com/watch?v=mnCY8uM7E50)
 
 [![image](https://user-images.githubusercontent.com/19240467/218344900-286cded5-0171-4b9e-9354-7adf4bada612.png)](https://www.youtube.com/watch?v=mnCY8uM7E50)
-
+---
 14.) Google Colab Free - Cloud - No PC Is Required
 
 ### [**Stable Diffusion Google Colab, Continue, Directory, Transfer, Clone, Custom Models, CKPT SafeTensors**](https://www.youtube.com/watch?v=kIyqAdd_i10)
 
 [![image](https://user-images.githubusercontent.com/19240467/218344930-95956805-6a6e-46ee-8885-64043246d79b.png)](https://www.youtube.com/watch?v=kIyqAdd_i10)
-
+---
 15.) Automatic1111 Web UI - PC - Free
 
 ### [**Become A Stable Diffusion Prompt Master By Using DAAM - Attention Heatmap For Each Used Token - Word**](https://www.youtube.com/watch?v=XiKyEKJrTLQ)
 
 [![image](https://user-images.githubusercontent.com/19240467/218345146-54076e5d-230a-4774-8d6a-8358cbd15f78.png)](https://www.youtube.com/watch?v=XiKyEKJrTLQ)
-
+---
 16.) Python Script - Gradio Based - ControlNet - PC - Free
 
 ### [**Transform Your Sketches into Masterpieces with Stable Diffusion ControlNet AI - How To Use Tutorial**](https://www.youtube.com/watch?v=YJebdQ30UZQ)
 
 [![image](https://user-images.githubusercontent.com/19240467/218345328-ada437bf-5eb4-478e-a951-84486a42995d.png)](https://www.youtube.com/watch?v=YJebdQ30UZQ)
-
+---
 17.) Automatic1111 Web UI - PC - Free
 
 ### [**Sketches into Epic Art with 1 Click: A Guide to Stable Diffusion ControlNet in Automatic1111 Web UI**](https://www.youtube.com/watch?v=vhqqmkTBMlU) 
 
 [![image](https://user-images.githubusercontent.com/19240467/218806127-c84d1ff8-d5bb-41b0-bdef-6922568792b9.png)](https://www.youtube.com/watch?v=vhqqmkTBMlU)
-
+---
 18.) RunPod - Automatic1111 Web UI - Cloud - Paid - No PC Is Required
 
 ### [**Ultimate RunPod Tutorial For Stable Diffusion - Automatic1111 - Data Transfers, Extensions, CivitAI**](https://www.youtube.com/watch?v=QN1vdGhjcRc) 
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/NLbuo08ixbjt5t3iG5ioG.png)](https://www.youtube.com/watch?v=QN1vdGhjcRc)
-
+---
 19.) RunPod - Automatic1111 Web UI - Cloud - Paid - No PC Is Required
 
 ### [**How To Install DreamBooth & Automatic1111 On RunPod & Latest Libraries - 2x Speed Up - cudDNN - CUDA**](https://youtu.be/c_S2kFAefTQ)
 
 [![image](https://i.imgur.com/5JbyWKE.png)](https://youtu.be/c_S2kFAefTQ)
-
+---
 20.) Automatic1111 Web UI - PC - Free
 
 ### [**Fantastic New ControlNet OpenPose Editor Extension & Image Mixing - Stable Diffusion Web UI Tutorial**](https://youtu.be/iFRdrRyAQdQ) 
