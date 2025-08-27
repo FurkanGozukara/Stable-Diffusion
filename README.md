@@ -45,12 +45,6 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 ## Tutorial Videos
 
-Of course. My apologies for the missing elements in the previous version. I have re-processed the original file from scratch, paying close attention to ensure every title is correctly linked and every thumbnail is present and properly formatted.
-
-The duplicates have been removed, the category headers are gone, and the list has been re-numbered. Here is the complete, corrected code for the "Tutorial Videos" section in the 2x2 grid format.
-
-### Tutorial Videos
-
 | | |
 | :---: | :---: |
 | **1. [How To Install Python, Setup Virtual Environment VENV, Set Default Python System Path & Install Git](https://youtu.be/B5U7LJOvH6g)**<br>[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/S4mKtVuWlCibihsTHL9TS.png)](https://youtu.be/B5U7LJOvH6g) | **2. [Easiest Way to Install & Run Stable Diffusion Web UI on PC by Using Open Source Automatic Installer](https://www.youtube.com/watch?v=AZg6vzWHOTA)**<br>[![image](https://user-images.githubusercontent.com/19240467/218344261-aa236e18-152f-4287-b4fd-fa09c8f57a3f.png)](https://www.youtube.com/watch?v=AZg6vzWHOTA) |
