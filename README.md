@@ -10,7 +10,7 @@
 ## Our Platform Links
 
 - **SECourses YouTube (48,000+ subscribers) a must follow one** ⤵️
--- [**https://www.youtube.com/@SECourses**](https://www.youtube.com/@SECourses)
+- - [**https://www.youtube.com/@SECourses**](https://www.youtube.com/@SECourses)
 
 - #### SECourses Patreon (25,000+ subscribers) a must follow one ⤵️
 - - #### [**https://www.patreon.com/c/SECourses**](https://www.patreon.com/c/SECourses)
