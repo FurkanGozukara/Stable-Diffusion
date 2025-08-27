@@ -7,16 +7,20 @@
 ## Hello everyone. I am Dr. Furkan Gözükara. PhD Computer Engineer. 
 ### SECourses is a dedicated YouTube channel for the following topics : Tech, AI, News, Science, Robotics, Singularity, ComfyUI, SwarmUI, ML, Artificial Intelligence, Humanoid Robots, Wan 2.2, FLUX, Krea, Qwen Image, VLMs, Stable Diffusion, SDXL, SeedVR2, TOPAZ, SUPIR, ChatGPT, Gemini, LLMs, Claude, Coding, Agents, Agentic, Animation, Deep Fakes, Fooocus, ControlNet, RunPod, Massed Compute, Windows, Hardware, Inpainting, Cloud, Kaggle, Colab, Automatic1111, SD Web UI, TensorRT, DreamBooth, LoRA, Training, Fine Tuning, Kohya, OneTrainer, Upscale, 3D, Musubi Tuner, Tutorials, Qwen Image Edit, Image Upscaling, Video Upscaling, TTS, Voice Training, Text-to-Speech, Text-to-Music, Image2Image, Text2Video, Video2Video, Style Transfer, Style Training, FLUX Kontext, Face Swap, Lip Sync, Text-to-3D, Avatar Generation, 3D Generation, AGI, Prompt Engineering, Engineering, Gradio, CUDA, GGUF, Quantization, GPT-5, Whisper and more
 
-My LinkedIn : [**https://www.linkedin.com/in/furkangozukara**](https://www.linkedin.com/in/furkangozukara/)
+## Our Platform Links
 
-My Twitter : [**https://twitter.com/GozukaraFurkan**](https://twitter.com/GozukaraFurkan)
+#### LinkedIn : [**https://www.linkedin.com/in/furkangozukara**](https://www.linkedin.com/in/furkangozukara/)
 
-My Linktr : [**https://linktr.ee/FurkanGozukara**](https://linktr.ee/FurkanGozukara)
+#### Twitter : [**https://twitter.com/GozukaraFurkan**](https://twitter.com/GozukaraFurkan)
 
-My <a rel="me" href="https://mastodon.social/@furkangozukara">Mastodon</a> : https://mastodon.social/@furkangozukara
+#### Linktr : [**https://linktr.ee/FurkanGozukara**](https://linktr.ee/FurkanGozukara)
 
-**Our YouTube (48,000+ subscribers) if you like to subscribe ⤵️**
-### [**https://www.youtube.com/@SECourses**](https://www.youtube.com/@SECourses)
+#### Google Scholar : https://scholar.google.com/citations?user=_2_KAUsAAAAJ&hl=en
+
+#### Mastodon : https://mastodon.social/@furkangozukara
+
+#### Our YouTube (48,000+ subscribers) if you like to subscribe ⤵️
+##### [https://www.youtube.com/@SECourses](https://www.youtube.com/@SECourses)
 
 **Our Patreon (25,000+ subscribers) if you like to subscribe ⤵️**
 ### [**https://www.patreon.com/c/SECourses**](https://www.patreon.com/c/SECourses)
