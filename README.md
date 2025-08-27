@@ -969,3 +969,20 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/8ky-JaZeauPLackMETaLk.png)](https://youtu.be/Xbn93GRQKsQ)
 
+---
+
+117.) All Platforms Free
+
+### [**FLUX Kontext Dev Detailed Local Windows How To Tutorial - Better Than ChatGPT & Gemini Image Editing**](https://youtu.be/adF9X9E0Chs)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/f31ZjyYMCmTgJ3M757AjX.png)](https://youtu.be/adF9X9E0Chs)
+
+---
+
+118.) All Platforms Free - Windows + Massed Compute + RunPod All Shown - All Up-To-Date
+
+### [**MultiTalk Full Tutorial With 1-Click Installer - Make Talking and Singing Videos From Static Images**](https://youtu.be/8cMIwS9qo4M)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/cipVmNkzcOCOnERCVTHND.png)](https://youtu.be/8cMIwS9qo4M)
+
+
