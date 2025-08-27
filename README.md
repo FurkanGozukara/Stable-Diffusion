@@ -50,13 +50,13 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 ### [**How To Install Python, Setup Virtual Environment VENV, Set Default Python System Path & Install Git**](https://youtu.be/B5U7LJOvH6g)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/S4mKtVuWlCibihsTHL9TS.png)](https://youtu.be/B5U7LJOvH6g)
-
+---
 2.) Automatic1111 Web UI - PC - Free
 
 ### [**Easiest Way to Install & Run Stable Diffusion Web UI on PC by Using Open Source Automatic Installer**](https://www.youtube.com/watch?v=AZg6vzWHOTA)
 
 [![image](https://user-images.githubusercontent.com/19240467/218344261-aa236e18-152f-4287-b4fd-fa09c8f57a3f.png)](https://www.youtube.com/watch?v=AZg6vzWHOTA)
-
+---
 3.) Automatic1111 Web UI - PC - Free
 
 ### [**How to use Stable Diffusion V2.1 and Different Models in the Web UI - SD 1.5 vs 2.1 vs Anything V3**](https://www.youtube.com/watch?v=aAyvsX-EpG4)
