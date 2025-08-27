@@ -31,6 +31,8 @@
 #### Our 2,500+ Stars GitHub Stable Diffusion and other tutorials repo ⤵️
 #### [https://github.com/FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion)
 
+### Regarding This Repository
+
 I am keeping this list up-to-date. I got upcoming new awesome video ideas. Trying to find time to do that.
 
 **I am open to any criticism you have. I am constantly trying to improve the quality of my tutorial guide videos. Please leave comments with both your suggestions and what you would like to see in future videos.**
@@ -727,4 +729,10 @@ Playlist link on YouTube: ### [**Stable Diffusion Tutorials, Automatic1111 Web U
 ### [**Hi3DGen Full Tutorial With Ultra Advanced App to Generate the Very Best 3D Meshes from Static Images**](https://youtu.be/HjbD20B2C1g)
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/EzyVg24MA6gwEObcXG4yj.png)](https://youtu.be/HjbD20B2C1g)
+
+114.) Paid - Cloud
+
+### [**Ultimate ComfyUI & SwarmUI on RunPod Tutorial with Addition RTX 5000 Series GPUs & 1-Click to Setup**](https://youtu.be/R02kPf9Y3_w)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/1672Cod9hE7ZLZMsFo4JW.png)](https://youtu.be/R02kPf9Y3_w)
 
