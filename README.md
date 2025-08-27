@@ -3,9 +3,8 @@
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-SECourses-C50C0C?style=for-the-badge&logo=youtube)](https://www.youtube.com/SECourses)  [![Furkan Gözükara LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkangozukara/)   [![Udemy](https://img.shields.io/static/v1?style=for-the-badge&message=Stable%20Diffusion%20Course&color=A435F0&logo=Udemy&logoColor=FFFFFF&label=Udemy)](https://www.udemy.com/course/stable-diffusion-dreambooth-lora-zero-to-hero/?referralCode=E327407C9BDF0CEA8156) [![Twitter Follow Furkan Gözükara](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GozukaraFurkan)
 
-# Expert-Level Tutorials on Stable Diffusion & SDXL: Master Advanced Techniques and Strategies
-
-Greetings everyone. I am **Dr. Furkan Gözükara**. I am an Assistant Professor in Software Engineering department  of a private university (have PhD in Computer Engineering).
+# Expert-Level Tutorials on Generative AI
+## Hello everyone. I am Dr. Furkan Gözükara. PhD Computer Engineer. SECourses is a dedicated YouTube channel for the following topics : Tech, AI, News, Science, Robotics, Singularity, ComfyUI, SwarmUI, ML, Artificial Intelligence, Humanoid Robots, Wan 2.2, FLUX, Krea, Qwen Image, VLMs, Stable Diffusion, SDXL, SeedVR2, TOPAZ, SUPIR, ChatGPT, Gemini, LLMs, Claude, Coding, Agents, Agentic, Animation, Deep Fakes, Fooocus, ControlNet, RunPod, Massed Compute, Windows, Hardware, Inpainting, Cloud, Kaggle, Colab, Automatic1111, SD Web UI, TensorRT, DreamBooth, LoRA, Training, Fine Tuning, Kohya, OneTrainer, Upscale, 3D, Musubi Tuner, Tutorials, Qwen Image Edit, Image Upscaling, Video Upscaling, TTS, Voice Training, Text-to-Speech, Text-to-Music, Image2Image, Text2Video, Video2Video, Style Transfer, Style Training, FLUX Kontext, Face Swap, Lip Sync, Text-to-3D, Avatar Generation, 3D Generation, AGI, Prompt Engineering, Engineering, Gradio, CUDA, GGUF, Quantization, GPT-5, Whisper and more
 
 My LinkedIn : [**https://www.linkedin.com/in/furkangozukara**](https://www.linkedin.com/in/furkangozukara/)
 
@@ -15,13 +14,16 @@ My Linktr : [**https://linktr.ee/FurkanGozukara**](https://linktr.ee/FurkanGozuk
 
 My <a rel="me" href="https://mastodon.social/@furkangozukara">Mastodon</a> : https://mastodon.social/@furkangozukara
 
-**Our channel address (37,000+ subscribers) if you like to subscribe ⤵️**
+**Our YouTube (48,000+ subscribers) if you like to subscribe ⤵️**
 ### [**https://www.youtube.com/@SECourses**](https://www.youtube.com/@SECourses)
 
-**Our discord (8,000+ members) to get more help ⤵️**
+**Our Patreon (25,000+ subscribers) if you like to subscribe ⤵️**
+### [**https://www.patreon.com/c/SECourses**](https://www.patreon.com/c/SECourses)
+
+**Our discord (10,000+ members) to get more help ⤵️**
 ### [**https://discord.com/servers/software-engineering-courses-secourses-772774097734074388**](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388)
 
-**Our 1,900+ Stars GitHub Stable Diffusion and other tutorials repo ⤵️**
+**Our 2,400+ Stars GitHub Stable Diffusion and other tutorials repo ⤵️**
 ### [**https://github.com/FurkanGozukara/Stable-Diffusion**](https://github.com/FurkanGozukara/Stable-Diffusion)
 
 I am keeping this list up-to-date. I got upcoming new awesome video ideas. Trying to find time to do that.
