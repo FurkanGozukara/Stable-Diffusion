@@ -985,4 +985,27 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 
 [![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/cipVmNkzcOCOnERCVTHND.png)](https://youtu.be/8cMIwS9qo4M)
 
+---
+
+119.) All Platforms Free
+
+### [**MultiTalk Levelled Up - Way Better Animation Compared to Before with New Workflows - Image to Video**](https://youtu.be/wgCtUeog41g)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/3qXem6fMmUg1OxEciQrp6.png)](https://youtu.be/wgCtUeog41g)
+
+---
+
+120.) All Platforms Free
+
+### [**SECourses Video and Image Upscaler Pro STAR vs TOPAZ StarLight vs Image Based Best Upscalers**](https://youtu.be/q8QCtxrVK7g)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/5sm2Kvc1Kz5vj_EVGiYgc.png)](https://youtu.be/q8QCtxrVK7g)
+
+---
+
+121.) All Platforms Free
+
+### [**Wan 2.2 & FLUX Krea Full Tutorial - Automated Install - Ready Perfect Presets - SwarmUI with ComfyUI**](https://youtu.be/8MvvuX4YPeo)
+
+[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/nPBUmGKFpw1903b1S16jR.png)](https://youtu.be/8MvvuX4YPeo)
 
