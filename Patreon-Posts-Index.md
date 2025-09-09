@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### September 10 - 2025
+[Tencent HunyuanImage-2.1 Enchanced Gradio App - Based on Official Pipeline - 1-Click to Install for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/138531984)
+* You can read more here : https://huggingface.co/tencent/HunyuanImage-2.1 . Also read above post and we have tons of info.
+
 ### September 9 - 2025
 [FaceFusion V3.4 (Most Advanced 1-Click DeepFake) 1-Click Installers for Windows, RunPod and Massed Compute - Use locally and cloud](https://www.patreon.com/posts/103765029)
 * FaceFusion 3.4 Windows (local), RunPod and Massed Compute (Cloud) 1-Click installers. Install and run with easiness. The best DeepFake APP. The installation literally 1-click supports RTX 5000 series and older GPUs with CUDA and also TensorRT. 
