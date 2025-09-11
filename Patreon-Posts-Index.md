@@ -21,6 +21,14 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### September 12 - 2025
+[Stable Diffusion WebUI Forge - NEO (Up-to-Date and Maintained Forge Web UI) 1-Click installers for Windows, RunPod, Massed Compute, Supports all GPUs starting from RTX 1000 to 5000 and Cloud GPUs - Torch 2.8 and CUDA 12.9 and Flash Attention](https://www.patreon.com/posts/138694680)
+* I have prepared literally 1-click installers and GPU specific automatic optimizer ran files. My installer will install with Torch 2.8 and CUDA + pre-compiled xFormers, Flash Attention, Sage Attention and InsightFace. Also read above post and we have tons of info.
+
+### September 12 - 2025
+[Stable Diffusion WebUI Forge - Classic (Up-to-Date and Maintained Automatic1111 Web UI) 1-Click installers for Windows, RunPod, Massed Compute, Supports all GPUs starting from RTX 1000 to 5000 and Cloud GPUs - Torch 2.8 and CUDA 12.9 and Flash Attention](https://www.patreon.com/posts/138680643)
+* I have prepared literally 1-click installers and GPU specific automatic optimizer ran files. My installer will install with Torch 2.8 and CUDA + pre-compiled xFormers, Flash Attention, Sage Attention and InsightFace. Also read above post and we have tons of info.
+
 ### September 10 - 2025
 [Tencent HunyuanImage-2.1 Enchanced Gradio App - Based on Official Pipeline - 1-Click to Install for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/138531984)
 * You can read more here : https://huggingface.co/tencent/HunyuanImage-2.1 . Also read above post and we have tons of info.
