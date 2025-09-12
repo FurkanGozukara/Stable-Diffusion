@@ -246,10 +246,10 @@ CLIP and T5 encoder models:
 
 ### Command Line Arguments
 
-You can customize model paths using command line arguments in `webui-user.bat`:
+You can customize model paths using command line arguments in `Windows_Smart_Fast_Start_Recommended.bat`:
 
 ```batch
-set COMMANDLINE_ARGS=--model-ref "D:\MyModels" --forge-ref-a1111-home "C:\A1111\stable-diffusion-webui" --forge-ref-comfy-home "C:\ComfyUI"
+--model-ref "D:\MyModels" --forge-ref-a1111-home "C:\A1111\stable-diffusion-webui" --forge-ref-comfy-home "C:\ComfyUI"
 ```
 
 #### Available Arguments:
