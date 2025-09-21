@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### September 21 - 2025
+[SUPIR 1 Click Windows, RunPod / Massed Compute / Linux Installer & Free Kaggle Notebook](https://www.patreon.com/posts/99176057)
+* 1 Click Windows and RunPod / Massed Compute / Linux Installer and a free Kaggle Notebook For The New SOTA Image Upscaling and Enhancing Open Source SUPIR Model. Better than Magnify AI. SUPIR is the very best AI image upscaler at the moment.
+
 ### September 18 - 2025
 [All Joy Captions (JoyCaption) Apps 1-Click Installers for Windows, RunPod, Massed Compute With Improved Gradio Apps - All Supporting Batch Processing, JoyCaption Pre-Alpha, Alpha One, Alpha Two and Joy Caption Beta One](https://www.patreon.com/posts/118827960)
 * This is the ultimate image captioning arsenal that supports all of the Joy Caption versions from pre-alpha to beta-one with more features like multi-gpu and batch folder processing
@@ -44,10 +48,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### September 9 - 2025
 [FaceFusion V3.4 (Most Advanced 1-Click DeepFake) 1-Click Installers for Windows, RunPod and Massed Compute - Use locally and cloud](https://www.patreon.com/posts/103765029)
 * FaceFusion 3.4 Windows (local), RunPod and Massed Compute (Cloud) 1-Click installers. Install and run with easiness. The best DeepFake APP. The installation literally 1-click supports RTX 5000 series and older GPUs with CUDA and also TensorRT. 
-
-### September 7 - 2025
-[SUPIR 1 Click Windows, RunPod / Massed Compute / Linux Installer & Free Kaggle Notebook](https://www.patreon.com/posts/99176057)
-* 1 Click Windows and RunPod / Massed Compute / Linux Installer and a free Kaggle Notebook For The New SOTA Image Upscaling and Enhancing Open Source SUPIR Model. Better than Magnify AI. SUPIR is the very best AI image upscaler at the moment.
 
 ### August 29 - 2025
 [SECourses Musubi Tuner - 1-Click to Install App for LoRA Training and Full Fine Tuning Qwen Image, Qwen Image Edit, Wan 2.1 and Wan 2.2 Models with Musubi Tuner with Ready Presets](https://www.patreon.com/posts/137551634)
