@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### September 24 - 2025
+[VisoMaster Automatic Installer - The Most Advanced 0-Shot Face Swap / Deep Fake APP - State of the Art - Windows and Massed Compute](https://www.patreon.com/posts/121570322)
+* 1-Click to install VisoMaster on Windows and also on Massed Compute (for GPU poor). VisoMaster is a powerful yet easy-to-use tool for face swapping (FaceSwap/DeepFake) and editing in images and videos. It utilizes AI to produce natural-looking results with minimal effort, making it ideal for both casual users and professionals.
+
 ### September 21 - 2025
 [SUPIR 1 Click Windows, RunPod / Massed Compute / Linux Installer & Free Kaggle Notebook](https://www.patreon.com/posts/99176057)
 * 1 Click Windows and RunPod / Massed Compute / Linux Installer and a free Kaggle Notebook For The New SOTA Image Upscaling and Enhancing Open Source SUPIR Model. Better than Magnify AI. SUPIR is the very best AI image upscaler at the moment.
@@ -180,10 +184,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### March 20 - 2025
 [MagicQuill 1-Click Installers for Windows, RunPod and Massed Compute - Amazing and Ultra Fast Inpaint Model](https://www.patreon.com/posts/117326651)
 * 1-Click Installer files for MagicQuill app to install on Windows, RunPod and Massed Compute : https://github.com/magic-quill/MagicQuill
-
-### March 20 - 2025
-[VisoMaster Automatic Installer - The Most Advanced 0-Shot Face Swap / Deep Fake APP - State of the Art - Windows and Massed Compute](https://www.patreon.com/posts/121570322)
-* 1-Click to install VisoMaster on Windows and also on Massed Compute (for GPU poor). VisoMaster is a powerful yet easy-to-use tool for face swapping (FaceSwap/DeepFake) and editing in images and videos. It utilizes AI to produce natural-looking results with minimal effort, making it ideal for both casual users and professionals.
 
 ### March 18 - 2025
 [Invoke AI Latest Version Windows, RunPod and Massed Compute 1-Click Installers](https://www.patreon.com/posts/112912425)
