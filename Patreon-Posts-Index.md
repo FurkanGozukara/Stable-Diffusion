@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### September 26 - 2025
+[SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation](https://www.patreon.com/posts/114517862)
+* 1-Click to install SwarmUI and Unified AI Models Downloader for SwarmUI, ComfyUI, Automatic1111 and Forge Web UI - Supports SD 1.5, SDXL, FLUX, Wan 2.1, Wan 2.2, Qwen Image, SwarmUI presets to generate images and videos with FLUX, Qwen Image, SDXL and Wan 2.1, Wan 2.2 Models and more. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
+
 ### September 24 - 2025
 [VisoMaster Automatic Installer - The Most Advanced 0-Shot Face Swap / Deep Fake APP - State of the Art - Windows and Massed Compute](https://www.patreon.com/posts/121570322)
 * 1-Click to install VisoMaster on Windows and also on Massed Compute (for GPU poor). VisoMaster is a powerful yet easy-to-use tool for face swapping (FaceSwap/DeepFake) and editing in images and videos. It utilizes AI to produce natural-looking results with minimal effort, making it ideal for both casual users and professionals.
@@ -60,10 +64,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### August 25 - 2025
 [Ultimate Image Processing APP : Batch Cropping, Zooming In, Resizing, Duplicate Image Removing, Face Extraction, SAM 2 and Yolo Segmentation, Masking for Windows, RunPod, Massed Compute and Free Kaggle Account](https://www.patreon.com/posts/120352012)
 * If you want to batch pre-process your training images, like auto zoom subject and resize perfectly into exact resolution, this is the script you need. 1-Click to install and use on Windows, RunPod and Massed Comput and even Kaggle. It supports YOLO V11 and SAM 2. Moreover it has even duplicate image removing as well. You can see all features in this public post : https://www.patreon.com/posts/120353641
-
-### August 19 - 2025
-[SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation](https://www.patreon.com/posts/114517862)
-* 1-Click to install SwarmUI and Unified AI Models Downloader for SwarmUI, ComfyUI, Automatic1111 and Forge Web UI - Supports SD 1.5, SDXL, FLUX, Wan 2.1, Wan 2.2, Qwen Image, SwarmUI presets to generate images and videos with FLUX, Qwen Image, SDXL and Wan 2.1, Wan 2.2 Models and more. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
 
 ### August 8 - 2025
 [Blazing Fast SD Forge Web UI Latest Version Windows, RunPod and Massed Compute Automatic Installers with RTX 5000 series GPUs support + Flash Attention + Sage Attention + xFormers](https://www.patreon.com/posts/118442039)
