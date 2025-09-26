@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### September 26 - 2025
+[SECourses LeVo Song Generator - This is the Very Best local Song generator APP - I can say almost level of Suno AI Music - We have so many batch feature](https://www.patreon.com/posts/135592123)
+* LeVo: High-Quality Song Generation with Multi-Preference Alignment. We have batch processing, number of generations, full preset saving and loading, 20 pre-made presets, generating a song with each preset and many other features.
+
+### September 26 - 2025
 [SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation](https://www.patreon.com/posts/114517862)
 * 1-Click to install SwarmUI and Unified AI Models Downloader for SwarmUI, ComfyUI, Automatic1111 and Forge Web UI - Supports SD 1.5, SDXL, FLUX, Wan 2.1, Wan 2.2, Qwen Image, SwarmUI presets to generate images and videos with FLUX, Qwen Image, SDXL and Wan 2.1, Wan 2.2 Models and more. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
 
