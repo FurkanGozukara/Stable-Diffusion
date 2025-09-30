@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### September 30 - 2025
+[Ostris AI-Toolkit 1-Click Installer for Windows, RunPod & Massed Computer with RTX 1000 to 5000 Series Installer Supporting Cloud GPUs too Like H100, B200, etc](https://www.patreon.com/posts/139297407)
+* I have made installers for famous AI Toolkit by Ostris : https://github.com/ostris/ai-toolkit .My installer installs with Flash Attention 2.8.3, Sage Attention 2.2.0, xFormers 0.0.33, CUDA 12.9 and Torch 2.8, Triton 3.4 that are compiled for GPUs starting from RTX 1000 to 5000 series and also Cloud GPUs like A100, H200, B200, etc for both Linux and Windows
+  
 ### September 29 - 2025
 [IndexTTS2 SECourses Premium Voice Cloning and Generation App - 1-Click to Install on Windows, RunPod and Massed Compute - Generate Entire Audiobooks With Consistent High Quality Voice](https://www.patreon.com/posts/139297407)
 * Example video : https://youtu.be/6cH-6JaBMnM
