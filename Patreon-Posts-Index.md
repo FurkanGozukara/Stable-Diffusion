@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### October 2 - 2025
+[Kohya FLUX Fine Tuning (Full Checkpoints) / DreamBooth Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/112099700)
+* Fully researched and optimized very best full FLUX Fine tuning configurations and workflows that works way better than FLUX LoRA training. Perfectly trainable on 6 GB, 8 GB, 10 GB, 12 GB, 16 GB, 24 GB and 48 GB GPUs. 48 GB GPU config and 6 GB GPU config yields exactly same quality only speed is different. Moreover automatic 1-click installer of Kohya GUI with Torch 2.8, CUDA 12.9 and all updated libraries for both Windows and Linux.
+
 ### September 30 - 2025
 [Ostris AI-Toolkit 1-Click Installer for Windows, RunPod & Massed Computer with RTX 1000 to 5000 Series Installer Supporting Cloud GPUs too Like H100, B200, etc](https://www.patreon.com/posts/139297407)
 * I have made installers for famous AI Toolkit by Ostris : https://github.com/ostris/ai-toolkit .My installer installs with Flash Attention 2.8.3, Sage Attention 2.2.0, xFormers 0.0.33, CUDA 12.9 and Torch 2.8, Triton 3.4 that are compiled for GPUs starting from RTX 1000 to 5000 series and also Cloud GPUs like A100, H200, B200, etc for both Linux and Windows
@@ -232,10 +236,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### December 4 - 2024
 [SwarmUI Master Tutorial - Use Stable Diffusion 3.5 Large and FLUX model with Amazing Performance and more](https://www.patreon.com/posts/106135985)
 * In this public tutorial post I will share all the necessary stuff regarding how to use SD 1.5, SDXL, Stable Diffusion 3, Stable Diffusion 3.5 Large and FLUX (by Black Forest Labs new SOTA model) on your computer and also on the cloud (Massed Compute, RunPod and a free Kaggle account).
-
-### November 20 - 2024
-[Kohya FLUX Fine Tuning (Full Checkpoints) Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/112099700)
-* Fully researched and optimized very best full FLUX Fine tuning configurations and workflows that works way better than FLUX LoRA training. Perfectly trainable on 6 GB, 8 GB, 10 GB, 12 GB, 16 GB, 24 GB and 48 GB GPUs. 48 GB GPU config and 6 GB GPU config yields exactly same quality only speed is different.
 
 ### November 20 - 2024
 [Kohya FLUX LoRA Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/110879657)
