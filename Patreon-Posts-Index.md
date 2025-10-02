@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### October 2 - 2025
+[Deep Live Cam Automatic Windows Installer With RTX 5000 Series Support - The Viral App for Live Web Cam Face Swap](https://www.patreon.com/posts/125826778)
+* 1-Click Windows installers for famous Deep Live Cam Face Swap / Deep Fake app that became viral and famous. Public non-members post : https://www.patreon.com/posts/125826989
+
+### October 2 - 2025
 [Kohya FLUX Fine Tuning (Full Checkpoints) / DreamBooth Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/112099700)
 * Fully researched and optimized very best full FLUX Fine tuning configurations and workflows that works way better than FLUX LoRA training. Perfectly trainable on 6 GB, 8 GB, 10 GB, 12 GB, 16 GB, 24 GB and 48 GB GPUs. 48 GB GPU config and 6 GB GPU config yields exactly same quality only speed is different. Moreover automatic 1-click installer of Kohya GUI with Torch 2.8, CUDA 12.9 and all updated libraries for both Windows and Linux.
 
@@ -188,10 +192,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### April 20 - 2025
 [Free Kaggle Account Notebook for SwarmUI with FLUX, SD 1.5, SDXL & Stable Diffusion 3.5 Large, FLUX, Hunyuan and Dual T4 GPU support](https://www.patreon.com/posts/106650931)
 * Use very advanced SwarmUI on a free Kaggle account for free with dual T4 GPU. Fully supports SD 1.5, SDXL, SD3, FLUX, FLUX Tools (Redux, Canny, Depth, Inpainting), Stable Diffusion 3.5 Large, Stable Cascade, Hunyuan, SkyReels, Mochi 1 and more
-
-### April 3 - 2025
-[Deep Live Cam Automatic Windows Installer With RTX 5000 Series Support - The Viral App for Live Web Cam Face Swap](https://www.patreon.com/posts/125826778)
-* 1-Click Windows installers for famous Deep Live Cam Face Swap / Deep Fake app that became viral and famous. Public non-members post : https://www.patreon.com/posts/125826989
 
 ### April 1 - 2025
 [BiRefNet HR (High Resolution) Gradio APP and 1-Click Installers for Windows, RunPod, Massed Compute and a Free Kaggle Account Notebook](https://www.patreon.com/posts/121679760)
