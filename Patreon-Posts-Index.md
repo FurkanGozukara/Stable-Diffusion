@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### October 7 - 2025
+[Ovi SECourses Premium App to Generate Audio Having 121 Frames Videos from Text and Images - Supports all GPUs Including RTX 5000 Series - Has Flash Attention + Batch Processing and Block Swapping - As Low as 8 GB VRAM - Like VEO 3 and SORA 2 - 1-Click to Install on Windows, RunPod and Massed Compute](https://www.patreon.com/posts/140393220)
+* Full scale ultra advanced app for Ovi - an open source project that can generate videos from both text prompts and image + text prompts with real audio. We have so many amazing features like FP8_Scaled, Sage Attention, Block Swapping, T5 on CPU, Automatic Video extending, Multi-line prompting, longer generations, batch processing and many more.
+
 ### October 2 - 2025
 [Kohya FLUX LoRA Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/110879657)
 * Step by step with perfect hyper parameters and configuration Kohya FLUX LoRA training tutorial with configs for 8GB, 10GB, 12GB, 16GB, 24GB and 48GB GPUs. It works perfect on all these GPUs both on Windows and on Linux. It covers Cloud services as RunPod and Massed Compute as well. This tutorial is research result of more than 64 full Kohya SS GUI used FLUX LoRA trainings
