@@ -6,4 +6,4 @@
 Clip : https://huggingface.co/spaces/russellc/comparing-captioning-models
 
 
-Test entry added via automated wiki editor - 10/15/2025 23:51:51
+âœ… SUCCESS: Wiki editing now works perfectly with automated scripts! - 10/15/2025 23:51:51
