@@ -22,7 +22,7 @@
 15. [Pinterest](https://www.pinterest.com/SECoursesAI/)
 16. [TikTok](https://www.tiktok.com/@www.tiktok.com/@secourses)
 17. [VKvideo](https://vkvideo.ru/@club233235548)
-18. [Gumroad](https://furkangozukara.gumroad.com/)
+18. [Gumroad](https://furkangozukara.gumroad.com/) - [post](https://gumroad.com/products/new)
 19. [Discord (8000+ members)](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388)
 20. [Rumble](https://rumble.com/c/SECourses) & [Rumble (alt)](https://rumble.com/c/c-6087714)
 21. [BiliBili](https://space.bilibili.com/3494358894512529)
