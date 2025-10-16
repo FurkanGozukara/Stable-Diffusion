@@ -31,7 +31,7 @@
 24. [Instagram](https://www.instagram.com/gozukarafurkan/)
 25. [Ko-fi](https://ko-fi.com/secourses)
 26. [Reddit](https://www.reddit.com/r/SECourses)
-27. [Substack](https://secourses.substack.com/)
+27. [Substack](https://secourses.substack.com/) [post](https://secourses.substack.com/publish/home?utm_source=substack)
 28. [Tumblr](https://www.tumblr.com/secourses)
 29. [Wordpress](https://secourses.wordpress.com/)
 30. [Quora](https://generativeaitutorials.quora.com/)
