@@ -18,7 +18,7 @@
 11. [X (Twitter)](https://x.com/GozukaraFurkan)
 12. [GitHub (1900+ Stars)](https://github.com/FurkanGozukara/Stable-Diffusion)
 13. [Hugging Face](https://huggingface.co/MonsterMMORPG)
-14. [FaceBook](https://www.facebook.com/OfficialSECourses/)
+14. [FaceBook](https://www.facebook.com/OfficialSECourses/) - [post](https://business.facebook.com/latest/posts/published_posts/?business_id=1661108487599343&asset_id=107065492172084)
 15. [Pinterest](https://www.pinterest.com/SECoursesAI/)
 16. [TikTok](https://www.tiktok.com/@www.tiktok.com/@secourses)
 17. [VKvideo](https://vkvideo.ru/@club233235548)
