@@ -8,7 +8,7 @@
 1.  [Internet Archive](https://archive.org/details/@archive.org/details/@furkan_g_z_kara/web-archive)
 2.  [YouTube (35k+ subs)](https://www.youtube.com/SECourses)
 3.  [Patreon (Amazing content)](https://www.patreon.com/SECourses)
-4.  [Medium : Generative AI & Tech](https://medium.com/@medium.com/@furkangozukara)
+4.  [Medium : Generative AI & Tech](https://medium.com/@furkangozukara)
 5.  [CivitAI](https://civitai.com/user/SECourses)
 6.  [Dev.to](https://dev.to/furkangozukara)
 7.  [CoderLegion](https://coderlegion.com/user/FurkanGozukara)
