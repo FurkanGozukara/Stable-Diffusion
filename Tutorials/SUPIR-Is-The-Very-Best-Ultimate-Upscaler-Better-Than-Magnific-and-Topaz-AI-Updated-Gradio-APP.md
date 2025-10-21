@@ -1,0 +1,38 @@
+# SUPIR Is The Very Best Ultimate Upscaler Better Than Magnific & Topaz AI - Updated Gradio APP
+
+## Full tutorial link > https://www.youtube.com/watch?v=F_wf1uHqZRA
+
+[![SUPIR Is The Very Best Ultimate Upscaler Better Than Magnific & Topaz AI - Updated Gradio APP](https://img.youtube.com/vi/F_wf1uHqZRA/sddefault.jpg)](https://www.youtube.com/watch?v=F_wf1uHqZRA "SUPIR Is The Very Best Ultimate Upscaler Better Than Magnific & Topaz AI - Updated Gradio APP")
+
+[![image](https://img.shields.io/discord/772774097734074388?label=Discord&logo=discord)](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388) [![Hits](https://hits.sh/github.com/FurkanGozukara/Stable-Diffusion/blob/main/Tutorials/SUPIR-Is-The-Very-Best-Ultimate-Upscaler-Better-Than-Magnific-and-Topaz-AI-Updated-Gradio-APP.md.svg?style=plastic&label=Hits%20Since%2025.08.27&labelColor=007ec6&logo=SECourses)](https://hits.sh/github.com/FurkanGozukara/Stable-Diffusion/blob/main/Tutorials/SUPIR-Is-The-Very-Best-Ultimate-Upscaler-Better-Than-Magnific-and-Topaz-AI-Updated-Gradio-APP.md)
+[![Patreon](https://img.shields.io/badge/Patreon-Support%20Me-F2EB0E?style=for-the-badge&logo=patreon)](https://www.patreon.com/c/SECourses) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/DrFurkan) [![Furkan Gözükara Medium](https://img.shields.io/badge/Medium-Follow%20Me-800080?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@furkangozukara) [![Codio](https://img.shields.io/static/v1?style=for-the-badge&message=Articles&color=4574E0&logo=Codio&logoColor=FFFFFF&label=CivitAI)](https://civitai.com/user/SECourses/articles) [![Furkan Gözükara Medium](https://img.shields.io/badge/DeviantArt-Follow%20Me-990000?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/monstermmorpg)
+
+[![YouTube Channel](https://img.shields.io/badge/YouTube-SECourses-C50C0C?style=for-the-badge&logo=youtube)](https://www.youtube.com/SECourses)  [![Furkan Gözükara LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkangozukara/)   [![Udemy](https://img.shields.io/static/v1?style=for-the-badge&message=Stable%20Diffusion%20Course&color=A435F0&logo=Udemy&logoColor=FFFFFF&label=Udemy)](https://www.udemy.com/course/stable-diffusion-dreambooth-lora-zero-to-hero/?referralCode=E327407C9BDF0CEA8156) [![Twitter Follow Furkan Gözükara](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GozukaraFurkan)
+
+
+SUPIR is an Open Source free SaaS killer level upscaler. Install and use with our 1 click installer. Works even at 12 GB GPUs. Much better than Magnific or Topaz AI which are extremely expensive.
+
+#SUPIR #supir #stablediffusion
+
+Download Installer Scripts For Both Windows & RunPod / Linux ⤵️
+
+[https://www.patreon.com/posts/supir-1-click-99176057](https://www.patreon.com/posts/supir-1-click-99176057)
+
+A Thread About Our APP ⤵️
+
+[https://github.com/Fanghua-Yu/SUPIR/issues/38](https://github.com/Fanghua-Yu/SUPIR/issues/38)
+
+Song: Max Brhon - Humanity [NCS Release]
+
+Music provided by NoCopyrightSounds
+
+Free Download/Stream: [http://ncs.io/Humanity](http://ncs.io/Humanity)
+
+Watch: [http://youtu.be/OJhqsUnKUWw](http://youtu.be/OJhqsUnKUWw)
+
+
+
+### Video Transcription
+
+
+- [00:01:11](https://www.youtube.com/watch?v=F_wf1uHqZRA&t=71) [Applause] [Music]
