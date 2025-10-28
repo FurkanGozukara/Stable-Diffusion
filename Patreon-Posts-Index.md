@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### October 29 - 2025
+[Kohya FLUX Fine Tuning (Full Checkpoints) / DreamBooth Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/112099700)
+* Fully researched and optimized very best full FLUX Fine tuning configurations and workflows that works way better than FLUX LoRA training. Perfectly trainable on 6 GB, 8 GB, 10 GB, 12 GB, 16 GB, 24 GB and 48 GB GPUs. 48 GB GPU config and 6 GB GPU config yields exactly same quality only speed is different. Moreover automatic 1-click installer of Kohya GUI with Torch 2.8, CUDA 12.9 and all updated libraries for both Windows and Linux.
+
+### October 29 - 2025
 [MMAudio 1-Click Installers for Windows, RunPod and Massed Compute - Generate Audio for Any Video - Amazing for AI Generated Videos](https://www.patreon.com/posts/117990364)
 * 1-Click installers to install MMAudio. This app is so lightweight and fast. Pretty much should work on every GPUs. I have also improved the official published Gradio app and added more features. MMAudio generates synchronized audio given video and/or text inputs. Our key innovation is multimodal joint training which allows training on a wide range of audio-visual and audio-text datasets. Moreover, a synchronization module aligns the generated audio with the video frames.
 
@@ -44,10 +48,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### October 2 - 2025
 [Deep Live Cam Automatic Windows Installer With RTX 5000 Series Support - The Viral App for Live Web Cam Face Swap](https://www.patreon.com/posts/125826778)
 * 1-Click Windows installers for famous Deep Live Cam Face Swap / Deep Fake app that became viral and famous. Public non-members post : https://www.patreon.com/posts/125826989
-
-### October 2 - 2025
-[Kohya FLUX Fine Tuning (Full Checkpoints) / DreamBooth Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/112099700)
-* Fully researched and optimized very best full FLUX Fine tuning configurations and workflows that works way better than FLUX LoRA training. Perfectly trainable on 6 GB, 8 GB, 10 GB, 12 GB, 16 GB, 24 GB and 48 GB GPUs. 48 GB GPU config and 6 GB GPU config yields exactly same quality only speed is different. Moreover automatic 1-click installer of Kohya GUI with Torch 2.8, CUDA 12.9 and all updated libraries for both Windows and Linux.
 
 ### September 30 - 2025
 [Ostris AI-Toolkit 1-Click Installer for Windows, RunPod & Massed Computer with RTX 1000 to 5000 Series Installer Supporting Cloud GPUs too Like H100, B200, etc](https://www.patreon.com/posts/139297407)
