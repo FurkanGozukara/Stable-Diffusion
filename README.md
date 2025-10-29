@@ -229,3 +229,11 @@ Playlist link on YouTube: [**Stable Diffusion Tutorials, Automatic1111 Web UI & 
 | :---: | :---: |
 | **121. [Wan 2.2, FLUX & Qwen Image Upgraded: Ultimate Tutorial for Open Source SOTA Image & Video Gen Models](https://youtu.be/3BFDcO2Ysu4)**<br>[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/s3OyItRra4UT0H91vdWra.png)](https://youtu.be/3BFDcO2Ysu4) | **122. [Qwen Image Edit Full Tutorial: 26 Different Demo Cases, Prompts & Images, Pwns FLUX Kontext Dev](https://youtu.be/gLCMhbsICEQ)**<br>[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/xMotDtPQ2a63H_s8ol6C3.png)](https://youtu.be/gLCMhbsICEQ) |
 | **123. [Nano Banana (Gemini 2.5 Flash Image) Full Tutorial - 27 Unique Cases vs Qwen Image Edit - Free 2 Use](https://youtu.be/qPUreQxB8zQ)**<br>[![image](https://cdn-uploads.huggingface.co/production/uploads/6345bd89fe134dfd7a0dba40/mS2YPA9T2ISK0FZS2s_Sg.png)](https://youtu.be/qPUreQxB8zQ) | |
+
+#### AI Agent Marketplace Index And Router | [API Doc](https://www.deepnlp.org/doc/ai_agent_marketplace)
+[![AI Agent Marketplace and Router Badge](https://www.deepnlp.org/api/ai_agent_marketplace/svg?name=FurkanGozukara/Stable-Diffusion&badge_type=review)](https://www.deepnlp.org/store/ai-agent/ai-agent/pub-FurkanGozukara/stable-diffusion)
+
+```
+curl 'https://www.deepnlp.org/api/ai_agent_marketplace/v2?id=FurkanGozukara/Stable-Diffusion'
+```
+    
