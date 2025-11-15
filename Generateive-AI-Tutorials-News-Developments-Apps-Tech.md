@@ -15,7 +15,7 @@
 8.  [DeviantArt](https://www.deviantart.com/monstermmorpg)
 9.  [LinkedIn (4500+ followers)](https://www.linkedin.com/in/furkangozukara/)
 10. [Generative AI & Tech on LinkedIn Newsletter](https://www.linkedin.com/newsletters/generative-ai-7018591715401842688/)
-11. [X (Twitter)](https://x.com/GozukaraFurkan)
+11. [X (Twitter)](https://x.com/FurkanGozukara)
 12. [GitHub (1900+ Stars)](https://github.com/FurkanGozukara/Stable-Diffusion)
 13. [Hugging Face](https://huggingface.co/MonsterMMORPG)
 14. [FaceBook](https://www.facebook.com/OfficialSECourses/) - [post](https://business.facebook.com/latest/posts/published_posts/?business_id=1661108487599343&asset_id=107065492172084)
