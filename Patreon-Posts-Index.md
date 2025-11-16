@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### November 17 - 2025
+[Hi3DGen Image to 3D Mesh Generator (SOTA) Ultra Advanced App - 1-Click to Install on Windows, RunPod, Massed Compute + Batch Processing, Better than Trellis, Hunyuan3D-2.0, TripoSG](https://www.patreon.com/posts/130766890)
+* 1-Click Windows, RunPod and Massed Compute installers for Hi3DGen + SECourses developed ultra advanced App that supports batch processing + RTX 5000 series. Our installer and app utilizes Flash Attention as well and works on all GPUs especially tested on RTX 3000 and above. Moreover, our app is ultra VRAM optimizedç Hi3DGen is the SOTA app for image to 3D mesh generation at the moment better than Trellis, Hunyuan3D-2.0 and TripoSG.
+
 ### November 14 - 2025
 [SECourses Musubi Tuner - 1-Click to Install App for LoRA Training and Full Fine Tuning Qwen Image, Qwen Image Edit, Wan 2.1 and Wan 2.2 Models with Musubi Tuner with Ready Presets](https://www.patreon.com/posts/137551634)
 * Extremely detailed info provided in the post please read it carefully and screenshots of the app is here : https://www.reddit.com/r/SECourses/comments/1n2qo9g/secourses_musubi_tuner_v1_published_a_training/
@@ -152,10 +156,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### June 11 - 2025
 [FramePack Studio Automatic Installer for Windows, RunPod and Massed Compute - Including RTX 5000 Series Support With Pre-Compiled Libraries](https://www.patreon.com/posts/128472621)
 * 1 Click auto installers for popular FramePack Studio repo. Install into your local Windows PC or RunPod or Massed Compute 100% automatically. My installers supports RTX 5000 series GPUs as well including older ones like RTX 3000 and 4000 series. All installed into a Python 3.10 VENV 100% isolated.
-
-### June 5 - 2025
-[Hi3DGen Image to 3D Mesh Generator (SOTA) Ultra Advanced App - 1-Click to Install on Windows, RunPod, Massed Compute + Batch Processing, Better than Trellis, Hunyuan3D-2.0, TripoSG](https://www.patreon.com/posts/130766890)
-* 1-Click Windows, RunPod and Massed Compute installers for Hi3DGen + SECourses developed ultra advanced App that supports batch processing + RTX 5000 series. Our installer and app utilizes Flash Attention as well and works on all GPUs especially tested on RTX 3000 and above. Moreover, our app is ultra VRAM optimizedç Hi3DGen is the SOTA app for image to 3D mesh generation at the moment better than Trellis, Hunyuan3D-2.0 and TripoSG.
 
 ### June 2 - 2025
 [Wan 2.1 Ultra Advanced Gradio APP for - Works as low as 4GB VRAM - 1-Click Installers for Windows, RunPod, Massed Compute - Batch Processing - T2V - I2V - V2V](https://www.patreon.com/posts/123105403)
