@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### June 16 - 2025
+[DeepFace Based Batch Face Similarity Sorting Gradio APP For Windows, RunPod and Massed Compute - 1-Click to Install - Uses TensorFlow GPU - Very Fast](https://www.patreon.com/posts/121335747)
+* With DeepFace & RetinaFace libraries you can sort AI images or basically any images based on their similarity to the given single or multiple images (average taken). We have developed a batch processing Gradio APP for this task that installs libraries into a Python 3.10 VENV and works perfect on Windows. Also we have 1-click installers for RunPod and Massed Compute as well. The APP is fully multi-threaded. This zip file has example code of how to auto download and use CUDA 11.8, cuDNN 8.9 and TensorRT on Windows without system wide installing. It also has example code of installing CUDA 11.8 on Linux without breaking installed NVIDIA driver. Moreover, this app has example code and install for TensorFlow GPU for all GPUs including RTX 5090.
+
 ### November 17 - 2025
 [Hi3DGen Image to 3D Mesh Generator (SOTA) Ultra Advanced App - 1-Click to Install on Windows, RunPod, Massed Compute + Batch Processing, Better than Trellis, Hunyuan3D-2.0, TripoSG](https://www.patreon.com/posts/130766890)
 * 1-Click Windows, RunPod and Massed Compute installers for Hi3DGen + SECourses developed ultra advanced App that supports batch processing + RTX 5000 series. Our installer and app utilizes Flash Attention as well and works on all GPUs especially tested on RTX 3000 and above. Moreover, our app is ultra VRAM optimizedç Hi3DGen is the SOTA app for image to 3D mesh generation at the moment better than Trellis, Hunyuan3D-2.0 and TripoSG.
@@ -144,10 +148,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### June 20 - 2025
 [OneTrainer Stable Diffusion XL (SDXL) Fine Tuning Best Presets](https://www.patreon.com/posts/96028218)
 * Nerogar OneTrainer very best Stable Diffusion XL (SDXL) full fine tuning presets. 8.5 GB GPU is very sufficient and fast. Installers and presets and configs are all updated 20 June 2025. Full step by step tutorial here : https://www.youtube.com/watch?v=0t5l6CP9eBg
-
-### June 16 - 2025
-[DeepFace Based Batch Face Similarity Sorting Gradio APP For Windows, RunPod and Massed Compute - 1-Click to Install - Uses TensorFlow GPU - Very Fast](https://www.patreon.com/posts/121335747)
-* With DeepFace & RetinaFace libraries you can sort AI images or basically any images based on their similarity to the given single or multiple images (average taken). We have developed a batch processing Gradio APP for this task that installs libraries into a Python 3.10 VENV and works perfect on Windows. Also we have 1-click installers for RunPod and Massed Compute as well. The APP is fully multi-threaded.
 
 ### June 15 - 2025
 [AuraSR GigaGAN 4x Upscaler Gradio APP, Installers for Windows, RunPod, Massed Compute and free Kaggle Account with Seams Fix and Batch Processing](https://www.patreon.com/posts/121441873)
