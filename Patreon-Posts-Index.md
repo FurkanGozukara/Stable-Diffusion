@@ -22,6 +22,14 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### November 25 - 2025
+[Kohya FLUX Fine Tuning (Full Checkpoints) / DreamBooth Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/112099700)
+* Fully researched and optimized very best full FLUX Fine tuning configurations and workflows that works way better than FLUX LoRA training. Perfectly trainable on 6 GB, 8 GB, 10 GB, 12 GB, 16 GB, 24 GB and 48 GB GPUs. 48 GB GPU config and 6 GB GPU config yields exactly same quality only speed is different. Moreover automatic 1-click installer of Kohya GUI with Torch 2.8, CUDA 12.9 and all updated libraries for both Windows and Linux.
+
+### November 25 - 2025
+[Kohya FLUX LoRA Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/110879657)
+* Step by step with perfect hyper parameters and configuration Kohya FLUX LoRA training tutorial with configs for 8GB, 10GB, 12GB, 16GB, 24GB and 48GB GPUs. It works perfect on all these GPUs both on Windows and on Linux. It covers Cloud services as RunPod and Massed Compute as well. This tutorial is research result of more than 64 full Kohya SS GUI used FLUX LoRA trainings
+
+### November 25 - 2025
 [BiRefNet HR (High Resolution) Background Remover Gradio APP and 1-Click Installers for Windows, RunPod, Massed Compute and a Free Kaggle Account Notebook](https://www.patreon.com/posts/121679760)
 * BiRefNet HR Version Automatic Installers for Windows, RunPod, Massed Compute and a free Kaggle notebook. The very best SOTA background remover with Gradio APP. It is updated to newest High Resolution model and it supports batch processing fully with new half precision lower VRAM feature.
 
@@ -46,10 +54,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 * This installer always pulls the latest ComfyUI and supports Python 3.10–3.13 on Windows (Linux: 3.10 only), bundling precompiled Torch 12.8, CUDA 12.9, FlashAttention 2.8.3, SageAttention 2.2.0, Triton 3.4, InsightFace, xFormers 0.33, and DeepSpeed 0.16.5 compiled for GPU archs 6.1, 7.5, 8.0, 8.6, 8.9, 9.0, 10.0, and 12.0, enabling broad support from RTX 1000–5000 and cloud GPUs (A100, H100, B200), tested on 3090 Ti/5090 and in the cloud; it also installs huggingface_hub, hf_transfer, hf_xet, accelerate, diffusers, onnxruntime-gpu, piexif, requests, and ultralytics 8.3.197 (fixes YOLO use in SwarmUI), beta57, bong_tangent, res_2s, automatically adds ComfyUI-Manager, ComfyUI_IPAdapter_plus, and ComfyUI-GGUF, and provides an update script to refresh everything; on RunPod and Massed Compute it auto-installs ComfyUI-ReActor and ComfyUI-Impact-Pack (on Windows use the provided BAT files), works seamlessly on Windows, Massed Compute (Creator > SECourses image), and RunPod (PyTorch 2.2.0 template) with ngrok/proxy support, and uses a dedicated virtual environment for a 100% isolated installation that won’t affect other AI apps or your system. https://youtu.be/fTzlQ0tjxj0
 
 ### October 29 - 2025
-[Kohya FLUX Fine Tuning (Full Checkpoints) / DreamBooth Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/112099700)
-* Fully researched and optimized very best full FLUX Fine tuning configurations and workflows that works way better than FLUX LoRA training. Perfectly trainable on 6 GB, 8 GB, 10 GB, 12 GB, 16 GB, 24 GB and 48 GB GPUs. 48 GB GPU config and 6 GB GPU config yields exactly same quality only speed is different. Moreover automatic 1-click installer of Kohya GUI with Torch 2.8, CUDA 12.9 and all updated libraries for both Windows and Linux.
-
-### October 29 - 2025
 [MMAudio 1-Click Installers for Windows, RunPod and Massed Compute - Generate Audio for Any Video - Amazing for AI Generated Videos](https://www.patreon.com/posts/117990364)
 * 1-Click installers to install MMAudio. This app is so lightweight and fast. Pretty much should work on every GPUs. I have also improved the official published Gradio app and added more features. MMAudio generates synchronized audio given video and/or text inputs. Our key innovation is multimodal joint training which allows training on a wide range of audio-visual and audio-text datasets. Moreover, a synchronization module aligns the generated audio with the video frames.
 
@@ -60,10 +64,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### October 7 - 2025
 [Ovi SECourses Premium App to Generate Audio Having 121 Frames Videos from Text and Images - Supports all GPUs Including RTX 5000 Series - Has Flash Attention + Batch Processing and Block Swapping - As Low as 8 GB VRAM - Like VEO 3 and SORA 2 - 1-Click to Install on Windows, RunPod and Massed Compute](https://www.patreon.com/posts/140393220)
 * Full scale ultra advanced app for Ovi - an open source project that can generate videos from both text prompts and image + text prompts with real audio. We have so many amazing features like FP8_Scaled, Sage Attention, Block Swapping, T5 on CPU, Automatic Video extending, Multi-line prompting, longer generations, batch processing and many more.
-
-### October 2 - 2025
-[Kohya FLUX LoRA Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/110879657)
-* Step by step with perfect hyper parameters and configuration Kohya FLUX LoRA training tutorial with configs for 8GB, 10GB, 12GB, 16GB, 24GB and 48GB GPUs. It works perfect on all these GPUs both on Windows and on Linux. It covers Cloud services as RunPod and Massed Compute as well. This tutorial is research result of more than 64 full Kohya SS GUI used FLUX LoRA trainings
 
 ### October 2 - 2025
 [Deep Live Cam Automatic Windows Installer With RTX 5000 Series Support - The Viral App for Live Web Cam Face Swap](https://www.patreon.com/posts/125826778)
