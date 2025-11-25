@@ -21,7 +21,7 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
-### November 18 - 2025
+### November 25 - 2025
 [BiRefNet HR (High Resolution) Background Remover Gradio APP and 1-Click Installers for Windows, RunPod, Massed Compute and a Free Kaggle Account Notebook](https://www.patreon.com/posts/121679760)
 * BiRefNet HR Version Automatic Installers for Windows, RunPod, Massed Compute and a free Kaggle notebook. The very best SOTA background remover with Gradio APP. It is updated to newest High Resolution model and it supports batch processing fully with new half precision lower VRAM feature.
 
