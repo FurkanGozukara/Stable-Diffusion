@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### November 27 - 2025
+[1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, Full xFormers and Latest Libraries Support for RTX 5000 Series GPUs and All Other GPUs With Torch 2.8 and CUDA 12.9](https://www.patreon.com/posts/86307255)
+* Famous classic Automatic1111 modified to work on newest RTX 5000 series GPUs with Torch 2.8 and CUDA 12.9 and xFormers 0.33 with supporting ADetailer and ControlNet extensions. Fully automated to install. Works on Windows and Linux. Supports RTX 1000 to 5000 series including cloud GPUs.
+
 ### November 25 - 2025
 [Kohya FLUX Fine Tuning (Full Checkpoints) / DreamBooth Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/112099700)
 * Fully researched and optimized very best full FLUX Fine tuning configurations and workflows that works way better than FLUX LoRA training. Perfectly trainable on 6 GB, 8 GB, 10 GB, 12 GB, 16 GB, 24 GB and 48 GB GPUs. 48 GB GPU config and 6 GB GPU config yields exactly same quality only speed is different. Moreover automatic 1-click installer of Kohya GUI with Torch 2.8, CUDA 12.9 and all updated libraries for both Windows and Linux.
@@ -164,10 +168,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### June 2 - 2025
 [Wan 2.1 Ultra Advanced Gradio APP for - Works as low as 4GB VRAM - 1-Click Installers for Windows, RunPod, Massed Compute - Batch Processing - T2V - I2V - V2V](https://www.patreon.com/posts/123105403)
 * 1-Click to install and use the most powerful ever released Image to Video, Text to Video and Video to Video Wan 2.1 Open source model. Public Post to see APP features : https://www.patreon.com/posts/123114193
-
-### May 27 - 2025
-[1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, TensorRT (RTX Accelerator) and RTX 5000 SUPPORT on Windows](https://www.patreon.com/posts/86307255)
-* Automatic Windows installer script for SDXL and Automatic1111 Web UI. Downloads latest SDXL base with fixed VAE and best SD 1.5 and SDXL models. Moreover it automatically installs and lets you download newest NVIDIA RTX Accelerator - TensorRT which brings 70%+ Speed Up. Moreover, it will automatically install ControlNet and download all available ControlNet models for you. Furthermore, it will auto install After Detailer (ADetailer) and Reactor extensions and latest Torch and xFormers. All these installations are optional and you can install any of them.
 
 ### May 27 - 2025
 [FramePack 1-Click Installers for Windows, RunPod and Massed Compute, Image-to-Video with as Low as 6 GB VRAM and can Generate Up to 120 seconds videos](https://www.patreon.com/posts/126855226)
