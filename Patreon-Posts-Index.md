@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### November 29 - 2025
+[SECourses Musubi Tuner - 1-Click to Install App for LoRA Training and Full Fine Tuning Qwen Image, Qwen Image Edit, Wan 2.1 and Wan 2.2 Models with Musubi Tuner with Ready Presets](https://www.patreon.com/posts/137551634)
+* Extremely detailed info provided in the post please read it carefully and screenshots of the app is here : https://www.reddit.com/r/SECourses/comments/1n2qo9g/secourses_musubi_tuner_v1_published_a_training/
+
 ### November 27 - 2025
 [SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation](https://www.patreon.com/posts/114517862)
 * 1-Click to install SwarmUI and Unified AI Models Downloader for SwarmUI, ComfyUI, Automatic1111 and Forge Web UI - Supports SD 1.5, SDXL, FLUX, Wan 2.1, Wan 2.2, Qwen Image, SwarmUI presets to generate images and videos with FLUX, Qwen Image, SDXL and Wan 2.1, Wan 2.2 Models and more. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
@@ -48,10 +52,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### November 17 - 2025
 [Hi3DGen Image to 3D Mesh Generator (SOTA) Ultra Advanced App - 1-Click to Install on Windows, RunPod, Massed Compute + Batch Processing, Better than Trellis, Hunyuan3D-2.0, TripoSG](https://www.patreon.com/posts/130766890)
 * 1-Click Windows, RunPod and Massed Compute installers for Hi3DGen + SECourses developed ultra advanced App that supports batch processing + RTX 5000 series. Our installer and app utilizes Flash Attention as well and works on all GPUs especially tested on RTX 3000 and above. Moreover, our app is ultra VRAM optimizedç Hi3DGen is the SOTA app for image to 3D mesh generation at the moment better than Trellis, Hunyuan3D-2.0 and TripoSG.
-
-### November 14 - 2025
-[SECourses Musubi Tuner - 1-Click to Install App for LoRA Training and Full Fine Tuning Qwen Image, Qwen Image Edit, Wan 2.1 and Wan 2.2 Models with Musubi Tuner with Ready Presets](https://www.patreon.com/posts/137551634)
-* Extremely detailed info provided in the post please read it carefully and screenshots of the app is here : https://www.reddit.com/r/SECourses/comments/1n2qo9g/secourses_musubi_tuner_v1_published_a_training/
 
 ### November 10 - 2025
 [Ultimate Image Processing APP : Batch Cropping, Zooming In, Resizing, Duplicate Image Removing, Face Extraction, SAM 2 and Yolo Segmentation, Masking for Windows, RunPod, Massed Compute and Free Kaggle Account](https://www.patreon.com/posts/120352012)
