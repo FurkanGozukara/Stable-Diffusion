@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### December 4 - 2025
+[Wan2GP 1-Click Automatic Installer for Windows, RunPod and Massed Compute with Literally All GPUs Support with Flash Attention + xFormers + Torch 2.8 and CUDA 12.9](https://www.patreon.com/posts/139831592)
+* My installer will make a venv and install this app with Torch 2.8, CUDA 12.9, Flash Attention 2.8.3, Sage Attention 2.2.0, Triton 3.4, xFormers 0.0.33. Check above link for more info.
+
 ### December 3 - 2025
 [SAM 3D Objects Windows, RunPod and Massed Compute 1-click Installer and Premium SECourses Gradio App for Meta Research SAM 3D Objects](https://www.patreon.com/posts/144931360)
 * This is a premium Gradio app made for https://github.com/facebookresearch/sam-3d-objects - with pre-compiled libraries and 1-click installers for Windows, RunPod and Massed Compute. I had to pre-compile flash_attn, xformers, sageattention, gsplat, moge, pytorch3d for Windows and Linux to make 1-click installers. SAM 3D Objects is a foundation model that reconstructs full 3D shape geometry, texture, and layout from a single image. The app process 30 megapixel image under 1 minute on RTX 5090 ultra fast and generated ply (Polygon File Format or the Stanford Triangle Format) files are saved inside outputs folder. We support all the GPUs starting from RTX 2000 series to RTX 5000 series including cloud GPUs like H100, B200, RTX PRO 6000, L40S etc as usual
@@ -88,10 +92,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### September 29 - 2025
 [IndexTTS2 SECourses Premium Voice Cloning and Generation App - 1-Click to Install on Windows, RunPod and Massed Compute - Generate Entire Audiobooks With Consistent High Quality Voice](https://www.patreon.com/posts/139297407)
 * Example video : https://youtu.be/6cH-6JaBMnM
-
-### September 27 - 2025
-[Wan2GP 1-Click Automatic Installer for Windows, RunPod and Massed Compute with Literally All GPUs Support with Flash Attention + xFormers + Torch 2.8 and CUDA 12.9](https://www.patreon.com/posts/139831592)
-* My installer will make a venv and install this app with Torch 2.8, CUDA 12.9, Flash Attention 2.8.3, Sage Attention 2.2.0, Triton 3.4, xFormers 0.0.33. Check above link for more info.
 
 ### September 26 - 2025
 [SECourses LeVo Song Generator - This is the Very Best local Song generator APP - I can say almost level of Suno AI Music - We have so many batch feature](https://www.patreon.com/posts/135592123)
