@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### December 5 - 2025
+[Ostris AI-Toolkit 1-Click Installer for Windows, RunPod & Massed Computer with RTX 1000 to 5000 Series Installer Supporting Cloud GPUs too Like H100, B200, etc](https://www.patreon.com/posts/140089077)
+* I have made installers for famous AI Toolkit by Ostris : https://github.com/ostris/ai-toolkit .My installer installs with Flash Attention 2.8.3, Sage Attention 2.2.0, xFormers 0.0.33, CUDA 12.9 and Torch 2.8, Triton 3.4 that are compiled for GPUs starting from RTX 1000 to 5000 series and also Cloud GPUs like A100, H200, B200, etc for both Linux and Windows
+
 ### December 4 - 2025
 [Wan2GP 1-Click Automatic Installer for Windows, RunPod and Massed Compute with Literally All GPUs Support with Flash Attention + xFormers + Torch 2.8 and CUDA 12.9](https://www.patreon.com/posts/139831592)
 * My installer will make a venv and install this app with Torch 2.8, CUDA 12.9, Flash Attention 2.8.3, Sage Attention 2.2.0, Triton 3.4, xFormers 0.0.33. Check above link for more info.
@@ -28,10 +32,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### December 3 - 2025
 [SAM 3D Objects Windows, RunPod and Massed Compute 1-click Installer and Premium SECourses Gradio App for Meta Research SAM 3D Objects](https://www.patreon.com/posts/144931360)
 * This is a premium Gradio app made for https://github.com/facebookresearch/sam-3d-objects - with pre-compiled libraries and 1-click installers for Windows, RunPod and Massed Compute. I had to pre-compile flash_attn, xformers, sageattention, gsplat, moge, pytorch3d for Windows and Linux to make 1-click installers. SAM 3D Objects is a foundation model that reconstructs full 3D shape geometry, texture, and layout from a single image. The app process 30 megapixel image under 1 minute on RTX 5090 ultra fast and generated ply (Polygon File Format or the Stanford Triangle Format) files are saved inside outputs folder. We support all the GPUs starting from RTX 2000 series to RTX 5000 series including cloud GPUs like H100, B200, RTX PRO 6000, L40S etc as usual
-
-### December 1 - 2025
-[Ostris AI-Toolkit 1-Click Installer for Windows, RunPod & Massed Computer with RTX 1000 to 5000 Series Installer Supporting Cloud GPUs too Like H100, B200, etc](https://www.patreon.com/posts/140089077)
-* I have made installers for famous AI Toolkit by Ostris : https://github.com/ostris/ai-toolkit .My installer installs with Flash Attention 2.8.3, Sage Attention 2.2.0, xFormers 0.0.33, CUDA 12.9 and Torch 2.8, Triton 3.4 that are compiled for GPUs starting from RTX 1000 to 5000 series and also Cloud GPUs like A100, H200, B200, etc for both Linux and Windows
 
 ### November 29 - 2025
 [SECourses Musubi Tuner - 1-Click to Install App for LoRA Training and Full Fine Tuning Qwen Image, Qwen Image Edit, Wan 2.1 and Wan 2.2 Models with Musubi Tuner with Ready Presets](https://www.patreon.com/posts/137551634)
