@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### December 11 - 2025
+[SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation](https://www.patreon.com/posts/114517862)
+* 1-Click to install SwarmUI and Unified AI Models Downloader for SwarmUI, ComfyUI, Automatic1111 and Forge Web UI - Supports SD 1.5, SDXL, FLUX, Wan 2.1, Wan 2.2, Qwen Image, SwarmUI presets to generate images and videos with FLUX, Qwen Image, SDXL and Wan 2.1, Wan 2.2 Models and more. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
+
 ### December 9 - 2025
 [Whisper-WebUI Premium - Ultra Fast and High Accuracy Speech to Text Transcripton App for All Languages - Windows, RunPod, Massed Compute 1-Click Installers - Supporting RTX 1000 to 5000 series](https://www.patreon.com/posts/145395299)
 * 1-Click installers for Whisper-WebUI Premium. You can use this app to transcribe your Audio into literally 100 languages. This is currently state of the art open source speech to text app. Features : It has better interface, more features, default settings set for maximum accuracy. It will show transcription realtime both on Gradio interface and also on CMD. After deep scan of the entire pipeline, default parameters are set for maximum accuracy and quality. 1-Click installers for Windows local PC, RunPod (Linux-Cloud) and Massed Compute (Linux-Cloud). The app the installers are made for RTX 1000 series to RTX 5000 series with pre-compiled libraries. We install with Torch 2.8, CUDA 12.9, latest Flash Attention, Sage Attention, xFormers - all precompiled. As low as 6 GB VRAM GPUs can use
@@ -44,10 +48,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### November 29 - 2025
 [SECourses Musubi Tuner - 1-Click to Install App for LoRA Training and Full Fine Tuning Qwen Image, Qwen Image Edit, Wan 2.1 and Wan 2.2 Models with Musubi Tuner with Ready Presets](https://www.patreon.com/posts/137551634)
 * Extremely detailed info provided in the post please read it carefully and screenshots of the app is here : https://www.reddit.com/r/SECourses/comments/1n2qo9g/secourses_musubi_tuner_v1_published_a_training/
-
-### November 27 - 2025
-[SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation](https://www.patreon.com/posts/114517862)
-* 1-Click to install SwarmUI and Unified AI Models Downloader for SwarmUI, ComfyUI, Automatic1111 and Forge Web UI - Supports SD 1.5, SDXL, FLUX, Wan 2.1, Wan 2.2, Qwen Image, SwarmUI presets to generate images and videos with FLUX, Qwen Image, SDXL and Wan 2.1, Wan 2.2 Models and more. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
 
 ### November 27 - 2025
 [1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, Full xFormers and Latest Libraries Support for RTX 5000 Series GPUs and All Other GPUs With Torch 2.8 and CUDA 12.9](https://www.patreon.com/posts/86307255)
