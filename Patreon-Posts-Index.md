@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### December 17 - 2025
+[SECourses Musubi Tuner - 1-Click to Install App for LoRA Training and Full Fine Tuning Qwen Image, Qwen Image Edit, Wan 2.1 and Wan 2.2 Models with Musubi Tuner with Ready Presets](https://www.patreon.com/posts/137551634)
+* Extremely detailed info provided in the post please read it carefully and screenshots of the app is here : https://www.reddit.com/r/SECourses/comments/1n2qo9g/secourses_musubi_tuner_v1_published_a_training/
+
 ### December 12 - 2025
 [The Very Best SDXL DreamBooth / Fine Tuning Training Configurations - Works on All GPUs Starting from RTX 1000 series to RTX 5000 series - as low as 6 GB GPUs - Results Of 100+ Full Trainings](https://www.patreon.com/posts/89213064)
 * Updated the very best hyper training parameters / configuration and training workflow for Kohya SS GUI for Stable Diffusion XL (SDXL)
@@ -48,10 +52,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### December 3 - 2025
 [SAM 3D Objects Windows, RunPod and Massed Compute 1-click Installer and Premium SECourses Gradio App for Meta Research SAM 3D Objects](https://www.patreon.com/posts/144931360)
 * This is a premium Gradio app made for https://github.com/facebookresearch/sam-3d-objects - with pre-compiled libraries and 1-click installers for Windows, RunPod and Massed Compute. I had to pre-compile flash_attn, xformers, sageattention, gsplat, moge, pytorch3d for Windows and Linux to make 1-click installers. SAM 3D Objects is a foundation model that reconstructs full 3D shape geometry, texture, and layout from a single image. The app process 30 megapixel image under 1 minute on RTX 5090 ultra fast and generated ply (Polygon File Format or the Stanford Triangle Format) files are saved inside outputs folder. We support all the GPUs starting from RTX 2000 series to RTX 5000 series including cloud GPUs like H, B200, RTX PRO 6000, L40S etc as usual
-
-### November 29 - 2025
-[SECourses Musubi Tuner - 1-Click to Install App for LoRA Training and Full Fine Tuning Qwen Image, Qwen Image Edit, Wan 2.1 and Wan 2.2 Models with Musubi Tuner with Ready Presets](https://www.patreon.com/posts/137551634)
-* Extremely detailed info provided in the post please read it carefully and screenshots of the app is here : https://www.reddit.com/r/SECourses/comments/1n2qo9g/secourses_musubi_tuner_v1_published_a_training/
 
 ### November 27 - 2025
 [1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, Full xFormers and Latest Libraries Support for RTX 5000 Series GPUs and All Other GPUs With Torch 2.8 and CUDA 12.9](https://www.patreon.com/posts/86307255)
