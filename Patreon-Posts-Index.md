@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### January 1 - 2026
+[FaceFusion V3.5.2 (Most Advanced 1-Click DeepFake) 1-Click Installers for Windows, RunPod and Massed Compute - Use locally and cloud](https://www.patreon.com/posts/103765029)
+* FaceFusion 3.5.2 Windows (local), RunPod and Massed Compute (Cloud) 1-Click installers. Install and run with easiness. The best DeepFake APP. The installation literally 1-click supports RTX 5000 series and older GPUs with CUDA and also TensorRT. 
+
 ### December 29 - 2025
 [SECourses Musubi Tuner - 1-Click to Install App for LoRA Training and Full Fine Tuning Qwen Image, Qwen Image Edit, Wan 2.1 and Wan 2.2 Models with Musubi Tuner with Ready Presets](https://www.patreon.com/posts/137551634)
 * Extremely detailed info provided in the post please read it carefully and screenshots of the app is here : https://www.reddit.com/r/SECourses/comments/1n2qo9g/secourses_musubi_tuner_v1_published_a_training/
@@ -132,10 +136,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### September 10 - 2025
 [Tencent HunyuanImage-2.1 Enchanced Gradio App - Based on Official Pipeline - 1-Click to Install for Windows, RunPod and Massed Compute](https://www.patreon.com/posts/138531984)
 * You can read more here : https://huggingface.co/tencent/HunyuanImage-2.1 . Also read above post and we have tons of info.
-
-### September 9 - 2025
-[FaceFusion V3.4 (Most Advanced 1-Click DeepFake) 1-Click Installers for Windows, RunPod and Massed Compute - Use locally and cloud](https://www.patreon.com/posts/103765029)
-* FaceFusion 3.4 Windows (local), RunPod and Massed Compute (Cloud) 1-Click installers. Install and run with easiness. The best DeepFake APP. The installation literally 1-click supports RTX 5000 series and older GPUs with CUDA and also TensorRT. 
 
 ### August 8 - 2025
 [Blazing Fast SD Forge Web UI Latest Version Windows, RunPod and Massed Compute Automatic Installers with RTX 5000 series GPUs support + Flash Attention + Sage Attention + xFormers](https://www.patreon.com/posts/118442039)
