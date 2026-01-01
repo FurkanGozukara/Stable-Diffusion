@@ -25,9 +25,9 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 [FaceFusion V3.5.2 (Most Advanced 1-Click DeepFake) 1-Click Installers for Windows, RunPod and Massed Compute - Use locally and cloud](https://www.patreon.com/posts/103765029)
 * FaceFusion 3.5.2 Windows (local), RunPod and Massed Compute (Cloud) 1-Click installers. Install and run with easiness. The best DeepFake APP. The installation literally 1-click supports RTX 5000 series and older GPUs with CUDA and also TensorRT. 
 
-### December 29 - 2025
+### January 1 - 2026
 [SECourses Musubi Tuner - 1-Click to Install App for LoRA Training and Full Fine Tuning Qwen Image, Qwen Image Edit, Wan 2.1 and Wan 2.2 Models with Musubi Tuner with Ready Presets](https://www.patreon.com/posts/137551634)
-* Extremely detailed info provided in the post please read it carefully and screenshots of the app is here : https://www.reddit.com/r/SECourses/comments/1n2qo9g/secourses_musubi_tuner_v1_published_a_training/
+* Extremely detailed info provided in the post please read it carefully and screenshots of the app is here : https://www.reddit.com/r/SECourses/comments/1n2qo9g/secourses_musubi_tuner_v1_published_a_training/. It supports all Wan 2.1, Wan 2.2, Qwen 2509, 2511, 2512 and older models trainings.
 
 ### December 22 - 2025
 [ComfyUI Auto Installer with Torch 2.8, CUDA 12.9, FaceID, IP-Adapter, InsightFace, Reactor, Triton, DeepSpeed, Flash Attention, Sage Attention, xFormers, Including RTX 5000 Series, Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
