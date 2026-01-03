@@ -1,0 +1,2889 @@
+<!doctype html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<meta name='viewport' content='width=device-width, initial-scale=1' />
+<title>ComfyUI Presets • Download Status Dashboard</title>
+<style>
+
+:root{
+  --bg:#0b1020;
+  --panel:#121a31;
+  --panel2:#0f172b;
+  --muted:#93a4c7;
+  --text:#e8eefc;
+  --border:#223055;
+  --good:#2dd4bf;
+  --warn:#fbbf24;
+  --bad:#fb7185;
+  --info:#60a5fa;
+  --shadow: 0 20px 60px rgba(0,0,0,.35);
+  --radius: 16px;
+  --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+*{ box-sizing:border-box; }
+body{
+  margin:0;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  background: radial-gradient(1200px 600px at 20% -10%, rgba(96,165,250,.28), transparent 70%),
+              radial-gradient(1000px 500px at 80% 0%, rgba(45,212,191,.18), transparent 65%),
+              var(--bg);
+  color:var(--text);
+}
+a{ color:var(--info); text-decoration:none; }
+a:hover{ text-decoration:underline; }
+.wrap{ max-width:1180px; margin: 0 auto; padding: 26px 18px 64px; }
+.topbar{
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  backdrop-filter: blur(10px);
+  background: rgba(11,16,32,.70);
+  border-bottom: 1px solid rgba(34,48,85,.6);
+}
+.topbar-inner{ max-width:1180px; margin: 0 auto; padding: 16px 18px; display:flex; gap:12px; align-items:center; flex-wrap:wrap;}
+.title{
+  display:flex; flex-direction:column; gap:2px; flex:1 1 auto;
+}
+.title h1{ margin:0; font-size: 18px; letter-spacing:.2px; }
+.title .sub{ color:var(--muted); font-size: 12px; }
+.controls{ display:flex; gap:10px; align-items:center; flex-wrap:wrap; justify-content:flex-end; }
+input[type="search"]{
+  width:min(520px, 76vw);
+  padding: 10px 12px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: rgba(18,26,49,.9);
+  color: var(--text);
+  outline: none;
+}
+input[type="search"]:focus{ border-color: rgba(96,165,250,.75); box-shadow: 0 0 0 4px rgba(96,165,250,.15); }
+.chip{
+  display:inline-flex; align-items:center; gap:8px;
+  padding: 8px 10px;
+  border-radius: 999px;
+  border:1px solid var(--border);
+  background: rgba(18,26,49,.75);
+  color: var(--muted);
+  font-size: 12px;
+  user-select:none;
+}
+.chip input{ accent-color: var(--info); }
+.grid{
+  display:grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: 12px;
+  margin-top: 18px;
+}
+.card{
+  grid-column: span 3;
+  background: linear-gradient(180deg, rgba(18,26,49,.95), rgba(15,23,43,.92));
+  border: 1px solid rgba(34,48,85,.8);
+  border-radius: var(--radius);
+  padding: 14px 14px;
+  box-shadow: var(--shadow);
+}
+.card .k{ color:var(--muted); font-size: 12px; }
+.card .v{ font-size: 20px; margin-top: 6px; }
+.card .hint{ color:var(--muted); font-size: 11px; margin-top: 6px; }
+@media (max-width: 980px){ .card{ grid-column: span 6; } }
+@media (max-width: 520px){ .card{ grid-column: span 12; } }
+
+.section{ margin-top: 18px; }
+.section h2{ margin: 18px 0 10px; font-size: 14px; color: var(--muted); font-weight: 600; letter-spacing: .2px; }
+
+.preset{
+  border:1px solid rgba(34,48,85,.85);
+  border-radius: var(--radius);
+  background: rgba(18,26,49,.72);
+  box-shadow: var(--shadow);
+  margin: 10px 0;
+  padding: 14px 14px;
+}
+.preset summary{
+  list-style:none;
+  cursor:pointer;
+  padding: 14px 14px;
+  display:flex;
+  gap: 12px;
+  align-items:center;
+}
+.preset summary::-webkit-details-marker{ display:none; }
+.badge{
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  border:1px solid rgba(255,255,255,.08);
+  background: rgba(255,255,255,.06);
+  color: var(--muted);
+  white-space: nowrap;
+}
+.badge.complete{ color: var(--good); border-color: rgba(45,212,191,.35); background: rgba(45,212,191,.10); }
+.badge.partial{ color: var(--warn); border-color: rgba(251,191,36,.35); background: rgba(251,191,36,.10); }
+.badge.missing{ color: var(--bad); border-color: rgba(251,113,133,.35); background: rgba(251,113,133,.10); }
+.badge.error{ color: var(--bad); border-color: rgba(251,113,133,.35); background: rgba(251,113,133,.10); }
+.badge.unknown{ color: var(--muted); }
+
+.preset-title{ flex: 1 1 auto; min-width: 240px; }
+.preset-title .name{ font-weight: 650; font-size: 14px; }
+.preset-title .meta{ color: var(--muted); font-size: 12px; margin-top: 4px; }
+.bar{
+  height: 10px;
+  width: 220px;
+  border-radius: 999px;
+  background: rgba(255,255,255,.06);
+  border:1px solid rgba(34,48,85,.8);
+  overflow:hidden;
+}
+.bar > span{ display:block; height:100%; background: linear-gradient(90deg, rgba(96,165,250,.95), rgba(45,212,191,.95)); width: 0%; }
+.summary-right{ display:flex; align-items:center; gap:10px; flex-wrap:wrap; justify-content:flex-end; }
+.mini{ color: var(--muted); font-size: 12px; white-space: nowrap; }
+
+.details{
+  padding: 0 14px 14px;
+  border-top: 1px solid rgba(34,48,85,.65);
+}
+.row{
+  display:flex;
+  gap: 10px;
+  align-items:center;
+  flex-wrap:wrap;
+  margin: 10px 0;
+}
+.pill{
+  font-size: 12px;
+  padding: 6px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(34,48,85,.85);
+  background: rgba(15,23,43,.75);
+  color: var(--muted);
+}
+.pill strong{ color: var(--text); font-weight: 650; }
+.table{
+  width: 100%;
+  border-collapse: collapse;
+  overflow:hidden;
+  border-radius: 12px;
+  border: 1px solid rgba(34,48,85,.75);
+  background: rgba(15,23,43,.60);
+}
+.table th, .table td{
+  padding: 10px 10px;
+  border-bottom: 1px solid rgba(34,48,85,.5);
+  font-size: 12px;
+  vertical-align: top;
+}
+.table th{
+  text-align:left;
+  color: var(--muted);
+  font-weight: 650;
+  background: rgba(18,26,49,.55);
+}
+.table tr:last-child td{ border-bottom: none; }
+.mono{ font-family: var(--mono); }
+.ok{ color: var(--good); }
+.no{ color: var(--bad); }
+.dim{ color: var(--muted); }
+.bundle-list{ display:flex; flex-wrap:wrap; gap:8px; }
+.bundle-tag{
+  display:inline-flex; gap:8px; align-items:center;
+  padding: 7px 10px;
+  border-radius: 12px;
+  border: 1px solid rgba(34,48,85,.85);
+  background: rgba(18,26,49,.55);
+  font-size: 12px;
+  color: var(--muted);
+}
+.bundle-tag .bname{ color: var(--text); font-weight: 650; }
+.bundle-tag .bmeta{ color: var(--muted); }
+
+/* New always-expanded preset layout (no accordions) */
+.preset-header{
+  display:flex;
+  align-items:flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap:wrap;
+  padding-bottom: 12px;
+  border-bottom: 1px solid rgba(34,48,85,.55);
+  margin-bottom: 12px;
+}
+.preset-title{
+  display:flex;
+  flex-direction:column;
+  gap: 6px;
+  min-width: 260px;
+  flex: 1 1 auto;
+}
+.preset-title .name{
+  font-weight: 750;
+  font-size: 16px;
+  letter-spacing: .2px;
+}
+.preset-title .meta{
+  color: var(--muted);
+  font-size: 13px;
+}
+.preset-title .desc{
+  color: rgba(232,238,252,.82);
+  font-size: 13px;
+  line-height: 1.35;
+  max-width: 860px;
+}
+.tag{
+  font-size: 12px;
+  padding: 6px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(34,48,85,.75);
+  background: rgba(18,26,49,.55);
+  color: var(--muted);
+  white-space: nowrap;
+}
+.cols{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+}
+@media (max-width: 900px){
+  .cols{ grid-template-columns: 1fr; }
+}
+.block{
+  border: 1px solid rgba(34,48,85,.75);
+  border-radius: 14px;
+  background: rgba(15,23,43,.55);
+  padding: 12px 12px;
+}
+.block h3{
+  margin: 0 0 10px 0;
+  font-size: 13px;
+  font-weight: 750;
+  color: var(--muted);
+  letter-spacing: .2px;
+}
+.list{
+  display:flex;
+  flex-direction:column;
+  gap: 8px;
+}
+.bundle-item{
+  padding: 10px 10px;
+  border-radius: 12px;
+  border: 1px solid rgba(34,48,85,.75);
+  background: rgba(18,26,49,.55);
+}
+.bundle-item .bname{
+  font-weight: 750;
+  font-size: 14px;
+}
+.bundle-item .bmeta{
+  margin-top: 4px;
+  font-size: 13px;
+  color: var(--muted);
+}
+.model-item{
+  display:flex;
+  align-items:center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 10px 10px;
+  border-radius: 12px;
+  border: 1px solid rgba(34,48,85,.75);
+  background: rgba(18,26,49,.35);
+}
+.model-left{
+  display:flex;
+  align-items:center;
+  gap: 10px;
+  min-width: 0;
+}
+.dot{
+  width: 9px;
+  height: 9px;
+  border-radius: 999px;
+  background: rgba(255,255,255,.18);
+  border: 1px solid rgba(255,255,255,.12);
+  flex: 0 0 auto;
+}
+.dot.ok{ background: rgba(45,212,191,.85); border-color: rgba(45,212,191,.35); }
+.dot.no{ background: rgba(251,113,133,.85); border-color: rgba(251,113,133,.35); }
+.model-name{
+  font-family: var(--mono);
+  font-size: 13px;
+  color: var(--text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.model-subpath{
+  margin-top: 3px;
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.model-right{
+  display:flex;
+  gap: 10px;
+  align-items:center;
+  flex: 0 0 auto;
+}
+.size{
+  font-family: var(--mono);
+  font-size: 12px;
+  color: var(--muted);
+  white-space: nowrap;
+}
+.errorbox{
+  border: 1px solid rgba(251,113,133,.45);
+  background: rgba(251,113,133,.10);
+  color: var(--bad);
+  border-radius: 14px;
+  padding: 10px 12px;
+  font-size: 13px;
+}
+.note{
+  color: var(--muted);
+  font-size: 13px;
+}
+.footer{
+  margin-top: 26px;
+  color: var(--muted);
+  font-size: 12px;
+}
+.codebox{
+  font-family: var(--mono);
+  background: rgba(0,0,0,.25);
+  border:1px solid rgba(34,48,85,.75);
+  border-radius: 12px;
+  padding: 10px 12px;
+  color: var(--muted);
+  overflow:auto;
+}
+        
+</style>
+</head>
+<body>
+<div class='topbar'><div class='topbar-inner'>
+<div class='title'>
+<h1>ComfyUI Presets • Download Status Dashboard</h1>
+<div class='sub'>Generated 2026-01-03 03:06:18 • Presets: 34 • Models referenced: 43</div>
+</div>
+<div class='controls'>
+<input id='search' type='search' placeholder='Search presets, models, bundles…' />
+<label class='chip'><input id='onlyIncomplete' type='checkbox' /> Incomplete only</label>
+<label class='chip'><input id='onlyMissingModels' type='checkbox' /> Missing models only</label>
+</div>
+</div></div>
+<div class='wrap'>
+<div class='grid'>
+<div class='card'><div class='k'>Presets</div><div class='v'>34</div><div class='hint'>Complete 34 • Partial 0 • Missing 0 • Errors 0</div></div>
+<div class='card'><div class='k'>Unique models</div><div class='v'>43</div><div class='hint'>Present 43 • Missing 0</div></div>
+<div class='card'><div class='k'>Missing size (best-effort)</div><div class='v'>—</div><div class='hint'>Uses utilities/model_sizes.json when available</div></div>
+<div class='card'><div class='k'>Scan roots</div><div class='v'>SwarmUI</div><div class='hint'>F:\SwarmUI_Model_Downloader_v81\SwarmUI\Models</div></div>
+</div>
+<div class='section'>
+<h2>Scan configuration</h2>
+<div class='codebox'>
+Base path: F:\SwarmUI_Model_Downloader_v81\SwarmUI\Models<br/>
+Extra scan roots: F:\SwarmUI_Model_Downloader_v81\ComfyUI\models<br/>
+Folder structure: SwarmUI<br/>
+Lowercase folders: False<br/>
+Preset descriptions: Amazing_SwarmUI_Presets_v43.json<br/>
+Model sizes file: F:\SwarmUI_Model_Downloader_v81\utilities\model_sizes.json<br/>
+Model sizes fetched: 2026-01-01 20:45:23
+</div>
+</div>
+<div class='section'>
+<h2>Presets</h2>
+<div class='preset' data-name='flux 2 - 8 steps fast hq - 251230' data-status='complete' data-missing='0.0' data-search='complete image generation and editing bundle flux 2 - 8 steps fast hq - 251230 flux 2 core bundle flux/flux2-vae.safetensors flux2-vae.safetensors flux_2_dev_fp8_mixed_scaled.safetensors flux_2_turbo_lora_fixed.safetensors mistral_3_small_flux2_fp8.safetensors this is newest flux 2 turbo lora preset. it is working with amazing speed and quality. if you get out of ram error, add --no-cache to your backend args. native resolution is 2048x2048 and it takes like 40 seconds on rtx 5090. this preset has better art quality compared to realism version.'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>FLUX 2 - 8 Steps Fast HQ - 251230</div>
+<div class='desc'>This is newest FLUX 2 Turbo LoRA preset. It is working with amazing speed and quality. If you get out of RAM error, add --no-cache to your backend args. Native resolution is 2048x2048 and it takes like 40 seconds on RTX 5090. This preset has better art quality compared to realism version.</div>
+<div class='meta'>4/4 models present</div>
+</div>
+<span class='tag mono'>FLUX 2 - 8 Steps Fast HQ - 251230.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>FLUX 2 Core Bundle</div>
+<div class='bmeta'>• covers 4/4 • 53.14 GB</div>
+</div>
+<div class='bundle-item'>
+<div class='bname'>Complete Image Generation and Editing Bundle</div>
+<div class='bmeta'>• covers 4/4 • 221.06 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>flux2-vae.safetensors</div>
+<div class='model-subpath'>Flux/flux2-vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.31 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>FLUX_2_Dev_FP8_Mixed_Scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>33.02 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Flux_2_Turbo_LoRA_Fixed.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>2.57 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>mistral_3_small_flux2_fp8.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>17.24 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='flux 2 - 8 steps fast hq - low ram - 251230' data-status='complete' data-missing='0.0' data-search='flux 2 - 8 steps fast hq - low ram - 251230 flux/flux2-vae.safetensors flux2-vae.safetensors flux_2_dev_q4_k_m.gguf flux_2_turbo_lora_fixed.safetensors mistral_3_small_flux2_q4_k_m.gguf this is newest flux 2 turbo lora preset. it is working with amazing speed and quality. if you get out of ram error, add --no-cache to your backend args. native resolution is 2048x2048 and it takes like 40 seconds on rtx 5090. this preset has better art quality compared to realism version. this preset has lower quality and uses lower ram and vram due to gguf. ⚡ flux 2 low ram bundle'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>FLUX 2 - 8 Steps Fast HQ - Low RAM - 251230</div>
+<div class='desc'>This is newest FLUX 2 Turbo LoRA preset. It is working with amazing speed and quality. If you get out of RAM error, add --no-cache to your backend args. Native resolution is 2048x2048 and it takes like 40 seconds on RTX 5090. This preset has better art quality compared to realism version. This preset has lower quality and uses lower RAM and VRAM due to GGUF.</div>
+<div class='meta'>4/4 models present</div>
+</div>
+<span class='tag mono'>FLUX 2 - 8 Steps Fast HQ - Low RAM - 251230.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>⚡ FLUX 2 Low RAM Bundle</div>
+<div class='bmeta'>• covers 4/4 • 31.73 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>flux2-vae.safetensors</div>
+<div class='model-subpath'>Flux/flux2-vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.31 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>FLUX_2_Dev_Q4_K_M.gguf</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>18.70 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Flux_2_Turbo_LoRA_Fixed.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>2.57 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>mistral_3_small_flux2_Q4_K_M.gguf</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>10.15 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='flux 2 - 8 steps fast realism - 251230' data-status='complete' data-missing='0.0' data-search='complete image generation and editing bundle flux 2 - 8 steps fast realism - 251230 flux 2 core bundle flux/flux2-vae.safetensors flux2-vae.safetensors flux_2_dev_fp8_mixed_scaled.safetensors flux_2_turbo_lora_fixed.safetensors mistral_3_small_flux2_fp8.safetensors this is newest flux 2 turbo lora preset. it is working with amazing speed and quality. if you get out of ram error, add --no-cache to your backend args. native resolution is 2048x2048 and it takes like 40 seconds on rtx 5090. this preset has better realism compared to hq version.'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>FLUX 2 - 8 Steps Fast Realism - 251230</div>
+<div class='desc'>This is newest FLUX 2 Turbo LoRA preset. It is working with amazing speed and quality. If you get out of RAM error, add --no-cache to your backend args. Native resolution is 2048x2048 and it takes like 40 seconds on RTX 5090. This preset has better realism compared to HQ version.</div>
+<div class='meta'>4/4 models present</div>
+</div>
+<span class='tag mono'>FLUX 2 - 8 Steps Fast Realism - 251230.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>FLUX 2 Core Bundle</div>
+<div class='bmeta'>• covers 4/4 • 53.14 GB</div>
+</div>
+<div class='bundle-item'>
+<div class='bname'>Complete Image Generation and Editing Bundle</div>
+<div class='bmeta'>• covers 4/4 • 221.06 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>flux2-vae.safetensors</div>
+<div class='model-subpath'>Flux/flux2-vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.31 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>FLUX_2_Dev_FP8_Mixed_Scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>33.02 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Flux_2_Turbo_LoRA_Fixed.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>2.57 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>mistral_3_small_flux2_fp8.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>17.24 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='flux 2 - 8 steps fast realism - low ram - 251230' data-status='complete' data-missing='0.0' data-search='flux 2 - 8 steps fast realism - low ram - 251230 flux/flux2-vae.safetensors flux2-vae.safetensors flux_2_dev_q4_k_m.gguf flux_2_turbo_lora_fixed.safetensors mistral_3_small_flux2_q4_k_m.gguf this is newest flux 2 turbo lora preset. it is working with amazing speed and quality. if you get out of ram error, add --no-cache to your backend args. native resolution is 2048x2048 and it takes like 40 seconds on rtx 5090. this preset has better realism compared to hq version. this preset has lower quality and uses lower ram and vram due to gguf. ⚡ flux 2 low ram bundle'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>FLUX 2 - 8 Steps Fast Realism - Low RAM - 251230</div>
+<div class='desc'>This is newest FLUX 2 Turbo LoRA preset. It is working with amazing speed and quality. If you get out of RAM error, add --no-cache to your backend args. Native resolution is 2048x2048 and it takes like 40 seconds on RTX 5090. This preset has better realism compared to HQ version. This preset has lower quality and uses lower RAM and VRAM due to GGUF.</div>
+<div class='meta'>4/4 models present</div>
+</div>
+<span class='tag mono'>FLUX 2 - 8 Steps Fast Realism - Low RAM - 251230.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>⚡ FLUX 2 Low RAM Bundle</div>
+<div class='bmeta'>• covers 4/4 • 31.73 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>flux2-vae.safetensors</div>
+<div class='model-subpath'>Flux/flux2-vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.31 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>FLUX_2_Dev_Q4_K_M.gguf</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>18.70 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Flux_2_Turbo_LoRA_Fixed.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>2.57 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>mistral_3_small_flux2_Q4_K_M.gguf</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>10.15 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='flux 2 quality 1' data-status='complete' data-missing='0.0' data-search='complete image generation and editing bundle flux 2 core bundle flux 2 quality 1 flux/flux2-vae.safetensors flux2-vae.safetensors flux_2_dev_fp8_mixed_scaled.safetensors mistral_3_small_flux2_fp8.safetensors this is a flux 2 quality 2 tier. the difference vs quality 1 is that, this one uses 2x faster sampler. that is why. the difference is minimal. moreover you can increase step count to 40 for more quality.'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>FLUX 2 Quality 1</div>
+<div class='desc'>This is a FLUX 2 Quality 2 tier. The difference vs Quality 1 is that, this one uses 2x faster sampler. That is why. The difference is minimal. Moreover you can increase step count to 40 for more quality.</div>
+<div class='meta'>3/3 models present</div>
+</div>
+<span class='tag mono'>FLUX 2 Quality 1.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>FLUX 2 Core Bundle</div>
+<div class='bmeta'>• covers 3/3 • 53.14 GB</div>
+</div>
+<div class='bundle-item'>
+<div class='bname'>Complete Image Generation and Editing Bundle</div>
+<div class='bmeta'>• covers 3/3 • 221.06 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>flux2-vae.safetensors</div>
+<div class='model-subpath'>Flux/flux2-vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.31 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>FLUX_2_Dev_FP8_Mixed_Scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>33.02 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>mistral_3_small_flux2_fp8.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>17.24 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='flux 2 quality 2' data-status='complete' data-missing='0.0' data-search='complete image generation and editing bundle flux 2 core bundle flux 2 quality 2 flux/flux2-vae.safetensors flux2-vae.safetensors flux_2_dev_fp8_mixed_scaled.safetensors mistral_3_small_flux2_fp8.safetensors this is a flux 2 quality 2 tier. the difference vs quality 1 is that, this one uses 2x faster sampler. that is why. the difference is minimal. moreover you can increase step count to 40 for more quality.'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>FLUX 2 Quality 2</div>
+<div class='desc'>This is a FLUX 2 Quality 2 tier. The difference vs Quality 1 is that, this one uses 2x faster sampler. That is why. The difference is minimal. Moreover you can increase step count to 40 for more quality.</div>
+<div class='meta'>3/3 models present</div>
+</div>
+<span class='tag mono'>FLUX 2 Quality 2.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>FLUX 2 Core Bundle</div>
+<div class='bmeta'>• covers 3/3 • 53.14 GB</div>
+</div>
+<div class='bundle-item'>
+<div class='bname'>Complete Image Generation and Editing Bundle</div>
+<div class='bmeta'>• covers 3/3 • 221.06 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>flux2-vae.safetensors</div>
+<div class='model-subpath'>Flux/flux2-vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.31 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>FLUX_2_Dev_FP8_Mixed_Scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>33.02 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>mistral_3_small_flux2_fp8.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>17.24 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='flux dev' data-status='complete' data-missing='0.0' data-search='ae.safetensors clip_l.safetensors flux dev flux dev models - krea and srpo as well: 20-40 steps - just change base model to flux dev or flux krea or flux srpo. you can use gguf models as well flux models bundle flux/ae.safetensors flux_dev.safetensors t5xxl_enconly.safetensors'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>FLUX Dev</div>
+<div class='desc'>FLUX Dev Models - Krea and SRPO as well: 20-40 Steps - Just change base model to FLUX Dev or FLUX Krea or FLUX SRPO. You can use GGUF models as well</div>
+<div class='meta'>4/4 models present</div>
+</div>
+<span class='tag mono'>FLUX Dev.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>FLUX Models Bundle</div>
+<div class='bmeta'>• covers 4/4 • 122.99 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>ae.safetensors</div>
+<div class='model-subpath'>Flux/ae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.31 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>clip_l.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>1.59 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>FLUX_Dev.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>22.17 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>t5xxl_enconly.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>9.12 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='flux kontext dev edit images' data-status='complete' data-missing='0.0' data-search='ae.safetensors clip_l.safetensors flux kontext dev edit images flux models bundle flux/ae.safetensors flux_kontext_dev.safetensors official flux kontext dev edit any image t5xxl_enconly.safetensors'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>FLUX Kontext Dev Edit Images</div>
+<div class='desc'>Official FLUX Kontext Dev Edit Any Image</div>
+<div class='meta'>4/4 models present</div>
+</div>
+<span class='tag mono'>FLUX Kontext Dev Edit Images.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>FLUX Models Bundle</div>
+<div class='bmeta'>• covers 4/4 • 122.99 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>ae.safetensors</div>
+<div class='model-subpath'>Flux/ae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.31 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>clip_l.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>1.59 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>FLUX_Kontext_Dev.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>22.17 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>t5xxl_enconly.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>9.12 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='flux srpo' data-status='complete' data-missing='0.0' data-search='ae.safetensors clip_l.safetensors complete image generation and editing bundle flux models bundle flux srpo flux-srpo-bf16.safetensors flux/ae.safetensors t5xxl_enconly.safetensors'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>FLUX SRPO</div>
+<div class='meta'>4/4 models present</div>
+</div>
+<span class='tag mono'>FLUX SRPO.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>FLUX Models Bundle</div>
+<div class='bmeta'>• covers 4/4 • 122.99 GB</div>
+</div>
+<div class='bundle-item'>
+<div class='bname'>Complete Image Generation and Editing Bundle</div>
+<div class='bmeta'>• covers 4/4 • 221.06 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>ae.safetensors</div>
+<div class='model-subpath'>Flux/ae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.31 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>clip_l.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>1.59 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>FLUX-SRPO-bf16.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>22.17 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>t5xxl_enconly.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>9.12 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='inpainting preset' data-status='complete' data-missing='0.0' data-search='complete image generation and editing bundle inpainting preset qwen image core bundle qwen_2.5_vl_7b_fp8_scaled.safetensors qwen_image_2512_quant_fp8_scaled.safetensors qwen_image_vae.safetensors qwenimage/qwen_image_vae.safetensors use this preset to inpaint small areas as shown in tutorial video. just directly apply when doing inpainting. it will only change inpainting init image related parameters. set step count accordingly. for example when init image creativity is set to 0.6, you need 7 steps do to actually 4 steps. e.g. qwen fast lora requires 4 steps. so set steps count to 7 in this case.'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Inpainting Preset</div>
+<div class='desc'>Use this preset to inpaint small areas as shown in tutorial video. Just directly apply when doing inpainting. It will only change inpainting Init Image related parameters. Set step count accordingly. For example when Init Image Creativity is set to 0.6, you need 7 steps do to actually 4 steps. E.g. Qwen Fast LoRA requires 4 steps. So set steps count to 7 in this case.</div>
+<div class='meta'>3/3 models present</div>
+</div>
+<span class='tag mono'>Inpainting Preset.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>Qwen Image Core Bundle</div>
+<div class='bmeta'>• covers 3/3 • 57.87 GB</div>
+</div>
+<div class='bundle-item'>
+<div class='bname'>Complete Image Generation and Editing Bundle</div>
+<div class='bmeta'>• covers 3/3 • 221.06 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_2.5_vl_7b_fp8_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>8.74 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Qwen_Image_2512_Quant_FP8_Scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>19.12 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_image_vae.safetensors</div>
+<div class='model-subpath'>QwenImage/qwen_image_vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.24 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='outpainting preset flux dev fill' data-status='complete' data-missing='0.0' data-search='ae.safetensors clip_l.safetensors complete image generation and editing bundle flux models bundle flux/ae.safetensors flux_dev_fill.safetensors outpainting preset flux dev fill t5xxl_enconly.safetensors this is a preset to do outpainting on images with flux fill dev model as shown in tutorial.  currently flux fill dev model is the very best to outpaint images without changing rest of the image. outpaint images with small portions if you get errors. try multiple different seeds if you don&#x27;t get perfect results.'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Outpainting Preset FLUX Dev Fill</div>
+<div class='desc'>This is a preset to do outpainting on images with FLUX Fill Dev model as shown in tutorial.  Currently FLUX Fill Dev model is the very best to outpaint images without changing rest of the image. Outpaint images with small portions if you get errors. Try multiple different seeds if you don&#x27;t get perfect results.</div>
+<div class='meta'>4/4 models present</div>
+</div>
+<span class='tag mono'>Outpainting Preset FLUX Dev Fill.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>FLUX Models Bundle</div>
+<div class='bmeta'>• covers 4/4 • 122.99 GB</div>
+</div>
+<div class='bundle-item'>
+<div class='bname'>Complete Image Generation and Editing Bundle</div>
+<div class='bmeta'>• covers 4/4 • 221.06 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>ae.safetensors</div>
+<div class='model-subpath'>Flux/ae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.31 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>clip_l.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>1.59 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>FLUX_DEV_Fill.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>22.17 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>t5xxl_enconly.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>9.12 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='qwen image 2512 uhd high realism 4+4 steps - 260101' data-status='complete' data-missing='0.0' data-search='4xrealwebphoto_v4_dat2.safetensors complete image generation and editing bundle qwen image 2512 uhd high realism 4+4 steps - 260101 qwen image core bundle qwen_2.5_vl_7b_fp8_scaled.safetensors qwen_image_2512_quant_fp8_scaled.safetensors qwen_image_vae.safetensors qwen_lora_skin_fix_v2.safetensors qwenimage/qwen_image_vae.safetensors this is qwen image 2512 model at 2656x2656 pixel realism preset and it makes extremely high-quality realistic images on trained qwen image models like self-trained qwen image lora or qwen image fine tuned model. this is 4 steps base + 4 steps upscale config. this significantly increases the realism with a little bit loss of fantastic prompts capability. you can increase the used realism lora strength to 0.8 for even further realism. 0.6 is working really good and balanced. last updated 2026 january 1. wuli-qwen-image-2512-turbo-lora-4steps-v1.safetensors'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Qwen Image 2512 UHD High Realism 4+4 Steps - 260101</div>
+<div class='desc'>This is Qwen Image 2512 Model at 2656x2656 pixel realism preset and it makes extremely high-quality realistic images on trained Qwen Image models like self-trained Qwen Image LoRA or Qwen Image Fine Tuned model. This is 4 steps base + 4 steps upscale config. This significantly increases the realism with a little bit loss of fantastic prompts capability. You can increase the used realism LoRA strength to 0.8 for even further realism. 0.6 is working really good and balanced. Last updated 2026 January 1.</div>
+<div class='meta'>6/6 models present</div>
+</div>
+<span class='tag mono'>Qwen Image 2512 UHD High Realism 4+4 Steps - 260101.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>Qwen Image Core Bundle</div>
+<div class='bmeta'>• covers 6/6 • 57.87 GB</div>
+</div>
+<div class='bundle-item'>
+<div class='bname'>Complete Image Generation and Editing Bundle</div>
+<div class='bmeta'>• covers 6/6 • 221.06 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>4xRealWebPhoto_v4_dat2.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.13 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_2.5_vl_7b_fp8_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>8.74 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Qwen_Image_2512_Quant_FP8_Scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>19.12 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_image_vae.safetensors</div>
+<div class='model-subpath'>QwenImage/qwen_image_vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.24 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Qwen_LoRA_Skin_Fix_v2.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.55 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Wuli-Qwen-Image-2512-Turbo-LoRA-4steps-V1.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>1.10 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='qwen image 2512 uhd realism - 4+4 steps - 260101' data-status='complete' data-missing='0.0' data-search='4xrealwebphoto_v4_dat2.safetensors complete image generation and editing bundle qwen image 2512 uhd realism - 4+4 steps - 260101 qwen image core bundle qwen_2.5_vl_7b_fp8_scaled.safetensors qwen_image_2512_quant_fp8_scaled.safetensors qwen_image_vae.safetensors qwenimage/qwen_image_vae.safetensors this is qwen image 2512 model at 2656x2656 pixel realism preset and it makes extremely high-quality realistic images on trained qwen image models like self-trained qwen image lora or qwen image fine tuned model. this is 4 steps base + 4 steps upscale config. this significantly increases the realism with no loss of complex prompting capability. last updated 2026 january 1. wuli-qwen-image-2512-turbo-lora-4steps-v1.safetensors'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Qwen Image 2512 UHD Realism - 4+4 Steps - 260101</div>
+<div class='desc'>This is Qwen Image 2512 Model at 2656x2656 pixel realism preset and it makes extremely high-quality realistic images on trained Qwen Image models like self-trained Qwen Image LoRA or Qwen Image Fine Tuned model. This is 4 steps base + 4 steps upscale config. This significantly increases the realism with no loss of complex prompting capability. Last updated 2026 January 1.</div>
+<div class='meta'>5/5 models present</div>
+</div>
+<span class='tag mono'>Qwen Image 2512 UHD Realism - 4+4 Steps - 260101.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>Qwen Image Core Bundle</div>
+<div class='bmeta'>• covers 5/5 • 57.87 GB</div>
+</div>
+<div class='bundle-item'>
+<div class='bname'>Complete Image Generation and Editing Bundle</div>
+<div class='bmeta'>• covers 5/5 • 221.06 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>4xRealWebPhoto_v4_dat2.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.13 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_2.5_vl_7b_fp8_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>8.74 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Qwen_Image_2512_Quant_FP8_Scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>19.12 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_image_vae.safetensors</div>
+<div class='model-subpath'>QwenImage/qwen_image_vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.24 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Wuli-Qwen-Image-2512-Turbo-LoRA-4steps-V1.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>1.10 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='qwen image 8 realism fast 260101' data-status='complete' data-missing='0.0' data-search='complete image generation and editing bundle qwen image 8 realism fast 260101 qwen image core bundle qwen_2.5_vl_7b_fp8_scaled.safetensors qwen_image_2512_quant_fp8_scaled.safetensors qwen_image_vae.safetensors qwenimage/qwen_image_vae.safetensors this is fast qwen image realism generation with qwen image 2512 model. only 8 steps and cfg 1. it uses newest res_2s sampler and beta57 scheduler for realism. res_2s is 2x slower than euler but much better realism. with 2026 january 1, this preset massively upgraded. wuli-qwen-image-2512-turbo-lora-4steps-v1.safetensors'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Qwen Image 8 Realism Fast 260101</div>
+<div class='desc'>This is fast Qwen Image Realism generation with Qwen Image 2512 model. Only 8 steps and CFG 1. It uses newest res_2s Sampler and beta57 Scheduler for realism. res_2s is 2x slower than euler but much better realism. With 2026 January 1, this preset massively upgraded.</div>
+<div class='meta'>4/4 models present</div>
+</div>
+<span class='tag mono'>Qwen Image 8 Realism Fast 260101.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>Qwen Image Core Bundle</div>
+<div class='bmeta'>• covers 4/4 • 57.87 GB</div>
+</div>
+<div class='bundle-item'>
+<div class='bname'>Complete Image Generation and Editing Bundle</div>
+<div class='bmeta'>• covers 4/4 • 221.06 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_2.5_vl_7b_fp8_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>8.74 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Qwen_Image_2512_Quant_FP8_Scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>19.12 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_image_vae.safetensors</div>
+<div class='model-subpath'>QwenImage/qwen_image_vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.24 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Wuli-Qwen-Image-2512-Turbo-LoRA-4steps-V1.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>1.10 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='qwen image 8 steps ultra fast 260101' data-status='complete' data-missing='0.0' data-search='complete image generation and editing bundle qwen image 8 steps ultra fast 260101 qwen image core bundle qwen_2.5_vl_7b_fp8_scaled.safetensors qwen_image_2512_quant_fp8_scaled.safetensors qwen_image_vae.safetensors qwenimage/qwen_image_vae.safetensors this is ultra fast qwen image generation with qwen 2512 model. it uses newest lora. last updated at 2026 january 1. wuli-qwen-image-2512-turbo-lora-4steps-v1.safetensors'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Qwen Image 8 Steps Ultra Fast 260101</div>
+<div class='desc'>This is ultra fast Qwen Image generation with Qwen 2512 model. It uses newest LoRA. Last updated at 2026 January 1.</div>
+<div class='meta'>4/4 models present</div>
+</div>
+<span class='tag mono'>Qwen Image 8 Steps Ultra Fast 260101.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>Qwen Image Core Bundle</div>
+<div class='bmeta'>• covers 4/4 • 57.87 GB</div>
+</div>
+<div class='bundle-item'>
+<div class='bname'>Complete Image Generation and Editing Bundle</div>
+<div class='bmeta'>• covers 4/4 • 221.06 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_2.5_vl_7b_fp8_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>8.74 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Qwen_Image_2512_Quant_FP8_Scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>19.12 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_image_vae.safetensors</div>
+<div class='model-subpath'>QwenImage/qwen_image_vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.24 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Wuli-Qwen-Image-2512-Turbo-LoRA-4steps-V1.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>1.10 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='qwen image edit - 2511 - 12 steps - 1 images input' data-status='complete' data-missing='0.0' data-search='complete image generation and editing bundle qwen image core bundle qwen image edit - 2511 - 12 steps - 1 images input qwen-image-fp8-lightning-4steps-v1.0-fp32.safetensors qwen_2.5_vl_7b_fp8_scaled.safetensors qwen_image_edit_2511_quant_scaled_fp8.safetensors qwen_image_vae.safetensors qwenimage/qwen_image_vae.safetensors this is fast qwen image edit newest model 25-11 (like flux kontext) with 12 steps. it supports up to 3 input images and this is an amazing model. we are using qwen-image-fp8-lightning-4steps-v1.0-fp32 and it is working perfect to speed up.'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Qwen Image Edit - 2511 - 12 Steps - 1 Images Input</div>
+<div class='desc'>This is fast Qwen Image Edit newest model 25-11 (like FLUX Kontext) with 12 steps. It supports up to 3 input images and this is an amazing model. We are using Qwen-Image-FP8-Lightning-4steps-V1.0-fp32 and it is working perfect to speed up.</div>
+<div class='meta'>4/4 models present</div>
+</div>
+<span class='tag mono'>Qwen Image Edit - 2511 - 12 Steps - 1 Images Input.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>Qwen Image Core Bundle</div>
+<div class='bmeta'>• covers 4/4 • 57.87 GB</div>
+</div>
+<div class='bundle-item'>
+<div class='bname'>Complete Image Generation and Editing Bundle</div>
+<div class='bmeta'>• covers 4/4 • 221.06 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Qwen-Image-FP8-Lightning-4steps-V1.0-fp32.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>1.58 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_2.5_vl_7b_fp8_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>8.74 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Qwen_Image_Edit_2511_Quant_Scaled_FP8.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>19.03 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_image_vae.safetensors</div>
+<div class='model-subpath'>QwenImage/qwen_image_vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.24 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='qwen image edit - 2511 - 12 steps - 2 images input' data-status='complete' data-missing='0.0' data-search='complete image generation and editing bundle qwen image core bundle qwen image edit - 2511 - 12 steps - 2 images input qwen-image-fp8-lightning-4steps-v1.0-fp32.safetensors qwen_2.5_vl_7b_fp8_scaled.safetensors qwen_image_edit_2511_quant_scaled_fp8.safetensors qwen_image_vae.safetensors qwenimage/qwen_image_vae.safetensors this is fast qwen image edit newest model 25-11 (like flux kontext) with 12 steps. it supports up to 3 input images and this is an amazing model. we are using qwen-image-fp8-lightning-4steps-v1.0-fp32 and it is working perfect to speed up.'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Qwen Image Edit - 2511 - 12 Steps - 2 Images Input</div>
+<div class='desc'>This is fast Qwen Image Edit newest model 25-11 (like FLUX Kontext) with 12 steps. It supports up to 3 input images and this is an amazing model. We are using Qwen-Image-FP8-Lightning-4steps-V1.0-fp32 and it is working perfect to speed up.</div>
+<div class='meta'>4/4 models present</div>
+</div>
+<span class='tag mono'>Qwen Image Edit - 2511 - 12 Steps - 2 Images Input.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>Qwen Image Core Bundle</div>
+<div class='bmeta'>• covers 4/4 • 57.87 GB</div>
+</div>
+<div class='bundle-item'>
+<div class='bname'>Complete Image Generation and Editing Bundle</div>
+<div class='bmeta'>• covers 4/4 • 221.06 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Qwen-Image-FP8-Lightning-4steps-V1.0-fp32.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>1.58 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_2.5_vl_7b_fp8_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>8.74 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Qwen_Image_Edit_2511_Quant_Scaled_FP8.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>19.03 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_image_vae.safetensors</div>
+<div class='model-subpath'>QwenImage/qwen_image_vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.24 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='qwen image edit - 2511 - 12 steps - 3 images input' data-status='complete' data-missing='0.0' data-search='complete image generation and editing bundle qwen image core bundle qwen image edit - 2511 - 12 steps - 3 images input qwen-image-fp8-lightning-4steps-v1.0-fp32.safetensors qwen_2.5_vl_7b_fp8_scaled.safetensors qwen_image_edit_2511_quant_scaled_fp8.safetensors qwen_image_vae.safetensors qwenimage/qwen_image_vae.safetensors this is fast qwen image edit newest model 25-11 (like flux kontext) with 12 steps. it supports up to 3 input images and this is an amazing model. we are using qwen-image-fp8-lightning-4steps-v1.0-fp32 and it is working perfect to speed up.'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Qwen Image Edit - 2511 - 12 Steps - 3 Images Input</div>
+<div class='desc'>This is fast Qwen Image Edit newest model 25-11 (like FLUX Kontext) with 12 steps. It supports up to 3 input images and this is an amazing model. We are using Qwen-Image-FP8-Lightning-4steps-V1.0-fp32 and it is working perfect to speed up.</div>
+<div class='meta'>4/4 models present</div>
+</div>
+<span class='tag mono'>Qwen Image Edit - 2511 - 12 Steps - 3 Images Input.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>Qwen Image Core Bundle</div>
+<div class='bmeta'>• covers 4/4 • 57.87 GB</div>
+</div>
+<div class='bundle-item'>
+<div class='bname'>Complete Image Generation and Editing Bundle</div>
+<div class='bmeta'>• covers 4/4 • 221.06 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Qwen-Image-FP8-Lightning-4steps-V1.0-fp32.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>1.58 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_2.5_vl_7b_fp8_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>8.74 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Qwen_Image_Edit_2511_Quant_Scaled_FP8.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>19.03 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_image_vae.safetensors</div>
+<div class='model-subpath'>QwenImage/qwen_image_vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.24 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='qwen image edit 2511 uhd realism - 4+4 steps - 260101' data-status='complete' data-missing='0.0' data-search='4xrealwebphoto_v4_dat2.safetensors complete image generation and editing bundle qwen image core bundle qwen image edit 2511 uhd realism - 4+4 steps - 260101 qwen_2.5_vl_7b_fp8_scaled.safetensors qwen_image_edit_2511_quant_scaled_fp8.safetensors qwen_image_vae.safetensors qwenimage/qwen_image_vae.safetensors this is qwen image edit 2511 - 2656x2656 pixel realism preset and it makes extremely high quality realistic images. this preset is made for training your subject on qwen image edit 2511 model. it yields excellent realism and quality and prompt following. the very best so far. last update 2026 january 1. wuli-qwen-image-2512-turbo-lora-4steps-v1.safetensors'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Qwen Image Edit 2511 UHD Realism - 4+4 Steps - 260101</div>
+<div class='desc'>This is Qwen Image Edit 2511 - 2656x2656 pixel realism preset and it makes extremely high quality realistic images. This preset is made for training your subject on Qwen Image Edit 2511 model. It yields excellent realism and quality and prompt following. The very best so far. Last update 2026 January 1.</div>
+<div class='meta'>5/5 models present</div>
+</div>
+<span class='tag mono'>Qwen Image Edit 2511 UHD Realism - 4+4 Steps - 260101.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>Qwen Image Core Bundle</div>
+<div class='bmeta'>• covers 5/5 • 57.87 GB</div>
+</div>
+<div class='bundle-item'>
+<div class='bname'>Complete Image Generation and Editing Bundle</div>
+<div class='bmeta'>• covers 5/5 • 221.06 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>4xRealWebPhoto_v4_dat2.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.13 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_2.5_vl_7b_fp8_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>8.74 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Qwen_Image_Edit_2511_Quant_Scaled_FP8.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>19.03 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_image_vae.safetensors</div>
+<div class='model-subpath'>QwenImage/qwen_image_vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.24 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Wuli-Qwen-Image-2512-Turbo-LoRA-4steps-V1.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>1.10 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='qwen image uhd high realism 4+4 steps' data-status='complete' data-missing='0.0' data-search='4xrealwebphoto_v4_dat2.safetensors qwen image uhd high realism 4+4 steps qwen-image-edit-2509-lightning-4steps-v1.0-fp32.safetensors qwen_2.5_vl_7b_fp8_scaled.safetensors qwen_image_fp8_scaled.safetensors qwen_image_vae.safetensors qwen_lora_skin_fix_v2.safetensors qwenimage/qwen_image_vae.safetensors this is qwen image 2656x2656 pixel realism preset and it makes extremely high-quality realistic images on trained qwen image models like self-trained qwen image lora or qwen image fine tuned model. this is 4 steps base + 4 steps upscale config. this significantly increases the realism with a little bit loss of fantastic prompts capability. you can increase the used realism lora strength to 0.8 for even further realism. 0.6 is working really good and balanced.'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Qwen Image UHD High Realism 4+4 Steps</div>
+<div class='desc'>This is Qwen Image 2656x2656 pixel realism preset and it makes extremely high-quality realistic images on trained Qwen Image models like self-trained Qwen Image LoRA or Qwen Image Fine Tuned model. This is 4 steps base + 4 steps upscale config. This significantly increases the realism with a little bit loss of fantastic prompts capability. You can increase the used realism LoRA strength to 0.8 for even further realism. 0.6 is working really good and balanced.</div>
+<div class='meta'>6/6 models present</div>
+</div>
+<span class='tag mono'>Qwen Image UHD High Realism 4+4 Steps.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='note'>No bundle fully covers this preset.</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>4xRealWebPhoto_v4_dat2.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.13 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Qwen-Image-Edit-2509-Lightning-4steps-V1.0-fp32.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>1.58 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_2.5_vl_7b_fp8_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>8.74 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Qwen_Image_FP8_Scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>19.03 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_image_vae.safetensors</div>
+<div class='model-subpath'>QwenImage/qwen_image_vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.24 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Qwen_LoRA_Skin_Fix_v2.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.55 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='qwen images stylized uhd tier 1' data-status='complete' data-missing='0.0' data-search='kim2091-4x-ultrasharp.safetensors qwen images stylized uhd tier 1 qwen-image-fp8-lightning-4steps-v1.0-fp32.safetensors qwen_2.5_vl_7b_fp8_scaled.safetensors qwen_image_fp8_scaled.safetensors qwen_image_vae.safetensors qwenimage/qwen_image_vae.safetensors this is a preset to generate stylized uhd images with your qwen trained models whether it is qwen image base or 2512 or qwen image edit plus 2509 or 2511 model. this preset does 12 steps base and 10 steps upscale into 2656x2656 pixels. this is slower than tier 2 but higher quality.'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Qwen Images Stylized UHD Tier 1</div>
+<div class='desc'>This is a preset to generate stylized UHD images with your Qwen trained models whether it is Qwen Image base or 2512 or Qwen Image Edit Plus 2509 or 2511 model. This preset does 12 steps base and 10 steps upscale into 2656x2656 pixels. This is slower than Tier 2 but higher quality.</div>
+<div class='meta'>5/5 models present</div>
+</div>
+<span class='tag mono'>Qwen Images Stylized UHD Tier 1.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='note'>No bundle fully covers this preset.</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Kim2091-4x-UltraSharp.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.06 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Qwen-Image-FP8-Lightning-4steps-V1.0-fp32.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>1.58 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_2.5_vl_7b_fp8_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>8.74 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Qwen_Image_FP8_Scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>19.03 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_image_vae.safetensors</div>
+<div class='model-subpath'>QwenImage/qwen_image_vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.24 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='qwen images stylized uhd tier 2' data-status='complete' data-missing='0.0' data-search='kim2091-4x-ultrasharp.safetensors qwen images stylized uhd tier 2 qwen-image-fp8-lightning-4steps-v1.0-fp32.safetensors qwen_2.5_vl_7b_fp8_scaled.safetensors qwen_image_fp8_scaled.safetensors qwen_image_vae.safetensors qwenimage/qwen_image_vae.safetensors this is a preset to generate stylized uhd images with your qwen trained models whether it is qwen image base or 2512 or qwen image edit plus 2509 or 2511 model. this preset does 12 steps base and 4 steps upscale into 2656x2656 pixels.'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Qwen Images Stylized UHD Tier 2</div>
+<div class='desc'>This is a preset to generate stylized UHD images with your Qwen trained models whether it is Qwen Image base or 2512 or Qwen Image Edit Plus 2509 or 2511 model. This preset does 12 steps base and 4 steps upscale into 2656x2656 pixels.</div>
+<div class='meta'>5/5 models present</div>
+</div>
+<span class='tag mono'>Qwen Images Stylized UHD Tier 2.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='note'>No bundle fully covers this preset.</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Kim2091-4x-UltraSharp.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.06 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Qwen-Image-FP8-Lightning-4steps-V1.0-fp32.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>1.58 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_2.5_vl_7b_fp8_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>8.74 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Qwen_Image_FP8_Scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>19.03 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_image_vae.safetensors</div>
+<div class='model-subpath'>QwenImage/qwen_image_vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.24 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='sdxl generation with realism negative' data-status='complete' data-missing='0.0' data-search='sdxl generation with realism negative sdxl models best settings with realism negative prompt sdxl_realvisxl_v5.safetensors'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>SDXL Generation With Realism Negative</div>
+<div class='desc'>SDXL Models Best Settings With Realism Negative Prompt</div>
+<div class='meta'>1/1 models present</div>
+</div>
+<span class='tag mono'>SDXL Generation With Realism Negative.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='note'>No bundle fully covers this preset.</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>SDXL_RealVisXL_V5.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>6.46 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='wan 21 fusionx text to video' data-status='complete' data-missing='0.0' data-search='umt5_xxl_fp8_e4m3fn_scaled.safetensors wan 2.1 core models bundle (gguf q6_k + best loras) wan 2.1 fusionx &amp; self forcing lora text to video
+8-10 steps wan 21 fusionx text to video wan/wan_2.1_vae.safetensors wan2.1_14b_text_to_video_gguf_q6_k.gguf wan2.1_text_to_video_14b_fusionx_lora.safetensors wan_2.1_vae.safetensors'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Wan 21 FusionX Text to Video</div>
+<div class='desc'>Wan 2.1 FusionX &amp; Self Forcing LoRA Text to Video<br/>8-10 Steps</div>
+<div class='meta'>4/4 models present</div>
+</div>
+<span class='tag mono'>Wan 21 FusionX Text to Video.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>Wan 2.1 Core Models Bundle (GGUF Q6_K + Best LoRAs)</div>
+<div class='bmeta'>• covers 4/4 • 38.13 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>umt5_xxl_fp8_e4m3fn_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>10.59 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Wan2.1_14b_Text_to_Video_GGUF_Q6_K.gguf</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>11.62 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Wan2.1_Text_to_Video_14B_FusionX_LoRA.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.30 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>wan_2.1_vae.safetensors</div>
+<div class='model-subpath'>Wan/wan_2.1_vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.24 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='wan 21 image to video base model' data-status='complete' data-missing='0.0' data-search='clip_vision_h.safetensors umt5_xxl_fp8_e4m3fn_scaled.safetensors wan 2.1 core models bundle (gguf q6_k + best loras) wan 2.1 image to video base model: 20-50 steps wan 21 image to video base model wan/wan_2.1_vae.safetensors wan2.1_14b_image_to_video_720p_gguf_q6_k.gguf wan_2.1_vae.safetensors'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Wan 21 Image To Video Base Model</div>
+<div class='desc'>Wan 2.1 Image To Video Base Model: 20-50 Steps</div>
+<div class='meta'>4/4 models present</div>
+</div>
+<span class='tag mono'>Wan 21 Image To Video Base Model.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>Wan 2.1 Core Models Bundle (GGUF Q6_K + Best LoRAs)</div>
+<div class='bmeta'>• covers 4/4 • 38.13 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>clip_vision_h.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>1.18 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>umt5_xxl_fp8_e4m3fn_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>10.59 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Wan2.1_14b_Image_to_Video_720p_GGUF_Q6_K.gguf</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>13.26 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>wan_2.1_vae.safetensors</div>
+<div class='model-subpath'>Wan/wan_2.1_vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.24 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='wan 21 lightx2v lora image to video' data-status='complete' data-missing='0.0' data-search='clip_vision_h.safetensors umt5_xxl_fp8_e4m3fn_scaled.safetensors wan 2.1 core models bundle (gguf q6_k + best loras) wan 2.1 lightx2v lora image to video: 4-10 steps wan 21 lightx2v lora image to video wan/wan_2.1_vae.safetensors wan2.1_14b_image_to_video_720p_gguf_q6_k.gguf wan21_i2v_14b_lightx2v_cfg_step_distill_lora_rank64_fixed.safetensors wan_2.1_vae.safetensors'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Wan 21 LightX2V LoRA Image to Video</div>
+<div class='desc'>Wan 2.1 LightX2V LoRA Image to Video: 4-10 Steps</div>
+<div class='meta'>5/5 models present</div>
+</div>
+<span class='tag mono'>Wan 21 LightX2V LoRA Image to Video.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>Wan 2.1 Core Models Bundle (GGUF Q6_K + Best LoRAs)</div>
+<div class='bmeta'>• covers 5/5 • 38.13 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>clip_vision_h.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>1.18 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>umt5_xxl_fp8_e4m3fn_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>10.59 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Wan2.1_14b_Image_to_Video_720p_GGUF_Q6_K.gguf</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>13.26 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Wan21_I2V_14B_lightx2v_cfg_step_distill_lora_rank64_fixed.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.69 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>wan_2.1_vae.safetensors</div>
+<div class='model-subpath'>Wan/wan_2.1_vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.24 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='wan 21 text to video base model' data-status='complete' data-missing='0.0' data-search='umt5_xxl_fp8_e4m3fn_scaled.safetensors wan 2.1 core models bundle (gguf q6_k + best loras) wan 2.1 text to video base model: 20-50 steps wan 21 text to video base model wan/wan_2.1_vae.safetensors wan2.1_14b_text_to_video_gguf_q6_k.gguf wan_2.1_vae.safetensors'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Wan 21 Text To Video Base Model</div>
+<div class='desc'>Wan 2.1 Text To Video Base Model: 20-50 Steps</div>
+<div class='meta'>3/3 models present</div>
+</div>
+<span class='tag mono'>Wan 21 Text To Video Base Model.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>Wan 2.1 Core Models Bundle (GGUF Q6_K + Best LoRAs)</div>
+<div class='bmeta'>• covers 3/3 • 38.13 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>umt5_xxl_fp8_e4m3fn_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>10.59 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Wan2.1_14b_Text_to_Video_GGUF_Q6_K.gguf</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>11.62 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>wan_2.1_vae.safetensors</div>
+<div class='model-subpath'>Wan/wan_2.1_vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.24 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='wan 22 high quality i2v 20 steps' data-status='complete' data-missing='0.0' data-search='umt5_xxl_fp8_e4m3fn_scaled.safetensors wan 2.2 core 4 steps bundle wan 2.2 image to video no-lora higher quality improved workflow - 20 steps or more. 16 fps, 81 frames and first 4 frames trimmed. this is highest quality image to video. you can increase steps count if you wish for even better quality but it will be slow. rife 2x frame interpolation enabled by default thus 5 seconds 32 fps generated wan 22 high quality i2v 20 steps wan/wan_2.1_vae.safetensors wan2.2_i2v_high_noise_14b_fp8_scaled.safetensors wan2.2_i2v_low_noise_14b_fp8_scaled.safetensors wan_2.1_vae.safetensors'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Wan 22 High Quality I2V 20 Steps</div>
+<div class='desc'>Wan 2.2 Image to Video No-LoRA Higher Quality Improved Workflow - 20 Steps or More. 16 FPS, 81 frames and first 4 frames trimmed. This is highest quality Image To Video. You can increase steps count if you wish for even better quality but it will be slow. RIFE 2x Frame interpolation enabled by default thus 5 seconds 32 FPS generated</div>
+<div class='meta'>4/4 models present</div>
+</div>
+<span class='tag mono'>Wan 22 High Quality I2V 20 Steps.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>Wan 2.2 Core 4 Steps Bundle</div>
+<div class='bmeta'>• covers 4/4 • 104.16 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>umt5_xxl_fp8_e4m3fn_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>10.59 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>wan2.2_i2v_high_noise_14B_fp8_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>13.31 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>wan2.2_i2v_low_noise_14B_fp8_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>13.31 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>wan_2.1_vae.safetensors</div>
+<div class='model-subpath'>Wan/wan_2.1_vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.24 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='wan 22 high quality t2v 20 steps' data-status='complete' data-missing='0.0' data-search='umt5_xxl_fp8_e4m3fn_scaled.safetensors wan 2.2 core 4 steps bundle wan 2.2 text to video no-lora higher quality improved workflow - 20 steps or more. 16 fps, 81 frames and first 4 frames trimmed. this is highest quality text to video. you can increase steps count if you wish for even better quality but it will be slow. rife 2x frame interpolation enabled by default thus 5 seconds 32 fps generated wan 22 high quality t2v 20 steps wan/wan_2.1_vae.safetensors wan2.2_t2v_high_noise_14b_fp8_scaled.safetensors wan2.2_t2v_low_noise_14b_fp8_scaled.safetensors wan_2.1_vae.safetensors'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Wan 22 High Quality T2V 20 Steps</div>
+<div class='desc'>Wan 2.2 Text to Video No-LoRA Higher Quality Improved Workflow - 20 Steps or More. 16 FPS, 81 frames and first 4 frames trimmed. This is highest quality Text To Video. You can increase steps count if you wish for even better quality but it will be slow. RIFE 2x Frame interpolation enabled by default thus 5 seconds 32 FPS generated</div>
+<div class='meta'>4/4 models present</div>
+</div>
+<span class='tag mono'>Wan 22 High Quality T2V 20 Steps.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>Wan 2.2 Core 4 Steps Bundle</div>
+<div class='bmeta'>• covers 4/4 • 104.16 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>umt5_xxl_fp8_e4m3fn_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>10.59 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>wan2.2_t2v_high_noise_14B_fp8_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>13.31 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>wan2.2_t2v_low_noise_14B_fp8_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>13.31 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>wan_2.1_vae.safetensors</div>
+<div class='model-subpath'>Wan/wan_2.1_vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.24 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='wan 22 image realism' data-status='complete' data-missing='0.0' data-search='complete image generation and editing bundle generate amazing realistic images with wan 2.2 - extremely fast for default 1280x720p (can do excellent 1920x1080p as well) resolution and realistic. type prompt above &lt;refiner&gt; umt5_xxl_fp8_e4m3fn_scaled.safetensors wan 2.2 core 4 steps bundle wan 22 image realism wan/wan_2.1_vae.safetensors wan2.2_t2v_low_noise_14b_fp8_scaled.safetensors wan_2.1_vae.safetensors'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Wan 22 Image Realism</div>
+<div class='desc'>Generate amazing realistic images with Wan 2.2 - extremely fast for default 1280x720p (can do excellent 1920x1080p as well) resolution and realistic. Type prompt above &lt;refiner&gt;</div>
+<div class='meta'>3/3 models present</div>
+</div>
+<span class='tag mono'>Wan 22 Image Realism.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>Wan 2.2 Core 4 Steps Bundle</div>
+<div class='bmeta'>• covers 3/3 • 104.16 GB</div>
+</div>
+<div class='bundle-item'>
+<div class='bname'>Complete Image Generation and Editing Bundle</div>
+<div class='bmeta'>• covers 3/3 • 221.06 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>umt5_xxl_fp8_e4m3fn_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>10.59 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>wan2.2_t2v_low_noise_14B_fp8_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>13.31 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>wan_2.1_vae.safetensors</div>
+<div class='model-subpath'>Wan/wan_2.1_vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.24 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='wan 22 image to video 4 steps hq' data-status='complete' data-missing='0.0' data-search='extremely efficient wan2.2 image to video with a14b-moe-distill-lightx2v base model. 4 steps only and fast. increase to 8 steps if you want better quality. no lora needed. default settings are 16 fps and 81 frames with rife 2x frame interpolation enabled. thus output is 5 seconds at 32 fps. umt5_xxl_fp8_e4m3fn_scaled.safetensors wan 2.2 core 4 steps bundle wan 22 image to video 4 steps hq wan/wan_2.1_vae.safetensors wan2.2-i2v-a14b-moe-distill-lightx2v-high_fp8_scaled.safetensors wan2.2-i2v-a14b-moe-distill-lightx2v-low_fp8_scaled.safetensors wan_2.1_vae.safetensors'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Wan 22 Image To Video 4 Steps HQ</div>
+<div class='desc'>Extremely efficient Wan2.2 Image To Video with A14B-Moe-Distill-Lightx2v base model. 4 steps only and fast. Increase to 8 steps if you want better quality. No LoRA needed. Default settings are 16 FPS and 81 frames with RIFE 2x frame interpolation enabled. Thus output is 5 seconds at 32 FPS.</div>
+<div class='meta'>4/4 models present</div>
+</div>
+<span class='tag mono'>Wan 22 Image To Video 4 Steps HQ.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>Wan 2.2 Core 4 Steps Bundle</div>
+<div class='bmeta'>• covers 4/4 • 104.16 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>umt5_xxl_fp8_e4m3fn_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>10.59 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Wan2.2-I2V-A14B-Moe-Distill-Lightx2v-High_fp8_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>13.97 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Wan2.2-I2V-A14B-Moe-Distill-Lightx2v-Low_fp8_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>13.97 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>wan_2.1_vae.safetensors</div>
+<div class='model-subpath'>Wan/wan_2.1_vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.24 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='wan 22 text to video 8 steps' data-status='complete' data-missing='0.0' data-search='latest wan 2.2 text to video lightning config. uses latest speed up loras with best samplers and schedulers setup. only 4 steps total. you can increase step count to 8 if you wish. 16 fps - 81 frames default. rife 2x frame interpolation also enabled by default so output is 32 fps - 5 seconds. umt5_xxl_fp8_e4m3fn_scaled.safetensors wan 2.2 core 4 steps bundle wan 22 text to video 8 steps wan/wan_2.1_vae.safetensors wan2.2_t2v_high_noise_14b_fp8_scaled.safetensors wan2.2_t2v_high_noise_lightx2v_4steps_lora_1217.safetensors wan2.2_t2v_low_noise_14b_fp8_scaled.safetensors wan2.2_t2v_low_noise_lightx2v_4steps_lora_1217.safetensors wan_2.1_vae.safetensors'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Wan 22 Text To Video 8 Steps</div>
+<div class='desc'>Latest Wan 2.2 Text to Video lightning config. Uses latest speed up LoRAs with best samplers and schedulers setup. Only 4 steps total. You can increase step count to 8 if you wish. 16 FPS - 81 Frames default. RIFE 2x Frame interpolation also enabled by default so output is 32 FPS - 5 seconds.</div>
+<div class='meta'>6/6 models present</div>
+</div>
+<span class='tag mono'>Wan 22 Text To Video 8 Steps.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>Wan 2.2 Core 4 Steps Bundle</div>
+<div class='bmeta'>• covers 6/6 • 104.16 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>umt5_xxl_fp8_e4m3fn_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>10.59 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>wan2.2_t2v_high_noise_14B_fp8_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>13.31 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Wan2.2_T2V_High_Noise_Lightx2v_4steps_LoRA_1217.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.57 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>wan2.2_t2v_low_noise_14B_fp8_scaled.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>13.31 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Wan2.2_T2V_Low_Noise_Lightx2v_4steps_LoRA_1217.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.57 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>wan_2.1_vae.safetensors</div>
+<div class='model-subpath'>Wan/wan_2.1_vae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.24 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='z image turbo quality 1' data-status='complete' data-missing='0.0' data-search='ae.safetensors complete image generation and editing bundle flux/ae.safetensors qwen_3_4b.safetensors realesrgan_x4plus.safetensors this is top quality z image turbo preset. it does 9 steps and 1.25 upscale with 9 more steps. thus this is highest quality. it generates 1920x1920 pixel total resolution. z image turbo quality 1 z_image_turbo_bf16.safetensors'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Z Image Turbo Quality 1</div>
+<div class='desc'>This is top quality Z Image Turbo preset. It does 9 steps and 1.25 upscale with 9 more steps. Thus this is highest quality. It generates 1920x1920 pixel total resolution.</div>
+<div class='meta'>4/4 models present</div>
+</div>
+<span class='tag mono'>Z Image Turbo Quality 1.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>Complete Image Generation and Editing Bundle</div>
+<div class='bmeta'>• covers 4/4 • 221.06 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>ae.safetensors</div>
+<div class='model-subpath'>Flux/ae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.31 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_3_4b.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>7.49 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>RealESRGAN_x4plus.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.06 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Z_Image_Turbo_BF16.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>11.46 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='preset' data-name='z image turbo quality 2' data-status='complete' data-missing='0.0' data-search='ae.safetensors complete image generation and editing bundle flux/ae.safetensors qwen_3_4b.safetensors this is fast z image turbo preset. it does 9 steps. it is a fast and high quality and generates 1536x1536 pixel total. z image turbo core bundle z image turbo quality 2 z_image_turbo_bf16.safetensors'>
+<div class='preset-header'>
+<span class='badge complete'>COMPLETE</span>
+<div class='preset-title'>
+<div class='name'>Z Image Turbo Quality 2</div>
+<div class='desc'>This is fast Z Image Turbo preset. It does 9 steps. It is a fast and high quality and generates 1536x1536 pixel total.</div>
+<div class='meta'>3/3 models present</div>
+</div>
+<span class='tag mono'>Z Image Turbo Quality 2.json</span>
+</div>
+<div class='cols'>
+<div class='block'>
+<h3>BUNDLES (FULL COVERAGE ONLY)</h3>
+<div class='list'>
+<div class='bundle-item'>
+<div class='bname'>Z Image Turbo Core Bundle</div>
+<div class='bmeta'>• covers 3/3 • 28.41 GB</div>
+</div>
+<div class='bundle-item'>
+<div class='bname'>Complete Image Generation and Editing Bundle</div>
+<div class='bmeta'>• covers 3/3 • 221.06 GB</div>
+</div>
+</div></div>
+<div class='block'>
+<h3>MODELS</h3>
+<div class='list'>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>ae.safetensors</div>
+<div class='model-subpath'>Flux/ae.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>0.31 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>qwen_3_4b.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>7.49 GB</span>
+</div>
+</div>
+<div class='model-item'>
+<div class='model-left'>
+<span class='dot ok'></span>
+<div style='min-width:0;'>
+<div class='model-name'>Z_Image_Turbo_BF16.safetensors</div>
+</div>
+</div>
+<div class='model-right'>
+<span class='size'>11.46 GB</span>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div class='footer'>
+Tip: Search for a model filename (e.g. <span class='mono'>clip_l.safetensors</span>) or a bundle name to filter presets instantly.
+</div>
+</div>
+<script>
+
+const $ = (sel) => document.querySelector(sel);
+const presets = Array.from(document.querySelectorAll('.preset')).filter(x => x.hasAttribute('data-status'));
+function applyFilters(){
+  const q = ($('#search').value || '').trim().toLowerCase();
+  const onlyIncomplete = $('#onlyIncomplete').checked;
+  const onlyMissingModels = $('#onlyMissingModels').checked;
+  for(const el of presets){
+    const status = el.getAttribute('data-status') || 'unknown';
+    const search = (el.getAttribute('data-search') || '').toLowerCase();
+    let ok = true;
+    if(q && !search.includes(q)) ok = false;
+    if(onlyIncomplete && status === 'complete') ok = false;
+    if(onlyMissingModels){
+      // hide presets that have zero missing models (missing GB == 0 and not error/unknown)
+      const miss = parseFloat(el.getAttribute('data-missing') || '0') || 0;
+      if(status === 'complete' || (status !== 'error' && miss <= 0)) ok = false;
+    }
+    el.style.display = ok ? '' : 'none';
+  }
+}
+$('#search').addEventListener('input', applyFilters);
+$('#onlyIncomplete').addEventListener('change', applyFilters);
+$('#onlyMissingModels').addEventListener('change', applyFilters);
+        
+</script>
+</body></html>
