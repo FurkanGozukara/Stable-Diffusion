@@ -22,7 +22,7 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### January 8 - 2026
-[Trellis 2 Premium App With 1-Click Windows and Linux Installers (RunPod & Massed Compute)](https://www.patreon.com/posts/147686623)
+[Trellis 2 Premium App With 1-Click Windows and Linux Installers (RunPod & Massed Compute) - Generate Top Quality 3D Models Both With Mesh + Texture from Images](https://www.patreon.com/posts/147686623)
 * Trellis 2 from Microsoft is the very best newest Image-to-3D generator with both mesh and amazing texture quality. This is an ultra advanced 1-click to install Trellis 2 app with so many features. Check below to see all features. I spent literally days to make this app and pre-compiled all the libraries to make it work otherwise it is impossible to install either or Windows or Linux. Also all models are downloaded into \models sub folder and loaded from there. I had to compile for both Windows and Linux : cumesh, flash-attn, flex-gemm, nvdiffrast, o-voxel (upgraded with more features by me), sageattention, xformers - all supporting all GPUs starting from RTX 1000 to 5000 series with all possible CUDA archs setup
 
 ### January 7 - 2026
