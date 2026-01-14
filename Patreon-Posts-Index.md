@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### January 14 - 2026
+[NVFP4 Model Converter Gradio App For Windows and Linux](https://www.patreon.com/posts/148217625)
+* NVFP4 models are 100+% faster than BF16 or FP8 or GGUF models. However compiling them is not trivial task at all. This app is based on https://github.com/NVIDIA/Model-Optimizer. But I had to do massive fixes and improvements to make it work just with FLUX. Currently only FLUX models tested and verified and I have compiled NVFP4 for FLUX SRPO model. You can download FLUX SRPO with our Model downloader app : https://www.patreon.com/posts/114517862. I have used max Quantization Algorithm since svdquant was so slow and I had to spent over 24 hours on RTX PRO 6000 to constant test and compile to make it work. Currently compiling FLUX model requiring 48 GB GPU and I recommend SimplePod RTX PRO 6000 if you want to try. More about NVFP4 shown in this tutorial : https://youtu.be/yOj9PYq3XYM
+
 ### January 10 - 2026
 [SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation](https://www.patreon.com/posts/114517862)
 * 1-Click to install SwarmUI and Unified AI Models Downloader for SwarmUI, ComfyUI, Automatic1111 and Forge Web UI - Supports SD 1.5, SDXL, FLUX, Wan 2.1, Wan 2.2, Qwen Image, SwarmUI presets to generate images and videos with FLUX, Qwen Image, SDXL and Wan 2.1, Wan 2.2 Models and more. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
