@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### January 26 - 2026
+[RVC Webui Premium 1-Click Installers for Windows, RunPod, Massed Compute, SimplePod with All GPUs Supporting Inlcuding RTX 1000, 2000, 3000, 4000, 5000 GPUs with fastest libraries](https://www.patreon.com/posts/149104996)
+* Retrieval-based-Voice-Conversion-WebUI premium for SECourses subscribers with 1-click automatic installers for Windows, RunPod, Massed Compute and SimplePod. We support all of the GPUs with latest compiled libraries and auto download necessary models. 
+
 ### January 22 - 2026
 [You Wanted Vast AI as Cheap Cloud Service Alternative to RunPod - Here I am Providing You SimplePod AI](https://www.patreon.com/posts/148800044)
 * Faster permanent storage system and much cheaper than RunPod
