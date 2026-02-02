@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### Feburary 3 - 2026
+[Stable Diffusion WebUI Forge - NEO (Up-to-Date and Maintained Forge Web UI) 1-Click installers for Windows, RunPod, Massed Compute, Supports all GPUs starting from RTX 1000 to 5000 and Cloud GPUs - Torch 2.9.1 and CUDA 13 and Flash Attention](https://www.patreon.com/posts/138694680)
+* I have prepared literally 1-click installers and GPU specific automatic optimizer ran files. My installer will install with Torch 2.9.1 and CUDA 13+ pre-compiled xFormers, Flash Attention, Sage Attention and InsightFace. Also read above post and we have tons of info.
+
 ### January 26 - 2026
 [RVC Webui Premium 1-Click Installers for Windows, RunPod, Massed Compute, SimplePod with All GPUs Supporting Inlcuding RTX 1000, 2000, 3000, 4000, 5000 GPUs with fastest libraries](https://www.patreon.com/posts/149104996)
 * Retrieval-based-Voice-Conversion-WebUI premium for SECourses subscribers with 1-click automatic installers for Windows, RunPod, Massed Compute and SimplePod. We support all of the GPUs with latest compiled libraries and auto download necessary models. 
@@ -140,10 +144,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### September 21 - 2025
 [All Joy Captions (JoyCaption) Apps 1-Click Installers for Windows, RunPod, Massed Compute With Improved Gradio Apps - All Supporting Batch Processing, JoyCaption Pre-Alpha, Alpha One, Alpha Two and Joy Caption Beta One](https://www.patreon.com/posts/118827960)
 * This is the ultimate image captioning arsenal that supports all of the Joy Caption versions from pre-alpha to beta-one with more features like multi-gpu and batch folder processing
-
-### September 12 - 2025
-[Stable Diffusion WebUI Forge - NEO (Up-to-Date and Maintained Forge Web UI) 1-Click installers for Windows, RunPod, Massed Compute, Supports all GPUs starting from RTX 1000 to 5000 and Cloud GPUs - Torch 2.8 and CUDA 12.9 and Flash Attention](https://www.patreon.com/posts/138694680)
-* I have prepared literally 1-click installers and GPU specific automatic optimizer ran files. My installer will install with Torch 2.8 and CUDA + pre-compiled xFormers, Flash Attention, Sage Attention and InsightFace. Also read above post and we have tons of info.
 
 ### September 12 - 2025
 [Stable Diffusion WebUI Forge - Classic (Up-to-Date and Maintained Automatic1111 Web UI) 1-Click installers for Windows, RunPod, Massed Compute, Supports all GPUs starting from RTX 1000 to 5000 and Cloud GPUs - Torch 2.8 and CUDA 12.9 and Flash Attention](https://www.patreon.com/posts/138680643)
