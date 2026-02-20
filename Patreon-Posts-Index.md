@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### Feburary 20 - 2026
+[SECourses LeVo Song Generator - This is the Very Best local Song generator APP - I can say almost level of Suno AI Music - We have so many batch feature](https://www.patreon.com/posts/135592123)
+* LeVo: High-Quality Song Generation with Multi-Preference Alignment. We have batch processing, number of generations, full preset saving and loading, 20 pre-made presets, generating a song with each preset and many other features.
+
 ### Feburary 3 - 2026
 [Stable Diffusion WebUI Forge - NEO (Up-to-Date and Maintained Forge Web UI) 1-Click installers for Windows, RunPod, Massed Compute, Supports all GPUs starting from RTX 1000 to 5000 and Cloud GPUs - Torch 2.9.1 and CUDA 13 and Flash Attention](https://www.patreon.com/posts/138694680)
 * I have prepared literally 1-click installers and GPU specific automatic optimizer ran files. My installer will install with Torch 2.9.1 and CUDA 13+ pre-compiled xFormers, Flash Attention, Sage Attention and InsightFace. Also read above post and we have tons of info.
@@ -132,10 +136,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### September 29 - 2025
 [IndexTTS2 SECourses Premium Voice Cloning and Generation App - 1-Click to Install on Windows, RunPod and Massed Compute - Generate Entire Audiobooks With Consistent High Quality Voice](https://www.patreon.com/posts/139297407)
 * Example video : https://youtu.be/6cH-6JaBMnM
-
-### September 26 - 2025
-[SECourses LeVo Song Generator - This is the Very Best local Song generator APP - I can say almost level of Suno AI Music - We have so many batch feature](https://www.patreon.com/posts/135592123)
-* LeVo: High-Quality Song Generation with Multi-Preference Alignment. We have batch processing, number of generations, full preset saving and loading, 20 pre-made presets, generating a song with each preset and many other features.
 
 ### September 21 - 2025
 [SUPIR 1 Click Windows, RunPod / Massed Compute / Linux Installer & Free Kaggle Notebook](https://www.patreon.com/posts/99176057)
