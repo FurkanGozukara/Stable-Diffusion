@@ -21,7 +21,7 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
-### Feburary 20 - 2026
+### March 14 - 2026
 [SECourses Upscaler Pro - SeedVR2 - FlashVSR+ - Face Restoration - Gan Upscalers - Queue System - Fully Automated Movie Restoration and Upscale Studio](https://www.patreon.com/posts/150202809)
 * SECourses Ultimate Video and Image Upscaler Pro - SeedVR2 - FlashVSR+ - Face Restoration - Gan Upscalers - Queue System - Fully Automated Movie Restoration and Upscale Studio - with so many amazing new features and full VRAM optimizations, can upscale a whole 120 minutes video fully properly with full resume capability. Our FlashVSR+ pro is the very best one among there with so many additional improvements. 
 
