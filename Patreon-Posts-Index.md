@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### March 18 - 2026
+[RVC Webui Premium 1-Click Installers for Windows, RunPod, Massed Compute, SimplePod with All GPUs Supporting Inlcuding RTX 1000, 2000, 3000, 4000, 5000 GPUs with fastest libraries](https://www.patreon.com/posts/149104996)
+* Retrieval-based-Voice-Conversion-WebUI premium for SECourses subscribers with 1-click automatic installers for Windows, RunPod, Massed Compute and SimplePod. We support all of the GPUs with latest compiled libraries and auto download necessary models. 
+
 ### March 16 - 2026
 [ComfyUI Auto Installer with Torch 2.9, CUDA 13, FaceID, IP-Adapter, InsightFace, Reactor, Triton, DeepSpeed, Flash Attention, Sage Attention, xFormers, Including RTX 5000 Series, Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
 * This installer always pulls the latest ComfyUI and supports Python 3.10–3.13 on Windows (Linux: 3.10 only), bundling precompiled Torch 12.9, CUDA 13, FlashAttention 2.8.3, SageAttention 2.2.0, Triton 3.5, InsightFace, xFormers 0.34, and DeepSpeed 0.16.5 compiled for GPU archs 7.5; 8.0; 8.6; 8.9; 9.0; 10.0; 10.3; 11.0; 12.0; 12.1 + PTX, enabling broad support from RTX 1000–5000 and cloud GPUs (A100, H100, B200), tested on 3090 Ti/5090 and in the cloud; it also installs huggingface_hub, hf_transfer, hf_xet, accelerate, diffusers, onnxruntime-gpu, piexif, requests, and ultralytics 8.3.197 (fixes YOLO use in SwarmUI), beta57, bong_tangent, res_2s, automatically adds ComfyUI-Manager, ComfyUI_IPAdapter_plus, and ComfyUI-GGUF, and provides an update script to refresh everything; on RunPod and Massed Compute it auto-installs ComfyUI-ReActor and ComfyUI-Impact-Pack (on Windows use the provided BAT files), works seamlessly on Windows, Massed Compute (Creator > SECourses image), and RunPod (PyTorch 2.2.0 template) with ngrok/proxy support, and uses a dedicated virtual environment for a 100% isolated installation that won’t affect other AI apps or your system. https://youtu.be/fTzlQ0tjxj0
@@ -40,10 +44,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### Feburary 3 - 2026
 [Stable Diffusion WebUI Forge - NEO (Up-to-Date and Maintained Forge Web UI) 1-Click installers for Windows, RunPod, Massed Compute, Supports all GPUs starting from RTX 1000 to 5000 and Cloud GPUs - Torch 2.9.1 and CUDA 13 and Flash Attention](https://www.patreon.com/posts/138694680)
 * I have prepared literally 1-click installers and GPU specific automatic optimizer ran files. My installer will install with Torch 2.9.1 and CUDA 13+ pre-compiled xFormers, Flash Attention, Sage Attention and InsightFace. Also read above post and we have tons of info.
-
-### January 26 - 2026
-[RVC Webui Premium 1-Click Installers for Windows, RunPod, Massed Compute, SimplePod with All GPUs Supporting Inlcuding RTX 1000, 2000, 3000, 4000, 5000 GPUs with fastest libraries](https://www.patreon.com/posts/149104996)
-* Retrieval-based-Voice-Conversion-WebUI premium for SECourses subscribers with 1-click automatic installers for Windows, RunPod, Massed Compute and SimplePod. We support all of the GPUs with latest compiled libraries and auto download necessary models. 
 
 ### January 22 - 2026
 [You Wanted Vast AI as Cheap Cloud Service Alternative to RunPod - Here I am Providing You SimplePod AI](https://www.patreon.com/posts/148800044)
