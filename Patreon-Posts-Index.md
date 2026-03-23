@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### March 23 - 2026
+[Stable Diffusion WebUI Forge - NEO (Up-to-Date and Maintained Forge Web UI) 1-Click installers for Windows, RunPod, Massed Compute, Supports all GPUs starting from RTX 1000 to 5000 and Cloud GPUs - Torch 2.9.1 and CUDA 13 and Flash Attention](https://www.patreon.com/posts/138694680)
+* I have prepared literally 1-click installers and GPU specific automatic optimizer ran files. My installer will install with Torch 2.9.1 and CUDA 13+ pre-compiled xFormers, Flash Attention, Sage Attention and InsightFace. Also read above post and we have tons of info.
+
 ### March 18 - 2026
 [RVC Webui Premium 1-Click Installers for Windows, RunPod, Massed Compute, SimplePod with All GPUs Supporting Inlcuding RTX 1000, 2000, 3000, 4000, 5000 GPUs with fastest libraries](https://www.patreon.com/posts/149104996)
 * Retrieval-based-Voice-Conversion-WebUI premium for SECourses subscribers with 1-click automatic installers for Windows, RunPod, Massed Compute and SimplePod. We support all of the GPUs with latest compiled libraries and auto download necessary models. 
@@ -40,10 +44,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### March 14 - 2026
 [SECourses Upscaler Pro - SeedVR2 - FlashVSR+ - Face Restoration - Gan Upscalers - Queue System - Fully Automated Movie Restoration and Upscale Studio](https://www.patreon.com/posts/150202809)
 * SECourses Ultimate Video and Image Upscaler Pro - SeedVR2 - FlashVSR+ - Face Restoration - Gan Upscalers - Queue System - Fully Automated Movie Restoration and Upscale Studio - with so many amazing new features and full VRAM optimizations, can upscale a whole 120 minutes video fully properly with full resume capability. Our FlashVSR+ pro is the very best one among there with so many additional improvements. 
-
-### Feburary 3 - 2026
-[Stable Diffusion WebUI Forge - NEO (Up-to-Date and Maintained Forge Web UI) 1-Click installers for Windows, RunPod, Massed Compute, Supports all GPUs starting from RTX 1000 to 5000 and Cloud GPUs - Torch 2.9.1 and CUDA 13 and Flash Attention](https://www.patreon.com/posts/138694680)
-* I have prepared literally 1-click installers and GPU specific automatic optimizer ran files. My installer will install with Torch 2.9.1 and CUDA 13+ pre-compiled xFormers, Flash Attention, Sage Attention and InsightFace. Also read above post and we have tons of info.
 
 ### January 22 - 2026
 [You Wanted Vast AI as Cheap Cloud Service Alternative to RunPod - Here I am Providing You SimplePod AI](https://www.patreon.com/posts/148800044)
