@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### March 25 - 2026
+[Wan2GP 1-Click Automatic Installer for Windows, RunPod and Massed Compute with Literally All GPUs Support with Flash Attention + xFormers + Torch 2.8 and CUDA 12.9](https://www.patreon.com/posts/139831592)
+* My installer will make a venv and install this app with Torch 2.8, CUDA 12.9, Flash Attention 2.8.3, Sage Attention 2.2.0, Triton 3.4, xFormers 0.0.33. Check above link for more info.
+
+### March 25 - 2026
 [SECourses Upscaler Pro - SeedVR2 - FlashVSR+ - Face Restoration - Gan Upscalers - Queue System - Fully Automated Movie Restoration and Upscale Studio](https://www.patreon.com/posts/150202809)
 * SECourses Ultimate Video and Image Upscaler Pro - SeedVR2 - FlashVSR+ - Face Restoration - Gan Upscalers - Queue System - Fully Automated Movie Restoration and Upscale Studio - with so many amazing new features and full VRAM optimizations, can upscale a whole 120 minutes video fully properly with full resume capability. Our FlashVSR+ pro is the very best one among there with so many additional improvements. 
 
@@ -84,10 +88,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### December 5 - 2025
 [Ostris AI-Toolkit 1-Click Installer for Windows, RunPod & Massed Computer with RTX 1000 to 5000 Series Installer Supporting Cloud GPUs too Like H100, B200, etc](https://www.patreon.com/posts/140089077)
 * I have made installers for famous AI Toolkit by Ostris : https://github.com/ostris/ai-toolkit .My installer installs with Flash Attention 2.8.3, Sage Attention 2.2.0, xFormers 0.0.33, CUDA 12.9 and Torch 2.8, Triton 3.4 that are compiled for GPUs starting from RTX 1000 to 5000 series and also Cloud GPUs like A100, H200, B200, etc for both Linux and Windows
-
-### December 4 - 2025
-[Wan2GP 1-Click Automatic Installer for Windows, RunPod and Massed Compute with Literally All GPUs Support with Flash Attention + xFormers + Torch 2.8 and CUDA 12.9](https://www.patreon.com/posts/139831592)
-* My installer will make a venv and install this app with Torch 2.8, CUDA 12.9, Flash Attention 2.8.3, Sage Attention 2.2.0, Triton 3.4, xFormers 0.0.33. Check above link for more info.
 
 ### December 3 - 2025
 [SAM 3D Objects Windows, RunPod and Massed Compute 1-click Installer and Premium SECourses Gradio App for Meta Research SAM 3D Objects](https://www.patreon.com/posts/144931360)
