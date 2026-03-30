@@ -70,7 +70,7 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 * 1-Click to install VisoMaster Fusion and VisoMaster classic on Windows and also on Massed Compute (for GPU poor). VisoMaster Fusion is a powerful yet easy-to-use tool for face swapping (FaceSwap/DeepFake) and editing in images and videos. It utilizes AI to produce natural-looking results with minimal effort, making it ideal for both casual users and professionals. We also have Windows portable installer that supports all GPUs with Torch 2.9 and CUDA 12.8.
 
 ### January 1 - 2026
-[SECourses Musubi Tuner - 1-Click to Install App for LoRA Training and Full Fine Tuning Qwen Image, Qwen Image Edit, Wan 2.1 and Wan 2.2 Models with Musubi Tuner with Ready Presets](https://www.patreon.com/posts/137551634)
+[SECourses Musubi Tuner - 1-Click to Install App for LoRA Training and Full Fine Tuning Qwen Image, Qwen Image Edit, Wan 2.1 and Wan 2.2, FLUX Klein, FLUX 2, Z Image Base and Turbo Models with Musubi Tuner with Ready Presets](https://www.patreon.com/posts/137551634)
 * Extremely detailed info provided in the post please read it carefully and screenshots of the app is here : https://www.reddit.com/r/SECourses/comments/1n2qo9g/secourses_musubi_tuner_v1_published_a_training/. It supports all Wan 2.1, Wan 2.2, Qwen 2509, 2511, 2512 and older models trainings.
 
 ### December 12 - 2025
