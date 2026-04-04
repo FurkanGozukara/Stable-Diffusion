@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### April 5 - 2026
+[IndexTTS2 SECourses Premium Voice Cloning and Generation App - 1-Click to Install on Windows, RunPod and Massed Compute - Generate Entire Audiobooks With Consistent High Quality Voice](https://www.patreon.com/posts/139297407)
+* Example video : https://youtu.be/6cH-6JaBMnM
+
 ### March 25 - 2026
 [Wan2GP 1-Click Automatic Installer for Windows, RunPod and Massed Compute with Literally All GPUs Support with Flash Attention + xFormers + Torch 2.8 and CUDA 12.9](https://www.patreon.com/posts/139831592)
 * My installer will make a venv and install this app with Torch 2.8, CUDA 12.9, Flash Attention 2.8.3, Sage Attention 2.2.0, Triton 3.4, xFormers 0.0.33. Check above link for more info.
@@ -136,10 +140,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### October 2 - 2025
 [Deep Live Cam Automatic Windows Installer With RTX 5000 Series Support - The Viral App for Live Web Cam Face Swap](https://www.patreon.com/posts/125826778)
 * 1-Click Windows installers for famous Deep Live Cam Face Swap / Deep Fake app that became viral and famous. Public non-members post : https://www.patreon.com/posts/125826989
-  
-### September 29 - 2025
-[IndexTTS2 SECourses Premium Voice Cloning and Generation App - 1-Click to Install on Windows, RunPod and Massed Compute - Generate Entire Audiobooks With Consistent High Quality Voice](https://www.patreon.com/posts/139297407)
-* Example video : https://youtu.be/6cH-6JaBMnM
 
 ### September 21 - 2025
 [SUPIR 1 Click Windows, RunPod / Massed Compute / Linux Installer & Free Kaggle Notebook](https://www.patreon.com/posts/99176057)
