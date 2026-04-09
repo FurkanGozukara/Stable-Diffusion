@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### April 9 - 2026
+[Whisper-WebUI Premium - Ultra Fast and High Accuracy Speech to Text Transcripton App for All Languages - Windows, RunPod, Massed Compute 1-Click Installers - Supporting RTX 1000 to 5000 series](https://www.patreon.com/posts/145395299)
+* 1-Click installers for Whisper-WebUI Premium. You can use this app to transcribe your Audio into literally 100 languages. This is currently state of the art open source speech to text app. Features : It has better interface, more features, default settings set for maximum accuracy. It will show transcription realtime both on Gradio interface and also on CMD. After deep scan of the entire pipeline, default parameters are set for maximum accuracy and quality. 1-Click installers for Windows local PC, RunPod (Linux-Cloud) and Massed Compute (Linux-Cloud). The app the installers are made for RTX 1000 series to RTX 5000 series with pre-compiled libraries. We install with Torch 2.8, CUDA 12.9, latest Flash Attention, Sage Attention, xFormers - all precompiled. As low as 6 GB VRAM GPUs can use
+
 ### April 5 - 2026
 [IndexTTS2 SECourses Premium Voice Cloning and Generation App - 1-Click to Install on Windows, RunPod and Massed Compute - Generate Entire Audiobooks With Consistent High Quality Voice](https://www.patreon.com/posts/139297407)
 * Example video : https://youtu.be/6cH-6JaBMnM
@@ -80,10 +84,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### December 12 - 2025
 [The Very Best SDXL DreamBooth / Fine Tuning Training Configurations - Works on All GPUs Starting from RTX 1000 series to RTX 5000 series - as low as 6 GB GPUs - Results Of 100+ Full Trainings](https://www.patreon.com/posts/89213064)
 * Updated the very best hyper training parameters / configuration and training workflow for Kohya SS GUI for Stable Diffusion XL (SDXL)
-
-### December 9 - 2025
-[Whisper-WebUI Premium - Ultra Fast and High Accuracy Speech to Text Transcripton App for All Languages - Windows, RunPod, Massed Compute 1-Click Installers - Supporting RTX 1000 to 5000 series](https://www.patreon.com/posts/145395299)
-* 1-Click installers for Whisper-WebUI Premium. You can use this app to transcribe your Audio into literally 100 languages. This is currently state of the art open source speech to text app. Features : It has better interface, more features, default settings set for maximum accuracy. It will show transcription realtime both on Gradio interface and also on CMD. After deep scan of the entire pipeline, default parameters are set for maximum accuracy and quality. 1-Click installers for Windows local PC, RunPod (Linux-Cloud) and Massed Compute (Linux-Cloud). The app the installers are made for RTX 1000 series to RTX 5000 series with pre-compiled libraries. We install with Torch 2.8, CUDA 12.9, latest Flash Attention, Sage Attention, xFormers - all precompiled. As low as 6 GB VRAM GPUs can use
 
 ### December 8 - 2025
 [1-Click Installers for Paints-UNDO Advanced Gradio APP, Windows, RunPod, Massed Compute and Kaggle Installers](https://www.patreon.com/posts/121228327)
