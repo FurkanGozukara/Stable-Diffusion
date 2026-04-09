@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### April 10 - 2026
+[MMAudio 1-Click Installers for Windows, RunPod and Massed Compute - Generate Audio for Any Video - Amazing for AI Generated Videos](https://www.patreon.com/posts/117990364)
+* 1-Click installers to install MMAudio. This app is so lightweight and fast. Pretty much should work on every GPUs. I have also improved the official published Gradio app and added more features. MMAudio generates synchronized audio given video and/or text inputs. Our key innovation is multimodal joint training which allows training on a wide range of audio-visual and audio-text datasets. Moreover, a synchronization module aligns the generated audio with the video frames.
+
 ### April 9 - 2026
 [Whisper-WebUI Premium - Ultra Fast and High Accuracy Speech to Text Transcripton App for All Languages - Windows, RunPod, Massed Compute 1-Click Installers - Supporting RTX 1000 to 5000 series](https://www.patreon.com/posts/145395299)
 * 1-Click installers for Whisper-WebUI Premium. You can use this app to transcribe your Audio into literally 100 languages. This is currently state of the art open source speech to text app. Features : It has better interface, more features, default settings set for maximum accuracy. It will show transcription realtime both on Gradio interface and also on CMD. After deep scan of the entire pipeline, default parameters are set for maximum accuracy and quality. 1-Click installers for Windows local PC, RunPod (Linux-Cloud) and Massed Compute (Linux-Cloud). The app the installers are made for RTX 1000 series to RTX 5000 series with pre-compiled libraries. We install with Torch 2.8, CUDA 12.9, latest Flash Attention, Sage Attention, xFormers - all precompiled. As low as 6 GB VRAM GPUs can use
@@ -124,10 +128,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### November 10 - 2025
 [Ultimate Image Processing APP : Batch Cropping, Zooming In, Resizing, Duplicate Image Removing, Face Extraction, SAM 2 and Yolo Segmentation, Masking for Windows, RunPod, Massed Compute and Free Kaggle Account](https://www.patreon.com/posts/120352012)
 * If you want to batch pre-process your training images, like auto zoom subject and resize perfectly into exact resolution, this is the script you need. 1-Click to install and use on Windows, RunPod and Massed Comput and even Kaggle. It supports YOLO V11 and SAM 2. Moreover it has even duplicate image removing as well. You can see all features in this public post : https://www.patreon.com/posts/120353641
-
-### October 29 - 2025
-[MMAudio 1-Click Installers for Windows, RunPod and Massed Compute - Generate Audio for Any Video - Amazing for AI Generated Videos](https://www.patreon.com/posts/117990364)
-* 1-Click installers to install MMAudio. This app is so lightweight and fast. Pretty much should work on every GPUs. I have also improved the official published Gradio app and added more features. MMAudio generates synchronized audio given video and/or text inputs. Our key innovation is multimodal joint training which allows training on a wide range of audio-visual and audio-text datasets. Moreover, a synchronization module aligns the generated audio with the video frames.
 
 ### October 23 - 2025
 [VAST-AI-Research TripoSR Premium Gradio App With 1-Click Installers for Windows, RunPod and Massed Compute - Supports RTX 5000 series GPUs as Well](https://www.patreon.com/posts/141896910)
