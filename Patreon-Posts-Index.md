@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### April 22 - 2026
+[SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation](https://www.patreon.com/posts/114517862)
+* 1-Click to install SwarmUI and Unified AI Models Downloader for SwarmUI, ComfyUI, Automatic1111 and Forge Web UI - Supports SD 1.5, SDXL, FLUX, Wan 2.1, Wan 2.2, Qwen Image, SwarmUI presets to generate images and videos with FLUX, Qwen Image, SDXL and Wan 2.1, Wan 2.2 Models and more. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
+
 ### April 20 - 2026
 [SECourses Musubi Tuner - 1-Click to Install App for LoRA Training and Full Fine Tuning Qwen Image, Qwen Image Edit, Wan 2.1 and Wan 2.2, FLUX Klein, FLUX 2, Z Image Base and Turbo Models with Musubi Tuner with Ready Presets](https://www.patreon.com/posts/137551634)
 * Extremely detailed info provided in the post please read it carefully and screenshots of the app is here : https://www.reddit.com/r/SECourses/comments/1n2qo9g/secourses_musubi_tuner_v1_published_a_training/. It supports all Wan 2.1, Wan 2.2, Qwen 2509, 2511, 2512 and older models trainings.
@@ -68,10 +72,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### January 22 - 2026
 [You Wanted Vast AI as Cheap Cloud Service Alternative to RunPod - Here I am Providing You SimplePod AI](https://www.patreon.com/posts/148800044)
 * Faster permanent storage system and much cheaper than RunPod
-
-### January 10 - 2026
-[SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation](https://www.patreon.com/posts/114517862)
-* 1-Click to install SwarmUI and Unified AI Models Downloader for SwarmUI, ComfyUI, Automatic1111 and Forge Web UI - Supports SD 1.5, SDXL, FLUX, Wan 2.1, Wan 2.2, Qwen Image, SwarmUI presets to generate images and videos with FLUX, Qwen Image, SDXL and Wan 2.1, Wan 2.2 Models and more. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
 
 ### January 8 - 2026
 [Trellis 2 Premium App With 1-Click Windows and Linux Installers (RunPod & Massed Compute) - Generate Top Quality 3D Models Both With Mesh + Texture from Images](https://www.patreon.com/posts/147686623)
