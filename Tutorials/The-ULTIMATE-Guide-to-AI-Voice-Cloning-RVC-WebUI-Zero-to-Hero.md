@@ -2,53 +2,54 @@
 
 ## Full tutorial link > https://www.youtube.com/watch?v=ZRrzvD4wNys
 
-[![The ULTIMATE Guide to AI Voice Cloning: RVC WebUI (Zero to Hero)](https://img.youtube.com/vi/ZRrzvD4wNys/sddefault.jpg)](https://www.youtube.com/watch?v=ZRrzvD4wNys "The ULTIMATE Guide to AI Voice Cloning: RVC WebUI (Zero to Hero)")
+[![The ULTIMATE Guide to AI Voice Cloning: RVC WebUI (Zero to Hero)](https://github.com/user-attachments/assets/dfd4e350-5961-4ae5-83b5-7fa783169e9c)](https://www.youtube.com/watch?v=ZRrzvD4wNys "The ULTIMATE Guide to AI Voice Cloning: RVC WebUI (Zero to Hero)")
 
 [![image](https://img.shields.io/discord/772774097734074388?label=Discord&logo=discord)](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388) [![Hits](https://hits.sh/github.com/FurkanGozukara/Stable-Diffusion/blob/main/Tutorials/The-ULTIMATE-Guide-to-AI-Voice-Cloning-RVC-WebUI-Zero-to-Hero.md.svg?style=plastic&label=Hits%20Since%2025.08.27&labelColor=007ec6&logo=SECourses)](https://hits.sh/github.com/FurkanGozukara/Stable-Diffusion/blob/main/Tutorials/The-ULTIMATE-Guide-to-AI-Voice-Cloning-RVC-WebUI-Zero-to-Hero.md)
 [![Patreon](https://img.shields.io/badge/Patreon-Support%20Me-F2EB0E?style=for-the-badge&logo=patreon)](https://www.patreon.com/c/SECourses) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/DrFurkan) [![Furkan Gözükara Medium](https://img.shields.io/badge/Medium-Follow%20Me-800080?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@furkangozukara) [![Codio](https://img.shields.io/static/v1?style=for-the-badge&message=Articles&color=4574E0&logo=Codio&logoColor=FFFFFF&label=CivitAI)](https://civitai.com/user/SECourses/articles) [![Furkan Gözükara Medium](https://img.shields.io/badge/DeviantArt-Follow%20Me-990000?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/monstermmorpg)
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-SECourses-C50C0C?style=for-the-badge&logo=youtube)](https://www.youtube.com/SECourses)  [![Furkan Gözükara LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkangozukara/)   [![Udemy](https://img.shields.io/static/v1?style=for-the-badge&message=Stable%20Diffusion%20Course&color=A435F0&logo=Udemy&logoColor=FFFFFF&label=Udemy)](https://www.udemy.com/course/stable-diffusion-dreambooth-lora-zero-to-hero/?referralCode=E327407C9BDF0CEA8156) [![Twitter Follow Furkan Gözükara](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GozukaraFurkan)
 
+## Info
 
-Ultimate AI Voice Changer Tutorial: SECourses Premium RVC Web UI (Windows, RunPod & Massed Compute). This video is only for educational and responsible usage purposes. With V3: Multiple voice merge to generate custom voice feature implemented.
+- Ultimate AI Voice Changer Tutorial: SECourses Premium RVC Web UI (Windows, RunPod & Massed Compute). This video is only for educational and responsible usage purposes. With V3: Multiple voice merge to generate custom voice feature implemented.
 
-Welcome to the complete tutorial for the SECourses Premium RVC Web UI! In this video, I will show you how to easily transform your speaking voice or song vocals using our highly optimized AI voice conversion application.
+- Welcome to the complete tutorial for the SECourses Premium RVC Web UI! In this video, I will show you how to easily transform your speaking voice or song vocals using our highly optimized AI voice conversion application.
 
-Whether you want to sound like a famous celebrity (like Donald Trump or Tupac), replace vocals in AI-generated music, or change your voice live in real-time, this tool has everything you need. The installer automatically downloads 30+ pre-trained demo voices, and you can easily add hundreds more from Hugging Face!
+- Whether you want to sound like a famous celebrity (like Donald Trump or Tupac), replace vocals in AI-generated music, or change your voice live in real-time, this tool has everything you need. The installer automatically downloads 30+ pre-trained demo voices, and you can easily add hundreds more from Hugging Face!
 
-I will walk you through the entire 1-click installation process for local Windows PCs, as well as step-by-step cloud deployment guides for RunPod, SimplePod, and our highly recommended cloud provider, Massed Compute.
+- I will walk you through the entire 1-click installation process for local Windows PCs, as well as step-by-step cloud deployment guides for RunPod, SimplePod, and our highly recommended cloud provider, Massed Compute.
 
-✨ Key Features Covered in this Video:
+## ✨ Key Features Covered in this Video:
 
-• 1-Click Install with automatic model & dependency downloading
+- • 1-Click Install with automatic model & dependency downloading
 
-• 30+ Pre-trained demo voices included automatically
+- • 30+ Pre-trained demo voices included automatically
 
-• Auto-separation of vocals and music for song processing
+- • Auto-separation of vocals and music for song processing
 
-• Custom Preset System to save your favorite inference settings
+- • Custom Preset System to save your favorite inference settings
 
-• Batch Inference to process multiple audio files instantly
+- • Batch Inference to process multiple audio files instantly
 
-• Real-Time Live Voice Changing desktop application included
+- • Real-Time Live Voice Changing desktop application included
 
-• Full Custom Voice Training support (VRAM usage below 4GB!)
+- • Full Custom Voice Training support (VRAM usage below 4GB!)
 
-• Fully optimized for Cloud GPUs (RunPod, SimplePod, Massed Compute)
+- • Fully optimized for Cloud GPUs (RunPod, SimplePod, Massed Compute)
 
-🔗 Important Links & Resources:
+## 🔗 Important Links & Resources:
 
-📥 Download Installer & Full Instructions: [ [https://www.patreon.com/posts/rvc-web-ui-app-installer-zip-file-149104996](https://www.patreon.com/posts/rvc-web-ui-app-installer-zip-file-149104996) ]
+- 📥 Download Installer & Full Instructions: [ [https://www.patreon.com/posts/rvc-web-ui-app-installer-zip-file-149104996](https://www.patreon.com/posts/rvc-web-ui-app-installer-zip-file-149104996) ]
 
-⚙️ Windows Requirements Tutorial: [ [https://youtu.be/DrhUHnYfwC0](https://youtu.be/DrhUHnYfwC0) ]
+- ⚙️ Windows Requirements Tutorial: [ [https://youtu.be/DrhUHnYfwC0](https://youtu.be/DrhUHnYfwC0) ]
 
-☁️ Massed Compute Registration (Use coupon code SECourses for a discount!): [ [https://vm.massedcompute.com/signup?linkId=lp_034338&sourceId=secourses&tenantId=massed-compute](https://vm.massedcompute.com/signup?linkId=lp_034338&sourceId=secourses&tenantId=massed-compute) ]
+- ☁️ Massed Compute Registration (Use coupon code SECourses for a discount!): [ [https://vm.massedcompute.com/signup?linkId=lp_034338&sourceId=secourses&tenantId=massed-compute](https://vm.massedcompute.com/signup?linkId=lp_034338&sourceId=secourses&tenantId=massed-compute) ]
 
-☁️ RunPod Registration & Templates: [ [https://get.runpod.io/955rkuppqv4h](https://get.runpod.io/955rkuppqv4h) ]
+- ☁️ RunPod Registration & Templates: [ [https://get.runpod.io/955rkuppqv4h](https://get.runpod.io/955rkuppqv4h) ]
 
-☁️ SimplePod Registration & Templates: [ [https://simplepod.ai/ref?user=secourses](https://simplepod.ai/ref?user=secourses) ]
+- ☁️ SimplePod Registration & Templates: [ [https://simplepod.ai/ref?user=secourses](https://simplepod.ai/ref?user=secourses) ]
 
-⏱️ Video Chapters:
+## ⏱️ Video Chapters:
 
 [00:00:00](https://youtu.be/ZRrzvD4wNys?t=0) Introduction to SECourses Premium RVC Web UI
 
@@ -135,8 +136,6 @@ I will walk you through the entire 1-click installation process for local Window
 [00:26:33](https://youtu.be/ZRrzvD4wNys?t=1593) Speed comparison between SimplePod and RunPod installations
 
 [00:27:17](https://youtu.be/ZRrzvD4wNys?t=1637) Conclusion and final thoughts
-
-👇 Don't forget to LIKE, SUBSCRIBE, and turn on notifications for more amazing AI tutorials! If you have any questions, leave a comment below!
 
 
 
