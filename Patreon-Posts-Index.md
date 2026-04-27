@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### April 27 - 2026
+[1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, Full xFormers and Latest Libraries Support for RTX 5000 Series GPUs and All Other GPUs With Torch 2.8 and CUDA 12.9](https://www.patreon.com/posts/86307255)
+* Famous classic Automatic1111 modified to work on newest RTX 5000 series GPUs with Torch 2.8 and CUDA 12.9 and xFormers 0.33 with supporting ADetailer, Deforum and ControlNet extensions. Fully automated to install. Works on Windows and Linux. Supports RTX 1000 to 5000 series including cloud GPUs.
+
 ### April 22 - 2026
 [SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation](https://www.patreon.com/posts/114517862)
 * 1-Click to install SwarmUI and Unified AI Models Downloader for SwarmUI, ComfyUI, Automatic1111 and Forge Web UI - Supports SD 1.5, SDXL, FLUX, Wan 2.1, Wan 2.2, Qwen Image, SwarmUI presets to generate images and videos with FLUX, Qwen Image, SDXL and Wan 2.1, Wan 2.2 Models and more. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
@@ -100,10 +104,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### December 3 - 2025
 [SAM 3D Objects Windows, RunPod and Massed Compute 1-click Installer and Premium SECourses Gradio App for Meta Research SAM 3D Objects](https://www.patreon.com/posts/144931360)
 * This is a premium Gradio app made for https://github.com/facebookresearch/sam-3d-objects - with pre-compiled libraries and 1-click installers for Windows, RunPod and Massed Compute. I had to pre-compile flash_attn, xformers, sageattention, gsplat, moge, pytorch3d for Windows and Linux to make 1-click installers. SAM 3D Objects is a foundation model that reconstructs full 3D shape geometry, texture, and layout from a single image. The app process 30 megapixel image under 1 minute on RTX 5090 ultra fast and generated ply (Polygon File Format or the Stanford Triangle Format) files are saved inside outputs folder. We support all the GPUs starting from RTX 2000 series to RTX 5000 series including cloud GPUs like H, B200, RTX PRO 6000, L40S etc as usual
-
-### November 27 - 2025
-[1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, Full xFormers and Latest Libraries Support for RTX 5000 Series GPUs and All Other GPUs With Torch 2.8 and CUDA 12.9](https://www.patreon.com/posts/86307255)
-* Famous classic Automatic1111 modified to work on newest RTX 5000 series GPUs with Torch 2.8 and CUDA 12.9 and xFormers 0.33 with supporting ADetailer and ControlNet extensions. Fully automated to install. Works on Windows and Linux. Supports RTX 1000 to 5000 series including cloud GPUs.
 
 ### November 25 - 2025
 [Kohya FLUX Fine Tuning (Full Checkpoints) / DreamBooth Training Full Tutorial For Local Windows and Cloud RunPod and Massed Compute](https://www.patreon.com/posts/112099700)
