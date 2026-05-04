@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### May 4 - 2026
+[SECourses Upscaler Pro - SeedVR2 - FlashVSR+ - Face Restoration - Gan Upscalers - Queue System - Fully Automated Movie Restoration and Upscale Studio](https://www.patreon.com/posts/150202809)
+* SECourses Ultimate Video and Image Upscaler Pro - SeedVR2 - FlashVSR+ - Face Restoration - Gan Upscalers - Queue System - Fully Automated Movie Restoration and Upscale Studio - with so many amazing new features and full VRAM optimizations, can upscale a whole 120 minutes video fully properly with full resume capability. Our FlashVSR+ pro is the very best one among there with so many additional improvements. 
+
 ### May 2 - 2026
 [Whisper-WebUI Premium - Ultra Fast and High Accuracy Speech to Text Transcripton App for All Languages - Windows, RunPod, Massed Compute 1-Click Installers - Supporting RTX 1000 to 5000 series](https://www.patreon.com/posts/145395299)
 * 1-Click installers for Whisper-WebUI Premium. You can use this app to transcribe your Audio into literally 100 languages. This is currently state of the art open source speech to text app. Features : It has better interface, more features, default settings set for maximum accuracy. It will show transcription realtime both on Gradio interface and also on CMD. After deep scan of the entire pipeline, default parameters are set for maximum accuracy and quality. 1-Click installers for Windows local PC, RunPod (Linux-Cloud) and Massed Compute (Linux-Cloud). The app the installers are made for RTX 1000 series to RTX 5000 series with pre-compiled libraries. We install with Torch 2.8, CUDA 12.9, latest Flash Attention, Sage Attention, xFormers - all precompiled. As low as 6 GB VRAM GPUs can use
@@ -52,10 +56,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### April 5 - 2026
 [Wan2GP 1-Click Automatic Installer for Windows, RunPod and Massed Compute with Literally All GPUs Support with Flash Attention + xFormers + Torch 2.8 and CUDA 12.9](https://www.patreon.com/posts/139831592)
 * My installer will make a venv and install this app with Torch 2.8, CUDA 12.9, Flash Attention 2.8.3, Sage Attention 2.2.0, Triton 3.4, xFormers 0.0.33. Check above link for more info.
-
-### March 25 - 2026
-[SECourses Upscaler Pro - SeedVR2 - FlashVSR+ - Face Restoration - Gan Upscalers - Queue System - Fully Automated Movie Restoration and Upscale Studio](https://www.patreon.com/posts/150202809)
-* SECourses Ultimate Video and Image Upscaler Pro - SeedVR2 - FlashVSR+ - Face Restoration - Gan Upscalers - Queue System - Fully Automated Movie Restoration and Upscale Studio - with so many amazing new features and full VRAM optimizations, can upscale a whole 120 minutes video fully properly with full resume capability. Our FlashVSR+ pro is the very best one among there with so many additional improvements. 
 
 ### March 23 - 2026
 [Stable Diffusion WebUI Forge - NEO (Up-to-Date and Maintained Forge Web UI) 1-Click installers for Windows, RunPod, Massed Compute, Supports all GPUs starting from RTX 1000 to 5000 and Cloud GPUs - Torch 2.9.1 and CUDA 13 and Flash Attention](https://www.patreon.com/posts/138694680)
