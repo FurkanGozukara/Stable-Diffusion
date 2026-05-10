@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### May 11 - 2026
+[IndexTTS2 SECourses Premium Voice Cloning and Generation App - 1-Click to Install on Windows, RunPod and Massed Compute - Generate Entire Audiobooks With Consistent High Quality Voice](https://www.patreon.com/posts/139297407)
+* Example video : https://youtu.be/6cH-6JaBMnM
+
 ### May 4 - 2026
 [SECourses Upscaler Pro - SeedVR2 - FlashVSR+ - Face Restoration - Gan Upscalers - Queue System - Fully Automated Movie Restoration and Upscale Studio](https://www.patreon.com/posts/150202809)
 * SECourses Ultimate Video and Image Upscaler Pro - SeedVR2 - FlashVSR+ - Face Restoration - Gan Upscalers - Queue System - Fully Automated Movie Restoration and Upscale Studio - with so many amazing new features and full VRAM optimizations, can upscale a whole 120 minutes video fully properly with full resume capability. Our FlashVSR+ pro is the very best one among there with so many additional improvements. 
@@ -48,10 +52,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### April 10 - 2026
 [MMAudio 1-Click Installers for Windows, RunPod and Massed Compute - Generate Audio for Any Video - Amazing for AI Generated Videos](https://www.patreon.com/posts/117990364)
 * 1-Click installers to install MMAudio. This app is so lightweight and fast. Pretty much should work on every GPUs. I have also improved the official published Gradio app and added more features. MMAudio generates synchronized audio given video and/or text inputs. Our key innovation is multimodal joint training which allows training on a wide range of audio-visual and audio-text datasets. Moreover, a synchronization module aligns the generated audio with the video frames.
-
-### April 5 - 2026
-[IndexTTS2 SECourses Premium Voice Cloning and Generation App - 1-Click to Install on Windows, RunPod and Massed Compute - Generate Entire Audiobooks With Consistent High Quality Voice](https://www.patreon.com/posts/139297407)
-* Example video : https://youtu.be/6cH-6JaBMnM
 
 ### April 5 - 2026
 [Wan2GP 1-Click Automatic Installer for Windows, RunPod and Massed Compute with Literally All GPUs Support with Flash Attention + xFormers + Torch 2.8 and CUDA 12.9](https://www.patreon.com/posts/139831592)
