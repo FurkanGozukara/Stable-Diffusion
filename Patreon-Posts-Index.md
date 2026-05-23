@@ -22,7 +22,7 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### May 23 - 2026
-[Pre-Compiled Most Important AI Libraries : Flash Attention](https://www.patreon.com/posts/157675060)
+[Pre-Compiled Most Important AI Libraries : Flash Attention](https://www.patreon.com/posts/159064759)
 * flash_attn-2.8.4+cu130torch211cuda131sm86sm89sm120-cp311-cp311-win_amd64.whl (23 May 2026) : Windows, Python 3.11.x, Torch 2.11, CUDA 13.x, CUDA Archs 8.6;8.9;12.0 . flash_attn-2.8.4+cu130torch211cuda131trimarch-cp311-cp311-linux_x86_64.whl (23 May 2026) : Linux, Python 3.11.x, Torch 2.11, CUDA 13.x, CUDA Archs 8.0;8.6;8.9;9.0;10.0;10.3;12.0 . 
 
 ### May 13 - 2026
