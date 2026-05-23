@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### May 23 - 2026
+[Pre-Compiled Most Important AI Libraries : Flash Attention](https://www.patreon.com/posts/157675060)
+* flash_attn-2.8.4+cu130torch211cuda131sm86sm89sm120-cp311-cp311-win_amd64.whl (23 May 2026) : Windows, Python 3.11.x, Torch 2.11, CUDA 13.x, CUDA Archs 8.6;8.9;12.0 . flash_attn-2.8.4+cu130torch211cuda131trimarch-cp311-cp311-linux_x86_64.whl (23 May 2026) : Linux, Python 3.11.x, Torch 2.11, CUDA 13.x, CUDA Archs 8.0;8.6;8.9;9.0;10.0;10.3;12.0 . 
+
 ### May 13 - 2026
 [ACE-Step 1.5 XL Premium - Better Music & Song Generator Than SUNO 5.0 - Remix and Repaint Features - Windows, RunPod, Massed Compute, Linux 1-click Installers](https://www.patreon.com/posts/157675060)
 * ACE Step 1.5 XL is the newest State Of The Art (SOTA) Music and Song generator model. It has 3 variants and we support all 3 variants (Turbo, SFT, Base) with fully automatic setup, models download, VRAM presets for all GPUs starting from 4 GB and with all best researched generation values / settings / configurations.
