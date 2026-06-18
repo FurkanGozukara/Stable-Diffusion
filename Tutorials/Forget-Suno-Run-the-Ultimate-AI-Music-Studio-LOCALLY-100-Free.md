@@ -149,7 +149,7 @@ I also prepared a polished written tutorial from the full ACESTEP XL 1.5 video a
 - Windows setup: downloading the Patreon zip, extracting safely, running `Windows_Install_or_Update.bat`, downloading models, and launching with `Windows_Start_App.bat`.
 - First generation workflow: prompt, lyrics, model choice, duration, guidance/steps, seeds, output folders, metadata, and reusable settings.
 - Wildcards: use `[option A|option B|option C]` in Style, Advanced Music Caption, or Lyrics so one option is picked at generation time; nested wildcards are supported.
-- Wildcards in batch folder processing: batch jobs can vary instruments, moods, hooks, or lyric phrases across outputs without manually editing every run.
+- Batch folder processing uses the same Wildcards behavior: batch jobs can vary instruments, moods, hooks, or lyric phrases across outputs without manually editing every run.
 - Wildcards caveat: keep Auto/Enhance Style and Auto/Enhance Lyrics disabled when you need exact wildcard expressions preserved, because those improvement tools may rewrite the prompt text.
 - Model and speed choices: Turbo, SFT, Base, BF16, VRAM presets, Torch Compile, and when each choice matters.
 - Creative tools: Remix, Repaint, Extract, Lego mode, Audio Processing, Auto-Editor timeline export, and SAM Audio text-prompt segmentation.
