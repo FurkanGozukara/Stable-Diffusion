@@ -128,7 +128,6 @@ Video Chapters:
 
 #ACESTEP #AIMusic #LocalAI #RunPod #MassedCompute #SimplePod #SAMAudio
 
-
 <!-- ACESTEP-WRITTEN-TUTORIAL-UPDATE:START -->
 
 ## New Full Written Tutorial Package (DOCX, HTML, PDF and 20 Page PNG Guide)
@@ -200,7 +199,6 @@ Click any page image to open the full-resolution PNG. Embedded previews are inte
 <a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-20.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-20.png" alt="ACE-Step XL 1.5 written tutorial page 20" height="700"></a>
 
 <!-- ACESTEP-WRITTEN-TUTORIAL-UPDATE:END -->
-
 
 ### Video Transcription
 
