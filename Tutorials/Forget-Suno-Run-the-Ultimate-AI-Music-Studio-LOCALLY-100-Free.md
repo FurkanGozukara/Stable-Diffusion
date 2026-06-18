@@ -129,6 +129,78 @@ Video Chapters:
 #ACESTEP #AIMusic #LocalAI #RunPod #MassedCompute #SimplePod #SAMAudio
 
 
+<!-- ACESTEP-WRITTEN-TUTORIAL-UPDATE:START -->
+
+## New Full Written Tutorial Package (DOCX, HTML, PDF and 20 Page PNG Guide)
+
+I also prepared a polished written tutorial from the full ACESTEP XL 1.5 video. It uses real screenshots from the actual application, includes the YouTube tutorial thumbnail/link context, and keeps the complete video chapters and transcript below this section.
+
+### Download / Open
+
+- Full YouTube video tutorial: [https://youtu.be/9C_6qNKjgpA](https://youtu.be/9C_6qNKjgpA)
+- Patreon app/latest zip and premium post: [https://www.patreon.com/posts/ACESTEP-XL-Premium-SAM-Audio-157675060](https://www.patreon.com/posts/ACESTEP-XL-Premium-SAM-Audio-157675060)
+- Written DOCX tutorial: [https://github.com/FurkanGozukara/Stable-Diffusion/raw/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/ACESTEP_XL_15_Written_Tutorial.docx](https://github.com/FurkanGozukara/Stable-Diffusion/raw/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/ACESTEP_XL_15_Written_Tutorial.docx)
+- Written HTML tutorial: [https://github.com/FurkanGozukara/Stable-Diffusion/raw/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/ACESTEP_XL_15_Written_Tutorial.html](https://github.com/FurkanGozukara/Stable-Diffusion/raw/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/ACESTEP_XL_15_Written_Tutorial.html)
+- Compact 20-page PDF tutorial: [https://github.com/FurkanGozukara/Stable-Diffusion/raw/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/ACESTEP_XL_15_Compact_20_Page_Tutorial.pdf](https://github.com/FurkanGozukara/Stable-Diffusion/raw/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/ACESTEP_XL_15_Compact_20_Page_Tutorial.pdf)
+- Compact 20-page HTML tutorial: [https://github.com/FurkanGozukara/Stable-Diffusion/raw/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/ACESTEP_XL_15_Compact_20_Page_Tutorial.html](https://github.com/FurkanGozukara/Stable-Diffusion/raw/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/ACESTEP_XL_15_Compact_20_Page_Tutorial.html)
+- All high-resolution tutorial PNG pages: [https://github.com/FurkanGozukara/Stable-Diffusion/tree/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial](https://github.com/FurkanGozukara/Stable-Diffusion/tree/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial)
+
+### What The Written Tutorial Covers
+
+- Windows setup: downloading the Patreon zip, extracting safely, running `Windows_Install_or_Update.bat`, downloading models, and launching with `Windows_Start_App.bat`.
+- First generation workflow: prompt, lyrics, model choice, duration, guidance/steps, seeds, output folders, metadata, and reusable settings.
+- Model and speed choices: Turbo, SFT, Base, BF16, VRAM presets, Torch Compile, and when each choice matters.
+- Creative tools: Remix, Repaint, Extract, Lego mode, Audio Processing, Auto-Editor timeline export, and SAM Audio text-prompt segmentation.
+- Output management: MP3/WAV/FLAC/MP4 results, manifests, stems, trimmed files, SAM segment folders, and batch processing.
+- Cloud workflows: RunPod, Massed Compute, SimplePod, Jupyter uploads, Gradio Live links, persistent storage, restart behavior, nvitop monitoring, downloading outputs, and deleting rented resources.
+- Practical troubleshooting: bad extraction paths, missing requirements, first-load delays, stale/corrupted VENV handles, connection issues, model verification, and safe reinstall/update behavior.
+
+### 20 Page Visual Tutorial
+
+Click any page image to open the full-resolution PNG. Embedded previews are intentionally shown at `height="700"` with no fixed width, so GitHub keeps the page readable while still allowing full-size inspection.
+
+<a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-01.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-01.png" alt="ACE-Step XL 1.5 written tutorial page 01" height="700"></a>
+
+<a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-02.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-02.png" alt="ACE-Step XL 1.5 written tutorial page 02" height="700"></a>
+
+<a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-03.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-03.png" alt="ACE-Step XL 1.5 written tutorial page 03" height="700"></a>
+
+<a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-04.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-04.png" alt="ACE-Step XL 1.5 written tutorial page 04" height="700"></a>
+
+<a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-05.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-05.png" alt="ACE-Step XL 1.5 written tutorial page 05" height="700"></a>
+
+<a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-06.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-06.png" alt="ACE-Step XL 1.5 written tutorial page 06" height="700"></a>
+
+<a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-07.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-07.png" alt="ACE-Step XL 1.5 written tutorial page 07" height="700"></a>
+
+<a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-08.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-08.png" alt="ACE-Step XL 1.5 written tutorial page 08" height="700"></a>
+
+<a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-09.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-09.png" alt="ACE-Step XL 1.5 written tutorial page 09" height="700"></a>
+
+<a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-10.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-10.png" alt="ACE-Step XL 1.5 written tutorial page 10" height="700"></a>
+
+<a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-11.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-11.png" alt="ACE-Step XL 1.5 written tutorial page 11" height="700"></a>
+
+<a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-12.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-12.png" alt="ACE-Step XL 1.5 written tutorial page 12" height="700"></a>
+
+<a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-13.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-13.png" alt="ACE-Step XL 1.5 written tutorial page 13" height="700"></a>
+
+<a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-14.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-14.png" alt="ACE-Step XL 1.5 written tutorial page 14" height="700"></a>
+
+<a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-15.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-15.png" alt="ACE-Step XL 1.5 written tutorial page 15" height="700"></a>
+
+<a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-16.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-16.png" alt="ACE-Step XL 1.5 written tutorial page 16" height="700"></a>
+
+<a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-17.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-17.png" alt="ACE-Step XL 1.5 written tutorial page 17" height="700"></a>
+
+<a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-18.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-18.png" alt="ACE-Step XL 1.5 written tutorial page 18" height="700"></a>
+
+<a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-19.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-19.png" alt="ACE-Step XL 1.5 written tutorial page 19" height="700"></a>
+
+<a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-20.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/page-20.png" alt="ACE-Step XL 1.5 written tutorial page 20" height="700"></a>
+
+<!-- ACESTEP-WRITTEN-TUTORIAL-UPDATE:END -->
+
 
 ### Video Transcription
 
