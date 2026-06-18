@@ -1,14 +1,14 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>ACE-Step XL 1.5 Premium v5.2 Written Tutorial</title>
+<title>ACE-Step XL 1.5 Premium v5.3 Written Tutorial</title>
 <style>body{font-family:Segoe UI,Arial,sans-serif;max-width:1180px;margin:0 auto;padding:32px;line-height:1.55;color:#162033}h1,h2,h3{color:#1f4d78}img{max-width:100%;height:auto;border:1px solid #d7dce5;border-radius:6px;margin:12px 0 24px}code{background:#f2f4f7;padding:2px 5px;border-radius:4px}a{color:#0f62a8}li{margin:4px 0}.lead{font-size:1.05rem;color:#4b5563}</style>
 </head><body>
-<h1>ACE-Step XL 1.5 Premium v5.2 Written Tutorial</h1>
-<p>This README is the full Markdown tutorial generated from the public YouTube tutorial, local file <code>ACESTEP_XL_15_Full_Tutorial.mp4</code>, <code>captions (2).srt</code>, live local ACE-Step app screenshots, one newly generated demo song, one Audio Processing run made from that song, and selected 4K frames extracted from the source video.</p>
+<h1>ACE-Step XL 1.5 Premium v5.3 Written Tutorial</h1>
+<p>This README is the full Markdown tutorial generated from the public YouTube tutorial, local file <code>ACESTEP_XL_15_Full_Tutorial.mp4</code>, <code>captions (2).srt</code>, live local ACE-Step app screenshots, v5.3 Wildcards screenshots, one newly generated demo song, one Audio Processing run made from that song, and selected 4K frames extracted from the source video.</p>
 <p>Generated demo song: <code>G:\ACE_Step_v1\ACE-Step_Premium\outputs\0021\8642a822-c4d0-ff4a-531f-6d5cfb334381.mp3</code></p>
 <p>Processed demo output: <code>G:\ACE_Step_v1\ACE-Step_Premium\outputs\audio_processing_0004\8642a822-c4d0-ff4a-531f-6d5cfb334381_processed.wav</code></p>
 <h2>Source Video, Thumbnail, Links, And Chapters</h2>
-<p>The public video description presents this as a full ACE-Step XL 1.5 Premium guide for local AI music generation, remix, repaint, stem extraction, audio processing, SAM Audio segmentation, Windows installation, RunPod, Massed Compute, SimplePod, and Linux/cloud workflows.</p>
+<p>The public video description presents this as a full ACE-Step XL 1.5 Premium guide for local AI music generation, remix, repaint, stem extraction, wildcard prompt variation, audio processing, SAM Audio segmentation, Windows installation, RunPod, Massed Compute, SimplePod, and Linux/cloud workflows.</p>
 <figure><a href="https://youtu.be/9C_6qNKjgpA"><img src="../thumbnail/tutorial_thumbnail.png" alt="Tutorial video thumbnail"></a><figcaption>Tutorial video thumbnail</figcaption></figure>
 <ul>
 <li><strong>Tutorial video:</strong> <a href="https://youtu.be/9C_6qNKjgpA">Forget Suno: Run the Ultimate AI Music Studio LOCALLY (100% Free)</a></li>
@@ -75,13 +75,14 @@
 <li><a href="https://youtu.be/9C_6qNKjgpA?t=4470">1:14:30</a> - Final cleanup: terminate servers, delete storage and LoRA training outro</li>
 </ul>
 <h2>1. What ACE-Step XL 1.5 Premium Is</h2>
-<p>ACE-Step XL 1.5 Premium is a local-first music generation and audio utility suite. The video presents it as more than a song generator: it also includes advanced generation modes, remix/repaint workflows, stem extraction, LEGO-style stem addition, SAM Audio segmentation, Auto-Editor trimming, mastering-style audio processing, dataset tools, and LoRA/LoKr training pages.</p>
+<p>ACE-Step XL 1.5 Premium is a local-first music generation and audio utility suite. The video presents it as more than a song generator: it also includes Wildcards for prompt variation, advanced generation modes, remix/repaint workflows, stem extraction, LEGO-style stem addition, SAM Audio segmentation, Auto-Editor trimming, mastering-style audio processing, dataset tools, and LoRA/LoKr training pages.</p>
 <p>Responsible-use note: the source tutorial says to use the application respectfully and for research/education. For remix, repaint, extraction, and pitch work, use material you own, have permission to process, or are otherwise allowed to use.</p>
 <figure><img src="../screenshots/video_frames/v01_intro.jpg" alt="Video introduction"><figcaption>Video introduction</figcaption></figure>
 <figure><img src="../screenshots/video_frames/v02_feature_overview.jpg" alt="Feature overview"><figcaption>Feature overview</figcaption></figure>
 <p>Core jobs covered in the tutorial:</p>
 <ul>
 <li>Generate complete songs from a style prompt, structured lyrics, model choice, duration, language, and seed settings.</li>
+<li>Use Wildcards in style, Music Caption, and Lyrics fields to randomly pick bracketed options at generation time.</li>
 <li>Remix, repaint, extract, LEGO-add, complete, retake, edit, and reuse LM code hints when the selected model supports the workflow.</li>
 <li>Trim silence, export audio/video, enhance or pre-master generated songs, and optionally run pitch correction with DiffPitcher.</li>
 <li>Use SAM Audio with quick prompts, custom prompts, explicit spans, or batch prompt lists to extract target audio and save the remaining audio.</li>
@@ -100,12 +101,26 @@
 <p>Model availability: Turbo is the quick default. SFT and Base require additional model files. Remix is recommended with SFT in the video; some modes are marked Base-only or unavailable until the matching model is selected.</p>
 <figure><img src="../screenshots/video_frames/v08_windows_first_generation.jpg" alt="Windows first generation"><figcaption>Windows first generation</figcaption></figure>
 <h2>3. Quick Song Generation</h2>
-<p>The <strong>Generate Song</strong> tab is the fast path. It exposes the controls most users need: style, lyrics, model, LoRA, GPU preset, quantization, language, vocal type, instrumental toggle, duration, count, seed, optional MP4 image, and video resolution.</p>
+<p>The <strong>Generate Song</strong> tab is the fast path. It exposes the controls most users need: style, lyrics, Wildcards, model, LoRA, GPU preset, quantization, language, vocal type, instrumental toggle, duration, count, seed, optional MP4 image, and video resolution.</p>
 <figure><img src="../screenshots/01_generate_song_overview.png" alt="Generate Song overview"><figcaption>Generate Song overview</figcaption></figure>
 <figure><img src="../screenshots/02_generate_song_filled.png" alt="Generate Song filled"><figcaption>Generate Song filled</figcaption></figure>
+<h3>Wildcards For Prompt Variation</h3>
+<p>ACE-Step XL 1.5 Premium v5.3 adds <strong>Wildcards</strong>. Write bracketed choices separated by pipes, such as <code>[option A|option B|option C]</code>, and one option is picked when you generate. Wildcards can be used in the quick Generate Song Style field, the Advanced Music Caption field, and Lyrics.</p>
+<figure><img src="../screenshots/25_wildcards_generate_song_help.png" alt="Wildcards in Generate Song"><figcaption>Wildcards in Generate Song</figcaption></figure>
+<figure><img src="../screenshots/26_wildcards_advanced_caption_lyrics.png" alt="Wildcards in Advanced caption and lyrics"><figcaption>Wildcards in Advanced caption and lyrics</figcaption></figure>
+<ul>
+<li>Basic syntax: <code>[piano|guitar|synth]</code> picks one option when the job starts.</li>
+<li>Nested syntax is supported. Example: <code>cinematic [piano|guitar [clean|crunchy]] hook</code>.</li>
+<li>Lyrics can use the same pattern, for example: <code>I feel [alive|ready|free] tonight</code>.</li>
+<li>Lyric tags without a pipe, such as <code>[Verse]</code>, <code>[Chorus]</code>, and <code>[Instrumental]</code>, stay unchanged.</li>
+<li>Do not enable Auto/Enhance Style or Auto/Enhance Lyrics when you need exact wildcard behavior; those improvement tools may rewrite the text and overwrite or remove wildcard expressions.</li>
+<li>Batch folder processing uses the same Wildcards behavior, so batch jobs can vary instruments, moods, hooks, or lyric phrases across outputs without manually editing every run.</li>
+<li>For repeatable comparisons, save the manifest/settings and lock other variables such as model, duration, and seed while testing wildcard choices.</li>
+</ul>
 <ol>
 <li>Write a concise Style prompt that describes genre, vocal character, instrumentation, production quality, tempo or mood, and mix target.</li>
 <li>Write Lyrics with section tags such as <code>[Verse]</code> and <code>[Chorus]</code>. The included <code>ACE_Step_Lyric_Generation_Instructions_For_LLMs.txt</code> file can be given to an LLM to format lyrics or style prompts.</li>
+<li>Optionally add Wildcards to Style or Lyrics when you want the app to choose between prompt variants automatically.</li>
 <li>Select the Model. Start with <strong>ACE-Step XL 1.5 Turbo</strong> to verify the machine and workflow quickly.</li>
 <li>Leave GPU Optimization Preset and DiT Quantization at safe defaults unless you are solving VRAM pressure or repeating a known workflow.</li>
 <li>Set Song Duration and Songs. The demo run used 20 seconds and 1 song.</li>
@@ -141,7 +156,7 @@
 <li>Compare outputs against the locked seed.</li>
 </ol>
 <h2>5. Advanced Generation Modes</h2>
-<p>The <strong>ACESTEP Advanced</strong> tab is the full workstation. It exposes generation mode, runtime settings, source/reference audio, LM code utilities, advanced prompts, metadata, sampler settings, output settings, and batch processing.</p>
+<p>The <strong>ACESTEP Advanced</strong> tab is the full workstation. It exposes generation mode, runtime settings, source/reference audio, LM code utilities, advanced prompts, Wildcards in Music Caption/Lyrics, metadata, sampler settings, output settings, and batch processing.</p>
 <figure><img src="../screenshots/03_advanced_custom_overview.png" alt="Advanced overview"><figcaption>Advanced overview</figcaption></figure>
 <p>Generation modes:</p>
 <ul>
@@ -162,6 +177,7 @@
 <li><strong>Analyze</strong> can fill or update caption/lyrics/metadata from source audio.</li>
 <li><strong>BPM Auto</strong>, <strong>Key Auto</strong>, <strong>TimeSig Auto</strong>, <strong>Language Auto</strong>, and <strong>Duration Auto</strong> let the model infer metadata.</li>
 <li><strong>Think</strong> enables LM planning. Turn it off only when deliberately using pasted LM Codes Hints.</li>
+<li><strong>Wildcards</strong> in Music Caption and Lyrics are expanded at generation time and also work when the same prompt fields are used for batch folder processing.</li>
 <li><strong>Retake</strong> creates controlled variation from the same seed/settings.</li>
 <li><strong>Edit</strong> changes the whole uploaded source using source and target prompts.</li>
 <li><strong>Auto Score</strong>, <strong>AutoGen</strong>, and <strong>Auto LRC</strong> can create score, metadata, and lyric timing outputs during generation.</li>
@@ -280,6 +296,7 @@
 <li>If first generation is slow, wait for model load and monitor the terminal or <code>nvitop</code>.</li>
 <li>For Remix quality, use SFT when available, keep lyrics aligned with the source, generate until you get a good base, then lock the seed.</li>
 <li>For very large videos, use Disable upload preview in Audio Processing or supply a local path when available.</li>
+<li>For prompt variation in many runs, use Wildcards in Style, Music Caption, or Lyrics. Batch folder processing can use the same wildcard syntax to vary each batch output. Keep Auto/Enhance Style and Auto/Enhance Lyrics disabled if you want exact wildcard expressions preserved.</li>
 <li>Save presets and keep <code>generation_manifest.json</code> with outputs.</li>
 <li>For VRAM pressure, use GPU Optimization Preset, quantization, offload controls, smaller duration/count, lower SAM candidates, or a larger GPU.</li>
 <li>Stop/terminate cloud compute and delete storage volumes when the tutorial work is finished.</li>

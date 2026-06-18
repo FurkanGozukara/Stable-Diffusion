@@ -130,9 +130,9 @@ Video Chapters:
 
 <!-- ACESTEP-WRITTEN-TUTORIAL-UPDATE:START -->
 
-## New Full Written Tutorial Package (DOCX, HTML, PDF and 20 Page PNG Guide)
+## Updated Full Written Tutorial Package (v5.3 Wildcards, DOCX, HTML, PDF and 20 Page PNG Guide)
 
-I also prepared a polished written tutorial from the full ACESTEP XL 1.5 video. It uses real screenshots from the actual application, includes the YouTube tutorial thumbnail/link context, and keeps the complete video chapters and transcript below this section.
+I also prepared a polished written tutorial from the full ACESTEP XL 1.5 video and updated it with the new ACE-Step XL 1.5 Premium v5.3 Wildcards feature. It uses real screenshots from the actual application, includes the YouTube tutorial thumbnail/link context, and keeps the complete video chapters and transcript below this section.
 
 ### Download / Open
 
@@ -148,11 +148,22 @@ I also prepared a polished written tutorial from the full ACESTEP XL 1.5 video. 
 
 - Windows setup: downloading the Patreon zip, extracting safely, running `Windows_Install_or_Update.bat`, downloading models, and launching with `Windows_Start_App.bat`.
 - First generation workflow: prompt, lyrics, model choice, duration, guidance/steps, seeds, output folders, metadata, and reusable settings.
+- Wildcards: use `[option A|option B|option C]` in Style, Advanced Music Caption, or Lyrics so one option is picked at generation time; nested wildcards are supported.
+- Wildcards in batch folder processing: batch jobs can vary instruments, moods, hooks, or lyric phrases across outputs without manually editing every run.
+- Wildcards caveat: keep Auto/Enhance Style and Auto/Enhance Lyrics disabled when you need exact wildcard expressions preserved, because those improvement tools may rewrite the prompt text.
 - Model and speed choices: Turbo, SFT, Base, BF16, VRAM presets, Torch Compile, and when each choice matters.
 - Creative tools: Remix, Repaint, Extract, Lego mode, Audio Processing, Auto-Editor timeline export, and SAM Audio text-prompt segmentation.
 - Output management: MP3/WAV/FLAC/MP4 results, manifests, stems, trimmed files, SAM segment folders, and batch processing.
 - Cloud workflows: RunPod, Massed Compute, SimplePod, Jupyter uploads, Gradio Live links, persistent storage, restart behavior, nvitop monitoring, downloading outputs, and deleting rented resources.
 - Practical troubleshooting: bad extraction paths, missing requirements, first-load delays, stale/corrupted VENV handles, connection issues, model verification, and safe reinstall/update behavior.
+
+### v5.3 Wildcards Screenshots
+
+Click either screenshot to open the full-resolution PNG. Embedded previews use `height="700"` with no fixed width.
+
+<a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/wildcards-generate-song-help.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/wildcards-generate-song-help.png" alt="ACE-Step XL 1.5 v5.3 Wildcards in Generate Song Style field" height="700"></a>
+
+<a href="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/wildcards-advanced-caption-lyrics.png"><img src="https://raw.githubusercontent.com/FurkanGozukara/Stable-Diffusion/main/Tutorials/assets/forget-suno-ace-step-xl-15-written-tutorial/wildcards-advanced-caption-lyrics.png" alt="ACE-Step XL 1.5 v5.3 Wildcards in Advanced Music Caption and Lyrics fields" height="700"></a>
 
 ### 20 Page Visual Tutorial
 
