@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### June 24 - 2026
+[1-Click Installers for Paints-UNDO Premium APP, Windows, RunPod, Massed Compute and SimplePod Installers, Torch 2.12.1, CUDA 13](https://www.patreon.com/posts/121228327)
+* 1-Click Installers for Paints-UNDO from lllyasviel. 1-Click Install on Windows, RunPod, Massed Compute and SimplePod with Torch 2.12.1 and CUDA, as low as 7 GB GPUs for 1024px. Official repo here but our APP is improved version : https://github.com/lllyasviel/Paints-UNDO
+
+### June 24 - 2026
 [VisoMaster Fusion and VisoMaster Automatic Installer - The Most Advanced 0-Shot Face Swap / Deep Fake APP - State of the Art - Windows and Massed Compute - Portable Installers](https://www.patreon.com/posts/121570322)
 * 1-Click to install VisoMaster Fusion and VisoMaster classic on Windows and also on Massed Compute (for GPU poor). VisoMaster Fusion is a powerful yet easy-to-use tool for face swapping (FaceSwap/DeepFake) and editing in images and videos. It utilizes AI to produce natural-looking results with minimal effort, making it ideal for both casual users and professionals. We also have Windows portable installer that supports all GPUs with Torch 2.9 and CUDA 12.8.
 
@@ -100,10 +104,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### December 12 - 2025
 [The Very Best SDXL DreamBooth / Fine Tuning Training Configurations - Works on All GPUs Starting from RTX 1000 series to RTX 5000 series - as low as 6 GB GPUs - Results Of 100+ Full Trainings](https://www.patreon.com/posts/89213064)
 * Updated the very best hyper training parameters / configuration and training workflow for Kohya SS GUI for Stable Diffusion XL (SDXL)
-
-### December 8 - 2025
-[1-Click Installers for Paints-UNDO Advanced Gradio APP, Windows, RunPod, Massed Compute and Kaggle Installers](https://www.patreon.com/posts/121228327)
-* 1-Click Installers for Paints-UNDO from lllyasviel. 1-Click Install on Windows (Python 3.10 isolated VENV), RunPod, Massed Compute and a free Kaggle Notebook. Official repo here but our APP is improved version : https://github.com/lllyasviel/Paints-UNDO
 
 ### December 5 - 2025
 [Ostris AI-Toolkit 1-Click Installer for Windows, RunPod & Massed Computer with RTX 1000 to 5000 Series Installer Supporting Cloud GPUs too Like H100, B200, etc](https://www.patreon.com/posts/140089077)
