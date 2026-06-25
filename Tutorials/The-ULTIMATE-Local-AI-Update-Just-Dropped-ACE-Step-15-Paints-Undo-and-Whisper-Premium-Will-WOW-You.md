@@ -9,26 +9,26 @@
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-SECourses-C50C0C?style=for-the-badge&logo=youtube)](https://www.youtube.com/SECourses)  [![Furkan Gözükara LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkangozukara/)   [![Udemy](https://img.shields.io/static/v1?style=for-the-badge&message=Stable%20Diffusion%20Course&color=A435F0&logo=Udemy&logoColor=FFFFFF&label=Udemy)](https://www.udemy.com/course/stable-diffusion-dreambooth-lora-zero-to-hero/?referralCode=E327407C9BDF0CEA8156) [![Twitter Follow Furkan Gözükara](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GozukaraFurkan)
 
-
+## Info
 In this tutorial I show the newer ACE-Step XL 1.5 Premium features, especially the corrected remix workflow that was missing from the previous video. You will see how to remix songs properly, convert lyrics and language, tune remix strength and melody retention, regenerate only selected parts, use the Library metadata system, install the upgraded Paints-Undo pipeline, reduce VRAM usage, and fix repeating lines in Whisper Premium transcriptions.
 
-Important links:
+## Important links:
 
-Download ACESTEP XL Premium files: [ [https://www.patreon.com/posts/ace-step-1-5-xl-premium-157675060](https://www.patreon.com/posts/ace-step-1-5-xl-premium-157675060) ]
+- Download ACESTEP XL Premium files: [ [https://www.patreon.com/posts/ace-step-1-5-xl-premium-157675060](https://www.patreon.com/posts/ace-step-1-5-xl-premium-157675060) ]
 
-Discord: [https://discord.com/invite/software-engineering-courses-secourses-772774097734074388](https://discord.com/invite/software-engineering-courses-secourses-772774097734074388)
+- Discord: [https://discord.com/invite/software-engineering-courses-secourses-772774097734074388](https://discord.com/invite/software-engineering-courses-secourses-772774097734074388)
 
-Google AI Studio: [https://aistudio.google.com/](https://aistudio.google.com/)
+- Google AI Studio: [https://aistudio.google.com/](https://aistudio.google.com/)
 
-Previous ACE-Step tutorial: [ [https://youtu.be/9C_6qNKjgpA](https://youtu.be/9C_6qNKjgpA) ]
+- Previous ACE-Step tutorial: [ [https://youtu.be/9C_6qNKjgpA](https://youtu.be/9C_6qNKjgpA) ]
 
-Windows requirements/setup tutorial: [ [https://youtu.be/DrhUHnYfwC0](https://youtu.be/DrhUHnYfwC0) ]
+- Windows requirements/setup tutorial: [ [https://youtu.be/DrhUHnYfwC0](https://youtu.be/DrhUHnYfwC0) ]
 
-Whisper Premium tutorial: [ [https://youtu.be/4lAk6sf1qF8](https://youtu.be/4lAk6sf1qF8) ]
+- Whisper Premium tutorial: [ [https://youtu.be/4lAk6sf1qF8](https://youtu.be/4lAk6sf1qF8) ]
 
-Download Whisper Premium App Files: [ [https://www.patreon.com/posts/whisper-webui-premium-145395299](https://www.patreon.com/posts/whisper-webui-premium-145395299) ]
+- Download Whisper Premium App Files: [ [https://www.patreon.com/posts/whisper-webui-premium-145395299](https://www.patreon.com/posts/whisper-webui-premium-145395299) ]
 
-Video chapters:
+## Video chapters:
 
 [00:00:00](https://youtu.be/hzKSt5WUAm0?t=0) ACE-Step XL 1.5 Premium update, remix focus, and Paints-Undo preview
 
@@ -124,7 +124,7 @@ Video chapters:
 
 [00:13:19](https://youtu.be/hzKSt5WUAm0?t=799) 29-minute video transcribed in 1.5 minutes, 20x real-time, and closing
 
-This video is for users who want fast local AI music remixing, better generation iteration, image-to-drawing animation, and high quality subtitle transcription. Follow the timestamps to jump directly to ACE-Step remix settings, Paints-Undo installation, low VRAM options, or Whisper repetition penalty tuning.
+- This video is for users who want fast local AI music remixing, better generation iteration, image-to-drawing animation, and high quality subtitle transcription. Follow the timestamps to jump directly to ACE-Step remix settings, Paints-Undo installation, low VRAM options, or Whisper repetition penalty tuning.
 
 
 
