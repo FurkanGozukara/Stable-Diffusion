@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### July 1 - 2026
+[Ultimate Image Captioner Pro - Qwen3 VL 8B Instruct with Full JSON and Text Captioning - Joy Caption Beta 1, Alpha 1& 2, Pre Alpha, Fully Working JSON Prompt Builder, Saved Outputs, 1-Click to Install on Windows, RunPod, Massed Compute, SimplePod, Linux](https://www.patreon.com/posts/162527725)
+* With Ideogram 4 model as you know JSON prompting is now a thing and we need JSON prompts for both inference and training. Therefore, a new app was necessary to solve this issue and I built the very best local app out there for this task. Please read post to see all amazing features.
+
 ### June 24 - 2026
 [1-Click Installers for Paints-UNDO Premium APP, Windows, RunPod, Massed Compute and SimplePod Installers, Torch 2.12.1, CUDA 13](https://www.patreon.com/posts/121228327)
 * 1-Click Installers for Paints-UNDO from lllyasviel. 1-Click Install on Windows, RunPod, Massed Compute and SimplePod with Torch 2.12.1 and CUDA, as low as 7 GB GPUs for 1024px. Official repo here but our APP is improved version : https://github.com/lllyasviel/Paints-UNDO
