@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### July 11 - 2026
+[Ostris AI-Toolkit 1-Click Installers for Windows, RunPod, SimplePod & Massed Compute with Torch 2.13, CUDA 13 for All GPUs With Pre-compiled Wheels](https://www.patreon.com/posts/140089077)
+* Supports Python 3.10, 3.11, 3.12 (recommended), 3.13 . Installed with pre-compiled wheels for : mslk, xformers, flash_attn, sageattention, torchao, for both Windows and Linux with all CUDA 13 features for Torch 2.13 and they are abi3 for python 3.10, 3.11, 3.12, 3.13 . Automatic install on Windows, RunPod, Massed Compute (or local linux machines), Windows . Installs latest official version from https://github.com/ostris/ai-toolkit . 
+
 ### July 1 - 2026
 [Ultimate Image Captioner Pro - Qwen3 VL 8B Instruct with Full JSON and Text Captioning - Joy Caption Beta 1, Alpha 1& 2, Pre Alpha, Fully Working JSON Prompt Builder, Saved Outputs, 1-Click to Install on Windows, RunPod, Massed Compute, SimplePod, Linux](https://www.patreon.com/posts/162527725)
 * With Ideogram 4 model as you know JSON prompting is now a thing and we need JSON prompts for both inference and training. Therefore, a new app was necessary to solve this issue and I built the very best local app out there for this task. Please read post to see all amazing features.
@@ -108,10 +112,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### December 12 - 2025
 [The Very Best SDXL DreamBooth / Fine Tuning Training Configurations - Works on All GPUs Starting from RTX 1000 series to RTX 5000 series - as low as 6 GB GPUs - Results Of 100+ Full Trainings](https://www.patreon.com/posts/89213064)
 * Updated the very best hyper training parameters / configuration and training workflow for Kohya SS GUI for Stable Diffusion XL (SDXL)
-
-### December 5 - 2025
-[Ostris AI-Toolkit 1-Click Installer for Windows, RunPod & Massed Computer with RTX 1000 to 5000 Series Installer Supporting Cloud GPUs too Like H100, B200, etc](https://www.patreon.com/posts/140089077)
-* I have made installers for famous AI Toolkit by Ostris : https://github.com/ostris/ai-toolkit .My installer installs with Flash Attention 2.8.3, Sage Attention 2.2.0, xFormers 0.0.33, CUDA 12.9 and Torch 2.8, Triton 3.4 that are compiled for GPUs starting from RTX 1000 to 5000 series and also Cloud GPUs like A100, H200, B200, etc for both Linux and Windows
 
 ### December 3 - 2025
 [SAM 3D Objects Windows, RunPod and Massed Compute 1-click Installer and Premium SECourses Gradio App for Meta Research SAM 3D Objects](https://www.patreon.com/posts/144931360)
