@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### July 11 - 2026
+[ACE-Step 1.5 XL Premium - Better Music & Song Generator Than SUNO 5.0 - Remix and Repaint Features, SAM Audio Processing - Windows, RunPod, Massed Compute, Linux 1-click Installers](https://www.patreon.com/posts/157675060)
+* This app has the following repos perfectly combined into our premium app with additional improvements and features such as optimized model loading, VRAM, quality, accuracy and performance optimizations, batch folder processing and many more (all models automatically downloaded and everything installed into a Python 3.11 VENV). ACEStep / Ace Step 1.5 XL is the newest State Of The Art (SOTA) Music and Song generator model. It has 3 variants and we support all 3 variants (Turbo, SFT, Base) with fully automatic setup, models download, VRAM presets for all GPUs starting from 4 GB and with all best researched generation values / settings / configurations.
+
+### July 11 - 2026
 [Ostris AI-Toolkit 1-Click Installers for Windows, RunPod, SimplePod & Massed Compute with Torch 2.13, CUDA 13 for All GPUs With Pre-compiled Wheels](https://www.patreon.com/posts/140089077)
 * Supports Python 3.10, 3.11, 3.12 (recommended), 3.13 . Installed with pre-compiled wheels for : mslk, xformers, flash_attn, sageattention, torchao, for both Windows and Linux with all CUDA 13 features for Torch 2.13 and they are abi3 for python 3.10, 3.11, 3.12, 3.13 . Automatic install on Windows, RunPod, Massed Compute (or local linux machines), Windows . Installs latest official version from https://github.com/ostris/ai-toolkit . 
 
