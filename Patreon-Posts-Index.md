@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### July 12 - 2026
+[SECourses Musubi Tuner - 1-Click to Install App for LoRA Training and Full Fine Tuning Krea 2, Ideogram 4, Qwen Image, Qwen Image Edit, Wan 2.1 and Wan 2.2, FLUX Klein, FLUX 2, Z Image Base and Turbo Models with Musubi Tuner with Ready Presets](https://www.patreon.com/posts/137551634)
+* Please read the post above in details. It supports all popular models training both on Windows and Linux with Torch 2.13, CUDA 13 and Torch Compile with ready presets. Moreover, it has built-in most amazing model Quantizer with Int 8 Row ConvRot. Moreover, it has Qwen Image captioner as well.
+
+### July 12 - 2026
 [ACE-Step 1.5 XL Premium - Better Music & Song Generator Than SUNO 5.0 - Remix and Repaint Features, SAM Audio Processing - Windows, RunPod, Massed Compute, Linux 1-click Installers](https://www.patreon.com/posts/157675060)
 * This app has the following repos perfectly combined into our premium app with additional improvements and features such as optimized model loading, VRAM, quality, accuracy and performance optimizations, batch folder processing and many more (all models automatically downloaded and everything installed into a Python 3.11 VENV). ACEStep / Ace Step 1.5 XL is the newest State Of The Art (SOTA) Music and Song generator model. It has 3 variants and we support all 3 variants (Turbo, SFT, Base) with fully automatic setup, models download, VRAM presets for all GPUs starting from 4 GB and with all best researched generation values / settings / configurations.
 
@@ -68,10 +72,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### April 27 - 2026
 [1 Click Installer for Automatic1111 SD Web UI, SDXL, ControlNet, All ControlNet Models, Full xFormers and Latest Libraries Support for RTX 5000 Series GPUs and All Other GPUs With Torch 2.8 and CUDA 12.9](https://www.patreon.com/posts/86307255)
 * Famous classic Automatic1111 modified to work on newest RTX 5000 series GPUs with Torch 2.8 and CUDA 12.9 and xFormers 0.33 with supporting ADetailer, Deforum and ControlNet extensions. Fully automated to install. Works on Windows and Linux. Supports RTX 1000 to 5000 series including cloud GPUs.
-
-### April 20 - 2026
-[SECourses Musubi Tuner - 1-Click to Install App for LoRA Training and Full Fine Tuning Qwen Image, Qwen Image Edit, Wan 2.1 and Wan 2.2, FLUX Klein, FLUX 2, Z Image Base and Turbo Models with Musubi Tuner with Ready Presets](https://www.patreon.com/posts/137551634)
-* Extremely detailed info provided in the post please read it carefully and screenshots of the app is here : https://www.reddit.com/r/SECourses/comments/1n2qo9g/secourses_musubi_tuner_v1_published_a_training/. It supports all Wan 2.1, Wan 2.2, Qwen 2509, 2511, 2512 and older models trainings.
 
 ### April 10 - 2026
 [MMAudio 1-Click Installers for Windows, RunPod and Massed Compute - Generate Audio for Any Video - Amazing for AI Generated Videos](https://www.patreon.com/posts/117990364)
