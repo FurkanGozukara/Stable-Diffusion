@@ -29,6 +29,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 [Hugging Face Upload / Download Notebook - Supports Private Repositories and Multi Commit as Well](https://www.patreon.com/posts/104672510)
 * If you are looking for convenient and fast way to save and download your files from Hugging Face, this notebook will do the job. 1-click easy
 
+### July 19 - 2026
+[SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation](https://www.patreon.com/posts/114517862)
+* 1-Click to install SwarmUI and Unified AI Models Downloader for SwarmUI, ComfyUI, Automatic1111 and Forge Web UI - Supports SD 1.5, SDXL, FLUX, Wan 2.1, Wan 2.2, Qwen Image, SwarmUI presets to generate images and videos with FLUX, Qwen Image, SDXL and Wan 2.1, Wan 2.2 Models and more. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
+
 ### July 15 - 2026
 [SECourses Musubi Tuner - 1-Click to Install App for LoRA Training and Full Fine Tuning Krea 2, Ideogram 4, Qwen Image, Qwen Image Edit, Wan 2.1 and Wan 2.2, FLUX Klein, FLUX 2, Z Image Base and Turbo Models with Musubi Tuner with Ready Presets](https://www.patreon.com/posts/137551634)
 * Please read the post above in details. It supports all popular models training both on Windows and Linux with Torch 2.13, CUDA 13 and Torch Compile with ready presets. Moreover, it has built-in most amazing model Quantizer with Int 8 Row ConvRot. Moreover, it has Qwen Image captioner as well.
@@ -48,10 +52,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### July 1 - 2026
 [Ultimate Image Captioner Pro - Qwen3 VL 8B Instruct with Full JSON and Text Captioning - Joy Caption Beta 1, Alpha 1& 2, Pre Alpha, Fully Working JSON Prompt Builder, Saved Outputs, 1-Click to Install on Windows, RunPod, Massed Compute, SimplePod, Linux](https://www.patreon.com/posts/162527725)
 * With Ideogram 4 model as you know JSON prompting is now a thing and we need JSON prompts for both inference and training. Therefore, a new app was necessary to solve this issue and I built the very best local app out there for this task. Please read post to see all amazing features.
-
-### July 1 - 2026
-[SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation](https://www.patreon.com/posts/114517862)
-* 1-Click to install SwarmUI and Unified AI Models Downloader for SwarmUI, ComfyUI, Automatic1111 and Forge Web UI - Supports SD 1.5, SDXL, FLUX, Wan 2.1, Wan 2.2, Qwen Image, SwarmUI presets to generate images and videos with FLUX, Qwen Image, SDXL and Wan 2.1, Wan 2.2 Models and more. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
 
 ### June 24 - 2026
 [1-Click Installers for Paints-UNDO Premium APP, Windows, RunPod, Massed Compute and SimplePod Installers, Torch 2.12.1, CUDA 13](https://www.patreon.com/posts/121228327)
