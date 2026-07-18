@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### July 19 - 2026
+[Hugging Face Upload / Download Notebook - Supports Private Repositories and Multi Commit as Well](https://www.patreon.com/posts/104672510)
+* If you are looking for convenient and fast way to save and download your files from Hugging Face, this notebook will do the job. 1-click easy
+
 ### July 15 - 2026
 [SECourses Musubi Tuner - 1-Click to Install App for LoRA Training and Full Fine Tuning Krea 2, Ideogram 4, Qwen Image, Qwen Image Edit, Wan 2.1 and Wan 2.2, FLUX Klein, FLUX 2, Z Image Base and Turbo Models with Musubi Tuner with Ready Presets](https://www.patreon.com/posts/137551634)
 * Please read the post above in details. It supports all popular models training both on Windows and Linux with Torch 2.13, CUDA 13 and Torch Compile with ready presets. Moreover, it has built-in most amazing model Quantizer with Int 8 Row ConvRot. Moreover, it has Qwen Image captioner as well.
@@ -272,10 +276,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### March 15 - 2025
 [Most Advanced 1-Click DeepFake / FaceSwap App Rope, Rope Live, Rope Alucard and Rope NEXT Installers for Windows and Massed Compute and Linux](https://www.patreon.com/posts/105123768)
 * The easiest and most powerful 1-click DeepFake / FaceSwap open source app Rope, Rope Live, Rope Alucard and Rope NEXT installers for Windows, Massed Compute (Cloud), Linux and a lot of configurations and test results shared
-  
-### March 13 - 2025
-[Hugging Face Upload / Download Notebook - Supports Private Repositories and Multi Commit as Well](https://www.patreon.com/posts/104672510)
-* If you are looking for convenient and fast way to save and download your files from Hugging Face, this notebook will do the job. 1-click easy
 
 ### Feburary 25 - 2025
 [Gradio APP for Deterministic Text and Graphs Having Images Upscaling based on ImageMagick - Windows, RunPod, Massed Compute](https://www.patreon.com/posts/123071348)
