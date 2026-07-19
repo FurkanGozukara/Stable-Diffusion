@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### July 19 - 2026
+[Ultimate Image Captioner Pro - Qwen3 VL 8B Instruct with Full JSON and Text Captioning - Joy Caption Beta 1, Alpha 1& 2, Pre Alpha, Fully Working JSON Prompt Builder, Saved Outputs, 1-Click to Install on Windows, RunPod, Massed Compute, SimplePod, Linux](https://www.patreon.com/posts/162527725)
+* With Ideogram 4 model as you know JSON prompting is now a thing and we need JSON prompts for both inference and training. Therefore, a new app was necessary to solve this issue and I built the very best local app out there for this task. Please read post to see all amazing features.
+
+### July 19 - 2026
 [ComfyUI Auto Installer with Torch 2.13, CUDA 13, FaceID, IP-Adapter, InsightFace, Reactor, Triton, DeepSpeed, Flash Attention, Sage Attention, xFormers, MSLK, TorchAO Including RTX 5000 Series, Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
 * This installer always pulls the latest ComfyUI and supports Python 3.10–3.13 on Windows (Linux: 3.10 only), bundling precompiled Torch 2.13, CUDA 13, FlashAttention, SageAttention, Triton, InsightFace, xFormers, MSLK (mandatory for xFormers), Segment Anything, Segment Anything 2 (SAM2) and DeepSpeed compiled for GPU archs SM80, SM86, SM89, SM90a, SM100a, SM103a, SM120a, SM121a, enabling broad support from RTX 1000–5000 and cloud GPUs (A100, H100, B200), tested on 3090 Ti/5090 and in the cloud; it also installs huggingface_hub, hf_transfer, hf_xet, accelerate, diffusers, onnxruntime-gpu, piexif, requests, and ultralytics 8.3.197 (fixes YOLO use in SwarmUI), beta57, bong_tangent, res_2s, automatically adds ComfyUI-Manager, ComfyUI_IPAdapter_plus, and ComfyUI-GGUF, and provides an update script to refresh everything; on RunPod and Massed Compute it auto-installs ComfyUI-ReActor and ComfyUI-Impact-Pack (on Windows use the provided BAT files), works seamlessly on Windows, Massed Compute (Creator > SECourses image), and RunPod (PyTorch 2.2.0 template) with ngrok/proxy support, and uses a dedicated virtual environment for a 100% isolated installation that won’t affect other AI apps or your system. https://youtu.be/fTzlQ0tjxj0
 
@@ -48,10 +52,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### July 11 - 2026
 [Ostris AI-Toolkit 1-Click Installers for Windows, RunPod, SimplePod & Massed Compute with Torch 2.13, CUDA 13 for All GPUs With Pre-compiled Wheels](https://www.patreon.com/posts/140089077)
 * Supports Python 3.10, 3.11, 3.12 (recommended), 3.13 . Installed with pre-compiled wheels for : mslk, xformers, flash_attn, sageattention, torchao, for both Windows and Linux with all CUDA 13 features for Torch 2.13 and they are abi3 for python 3.10, 3.11, 3.12, 3.13 . Automatic install on Windows, RunPod, Massed Compute (or local linux machines), Windows . Installs latest official version from https://github.com/ostris/ai-toolkit . 
-
-### July 1 - 2026
-[Ultimate Image Captioner Pro - Qwen3 VL 8B Instruct with Full JSON and Text Captioning - Joy Caption Beta 1, Alpha 1& 2, Pre Alpha, Fully Working JSON Prompt Builder, Saved Outputs, 1-Click to Install on Windows, RunPod, Massed Compute, SimplePod, Linux](https://www.patreon.com/posts/162527725)
-* With Ideogram 4 model as you know JSON prompting is now a thing and we need JSON prompts for both inference and training. Therefore, a new app was necessary to solve this issue and I built the very best local app out there for this task. Please read post to see all amazing features.
 
 ### June 24 - 2026
 [1-Click Installers for Paints-UNDO Premium APP, Windows, RunPod, Massed Compute and SimplePod Installers, Torch 2.12.1, CUDA 13](https://www.patreon.com/posts/121228327)
