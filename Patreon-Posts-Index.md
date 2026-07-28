@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### July 28 - 2026
+[Ultimate Image Processing APP Premium by SECourses : Batch Cropping, Zooming In, Resizing, Duplicate Image Removing, Face Extraction, SAM 2, SAM 3.1 and Yolo Segmentation, Masking for Windows, RunPod, Massed Compute](https://www.patreon.com/posts/120352012)
+* Batch Image Cropping, Zooming Subject, Resizing, Segmenting, Masking, Duplicate Removing APP that utilizes YOLO V26, YOLO Face V12, SAM 2, SAM 3.1 with 1-click installers for Windows, RunPod, SimplePod and Massed Compute (Linux users use this). You can see all features in this public post : https://www.patreon.com/posts/120353641
+
+### July 28 - 2026
 [VisoMaster Fusion and VisoMaster Automatic Installer - The Most Advanced 0-Shot Face Swap / Deep Fake APP - State of the Art - Windows and Massed Compute - Portable Installers](https://www.patreon.com/posts/121570322)
 * 1-Click to install VisoMaster Fusion and VisoMaster classic on Windows and also on Massed Compute (for GPU poor). VisoMaster Fusion is a powerful yet easy-to-use tool for face swapping (FaceSwap/DeepFake) and editing in images and videos. It utilizes AI to produce natural-looking results with minimal effort, making it ideal for both casual users and professionals. We also have Windows portable installer that supports all GPUs with Torch 2.13 and CUDA 13. Moreover it has DeepFace Lab models full support and so many extra amazing features compared to what is out there in other repos.
 
@@ -140,10 +144,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### November 17 - 2025
 [Hi3DGen Image to 3D Mesh Generator (SOTA) Ultra Advanced App - 1-Click to Install on Windows, RunPod, Massed Compute + Batch Processing, Better than Trellis, Hunyuan3D-2.0, TripoSG](https://www.patreon.com/posts/130766890)
 * 1-Click Windows, RunPod and Massed Compute installers for Hi3DGen + SECourses developed ultra advanced App that supports batch processing + RTX 5000 series. Our installer and app utilizes Flash Attention as well and works on all GPUs especially tested on RTX 3000 and above. Moreover, our app is ultra VRAM optimizedç Hi3DGen is the SOTA app for image to 3D mesh generation at the moment better than Trellis, Hunyuan3D-2.0 and TripoSG.
-
-### November 10 - 2025
-[Ultimate Image Processing APP : Batch Cropping, Zooming In, Resizing, Duplicate Image Removing, Face Extraction, SAM 2 and Yolo Segmentation, Masking for Windows, RunPod, Massed Compute and Free Kaggle Account](https://www.patreon.com/posts/120352012)
-* If you want to batch pre-process your training images, like auto zoom subject and resize perfectly into exact resolution, this is the script you need. 1-Click to install and use on Windows, RunPod and Massed Comput and even Kaggle. It supports YOLO V11 and SAM 2. Moreover it has even duplicate image removing as well. You can see all features in this public post : https://www.patreon.com/posts/120353641
 
 ### October 23 - 2025
 [VAST-AI-Research TripoSR Premium Gradio App With 1-Click Installers for Windows, RunPod and Massed Compute - Supports RTX 5000 series GPUs as Well](https://www.patreon.com/posts/141896910)
