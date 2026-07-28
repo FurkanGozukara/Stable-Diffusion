@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### July 28 - 2026
+[VisoMaster Fusion and VisoMaster Automatic Installer - The Most Advanced 0-Shot Face Swap / Deep Fake APP - State of the Art - Windows and Massed Compute - Portable Installers](https://www.patreon.com/posts/121570322)
+* 1-Click to install VisoMaster Fusion and VisoMaster classic on Windows and also on Massed Compute (for GPU poor). VisoMaster Fusion is a powerful yet easy-to-use tool for face swapping (FaceSwap/DeepFake) and editing in images and videos. It utilizes AI to produce natural-looking results with minimal effort, making it ideal for both casual users and professionals. We also have Windows portable installer that supports all GPUs with Torch 2.13 and CUDA 13. Moreover it has DeepFace Lab models full support and so many extra amazing features compared to what is out there in other repos.
+
 ### July 19 - 2026
 [Ultimate Image Captioner Pro - Qwen3 VL 8B Instruct with Full JSON and Text Captioning - Joy Caption Beta 1, Alpha 1& 2, Pre Alpha, Fully Working JSON Prompt Builder, Saved Outputs, 1-Click to Install on Windows, RunPod, Massed Compute, SimplePod, Linux](https://www.patreon.com/posts/162527725)
 * With Ideogram 4 model as you know JSON prompting is now a thing and we need JSON prompts for both inference and training. Therefore, a new app was necessary to solve this issue and I built the very best local app out there for this task. Please read post to see all amazing features.
@@ -56,10 +60,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### June 24 - 2026
 [1-Click Installers for Paints-UNDO Premium APP, Windows, RunPod, Massed Compute and SimplePod Installers, Torch 2.12.1, CUDA 13](https://www.patreon.com/posts/121228327)
 * 1-Click Installers for Paints-UNDO from lllyasviel. 1-Click Install on Windows, RunPod, Massed Compute and SimplePod with Torch 2.12.1 and CUDA, as low as 7 GB GPUs for 1024px. Official repo here but our APP is improved version : https://github.com/lllyasviel/Paints-UNDO
-
-### June 24 - 2026
-[VisoMaster Fusion and VisoMaster Automatic Installer - The Most Advanced 0-Shot Face Swap / Deep Fake APP - State of the Art - Windows and Massed Compute - Portable Installers](https://www.patreon.com/posts/121570322)
-* 1-Click to install VisoMaster Fusion and VisoMaster classic on Windows and also on Massed Compute (for GPU poor). VisoMaster Fusion is a powerful yet easy-to-use tool for face swapping (FaceSwap/DeepFake) and editing in images and videos. It utilizes AI to produce natural-looking results with minimal effort, making it ideal for both casual users and professionals. We also have Windows portable installer that supports all GPUs with Torch 2.9 and CUDA 12.8.
 
 ### June 15 - 2026
 [Whisper-WebUI Premium - Ultra Fast and High Accuracy Speech to Text Transcripton App for All Languages - Windows, RunPod, Massed Compute 1-Click Installers - Supporting RTX 1000 to 5000 series](https://www.patreon.com/posts/145395299)
