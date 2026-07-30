@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### July 30 - 2026
+[TRELLIS 1-Click Installers for Windows, RunPod, Massed Compute, Torch 2.13 and CUDA 13, Image to 3D, Multi-Image Input Support](https://www.patreon.com/posts/117470976)
+* 1-Click Windows, RunPod, Massed Compute, SimplePod installers for TRELLIS: Structured 3D Latents for Scalable and Versatile 3D Generation with pre-compiled wheels for Torch 2.13 and CUDA 13, with low VRAM presets
+
 ### July 28 - 2026
 [Ultimate Image Processing APP Premium by SECourses : Batch Cropping, Zooming In, Resizing, Duplicate Image Removing, Face Extraction, SAM 2, SAM 3.1 and Yolo Segmentation, Masking for Windows, RunPod, Massed Compute](https://www.patreon.com/posts/120352012)
 * Batch Image Cropping, Zooming Subject, Resizing, Segmenting, Masking, Duplicate Removing APP that utilizes YOLO V26, YOLO Face V12, SAM 2, SAM 3.1 with 1-click installers for Windows, RunPod, SimplePod and Massed Compute (Linux users use this). You can see all features in this public post : https://www.patreon.com/posts/120353641
@@ -236,10 +240,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### May 15 - 2025
 [Virtual Try-on (IDM-VTON) 1 Click Installers - Try Any Clothing Immediately On Anyone - Windows - RunPod - Massed Compute - Kaggle - Works even on Object Transfer](https://www.patreon.com/posts/122718239)
 * 1 Click installers for IDM-VTON (the one of the very best virtual try on clothing and anything) for Windows, RunPod, Massed Compute and a free Kaggle account. Our app also has extra features compared to official IDVM-VTON. It automatically crops and paste back images and supports quantization and CPU offloading. Public post for more info : https://www.patreon.com/posts/122721073
-
-### May 15 - 2025
-[TRELLIS 1-Click Installers for Windows, RunPod, Massed Compute, New SOTA Image-to-3D Full Model - Mind Blowing](https://www.patreon.com/posts/117470976)
-* 1-Click installers to install TRELLIS on Windows, RunPod and Massed Compute. https://github.com/microsoft/TRELLIS. This is the SOTA model for image to full 3D generation and it is blazing fast
 
 ### May 14 - 2025
 [Tencent InstantCharacter 1-Click Installers for Windows, RunPod and Massed Compute, Supports RTX 5000 series as well](https://www.patreon.com/posts/126995127)
