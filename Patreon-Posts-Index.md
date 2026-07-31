@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### August 1 - 2026
+[SECourses Musubi Tuner - 1-Click to Install App for LoRA Training and Full Fine Tuning Krea 2, Ideogram 4, Qwen Image, Qwen Image Edit, Wan 2.1 and Wan 2.2, FLUX Klein, FLUX 2, Z Image Base and Turbo Models with Musubi Tuner with Ready Presets](https://www.patreon.com/posts/137551634)
+* Please read the post above in details. It supports all popular models training both on Windows and Linux with Torch 2.13, CUDA 13 and Torch Compile with ready presets. Moreover, it has built-in most amazing model Quantizer with Int 8 Row ConvRot. Moreover, it has Qwen Image captioner as well.
+
 ### July 30 - 2026
 [Ostris AI-Toolkit 1-Click Installers for Windows, RunPod, SimplePod & Massed Compute with Torch 2.13, CUDA 13 for All GPUs With Pre-compiled Wheels](https://www.patreon.com/posts/140089077)
 * Supports Python 3.10, 3.11, 3.12 (recommended), 3.13 . Installed with pre-compiled wheels for : mslk, xformers, flash_attn, sageattention, torchao, for both Windows and Linux with all CUDA 13 features for Torch 2.13 and they are abi3 for python 3.10, 3.11, 3.12, 3.13 . Automatic install on Windows, RunPod, Massed Compute (or local linux machines), Windows . Installs latest official version from https://github.com/ostris/ai-toolkit . 
@@ -52,10 +56,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### July 19 - 2026
 [SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation](https://www.patreon.com/posts/114517862)
 * 1-Click to install SwarmUI and Unified AI Models Downloader for SwarmUI, ComfyUI, Automatic1111 and Forge Web UI - Supports SD 1.5, SDXL, FLUX, Wan 2.1, Wan 2.2, Qwen Image, SwarmUI presets to generate images and videos with FLUX, Qwen Image, SDXL and Wan 2.1, Wan 2.2 Models and more. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
-
-### July 15 - 2026
-[SECourses Musubi Tuner - 1-Click to Install App for LoRA Training and Full Fine Tuning Krea 2, Ideogram 4, Qwen Image, Qwen Image Edit, Wan 2.1 and Wan 2.2, FLUX Klein, FLUX 2, Z Image Base and Turbo Models with Musubi Tuner with Ready Presets](https://www.patreon.com/posts/137551634)
-* Please read the post above in details. It supports all popular models training both on Windows and Linux with Torch 2.13, CUDA 13 and Torch Compile with ready presets. Moreover, it has built-in most amazing model Quantizer with Int 8 Row ConvRot. Moreover, it has Qwen Image captioner as well.
 
 ### July 15 - 2026
 [Stable Diffusion WebUI Forge - NEO (Up-to-Date and Maintained Forge Web UI) 1-Click installers for Windows, RunPod, Massed Compute, Supports all GPUs starting from RTX 1000 to 5000 and Cloud GPUs - Torch 2.13.0 and CUDA 13 and Flash Attention and xFormers and Smart Launcher](https://www.patreon.com/posts/138694680)
