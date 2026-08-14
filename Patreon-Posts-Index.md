@@ -21,8 +21,8 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
-### August 1 - 2026
-[SECourses Musubi Tuner - 1-Click to Install App for LoRA Training and Full Fine Tuning Krea 2, Ideogram 4, Qwen Image, Qwen Image Edit, Wan 2.1 and Wan 2.2, FLUX Klein, FLUX 2, Z Image Base and Turbo Models with Musubi Tuner with Ready Presets](https://www.patreon.com/posts/137551634)
+### August 15 - 2026
+[SECourses Musubi Tuner - 1-Click to Install App for LoRA Training and Full Fine Tuning Krea 2, Ideogram 4, Qwen Image, Qwen Image Edit, Wan 2.1 and Wan 2.2, FLUX Klein, FLUX 2, Z Image, LTX 2.3, MiniMax H3 and Turbo Models with Musubi Tuner with Ready Presets](https://www.patreon.com/posts/137551634)
 * Please read the post above in details. It supports all popular models training both on Windows and Linux with Torch 2.13, CUDA 13 and Torch Compile with ready presets. Moreover, it has built-in most amazing model Quantizer with Int 8 Row ConvRot. Moreover, it has Qwen Image captioner as well.
 
 ### July 30 - 2026
