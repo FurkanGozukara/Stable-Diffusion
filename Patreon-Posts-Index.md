@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### September 30 - 2026
+[Whisper-WebUI Premium - Ultra Fast and High Accuracy Speech to Text Transcripton App for All Languages - Windows, RunPod, Massed Compute 1-Click Installers - Supporting RTX 1000 to 5000 series](https://www.patreon.com/posts/145395299)
+* 1-Click installers for Whisper-WebUI Premium. You can use this app to transcribe your Audio into literally 100 languages. This is currently state of the art open source speech to text app. Features : It has better interface, more features, default settings set for maximum accuracy. It will show transcription realtime both on Gradio interface and also on CMD. After deep scan of the entire pipeline, default parameters are set for maximum accuracy and quality. 1-Click installers for Windows local PC, RunPod (Linux-Cloud) and Massed Compute (Linux-Cloud). The app the installers are made for RTX 1000 series to RTX 5000 series with pre-compiled libraries. We install with Torch 2.8, CUDA 12.9, latest Flash Attention, Sage Attention, xFormers - all precompiled. As low as 6 GB VRAM GPUs can use
+
+### September 30 - 2026
 [Ostris AI-Toolkit 1-Click Installers for Windows, RunPod, SimplePod & Massed Compute with Torch 2.13, CUDA 13 for All GPUs With Pre-compiled Wheels](https://www.patreon.com/posts/140089077)
 * Supports Python 3.10, 3.11, 3.12 (recommended), 3.13 . Installed with pre-compiled wheels for : mslk, xformers, flash_attn, sageattention, torchao, for both Windows and Linux with all CUDA 13 features for Torch 2.13 and they are abi3 for python 3.10, 3.11, 3.12, 3.13 . Automatic install on Windows, RunPod, Massed Compute (or local linux machines), Windows . Installs latest official version from https://github.com/ostris/ai-toolkit . 
 
@@ -76,10 +80,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### June 24 - 2026
 [1-Click Installers for Paints-UNDO Premium APP, Windows, RunPod, Massed Compute and SimplePod Installers, Torch 2.12.1, CUDA 13](https://www.patreon.com/posts/121228327)
 * 1-Click Installers for Paints-UNDO from lllyasviel. 1-Click Install on Windows, RunPod, Massed Compute and SimplePod with Torch 2.12.1 and CUDA, as low as 7 GB GPUs for 1024px. Official repo here but our APP is improved version : https://github.com/lllyasviel/Paints-UNDO
-
-### June 15 - 2026
-[Whisper-WebUI Premium - Ultra Fast and High Accuracy Speech to Text Transcripton App for All Languages - Windows, RunPod, Massed Compute 1-Click Installers - Supporting RTX 1000 to 5000 series](https://www.patreon.com/posts/145395299)
-* 1-Click installers for Whisper-WebUI Premium. You can use this app to transcribe your Audio into literally 100 languages. This is currently state of the art open source speech to text app. Features : It has better interface, more features, default settings set for maximum accuracy. It will show transcription realtime both on Gradio interface and also on CMD. After deep scan of the entire pipeline, default parameters are set for maximum accuracy and quality. 1-Click installers for Windows local PC, RunPod (Linux-Cloud) and Massed Compute (Linux-Cloud). The app the installers are made for RTX 1000 series to RTX 5000 series with pre-compiled libraries. We install with Torch 2.8, CUDA 12.9, latest Flash Attention, Sage Attention, xFormers - all precompiled. As low as 6 GB VRAM GPUs can use
 
 ### May 24 - 2026
 [Pre-Compiled Most Important AI Libraries : Flash Attention](https://www.patreon.com/posts/159064759)
