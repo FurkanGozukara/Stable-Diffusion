@@ -21,9 +21,9 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
-### October 1 - 2026
-[IndexTTS-2.5 SECourses Premium Voice Cloning, Training and Generation App - 1-Click to Install on Windows, RunPod and Massed Compute - Generate Entire Audiobooks With Consistent High Quality Voice](https://www.patreon.com/posts/139297407)
-* Read post for more information. Example video : https://youtu.be/6cH-6JaBMnM
+### October 5 - 2026
+[Ultimate Text To Speech Generator With Voice Cloning - OmniVoice, Index TTS 2.5, Tencent AuK - Voice Training is better than ElevenLabs](https://www.patreon.com/posts/139297407)
+* Read post for more information. Example video : https://youtu.be/jf5IlYaJvdc
 
 ### September 30 - 2026
 [Whisper-WebUI Premium - Ultra Fast and High Accuracy Speech to Text Transcripton App for All Languages - Windows, RunPod, Massed Compute 1-Click Installers - Supporting RTX 1000 to 5000 series](https://www.patreon.com/posts/145395299)
