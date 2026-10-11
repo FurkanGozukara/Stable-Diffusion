@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### October 12 - 2026
+[ACE-Step 1.5 XL Premium - Better Music & Song Generator Than SUNO 5.0 - Remix and Repaint Features, SAM Audio Processing - Windows, RunPod, Massed Compute, Linux 1-click Installers](https://www.patreon.com/posts/157675060)
+* This app has the following repos perfectly combined into our premium app with additional improvements and features such as optimized model loading, VRAM, quality, accuracy and performance optimizations, batch folder processing and many more (all models automatically downloaded and everything installed into a Python 3.11 VENV). ACEStep / Ace Step 1.5 XL is the newest State Of The Art (SOTA) Music and Song generator model. It has 3 variants and we support all 3 variants (Turbo, SFT, Base) with fully automatic setup, models download, VRAM presets for all GPUs starting from 4 GB and with all best researched generation values / settings / configurations.
+
 ### October 5 - 2026
 [Ultimate Text To Speech Generator With Voice Cloning - OmniVoice, Index TTS 2.5, Tencent AuK - Voice Training is better than ElevenLabs](https://www.patreon.com/posts/139297407)
 * Read post for more information. Example video : https://youtu.be/jf5IlYaJvdc
@@ -72,10 +76,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### July 15 - 2026
 [Stable Diffusion WebUI Forge - NEO (Up-to-Date and Maintained Forge Web UI) 1-Click installers for Windows, RunPod, Massed Compute, Supports all GPUs starting from RTX 1000 to 5000 and Cloud GPUs - Torch 2.13.0 and CUDA 13 and Flash Attention and xFormers and Smart Launcher](https://www.patreon.com/posts/138694680)
 * I have prepared literally 1-click installers and GPU specific automatic optimizer ran files. My installer will install with Torch 2.13 and CUDA 13 + pre-compiled xFormers, Flash Attention, Sage Attention and InsightFace and TorchAO. My precompiled libraries are compiled with support of all consumer GPUs + cloud GPUs for Python 3.10, 3.11, 3.12, 3.13. Currently installer installs with Python 3.13 since it is recommended so have Python 3.13 as well in your system. I have developed smart_launch.py and it will be used to launch the app on Windows, RunPod and Massed Compute and it will automatically add optimization parameters according to your GPU. The Windows bat files and RunPod and Massed Compute scripts will use it by default so don't worry just use installer files and launch files, Smart launcher supports all GPUs like RTX 1000, 2000, 3000, 4000 and 5000 series or cloud GPUs like H100, RTX PRO 6000, etc. Currently scripts are set to start with disabled Sage Attention since it produces lower quality outputs. If you enable, enable like this : --sage2-function fp16_triton. To download models quickly you can use our Unified Model Downloader (updated to support this app) : https://www.patreon.com/posts/114517862
-
-### July 12 - 2026
-[ACE-Step 1.5 XL Premium - Better Music & Song Generator Than SUNO 5.0 - Remix and Repaint Features, SAM Audio Processing - Windows, RunPod, Massed Compute, Linux 1-click Installers](https://www.patreon.com/posts/157675060)
-* This app has the following repos perfectly combined into our premium app with additional improvements and features such as optimized model loading, VRAM, quality, accuracy and performance optimizations, batch folder processing and many more (all models automatically downloaded and everything installed into a Python 3.11 VENV). ACEStep / Ace Step 1.5 XL is the newest State Of The Art (SOTA) Music and Song generator model. It has 3 variants and we support all 3 variants (Turbo, SFT, Base) with fully automatic setup, models download, VRAM presets for all GPUs starting from 4 GB and with all best researched generation values / settings / configurations.
 
 ### June 24 - 2026
 [1-Click Installers for Paints-UNDO Premium APP, Windows, RunPod, Massed Compute and SimplePod Installers, Torch 2.12.1, CUDA 13](https://www.patreon.com/posts/121228327)
