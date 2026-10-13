@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### October 14 - 2026
+[1-Click Windows and Linux (Ubuntu 22, 24, 26) AI Requirements Installers - Setup Your PC and Make It Ready for All Local AI Apps, Scripts, and More](https://www.patreon.com/SECourses/posts/172290854)
+* Our AI Requirements Installers set up a Windows or Ubuntu PC for all our AI apps: one click on Windows, one command on Ubuntu. They install the latest NVIDIA driver, Python 3.10 to 3.14, CUDA 12.9 and 13.2, cuDNN 9.20, the C++ compilers, Git, Node.js, .NET and FFmpeg, set every path and variable, test everything for real and show the result in a clear report.
+
 ### October 12 - 2026
 [ACE-Step 1.5 XL Premium - Better Music & Song Generator Than SUNO 5.0 - Remix and Repaint Features, SAM Audio Processing - Windows, RunPod, Massed Compute, Linux 1-click Installers](https://www.patreon.com/posts/157675060)
 * This app has the following repos perfectly combined into our premium app with additional improvements and features such as optimized model loading, VRAM, quality, accuracy and performance optimizations, batch folder processing and many more (all models automatically downloaded and everything installed into a Python 3.11 VENV). ACEStep / Ace Step 1.5 XL is the newest State Of The Art (SOTA) Music and Song generator model. It has 3 variants and we support all 3 variants (Turbo, SFT, Base) with fully automatic setup, models download, VRAM presets for all GPUs starting from 4 GB and with all best researched generation values / settings / configurations.
