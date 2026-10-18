@@ -22,6 +22,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ## Patreon Exclusive Content 
 
 ### October 18 - 2026
+[SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation](https://www.patreon.com/posts/114517862)
+* 1-Click to install SwarmUI and Unified AI Models Downloader for SwarmUI, ComfyUI, Automatic1111 and Forge Web UI - Supports SD 1.5, SDXL, FLUX, Wan 2.1, Wan 2.2, Qwen Image, SwarmUI presets to generate images and videos with FLUX, Qwen Image, SDXL and Wan 2.1, Wan 2.2 Models and more. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
+
+### October 18 - 2026
 [ComfyUI Auto Installer with Torch 2.13, CUDA 13, FaceID, IP-Adapter, InsightFace, Reactor, Triton, DeepSpeed, Flash Attention, Sage Attention, xFormers, MSLK, TorchAO Including RTX 5000 Series, Automatic Installers for Windows, RunPod, Massed Compute, Linux](https://www.patreon.com/posts/105023709)
 * This installer always pulls the latest ComfyUI and supports Python 3.10–3.13 on Windows (Linux: 3.10 only), bundling precompiled Torch 2.13, CUDA 13, FlashAttention, SageAttention, Triton, InsightFace, xFormers, MSLK (mandatory for xFormers), Segment Anything, Segment Anything 2 (SAM2) and DeepSpeed compiled for GPU archs SM80, SM86, SM89, SM90a, SM100a, SM103a, SM120a, SM121a, enabling broad support from RTX 1000–5000 and cloud GPUs (A100, H100, B200), tested on 3090 Ti/5090 and in the cloud; it also installs huggingface_hub, hf_transfer, hf_xet, accelerate, diffusers, onnxruntime-gpu, piexif, requests, and ultralytics 8.3.197 (fixes YOLO use in SwarmUI), beta57, bong_tangent, res_2s, automatically adds ComfyUI-Manager, ComfyUI_IPAdapter_plus, and ComfyUI-GGUF, and provides an update script to refresh everything; on RunPod and Massed Compute it auto-installs ComfyUI-ReActor and ComfyUI-Impact-Pack (on Windows use the provided BAT files), works seamlessly on Windows, Massed Compute (Creator > SECourses image), and RunPod (PyTorch 2.2.0 template) with ngrok/proxy support, and uses a dedicated virtual environment for a 100% isolated installation that won’t affect other AI apps or your system. https://youtu.be/fTzlQ0tjxj0
 
@@ -44,10 +48,6 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 ### September 30 - 2026
 [Ostris AI-Toolkit 1-Click Installers for Windows, RunPod, SimplePod & Massed Compute with Torch 2.13, CUDA 13 for All GPUs With Pre-compiled Wheels](https://www.patreon.com/posts/140089077)
 * Supports Python 3.10, 3.11, 3.12 (recommended), 3.13 . Installed with pre-compiled wheels for : mslk, xformers, flash_attn, sageattention, torchao, for both Windows and Linux with all CUDA 13 features for Torch 2.13 and they are abi3 for python 3.10, 3.11, 3.12, 3.13 . Automatic install on Windows, RunPod, Massed Compute (or local linux machines), Windows . Installs latest official version from https://github.com/ostris/ai-toolkit . 
-
-### September 16 - 2026
-[SwarmUI Auto Installer + The Ultimate Image and Video AI Models Downloader - For Windows, RunPod and Massed Compute - Ultimate Compilation](https://www.patreon.com/posts/114517862)
-* 1-Click to install SwarmUI and Unified AI Models Downloader for SwarmUI, ComfyUI, Automatic1111 and Forge Web UI - Supports SD 1.5, SDXL, FLUX, Wan 2.1, Wan 2.2, Qwen Image, SwarmUI presets to generate images and videos with FLUX, Qwen Image, SDXL and Wan 2.1, Wan 2.2 Models and more. Full public tutorial here : https://www.youtube.com/watch?v=q8QCtxrVK7g
 
 ### September 12 - 2026
 [SECourses Video Captioner Pro - Qwen3-Omni - TimeChat Captioner GRPO - AVoCaDO - 1-Click Windows, RunPod, Massed Compute Installers](https://www.patreon.com/posts/168757767)
