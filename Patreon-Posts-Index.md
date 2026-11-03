@@ -21,6 +21,10 @@ https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-
 
 ## Patreon Exclusive Content 
 
+### November 3 - 2026
+[Henge is an all-in-1 Video Studio: Swap Characters, Transfer Motion, Swap Heads and Sharpen Videos on your own PC or RunPod, Massed Compute, SimplePod](https://www.patreon.com/posts/174217342)
+* Henge is an all-in-1 video studio: swap characters, transfer motion, swap heads and sharpen videos on your own PC. Henge, made by Alisson Anjos, runs the MiniMax H3 video model with its own LoRAs and a planner AI that reads your video and pictures and writes the plan for you. Our standalone installer sets up the whole studio with one double-click: its own ComfyUI, Python, Node.js, FFmpeg and every library, plus a fast model downloader. Below you will see every step and every feature with real screenshots and real results from our PC.
+
 ### November 1 - 2026
 [SECourses Upscaler Pro - SeedVR2 - FlashVSR+ - Face Restoration - Gan Upscalers - Open-H3 Regenerate - Queue System - Fully Automated Movie Restoration and Upscale Studio](https://www.patreon.com/posts/150202809)
 * SECourses Ultimate Video and Image Upscaler Pro - SeedVR2 - FlashVSR+ - Face Restoration - Gan Upscalers - Queue System - Fully Automated Movie Restoration and Upscale Studio - with so many amazing new features and full VRAM optimizations, can upscale a whole 120 minutes video fully properly with full resume capability. Our FlashVSR+ pro is the very best one among there with so many additional improvements. 
